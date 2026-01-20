@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="birinci_soru"/>
+        <attribute name="authors" value="mehmet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-03 06:26:18 &#214;S"/>
+        <attribute name="created" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA2OjE4OjEzIMOWUzsyMzA4"/>
+        <attribute name="edited" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA2OjI2OjE4IMOWUzsxOzI0MjA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="degerbir" type="Integer" array="False" size=""/>
+            <declare name="degeriki" type="Integer" array="False" size=""/>
+            <declare name="toplam" type="Integer" array="False" size=""/>
+            <output expression="&quot;say&#305; 1 = ?&quot;" newline="True"/>
+            <input variable="degerbir"/>
+            <output expression="&quot;say&#305; 2 = ?&quot;" newline="True"/>
+            <input variable="degeriki"/>
+            <assign variable="toplam" expression="degerbir*degerbir + degeriki*degeriki"/>
+            <output expression="toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
