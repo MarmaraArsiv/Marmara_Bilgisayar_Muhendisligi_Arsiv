@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="ornekbir"/>
+        <attribute name="authors" value="mehmet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-30 11:07:19 &#214;S"/>
+        <attribute name="created" value="bWVobWV0O1NQWTsyMDI1LTA5LTMwOzEwOjI4OjI0IMOWUzsyMzE0"/>
+        <attribute name="edited" value="bWVobWV0O1NQWTsyMDI1LTA5LTMwOzExOjA3OjE5IMOWUzsyOzI0MjU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Number" type="Integer" array="False" size=""/>
+            <declare name="na" type="Integer" array="False" size=""/>
+            <output expression="&quot;say&#305; girin&quot;" newline="True"/>
+            <input variable="Number"/>
+            <for variable="na" start="2" end="Number-1" direction="inc" step="1">
+                <if expression="Number%na==0">
+                    <then>
+                        <output expression="&quot;asal de&#287;illl&quot;" newline="True"/>
+                        <breakpoint expression="" always="True"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot;asal&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

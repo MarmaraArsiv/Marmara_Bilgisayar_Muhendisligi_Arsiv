@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="ucuncu_soru"/>
+        <attribute name="authors" value="mehmet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-03 08:00:23 &#214;S"/>
+        <attribute name="created" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA3OjUzOjExIMOWUzsyMzA2"/>
+        <attribute name="edited" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA4OjAwOjIzIMOWUzsxOzI0MTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="na" type="Integer" array="False" size=""/>
+            <declare name="an" type="Integer" array="False" size=""/>
+            <for variable="na" start="1" end="10" direction="inc" step="1">
+                <for variable="an" start="0" end="10" direction="inc" step="1">
+                    <output expression="na" newline="False"/>
+                    <output expression="&quot;x&quot;" newline="False"/>
+                    <output expression="an" newline="False"/>
+                    <output expression="&quot; =&quot;" newline="False"/>
+                    <output expression="na*an" newline="True"/>
+                </for>
+                <output expression="&quot;--------------------&quot;" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

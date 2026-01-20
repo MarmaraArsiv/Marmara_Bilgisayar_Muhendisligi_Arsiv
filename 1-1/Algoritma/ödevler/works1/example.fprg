@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="ornekbir"/>
+        <attribute name="authors" value="mehmet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-30 10:59:32 &#214;S"/>
+        <attribute name="created" value="bWVobWV0O1NQWTsyMDI1LTA5LTMwOzEwOjI4OjI0IMOWUzsyMzE0"/>
+        <attribute name="edited" value="bWVobWV0O1NQWTsyMDI1LTA5LTMwOzEwOjU5OjMyIMOWUzsxOzI0MjU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Number" type="Integer" array="False" size=""/>
+            <output expression="&quot;say&#305; girin&quot;" newline="True"/>
+            <input variable="Number"/>
+            <if expression="Number % 2 == 0">
+                <then>
+                    <output expression="&quot;&#231;ift&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;tek&quot;" newline="True"/>
+                    <while expression="Number % 2 != 0">
+                        <assign variable="Number" expression="Number+1"/>
+                        <output expression="&quot;+1 eklendi art&#305;k &#231;ift&quot;" newline="True"/>
+                    </while>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

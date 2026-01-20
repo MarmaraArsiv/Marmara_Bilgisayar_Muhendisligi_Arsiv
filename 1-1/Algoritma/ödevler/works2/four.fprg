@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="besinci_soru"/>
+        <attribute name="authors" value="mehmet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-03 07:35:32 &#214;S"/>
+        <attribute name="created" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA2OjI0OjQ2IMOWUzsyMzEx"/>
+        <attribute name="edited" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA2OjI5OjMyIMOWUzsyO21laG1ldDtTUFk7MjAyNS0xMC0wMzswNjoxODoxMyDDllM7NDc4Nw=="/>
+        <attribute name="edited" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA3OjM1OjMyIMOWUzsxOzI0MTc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ciftvar" type="Boolean" array="False" size=""/>
+            <assign variable="ciftvar" expression="false"/>
+            <declare name="andakisayi" type="Integer" array="False" size=""/>
+            <declare name="yediyebolunen" type="Integer" array="False" size=""/>
+            <declare name="negatiftoplam" type="Integer" array="False" size=""/>
+            <declare name="ciftcarpim" type="Integer" array="False" size=""/>
+            <assign variable="ciftcarpim" expression="1"/>
+            <assign variable="yediyebolunen" expression="0"/>
+            <assign variable="negatiftoplam" expression="0"/>
+            <assign variable="andakisayi" expression="1"/>
+            <while expression="andakisayi != 0">
+                <output expression="&quot;bitmedi&quot;" newline="True"/>
+                <output expression="&quot;0 yazana kadar say&#305; al&#305;r&quot;" newline="True"/>
+                <input variable="andakisayi"/>
+                <if expression="andakisayi==0">
+                    <then>
+                        <output expression="negatiftoplam" newline="True"/>
+                        <output expression="yediyebolunen" newline="True"/>
+                        <if expression="ciftvar == true">
+                            <then>
+                                <output expression="ciftcarpim" newline="True"/>
+                            </then>
+                            <else>
+                                <assign variable="ciftcarpim" expression="ciftcarpim-1"/>
+                                <output expression="ciftcarpim" newline="True"/>
+                            </else>
+                        </if>
+                        <breakpoint expression="" always="True"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="andakisayi&gt;0">
+                    <then>
+                        <if expression="andakisayi%7==0">
+                            <then>
+                                <assign variable="yediyebolunen" expression="yediyebolunen+1"/>
+                            </then>
+                            <else/>
+                        </if>
+                        <if expression="andakisayi % 2 == 0">
+                            <then>
+                                <assign variable="ciftvar" expression="true"/>
+                                <assign variable="ciftcarpim" expression="andakisayi*ciftcarpim"/>
+                            </then>
+                            <else/>
+                        </if>
+                    </then>
+                    <else>
+                        <declare name="lazim" type="Integer" array="False" size=""/>
+                        <assign variable="lazim" expression="(andakisayi)*-1"/>
+                        <assign variable="negatiftoplam" expression="negatiftoplam-lazim"/>
+                        <if expression="lazim%7==0">
+                            <then>
+                                <assign variable="yediyebolunen" expression="yediyebolunen+1"/>
+                            </then>
+                            <else/>
+                        </if>
+                        <if expression="lazim % 2 == 0">
+                            <then>
+                                <assign variable="ciftvar" expression="true"/>
+                                <assign variable="ciftcarpim" expression="andakisayi*ciftcarpim"/>
+                            </then>
+                            <else/>
+                        </if>
+                    </else>
+                </if>
+            </while>
+            <output expression="ciftcarpim+ &quot;&#231;ift &#231;arp&#305;m&quot;" newline="True"/>
+            <output expression="yediyebolunen + &quot;yediye b&#246;l&#252;nen say&#305;s&#305;&quot;" newline="True"/>
+            <output expression="negatiftoplam + &quot;neg toplam say&#305;s&#305;&quot;" newline="True"/>
+            <output expression="&quot;bitti&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

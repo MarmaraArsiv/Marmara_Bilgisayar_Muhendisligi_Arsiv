@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="besinci_soru"/>
+        <attribute name="authors" value="mehmet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-03 07:50:14 &#214;S"/>
+        <attribute name="created" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA3OjM2OjEzIMOWUzsyMzA5"/>
+        <attribute name="edited" value="bWVobWV0O1NQWTsyMDI1LTEwLTAzOzA3OjUwOjE0IMOWUzsxOzI0MTQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="toplam" type="Integer" array="False" size=""/>
+            <declare name="ne" type="Integer" array="False" size=""/>
+            <declare name="excelmi" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <assign variable="ne" expression="0"/>
+            <output expression="&quot;sayi girin&quot;" newline="True"/>
+            <input variable="excelmi"/>
+            <for variable="ne" start="1" end="excelmi-1" direction="inc" step="1">
+                <if expression="excelmi % ne == 0">
+                    <then>
+                        <assign variable="toplam" expression="toplam+ne"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <if expression="excelmi == toplam">
+                <then>
+                    <output expression="&quot;girdi&#287;iniz say&#305; m&#252;kemmel bi' say&#305;d&#305;r&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;regular&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
