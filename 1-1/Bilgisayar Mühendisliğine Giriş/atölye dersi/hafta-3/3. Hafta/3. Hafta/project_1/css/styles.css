@@ -1,0 +1,165 @@
+/* genel gövde stili */
+body {
+  background-color: #F5F5F5;
+  font-family: "Poppins", helvetica, arial, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+/* background-color: #F5F5F5;: Sayfanın arka plan rengini açık gri olarak ayarlar.
+   font-family: "Poppins", helvetica, arial, sans-serif;: Sayfa yazı tipi olarak Poppins'i kullanır.
+   Eğer bu font yüklenmezse sırayla helvetica, arial veya sans-serif kullanılır.
+   font-size: 12px;: Temel yazı tipi boyutunu 12 piksel olarak ayarlar.
+   font-weight: 400;: Yazı tipinin kalınlığını normal (400) olarak ayarlar. */
+
+
+/*** Table Styles **/
+
+.table-fill {
+  background: white;
+  border-radius:3px;
+  border-collapse: collapse;
+
+  margin: auto;
+  max-width: 900px;
+  padding:5px;
+  width: 80%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+ /* background: white;: Tablonun arka plan rengini beyaz yapar.
+    border-radius: 3px;: Tablonun köşelerini 3 piksel yuvarlar.
+    border-collapse: collapse;: Hücre kenarlarının birleşik görünmesini sağlar.
+    margin: auto;: Tablonun yatayda ortalanmasını sağlar.
+    max-width: 900px;: Tablonun maksimum genişliğini 900 piksel olarak sınırlar.
+    padding: 5px;: Tablonun iç kenar boşluğunu 5 piksel yapar.
+    width: 80%;: Tablonun genişliğini sayfa genişliğinin %80'i ile sınırlar.
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);: Tabloya hafif bir gölge efekti verir. */
+    
+    /* tablo başlık hücreler */
+th {
+  color: #12263f;
+  background: #FFF3E0;;
+  border-bottom:4px solid #f4ca64;
+
+  font-size:16px;
+  font-weight: 500;
+  padding:12px;
+  text-align:center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  vertical-align:middle;
+}
+/* color: #12263f;: Yazı rengini çok koyu mavi yapar.
+   background: #FFF3E0;: Başlık hücrelerinin arka plan rengini açık turuncu yapar.
+   border-bottom: 4px solid #f4ca64;: Başlık hücrelerinin altına turuncu renkli 4 piksellik bir çizgi ekler.
+   font-size: 16px;: Yazı boyutunu 16 piksel yapar.
+   font-weight: 500;: Yazı kalınlığını orta yapar.
+   padding: 12px;: Hücre iç kenar boşluğunu 12 piksel yapar.
+   text-align: center;: Metni ortalar.
+   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);: Yazıya hafif bir gölge efekti verir.
+   vertical-align: middle;: Metni hücre içinde ortalar. */
+
+th:first-child {
+  border-top-left-radius:3px;
+}
+ 
+th:last-child {
+  border-top-right-radius:3px;
+  border-right:none;
+}
+
+/* first-child: İlk başlık hücresinin sol üst köşesini yuvarlar.
+  last-child: Son başlık hücresinin sağ üst köşesini yuvarlar 
+  border-right: none;: Hücrenin sağ kenarındaki kenarlığı kaldırır. 
+  Bu, tabloda daha temiz bir görünüm sağlayabilir. */
+  
+   /* Satır Stilleri */
+tr {
+  border-top: 1px solid #d2ddec;
+  border-bottom: 1px solid #d2ddec;
+  color:#666B85;
+  font-size:16px;
+  font-weight:normal;
+  text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+}
+ /* border-top ve border-bottom: Satırların üst ve alt kenarlarına açık mavi çizgi ekler.
+    color: #666B85;: Metin rengini koyu gri yapar.
+    font-size: 16px;: Yazı boyutunu 16 piksel yapar.
+    font-weight: normal;: Yazı kalınlığını normal yapar.
+    text-shadow: Yazıya hafif bir beyaz gölge ekler. */
+ 
+tr:first-child {
+  border-top:none;
+}
+tr:last-child {
+  border-bottom:none;
+}
+/*İlk satırın üst kenarını ve son satırın alt kenarını kaldırır. */
+
+tr:last-child td:first-child {
+  border-bottom-left-radius:3px;
+}
+/* tr:last-child: Tablo içindeki son satırı (<tr>) seçer.
+   td:first-child:Son satırdaki ilk hücreyi (<td>) seçer.
+   border-bottom-left-radius: 3px;:Bu hücrenin sol alt köşesini 3px yuvarlatır. */
+
+tr:last-child td:last-child {
+  border-bottom-right-radius:3px;
+}
+/* tr:last-child: Tablo içindeki son satırı (<tr>) seçer.
+   td:last-child:Son satırdaki son hücreyi (<td>) seçer.
+   border-bottom-right-radius: 3px; Bu hücrenin sağ alt köşesini 3px yuvarlatır.*/
+ 
+   /* tablo hücreleri */
+td {
+  background:#FFFFFF;
+  padding:5px;
+  text-align:left;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:16px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+  border-right: 1px solid #d2ddec;
+}
+/* background: #FFFFFF;: Hücrelerin arka plan rengini beyaz yapar.
+   padding: 5px;: Hücre iç kenar boşluğunu 5 piksel yapar.
+   text-align: left;: Metni sola hizalar.
+   vertical-align: middle;: Metni hücre içinde ortalar.(Dikey olarak)
+   font-weight: 300;: Yazı kalınlığını hafif yapar.
+   text-shadow: Yazıya hafif bir gölge ekler.
+   border-right: Hücrelerin sağ tarafına açık mavi bir çizgi ekler.*/
+
+td:last-child {
+  border-right: 0px;
+}
+/* tablodaki tüm satırların son hücrelerinin (<td>) sağ kenarındaki kenarlığı kaldırır (0px yapar).*/
+
+/* totals classında bulunan satırlar için*/
+tr.totals td {
+    background:#FFF3E0;
+    text-align: right;
+
+}
+/* background: #FFF3E0;: Toplam satırlarının arka plan rengini açık turuncu yapar.
+   text-align: right;: Metni sağa hizalar.*/
+
+   /* Ek hücre stilleri */
+td.right {
+  text-align: right;
+}
+/* right etiketine sahip hücredeki içeriği sağa hizalar */
+td.center {
+  text-align: center;
+}
+/* center etiketine sahip hücredeki içeriği yatay olarak ortalar */
+
+.table-fill img {
+  width: 140px;
+}
+/* class="table-fill" olan tablo içindeki resimlerin genişliğini 140px olarak ayarlar. */
+.painting {
+  width: 130px;
+} 
+/* class="painting" olan HTML elemanının genişliğini 130px olarak ayarlar. */
+td.focus {
+  font-weight: 500;
+}
+/* class="focus" olan hücrelerde bulunan metinlerin kalınlığını ayarlar. */

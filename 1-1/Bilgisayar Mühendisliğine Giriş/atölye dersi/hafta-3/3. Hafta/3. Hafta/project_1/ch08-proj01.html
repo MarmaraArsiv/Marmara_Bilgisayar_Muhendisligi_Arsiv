@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,width=device-width">
+    <!-- Mobil cihazlarda sayfanın ölçeklenmesini ve düzenlenmesini kontrol eder.
+         initial-scale=1.0: Sayfa başlangıçta %100 ölçekle açılır.
+         maximum-scale=1.0: Kullanıcıların sayfayı büyütmesini sınırlar.
+         width=device-width: Sayfanın genişliği cihazın ekran genişliğine eşit olur.-->
+		
+    <title>Chapter 08 - Project 01</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <!-- Google Fonts'tan "Poppins" fontunu yükler. -->
+	<link href="css/styles.css" rel="stylesheet" />
+    <!-- Sayfanın görünümü için harici bir CSS dosyasını bağlar (styles.css). -->
+    <script src="js/data.js" type="text/JavaScript"></script>
+    <!-- Harici bir JavaScript dosyasını (data.js) bağlar. -->
+    <script src="js/functions.js" type="text/JavaScript"></script>
+    <!-- Başka bir JavaScript dosyasını (functions.js) bağlar. -->
+</head>
+
+<body>
+<table class="table-fill">
+    <!-- Tablo oluşturur ve bir CSS sınıfı (table-fill) ekler. -->
+    <thead>
+        <!-- Tablo başlıklarını barındırır. -->
+        <tr>
+            <th colspan="2">Product</th>
+            <th>#</th>
+            <th>Price</th>
+            <th>Amount</th>
+        </tr>
+        <!-- Tablo satırlarını (<tr>) ve başlık hücrelerini (<th>) tanımlar. -->
+            <!--"Product" başlığı 2 sütun boyunca uzanır (colspan="2" hücre birleştirme).
+                 Diğer sütunlar sırasıyla ürün miktarı (#), fiyatı (Price), ve toplam tutarı (Amount) temsil eder. -->
+    </thead>
+    <tbody>
+        <!-- Tablo gövdesi -->
+        <script src="js/ch08-proj01.js" type="text/JavaScript"></script>
+        <!-- Tablo içeriğini JavaScript dosyasından (ch08-proj01.js) oluşturmak için harici bir dosya bağlanır. -->
+
+        <tr class="totals">
+            <!-- Toplamlar için tablo satırı ekler -->
+            <td colspan="4">Subtotal</td>
+            <!-- "Subtotal" (ara toplam) başlığı 4 sütun boyunca uzanır. -->
+            <td><script>outputCurrency(subtotal);</script></td>
+            <!-- <script>: HTML'de JavaScript kodunu çalıştırmak için kullanılan bir etiket.
+                 Bu örnekte, JavaScript kodu doğrudan çalıştırılarak çıktısı <td> hücresine eklenir.
+                 outputCurrency: Subtotal, Tax, Shipping ve Grand Total gibi değerleri para birimi 
+                 formatında yazdırmak için bir JavaScript fonksiyonudur.
+                 subtotal değişkeninin formatlanmış halini JavaScript ile gösterir (outputCurrency fonksiyonu ile) -->
+        </tr>
+        <tr class="totals">
+            <td colspan="4">Tax</td>
+            <td><script>outputCurrency(tax);</script></td>
+        </tr>
+        <tr class="totals">
+            <td colspan="4">Shipping</td>
+            <td><script>outputCurrency(shipping);</script></td>
+        </tr>
+        <tr class="totals">
+            <td colspan="4" class="focus">Grand Total</td>
+            <td class="focus"><script>outputCurrency(grand);</script></td>
+        </tr>
+        <!-- Aynı mantıkla Tax (vergi), Shipping (kargo ücreti) ve Grand Total (genel toplam) hesaplanır. -->
+    </tbody>
+</table>
+</body>
+</html>
