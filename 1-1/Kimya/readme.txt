@@ -1,0 +1,1 @@
+Kimya hocamız Zeynel Hoca, Yıldız Tekniğin Genel Kimya notlarını biraz değiştirip kullanıyordu. O yüzden ekliyorum.
