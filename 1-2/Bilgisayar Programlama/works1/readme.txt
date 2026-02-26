@@ -1,0 +1,1 @@
+Bu ikinci dönemin ilk ödevidir. Koyun çizmemiz istenmişti.
