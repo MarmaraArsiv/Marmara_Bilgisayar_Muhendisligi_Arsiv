@@ -1,6 +1,6 @@
 # 📚 Marmara Bilgisayar Mühendisliği Arşiv
 
-![Marmara](https://img.shields.io/badge/University-Marmara-red) ![GitHub](https://img.shields.io/badge/GitHub-Repo-blue) ![Stars](https://img.shields.io/badge/Stars-Aspiring-yellow)
+![Marmara](https://img.shields.io/badge/University-Marmara-red) ![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)
 
 **Marmara Üniversitesi Bilgisayar Mühendisliği öğrencileri için düzenli, sürdürülebilir ve değer üreten bir akademik arşiv.**  
 Ders notları, ödev çözümleri, slaytlar, çıkmış sorular ve çalışma rehberleri tek bir yerde toplandı.
