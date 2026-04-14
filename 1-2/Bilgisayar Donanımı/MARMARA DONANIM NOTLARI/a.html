@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donanım Dersi: Hafta 1 & 2 - Quiz</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a24;
+            --accent-primary: #6366f1;
+            --accent-secondary: #818cf8;
+            --accent-glow: rgba(99, 102, 241, 0.3);
+            --success: #10b981;
+            --success-glow: rgba(16, 185, 129, 0.3);
+            --error: #ef4444;
+            --error-glow: rgba(239, 68, 68, 0.3);
+            --warning: #f59e0b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --border: rgba(255, 255, 255, 0.08);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Source Sans 3', sans-serif; background: var(--bg-primary); color: var(--text-primary); min-height: 100vh; line-height: 1.6; }
+        .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
+        .header { text-align: center; padding: 3rem 0; margin-bottom: 2rem; }
+        .header h1 { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 3rem); background: linear-gradient(135deg, var(--text-primary) 0%, var(--accent-secondary) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.5rem; }
+        .progress-container { background: var(--bg-secondary); border-radius: 100px; height: 8px; margin-bottom: 2rem; overflow: hidden; border: 1px solid var(--border); }
+        .progress-bar { height: 100%; background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary)); transition: width 0.5s ease; }
+        .question-card { background: var(--bg-card); border-radius: 24px; padding: 2.5rem; border: 1px solid var(--border); box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5); position: relative; }
+        .question-number { background: rgba(99, 102, 241, 0.1); color: var(--accent-secondary); padding: 0.5rem 1rem; border-radius: 100px; font-size: 0.85rem; font-weight: 600; margin-bottom: 1.5rem; border: 1px solid rgba(99, 102, 241, 0.2); display: inline-block; }
+        .category-tag { background: rgba(245, 158, 11, 0.1); color: var(--warning); padding: 0.3rem 0.8rem; border-radius: 100px; font-size: 0.75rem; margin-left: 0.5rem; border: 1px solid rgba(245, 158, 11, 0.2); }
+        .question-text { font-size: 1.25rem; font-weight: 500; margin-bottom: 2rem; }
+        .options-list { display: flex; flex-direction: column; gap: 0.75rem; }
+        .option { display: flex; align-items: center; gap: 1rem; padding: 1.25rem; background: var(--bg-secondary); border: 2px solid var(--border); border-radius: 16px; cursor: pointer; transition: all 0.3s ease; }
+        .option:hover:not(.disabled) { border-color: var(--accent-primary); background: rgba(99, 102, 241, 0.05); }
+        .option.correct { border-color: var(--success); background: rgba(16, 185, 129, 0.1); }
+        .option.incorrect { border-color: var(--error); background: rgba(239, 68, 68, 0.1); }
+        .option-letter { width: 36px; height: 36px; background: var(--bg-card); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-weight: 600; color: var(--text-secondary); }
+        .option.correct .option-letter { background: var(--success); color: white; }
+        .option.incorrect .option-letter { background: var(--error); color: white; }
+        .explanation { margin-top: 1.5rem; padding: 1.5rem; background: rgba(99, 102, 241, 0.05); border-radius: 16px; display: none; }
+        .explanation.show { display: block; }
+        .navigation { display: flex; justify-content: space-between; margin-top: 2rem; }
+        .btn { padding: 1rem 2rem; border-radius: 12px; font-weight: 600; cursor: pointer; border: none; transition: all 0.3s; }
+        .btn-primary { background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary)); color: white; }
+        .btn-secondary { background: var(--bg-secondary); color: var(--text-secondary); border: 1px solid var(--border); }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .results-screen { display: none; text-align: center; }
+        .results-screen.show { display: block; }
+        .score-circle { width: 150px; height: 150px; border-radius: 50%; border: 4px solid var(--accent-primary); margin: 0 auto 2rem; display: flex; align-items: center; justify-content: center; font-size: 3rem; font-weight: 700; }
+        #startScreen { text-align: center; }
+        .quiz-screen { display: none; }
+        .quiz-screen.show { display: block; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Bilgisayar Donanımı</h1>
+            <p>Hafta 1: Giriş & Hafta 2: Güç Kaynağı</p>
+        </header>
+
+        <div id="startScreen" class="question-card">
+            <h2>Kapsamlı Sınav Hazırlığı</h2>
+            <p style="margin: 1rem 0 2rem;">Bu test 30 sorudan oluşmaktadır ve slaytlardaki tüm kritik teknik detayları içerir.</p>
+            <button class="btn btn-primary" onclick="startQuiz()">Sınavı Başlat →</button>
+        </div>
+
+        <div id="quizScreen" class="quiz-screen">
+            <div class="progress-container"><div id="progressBar" class="progress-bar" style="width: 0%"></div></div>
+            <div class="question-card">
+                <div class="question-number"><span id="questionNum">Soru 1</span><span id="categoryTag" class="category-tag"></span></div>
+                <p id="questionText" class="question-text"></p>
+                <div id="optionsList" class="options-list"></div>
+                <div id="explanation" class="explanation"><strong>💡 Not:</strong> <span id="explanationText"></span></div>
+            </div>
+            <div class="navigation">
+                <button id="prevBtn" class="btn btn-secondary" onclick="prevQuestion()" disabled>← Önceki</button>
+                <button id="nextBtn" class="btn btn-primary" onclick="nextQuestion()">Sonraki →</button>
+            </div>
+        </div>
+
+        <div id="resultsScreen" class="results-screen question-card">
+            <div class="score-circle" id="finalScore">0</div>
+            <h2 id="resultTitle">Tamamlandı!</h2>
+            <p id="resultMsg" style="margin: 1rem 0 2rem;"></p>
+            <button class="btn btn-primary" onclick="location.reload()">Tekrar Dene</button>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            { cat: "Mimari", q: "Bilgisayarın mimari yapısında Kontrol Birimi ve Aritmetik Birim'in oluşturduğu bütüne ne ad verilir?", o: ["Anakart", "Merkezi İşlem Birimi (CPU)", "BIOS", "RAM"], c: 1, e: "Kontrol ve aritmetik birimlerine topluca CPU denir." },
+            { cat: "Mimari", q: "Aşağıdakilerden hangisi CPU'nun üç temel görevinden biri değildir?", o: ["Mantıksal İşlemler", "Matematiksel İşlemler", "Veri Depolama", "Kontrol Mekanizması"], c: 2, e: "CPU veriyi işler ancak kalıcı depolama yapmaz." },
+            { cat: "Mimari", q: "Donanıma 'nasıl davranacağını' ve hangi işlemleri yapacağını anlatan yapı hangisidir?", o: ["Yazılım", "Bus Yolları", "Kasa", "Transistör"], c: 0, e: "Yazılım, donanımı yöneten programlardır." },
+            { cat: "Mimari", q: "8 bit kaç byte eder?", o: ["1", "4", "8", "1024"], c: 0, e: "8 bit = 1 byte standarttır." },
+            { cat: "Mimari", q: "1 Gigabyte (GB) kaç Megabyte (MB) değerine eşittir?", o: ["1000", "1024", "2048", "8"], c: 1, e: "Bilgisayar sistemlerinde birimler 1024'ün katlarıdır." },
+            { cat: "Mimari", q: "Girişlerine uygulanan akıma göre devreyi açıp kapayan elektronik anahtar görevi gören eleman hangisidir?", o: ["Kapasitör", "Transistör", "Direnç", "Sigorta"], c: 1, e: "Transistörler mantık kapılarının temelini oluşturur." },
+            { cat: "Mimari", q: "AND (VE) mantık kapısında çıkışın '1' olması için girişler nasıl olmalıdır?", o: ["Sadece biri 1 olmalı", "İkisi de 0 olmalı", "İkisi de 1 olmalı", "En az biri 0 olmalı"], c: 2, e: "VE kapısı sadece tüm girişler doğruyken doğru sonuç verir." },
+            { cat: "Hafıza", q: "İşlemcinin kendi üzerinde bulunan en hızlı ve geçici hafıza birimi hangisidir?", o: ["RAM", "Register", "Hard Disk", "BIOS"], c: 1, e: "Register ve Cache işlemci üzerindeki en hızlı birimlerdir." },
+            { cat: "Hafıza", q: "Elektrik kesildiğinde içindeki bilgileri kaybeden hafıza türüne ne denir?", o: ["Non-volatile (Kalıcı)", "Volatile (Geçici)", "ROM", "Flash"], c: 1, e: "RAM gibi geçici bellekler Volatile olarak adlandırılır." },
+            { cat: "Mimari", q: "Bilgisayar açıldığında donanımları tanıyan ve testi yapan yazılım hangisidir?", o: ["İşletim Sistemi", "BIOS", "Driver", "Kernel"], c: 1, e: "BIOS, açılışta donanımı kontrol eden temel sistemdir." },
+            { cat: "Giriş/Çıkış", q: "Aşağıdakilerden hangisi hem girdi hem de çıktı birimi olarak işlev görebilir?", o: ["Klavye", "Yazıcı", "Ekran Kartı", "Fare"], c: 2, e: "Ekran kartı ve monitör seti bu kategoride değerlendirilir." },
+            { cat: "Giriş/Çıkış", q: "Eskiden ayrı bir kart olan ancak günümüzde anakarta gömülü gelen donanım hangisidir?", o: ["Ethernet Kartı", "İşlemci", "RAM", "Hard Disk"], c: 0, e: "Ağ donanımları artık çoğunlukla anakarta entegredir." },
+            { cat: "Güç Kaynağı", q: "PSU'nun temel görevi aşağıdakilerden hangisidir?", o: ["AC'yi yüksek voltajlı DC'ye çevirmek", "AC'yi düşük voltajlı DC'ye çevirmek", "DC'yi AC'ye çevirmek", "Voltajı 220V'da sabit tutmak"], c: 1, e: "Şebeke elektriğini parçaların kullanabileceği düşük voltajlı DC'ye çevirir." },
+            { cat: "Elektrik", q: "İşlemci (CPU) beslemesi için kullanılan standart voltaj değeri hangisidir?", o: ["-5V", "+3.3V", "+12V", "-12V"], c: 2, e: "Pentium 4 ve sonrası işlemciler +12V kanalını kullanır." },
+            { cat: "Elektrik", q: "Türkiye ve Avrupa'da şebeke elektriği kaç Volt ve Hertz'dir?", o: ["110V - 60Hz", "220V - 50Hz", "220V - 60Hz", "110V - 50Hz"], c: 1, e: "Standart değerler 220VAC ve 50Hz'dir." },
+            { cat: "Güç Kaynağı", q: "Kaliteli güç kaynaklarında bulunan, şebekeyi pasif güçle yormayan sistemin adı nedir?", o: ["UPS", "PFC", "Molex", "BIOS"], c: 1, e: "PFC (Power Factor Correction) verimliliği artırır." },
+            { cat: "Güç Kaynağı", q: "Anakarta takılan ana güç kablosu (P1) kaç pinlidir?", o: ["4 veya 8", "12 veya 16", "20 veya 24", "40"], c: 2, e: "P1 konektörü standart olarak 20 veya 24 pinden oluşur." },
+            { cat: "Güç Kaynağı", q: "Sabit disk ve CD-ROM gibi motorlu aygıtlar hangi voltajı kullanır?", o: ["+3.3V", "+5V", "+12V", "-5V"], c: 2, e: "Motor içeren aygıtlar yüksek güç için +12V'u tercih eder." },
+            { cat: "Güç Kaynağı", q: "ATX güç kaynaklarında bilgisayar kapalıyken bile anakarta giden voltaj değeri kaçtır?", o: ["0V", "+5V", "+12V", "+3.3V"], c: 1, e: "Soft Power özelliği sayesinde anakart 5V besleme almaya devam eder." },
+            { cat: "Arıza", q: "Bilgisayar boot etmiyor ancak fanlar dönüyorsa ilk ne kontrol edilmelidir?", o: ["Güç kaynağı prizi", "Anakart bağlantıları", "Monitör kablosu", "Klavye"], c: 1, e: "Fanların dönmesi güç geldiğini, boot etmemesi bağlantı hatasını gösterir." },
+            { cat: "Güç Kaynağı", q: "UPS (Kesintisiz Güç Kaynağı) için hangisi doğrudur?", o: ["DC'yi AC'ye çeviren batarya içerir", "Sadece voltajı artırır", "Sürekli deşarj olmalıdır", "Direnci ölçer"], c: 0, e: "UPS, elektrik kesildiğinde bataryasındaki DC'yi AC'ye çevirip güç sağlar." },
+            { cat: "Koruma", q: "Elektrik yangınlarında hangi sınıf söndürücü kullanılmalıdır?", o: ["A Sınıfı", "B Sınıfı", "C Sınıfı", "Su"], c: 2, e: "Elektrikli ekipman yangınları için C sınıfı söndürücü şarttır." },
+            { cat: "Ölçüm", q: "Voltaj, akım ve direnç ölçebilen alete ne denir?", o: ["Ampermetre", "Ohmmetre", "Multimetre", "Voltmetre"], c: 2, e: "Hepsinin birleşimi Multimetre'dir." },
+            { cat: "Elektrik", q: "Ohm Yasası formülü hangisidir?", o: ["P = V * I", "V = I * R", "W = V * A", "P = I^2 * R"], c: 1, e: "Gerilim (V) = Akım (I) x Direnç (R)." },
+            { cat: "Güç Kaynağı", q: "Güç kaynağı verimliliği (Efficiency) nasıl hesaplanır?", o: ["Giriş Gücü / Çıkış Gücü", "AC Güç + DC Güç", "Elde edilen DC Güç / Çekilen AC Güç", "Voltaj * Amper"], c: 2, e: "Verim, elde edilenin çekilene oranıdır." },
+            { cat: "Arıza", q: "Şebekedeki kısa süreli ani gerilim artışlarına ne denir?", o: ["Blackout", "Brownout", "Spike", "Sag"], c: 2, e: "Spike kısa süreli, Surge ise daha uzun süreli artıştır." },
+            { cat: "Mimari", q: "Kuzey ve Güney köprüsü gibi birimlerin bulunduğu anakart yönetim merkezine ne denir?", o: ["Chipset", "BIOS", "Socket", "Slot"], c: 0, e: "Anakartın trafik kontrolörü Chipset'tir." },
+            { cat: "Güç Kaynağı", q: "Küçük boyutlu bilgisayar kasaları için kullanılan güç kaynağı form faktörü hangisidir?", o: ["ATX", "SFX", "WTX", "NLX"], c: 1, e: "SFX (Small Form Factor) küçük kasalar içindir." },
+            { cat: "Hafıza", q: "Aşağıdakilerden hangisi bir 'kalıcı depolama' birimi değildir?", o: ["Hard Disk", "ROM", "RAM", "Flash Bellek"], c: 2, e: "RAM geçicidir." },
+            { cat: "Güç Kaynağı", q: "Güç kaynağının fanı bozulursa ne yapılmalıdır?", o: ["Yağlanmalıdır", "Güç kaynağı değiştirilmelidir", "Fan iptal edilmelidir", "Bilgisayar düşük hızda çalıştırılmalıdır"], c: 1, e: "Güç kaynağı fanı hayati soğutma sağlar, bozulursa risk alınmamalıdır." }
+        ];
+
+        let currentIdx = 0;
+        let score = 0;
+        let answered = new Array(questions.length).fill(null);
+
+        function startQuiz() {
+            document.getElementById('startScreen').style.display = 'none';
+            document.getElementById('quizScreen').classList.add('show');
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const q = questions[currentIdx];
+            document.getElementById('questionNum').innerText = `Soru ${currentIdx + 1} / ${questions.length}`;
+            document.getElementById('categoryTag').innerText = q.cat;
+            document.getElementById('questionText').innerText = q.q;
+            
+            const list = document.getElementById('optionsList');
+            list.innerHTML = '';
+            q.o.forEach((opt, i) => {
+                const div = document.createElement('div');
+                div.className = 'option' + (answered[currentIdx] !== null ? ' disabled' : '');
+                if (answered[currentIdx] !== null) {
+                    if (i === q.c) div.classList.add('correct');
+                    else if (i === answered[currentIdx]) div.classList.add('incorrect');
+                }
+                div.innerHTML = `<div class="option-letter">${String.fromCharCode(65 + i)}</div><div class="option-text">${opt}</div>`;
+                div.onclick = () => selectOption(i);
+                list.appendChild(div);
+            });
+
+            const expl = document.getElementById('explanation');
+            if (answered[currentIdx] !== null) {
+                expl.classList.add('show');
+                document.getElementById('explanationText').innerText = q.e;
+            } else {
+                expl.classList.remove('show');
+            }
+
+            document.getElementById('progressBar').style.width = `${((currentIdx + 1) / questions.length) * 100}%`;
+            document.getElementById('prevBtn').disabled = currentIdx === 0;
+            document.getElementById('nextBtn').innerText = currentIdx === questions.length - 1 ? 'Sonucu Gör' : 'Sonraki →';
+        }
+
+        function selectOption(idx) {
+            if (answered[currentIdx] !== null) return;
+            answered[currentIdx] = idx;
+            if (idx === questions[currentIdx].c) score++;
+            showQuestion();
+        }
+
+        function nextQuestion() {
+            if (currentIdx < questions.length - 1) {
+                currentIdx++;
+                showQuestion();
+            } else {
+                showResults();
+            }
+        }
+
+        function prevQuestion() {
+            if (currentIdx > 0) {
+                currentIdx--;
+                showQuestion();
+            }
+        }
+
+        function showResults() {
+            document.getElementById('quizScreen').classList.remove('show');
+            const rs = document.getElementById('resultsScreen');
+            rs.classList.add('show');
+            document.getElementById('finalScore').innerText = score;
+            const perc = (score / questions.length) * 100;
+            let msg = perc >= 70 ? "Harikasın! Sınava hazırsın." : "Biraz daha tekrar etmelisin.";
+            document.getElementById('resultMsg').innerText = `%${perc.toFixed(0)} başarı oranı. ${msg}`;
+        }
+    </script>
+</body>
+</html>
