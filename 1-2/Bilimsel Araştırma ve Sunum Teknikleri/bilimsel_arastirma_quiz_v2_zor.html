@@ -1,0 +1,1400 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilimsel Araştırma Yöntemleri - Kapsamlı Quiz v2</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a24;
+            --accent-primary: #f59e0b;
+            --accent-secondary: #fbbf24;
+            --accent-glow: rgba(245, 158, 11, 0.3);
+            --success: #10b981;
+            --success-glow: rgba(16, 185, 129, 0.3);
+            --error: #ef4444;
+            --error-glow: rgba(239, 68, 68, 0.3);
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --border: rgba(255, 255, 255, 0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Source Sans 3', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(ellipse at 20% 20%, rgba(245, 158, 11, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(251, 191, 36, 0.05) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .header {
+            text-align: center;
+            padding: 3rem 0;
+            margin-bottom: 2rem;
+        }
+
+        .header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--text-primary) 0%, var(--accent-secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .header .version {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            color: #000;
+            padding: 0.25rem 0.75rem;
+            border-radius: 100px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .header p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            font-weight: 300;
+        }
+
+        .progress-container {
+            background: var(--bg-secondary);
+            border-radius: 100px;
+            height: 8px;
+            margin-bottom: 2rem;
+            overflow: hidden;
+            border: 1px solid var(--border);
+        }
+
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+            border-radius: 100px;
+            transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 0 20px var(--accent-glow);
+        }
+
+        .progress-text {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        .question-card {
+            background: var(--bg-card);
+            border-radius: 24px;
+            padding: 2.5rem;
+            border: 1px solid var(--border);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .question-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+        }
+
+        .question-number {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--accent-secondary);
+            padding: 0.5rem 1rem;
+            border-radius: 100px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(245, 158, 11, 0.2);
+        }
+
+        .category-tag {
+            background: rgba(99, 102, 241, 0.1);
+            color: #818cf8;
+            padding: 0.3rem 0.8rem;
+            border-radius: 100px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-left: 0.5rem;
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .difficulty-tag {
+            padding: 0.3rem 0.8rem;
+            border-radius: 100px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-left: 0.5rem;
+        }
+
+        .difficulty-tag.hard {
+            background: rgba(239, 68, 68, 0.1);
+            color: #f87171;
+            border: 1px solid rgba(239, 68, 68, 0.2);
+        }
+
+        .difficulty-tag.medium {
+            background: rgba(245, 158, 11, 0.1);
+            color: #fbbf24;
+            border: 1px solid rgba(245, 158, 11, 0.2);
+        }
+
+        .question-text {
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--text-primary);
+            margin-bottom: 2rem;
+            line-height: 1.7;
+        }
+
+        .question-context {
+            background: rgba(245, 158, 11, 0.05);
+            border-left: 3px solid var(--accent-primary);
+            padding: 1rem 1.5rem;
+            margin-bottom: 1.5rem;
+            border-radius: 0 12px 12px 0;
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+        }
+
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 1.5rem;
+            font-size: 0.9rem;
+        }
+
+        .data-table th, .data-table td {
+            padding: 0.75rem;
+            text-align: left;
+            border: 1px solid var(--border);
+        }
+
+        .data-table th {
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--accent-secondary);
+            font-weight: 600;
+        }
+
+        .data-table td {
+            color: var(--text-secondary);
+        }
+
+        .options-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .option {
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+            padding: 1.25rem 1.5rem;
+            background: var(--bg-secondary);
+            border: 2px solid var(--border);
+            border-radius: 16px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .option:hover:not(.disabled) {
+            border-color: var(--accent-primary);
+            background: rgba(245, 158, 11, 0.05);
+            transform: translateX(4px);
+        }
+
+        .option.selected {
+            border-color: var(--accent-primary);
+            background: rgba(245, 158, 11, 0.1);
+            box-shadow: 0 0 30px var(--accent-glow);
+        }
+
+        .option.correct {
+            border-color: var(--success);
+            background: rgba(16, 185, 129, 0.1);
+            box-shadow: 0 0 30px var(--success-glow);
+        }
+
+        .option.incorrect {
+            border-color: var(--error);
+            background: rgba(239, 68, 68, 0.1);
+            box-shadow: 0 0 30px var(--error-glow);
+        }
+
+        .option.disabled {
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+
+        .option-letter {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            background: var(--bg-card);
+            border-radius: 10px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            flex-shrink: 0;
+            transition: all 0.3s ease;
+        }
+
+        .option.selected .option-letter {
+            background: var(--accent-primary);
+            color: #000;
+        }
+
+        .option.correct .option-letter {
+            background: var(--success);
+            color: white;
+        }
+
+        .option.incorrect .option-letter {
+            background: var(--error);
+            color: white;
+        }
+
+        .option-text {
+            flex: 1;
+            font-size: 1rem;
+            color: var(--text-primary);
+            padding-top: 0.4rem;
+        }
+
+        .explanation {
+            margin-top: 1.5rem;
+            padding: 1.5rem;
+            background: rgba(245, 158, 11, 0.05);
+            border-radius: 16px;
+            border: 1px solid rgba(245, 158, 11, 0.2);
+            display: none;
+        }
+
+        .explanation.show {
+            display: block;
+            animation: slideIn 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .explanation-title {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: 600;
+            color: var(--accent-secondary);
+            margin-bottom: 0.75rem;
+        }
+
+        .explanation-text {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 2rem;
+            gap: 1rem;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: none;
+            font-family: inherit;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            color: #000;
+            box-shadow: 0 10px 30px var(--accent-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 40px var(--accent-glow);
+        }
+
+        .btn-secondary {
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-card);
+            color: var(--text-primary);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .results-screen {
+            display: none;
+            text-align: center;
+            padding: 3rem;
+        }
+
+        .results-screen.show {
+            display: block;
+        }
+
+        .score-circle {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: var(--bg-secondary);
+            margin: 0 auto 2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border: 4px solid var(--accent-primary);
+            box-shadow: 0 0 60px var(--accent-glow);
+        }
+
+        .score-number {
+            font-family: 'Playfair Display', serif;
+            font-size: 4rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            line-height: 1;
+        }
+
+        .score-label {
+            color: var(--text-secondary);
+            font-size: 1rem;
+            margin-top: 0.5rem;
+        }
+
+        .results-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .results-message {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            padding: 1.5rem;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+        }
+
+        .stat-value.success { color: var(--success); }
+        .stat-value.error { color: var(--error); }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+        }
+
+        .start-screen {
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+
+        .start-screen h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .start-screen p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .warning-box {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            border-radius: 12px;
+            padding: 1rem 1.5rem;
+            margin-bottom: 2rem;
+            color: #f87171;
+            font-size: 0.95rem;
+        }
+
+        .topic-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+            text-align: left;
+        }
+
+        .topic-item {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+        }
+
+        .topic-icon {
+            width: 40px;
+            height: 40px;
+            background: rgba(245, 158, 11, 0.1);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+
+        .topic-text {
+            font-size: 0.9rem;
+            color: var(--text-primary);
+        }
+
+        .quiz-screen {
+            display: none;
+        }
+
+        .quiz-screen.show {
+            display: block;
+        }
+
+        .formula-box {
+            background: rgba(99, 102, 241, 0.1);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+            border-radius: 12px;
+            padding: 1rem 1.5rem;
+            margin-bottom: 1.5rem;
+            font-family: 'Courier New', monospace;
+            color: #a5b4fc;
+            font-size: 1.1rem;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .container { padding: 1rem; }
+            .question-card { padding: 1.5rem; }
+            .stats-grid { grid-template-columns: 1fr; }
+            .navigation { flex-direction: column; }
+            .btn { width: 100%; justify-content: center; }
+            .topic-grid { grid-template-columns: 1fr 1fr; }
+        }
+
+        .question-card {
+            animation: cardIn 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        @keyframes cardIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <span class="version">🔥 ZOR VERSİYON</span>
+            <h1>Bilimsel Araştırma Yöntemleri</h1>
+            <p>Kapsamlı Sınav Simülasyonu</p>
+        </header>
+
+        <!-- Start Screen -->
+        <div id="startScreen" class="start-screen question-card">
+            <h2>Gerçek Sınav Deneyimi</h2>
+            <p>Bu quiz, PDF'deki TÜM konulardan rastgele seçilmiş 50 zorlayıcı soru içerir. Hesaplama soruları da var!</p>
+            
+            <div class="warning-box">
+                ⚠️ Bu versiyon daha zor! Hesaplama, formül ve detaylı bilgi soruları içerir.
+            </div>
+
+            <div class="topic-grid">
+                <div class="topic-item">
+                    <div class="topic-icon">📊</div>
+                    <span class="topic-text">Örnekleme Yöntemleri</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">📈</div>
+                    <span class="topic-text">Z-skoru & Persantil</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">🧮</div>
+                    <span class="topic-text">H-indeks & Etki Değeri</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">📚</div>
+                    <span class="topic-text">APA & IEEE Format</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">🔬</div>
+                    <span class="topic-text">Nitel & Nicel Yöntemler</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">💻</div>
+                    <span class="topic-text">Excel Formülleri</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">👩‍💻</div>
+                    <span class="topic-text">Bilim Tarihi</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">⚖️</div>
+                    <span class="topic-text">Etik & Güvenilirlik</span>
+                </div>
+            </div>
+
+            <button class="btn btn-primary" onclick="startQuiz()">
+                Sınava Başla 🚀
+            </button>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quizScreen" class="quiz-screen">
+            <div class="progress-text">
+                <span id="progressLabel">Soru 1 / 50</span>
+                <span id="scoreLabel">Puan: 0</span>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar" id="progressBar" style="width: 0%"></div>
+            </div>
+
+            <div class="question-card" id="questionCard">
+                <div class="question-number">
+                    <span id="questionNum">Soru 1</span>
+                    <span class="category-tag" id="categoryTag">Kategori</span>
+                    <span class="difficulty-tag medium" id="difficultyTag">Orta</span>
+                </div>
+                
+                <div class="question-context" id="questionContext" style="display: none;"></div>
+                <div class="formula-box" id="formulaBox" style="display: none;"></div>
+                <div id="dataTable"></div>
+                
+                <p class="question-text" id="questionText"></p>
+
+                <div class="options-list" id="optionsList"></div>
+
+                <div class="explanation" id="explanation">
+                    <div class="explanation-title">💡 Açıklama</div>
+                    <p class="explanation-text" id="explanationText"></p>
+                </div>
+            </div>
+
+            <div class="navigation">
+                <button class="btn btn-secondary" id="prevBtn" onclick="prevQuestion()" disabled>
+                    ← Önceki
+                </button>
+                <button class="btn btn-primary" id="nextBtn" onclick="nextQuestion()">
+                    Sonraki →
+                </button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="results-screen question-card">
+            <div class="score-circle">
+                <span class="score-number" id="finalScore">0</span>
+                <span class="score-label">/ 50</span>
+            </div>
+            
+            <h2 class="results-title" id="resultsTitle">Sonuçlar</h2>
+            <p class="results-message" id="resultsMessage"></p>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value success" id="correctCount">0</div>
+                    <div class="stat-label">Doğru</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value error" id="incorrectCount">0</div>
+                    <div class="stat-label">Yanlış</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="percentageScore">0%</div>
+                    <div class="stat-label">Başarı Oranı</div>
+                </div>
+            </div>
+
+            <button class="btn btn-primary" onclick="restartQuiz()">
+                Tekrar Dene
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            // H-İNDEKS HESAPLAMA
+            {
+                category: "H-İndeks",
+                difficulty: "hard",
+                context: "Doç.Dr. Merve Hanım'ın makale atıf sayıları: 44, 35, 33, 23, 12, 11, 9, 7, 5, 3, 3, 1, 1, 0, 0",
+                question: "Merve Hanım'ın h-indeksi kaçtır?",
+                options: ["44", "9", "7", "8", "15"],
+                correct: 2,
+                explanation: "Atıfları sırala: 44,35,33,23,12,11,9,7,5,3,3,1,1,0,0. 7. makale 9 atıf, 8. makale 7 atıf almış. 7 makale en az 7 atıf almış → h=7"
+            },
+            {
+                category: "H-İndeks",
+                difficulty: "hard",
+                context: "Makale atıfları: 34, 12, 7, 5, 3, 1",
+                question: "Bu araştırmacının h-indeksi kaçtır?",
+                options: ["1", "2", "3", "4", "5"],
+                correct: 3,
+                explanation: "Sırala: 34,12,7,5,3,1. 4 makale en az 4 atıf almış (34≥4, 12≥4, 7≥4, 5≥4), 5. makale 3 atıf → h=4"
+            },
+            // ETKİ DEĞERİ HESAPLAMA
+            {
+                category: "Etki Değeri",
+                difficulty: "hard",
+                context: "Bir derginin verileri:\n2022: 600 atıf, 240 makale\n2023: 900 atıf, 300 makale",
+                question: "Bu derginin 2024 yılı etki değeri (impact factor) kaçtır?",
+                options: ["2.2", "2.5", "2.78", "3.0", "3.2"],
+                correct: 2,
+                explanation: "Etki değeri = Son 2 yıldaki toplam atıf / Son 2 yıldaki toplam makale = (600+900)/(240+300) = 1500/540 ≈ 2.78"
+            },
+            // Z-SKORU & NORMAL DAĞILIM
+            {
+                category: "İstatistik",
+                difficulty: "hard",
+                context: "Bir sınavda ortalama 70, standart sapma 10'dur. Ali 90 puan almıştır.",
+                question: "Ali'nin Z skoru kaçtır?",
+                options: ["-2", "-1", "0", "1", "2"],
+                correct: 4,
+                explanation: "Z = (X - μ) / σ = (90 - 70) / 10 = 20/10 = 2"
+            },
+            {
+                category: "İstatistik",
+                difficulty: "hard",
+                context: "Normal dağılımda μ=100, σ=15. P(Z≤1.33)=0.9082 olduğu biliniyor.",
+                question: "120'den düşük puan alma olasılığı nedir?",
+                options: ["0.0918", "0.5000", "0.8413", "0.9082", "0.9772"],
+                correct: 3,
+                explanation: "Z = (120-100)/15 = 20/15 = 1.33. P(Z≤1.33) = 0.9082"
+            },
+            {
+                category: "İstatistik",
+                difficulty: "medium",
+                question: "Normal dağılımda ortalamadan 3 standart sapma uzaklıktaki alan toplam alanın yüzde kaçıdır?",
+                options: ["%68", "%95", "%99.7", "%50", "%84"],
+                correct: 2,
+                explanation: "±1σ=%68, ±2σ=%95, ±3σ=%99.7 (Empirik Kural)"
+            },
+            // PERSANTİL
+            {
+                category: "İstatistik",
+                difficulty: "hard",
+                context: "20 öğrencinin notları sıralandığında Akın'ın notu 74 ile 13. sıradadır.",
+                question: "Akın'ın persantili kaçtır?",
+                options: ["Y35", "Y28", "Y65", "Y72", "Y74"],
+                correct: 2,
+                explanation: "Persantil = (Sıra / Toplam) × 100 = (13/20) × 100 = 65 → Y65 (Akın'ın altında %65 kişi var)"
+            },
+            // STANDART SAPMA & VARYANS
+            {
+                category: "İstatistik",
+                difficulty: "medium",
+                question: "Aşağıdakilerden hangisi merkezi eğilim ölçüsü DEĞİLDİR?",
+                options: ["Aritmetik ortalama", "Medyan", "Mod", "Standart sapma", "Tepe değer"],
+                correct: 3,
+                explanation: "Standart sapma bir YAYILIM ölçüsüdür, merkezi eğilim değil."
+            },
+            {
+                category: "İstatistik",
+                difficulty: "hard",
+                context: "Veri seti: 10, 22, 34, 25, 28 (n=5)",
+                question: "Bu verinin standart sapması yaklaşık kaçtır?",
+                options: ["7.5", "8.2", "9.0", "10.4", "23.8"],
+                correct: 2,
+                explanation: "Ortalama=23.8, Varyans=81, Standart Sapma=√81=9.0"
+            },
+            // IQR & ARALIK
+            {
+                category: "İstatistik",
+                difficulty: "hard",
+                context: "Sıralı veri: 12,15,18,21,24,27,30,33,36,39,42,45,48,51,54. Q1=18, Q3=45",
+                question: "IQR kullanarak uç değer sınırları nedir?",
+                options: ["Alt: -22.5, Üst: 85.5", "Alt: 0, Üst: 66", "Alt: -13.5, Üst: 85.5", "Uç değer yoktur", "Alt: 12, Üst: 54"],
+                correct: 3,
+                explanation: "IQR=Q3-Q1=45-18=27. Alt sınır=Q1-1.5×IQR=18-40.5=-22.5. Üst sınır=Q3+1.5×IQR=45+40.5=85.5. Tüm değerler bu aralıkta → uç değer yok."
+            },
+            // ÖRNEKLEME YÖNTEMLERİ
+            {
+                category: "Örnekleme",
+                difficulty: "medium",
+                question: "Bir araştırmacı her departmandan, departmanların büyüklükleriyle ORANTILI sayıda yönetici seçmiştir. Bu hangi örneklemedir?",
+                options: ["Basit Rastgele", "Tabakalı Örnekleme", "Küme Örnekleme", "Sistematik Örnekleme", "Kartopu Örnekleme"],
+                correct: 1,
+                explanation: "Orantılı tabakalı örnekleme: Popülasyon gruplara ayrılır ve her gruptan oranına göre seçim yapılır."
+            },
+            {
+                category: "Örnekleme",
+                difficulty: "medium",
+                question: "Uyuşturucu bağımlılarını araştıran bir araştırmacı, bir katılımcının diğerini önermesiyle örneklem oluşturuyor. Bu hangi yöntemdir?",
+                options: ["Amaçlı Örnekleme", "Kartopu Örnekleme", "Uygun Örnekleme", "Kota Örnekleme", "Küme Örnekleme"],
+                correct: 1,
+                explanation: "Kartopu örnekleme: Zor ulaşılan gruplar için bir katılımcı diğerini önerir, zincir şeklinde büyür."
+            },
+            {
+                category: "Örnekleme",
+                difficulty: "hard",
+                question: "Aşağıdakilerden hangisi OLASILIKLI örnekleme yöntemi DEĞİLDİR?",
+                options: ["Basit Rastgele", "Sistematik", "Tabakalı", "Küme", "Amaçlı"],
+                correct: 4,
+                explanation: "Amaçlı örnekleme olasılıksız bir yöntemdir. Araştırmacı bilinçli seçim yapar, rastgelelik yoktur."
+            },
+            {
+                category: "Örnekleme",
+                difficulty: "medium",
+                question: "Evrendeki her birimden 10.'sunun seçilmesi hangi örnekleme türüdür?",
+                options: ["Basit Rastgele", "Tabakalı", "Sistematik", "Küme", "Kota"],
+                correct: 2,
+                explanation: "Sistematik örnekleme: Rastgele başlangıç + her k. birim seçilir."
+            },
+            // NİTEL ARAŞTIRMA YÖNTEMLERİ
+            {
+                category: "Nitel Araştırma",
+                difficulty: "hard",
+                question: "Aşağıdakilerden hangisi NİTEL araştırma yöntemidir?",
+                options: ["Deneysel Model", "Bağıntısal Model", "Nedensel-Karşılaştırma", "Gömülü Teori", "Tarama Modeli"],
+                correct: 3,
+                explanation: "Gömülü teori (Grounded Theory) nitel bir yöntemdir. Verilerden teori üretmeyi amaçlar."
+            },
+            {
+                category: "Nitel Araştırma",
+                difficulty: "medium",
+                question: "Aşağıdakilerden hangisi NİCEL araştırma modellerinden biri DEĞİLDİR?",
+                options: ["Deneysel Model", "Bağıntısal Model", "Tarihsel Yöntem", "Gömülü Teori", "Nedensel-Karşılaştırma"],
+                correct: 3,
+                explanation: "Gömülü Teori nitel bir yöntemdir, nicel değil."
+            },
+            {
+                category: "Araştırma",
+                difficulty: "medium",
+                question: "Fenomenoloji hangi tür araştırma yöntemidir?",
+                options: ["Nicel", "Nitel", "Karma", "Deneysel", "Tarihsel"],
+                correct: 1,
+                explanation: "Fenomenoloji, bireylerin yaşanmış deneyimlerini derinlemesine anlamayı amaçlayan nitel bir yöntemdir."
+            },
+            // APA vs IEEE
+            {
+                category: "Kaynak Gösterimi",
+                difficulty: "medium",
+                question: "[18-20] veya [22] gibi numaralandırılmış referanslar hangi atıf yöntemiyle ilişkilidir?",
+                options: ["APA", "MLA", "Chicago", "IEEE", "Harvard"],
+                correct: 3,
+                explanation: "IEEE formatında kaynaklar köşeli parantez içinde numaralarla gösterilir: [1], [2-5], vb."
+            },
+            {
+                category: "Kaynak Gösterimi",
+                difficulty: "hard",
+                question: "APA ve IEEE formatları arasındaki temel fark nedir?",
+                options: [
+                    "APA alfabetik, IEEE metinde geçiş sırasına göre numaralandırır",
+                    "APA numaralı, IEEE alfabetik sıralar",
+                    "İkisi de aynı sistemi kullanır",
+                    "APA sadece kitaplar için, IEEE makaleler için kullanılır",
+                    "IEEE Türkçe kaynaklarda kullanılmaz"
+                ],
+                correct: 0,
+                explanation: "APA: (Yazar, Yıl) şeklinde ve kaynakça alfabetik. IEEE: [numara] şeklinde ve kaynakça metinde geçiş sırasına göre."
+            },
+            {
+                category: "APA",
+                difficulty: "medium",
+                question: "APA formatında ikincil kaynak kullanırken ne yapılmalıdır?",
+                options: [
+                    "Sadece ikincil kaynağı kaynakçada belirtmek",
+                    "Hem orijinal hem ikincil kaynağı kaynakçada belirtmek",
+                    "Metin içinde sadece ikincil kaynağa atıf yapmak",
+                    "Metin içinde hem orijinal hem ikincil kaynağa atıf yapmak",
+                    "İkincil kaynak kullanmak yasaktır"
+                ],
+                correct: 3,
+                explanation: "İkincil kaynak kullanırken metin içinde her iki kaynağa da atıf yapılmalıdır: (Smith, 1990, aktaran Jones, 2020)"
+            },
+            // EXCEL FORMÜLLER
+            {
+                category: "Excel",
+                difficulty: "medium",
+                question: "Excel'de bir veri setindeki 3. en küçük değeri bulmak için hangi fonksiyon kullanılır?",
+                options: ["=MİN()", "=KÜÇÜK(aralık;3)", "=SIRALA()", "=DÜŞEYARA()", "=EĞERSAY()"],
+                correct: 1,
+                explanation: "KÜÇÜK(aralık;k) fonksiyonu k. en küçük değeri döndürür."
+            },
+            {
+                category: "Excel",
+                difficulty: "hard",
+                context: "Bir öğretmen A2 hücresindeki nota göre 50'nin üzerinde olanlara 'GEÇTİ', diğerlerine 'KALDI' yazdırmak istiyor.",
+                question: "Doğru formül hangisidir?",
+                options: [
+                    "=EĞER(A2>50;\"GEÇTİ\";\"KALDI\")",
+                    "=EĞER(A2>=50;\"GEÇTİ\";\"KALDI\")",
+                    "=EĞER(A2<50;\"GEÇTİ\";\"KALDI\")",
+                    "=EĞER(A2=50;\"GEÇTİ\";\"KALDI\")",
+                    "=EĞERSAY(A2>50;\"GEÇTİ\")"
+                ],
+                correct: 0,
+                explanation: "50'nin ÜZERİNDE (50 hariç) olanlar için A2>50 kullanılır."
+            },
+            {
+                category: "Excel",
+                difficulty: "medium",
+                question: "Excel'de CTRL+Space kısayolu ne yapar?",
+                options: ["Satır seçer", "Sütun seçer", "Tümünü seçer", "Hücreyi temizler", "Formül çubuğunu açar"],
+                correct: 1,
+                explanation: "Ctrl+Space = Sütun seç, Shift+Space = Satır seç"
+            },
+            {
+                category: "Excel",
+                difficulty: "medium",
+                question: "Excel'de F2 tuşunun görevi nedir?",
+                options: ["Yardım açar", "Hücreyi düzenleme moduna alır", "Dosyayı kaydeder", "Yazdırır", "Sayfa sonu ekler"],
+                correct: 1,
+                explanation: "F2 tuşu seçili hücreyi düzenleme moduna alır."
+            },
+            {
+                category: "Excel",
+                difficulty: "hard",
+                question: "SUMIF, COUNTIF ve AVERAGEIF fonksiyonlarının ortak özelliği nedir?",
+                options: [
+                    "Hepsi koşula göre işlem yapar",
+                    "Hepsi sadece sayılarla çalışır",
+                    "Hepsi aynı sonucu verir",
+                    "Hepsi grafik oluşturur",
+                    "Hepsi pivot tablo gerektirir"
+                ],
+                correct: 0,
+                explanation: "SUMIF (koşullu toplam), COUNTIF (koşullu sayım), AVERAGEIF (koşullu ortalama) - hepsi belirli bir koşulu sağlayan hücreler üzerinde işlem yapar."
+            },
+            // WORD
+            {
+                category: "Word",
+                difficulty: "medium",
+                question: "Word'de bir resme yazı eklemek için hangi özellik kullanılır?",
+                options: ["Metin Kutusu", "Başvurular > Resim Yazısı Ekle", "Şekil Ekle", "WordArt", "Üstbilgi"],
+                correct: 1,
+                explanation: "Başvurular sekmesinden 'Resim Yazısı Ekle' seçeneği kullanılır."
+            },
+            {
+                category: "Word",
+                difficulty: "medium",
+                question: "Word'de farklı bölümlere farklı sayfa numarası vermek için ne kullanılır?",
+                options: ["Sayfa Sonu", "Bölüm Sonu", "Satır Sonu", "Sütun Sonu", "Dipnot"],
+                correct: 1,
+                explanation: "Bölüm Sonu (Section Break) ile belge bağımsız bölümlere ayrılır ve her bölüme farklı format uygulanabilir."
+            },
+            // BİLİM TARİHİ
+            {
+                category: "Bilim Tarihi",
+                difficulty: "medium",
+                question: "Analitik Motor'u kullanarak Bernoulli sayılarını üreten ve ilk programcı olarak kabul edilen kişi kimdir?",
+                options: ["Grace Hopper", "Ada Lovelace", "Alan Turing", "John McCarthy", "Charles Babbage"],
+                correct: 1,
+                explanation: "Ada Lovelace, Charles Babbage'ın Analitik Motoru için ilk algoritmayı yazan kişidir."
+            },
+            {
+                category: "Bilim Tarihi",
+                difficulty: "medium",
+                question: "'Yapay Zeka' terimini ilk kullanan bilim insanı kimdir?",
+                options: ["Marvin Minsky", "Alan Turing", "John McCarthy", "Ada Lovelace", "Geoffrey Hinton"],
+                correct: 2,
+                explanation: "John McCarthy, 1956'da Dartmouth Konferansı'nda 'Artificial Intelligence' terimini ilk kez kullandı."
+            },
+            {
+                category: "Bilim Tarihi",
+                difficulty: "medium",
+                question: "COBOL programlama dilini geliştiren bilim insanı kimdir?",
+                options: ["Ada Lovelace", "Grace Hopper", "Alan Turing", "John von Neumann", "Dennis Ritchie"],
+                correct: 1,
+                explanation: "Grace Hopper, COBOL dilinin geliştirilmesinde öncü rol oynamıştır."
+            },
+            // GÜVENİLİRLİK & GEÇERLİLİK
+            {
+                category: "Güvenilirlik",
+                difficulty: "medium",
+                question: "Cronbach Alpha değeri 0.85 olan bir test için ne söylenebilir?",
+                options: ["Güvenilirliği düşük", "Güvenilirliği kabul edilemez", "Güvenilirliği iyi", "Geçerliliği yüksek", "Yapı geçerliliği var"],
+                correct: 2,
+                explanation: "α≥0.70 kabul edilebilir, α≥0.80 iyi, α≥0.90 mükemmel güvenilirlik."
+            },
+            {
+                category: "Güvenilirlik",
+                difficulty: "hard",
+                question: "Aşağıdakilerden hangisi güvenilirlik türü DEĞİLDİR?",
+                options: ["Test-tekrar test", "İç tutarlılık", "Paralel formlar", "Yapı geçerliliği", "Yarıya bölme"],
+                correct: 3,
+                explanation: "Yapı geçerliliği bir GEÇERLİLİK türüdür, güvenilirlik değil."
+            },
+            {
+                category: "Geçerlilik",
+                difficulty: "medium",
+                question: "Faktör analizi hangi geçerlilik türünü ölçmek için kullanılır?",
+                options: ["Kapsam geçerliliği", "Ölçüt geçerliliği", "Yapı geçerliliği", "Görünüş geçerliliği", "Ekolojik geçerlilik"],
+                correct: 2,
+                explanation: "Faktör analizi, testin teorik yapıyı ölçüp ölçmediğini belirlemek için yapı geçerliliğinde kullanılır."
+            },
+            // ETİK
+            {
+                category: "Etik",
+                difficulty: "medium",
+                question: "HARKing (Hypothesizing After Results are Known) ne anlama gelir?",
+                options: [
+                    "Hipotezi analiz sonrası belirleyerek sunma",
+                    "Verileri daha hızlı işlemek için kullanılan algoritma",
+                    "İstatistiksel test yöntemi",
+                    "İntihal tespit yazılımı",
+                    "Veri şifreleme yöntemi"
+                ],
+                correct: 0,
+                explanation: "HARKing: Sonuçları gördükten sonra hipotez oluşturup sanki baştan kurulmuş gibi sunmak - etik ihlaldir."
+            },
+            {
+                category: "Etik",
+                difficulty: "medium",
+                question: "Kendi daha önce yayınladığı çalışmayı kaynak göstermeden tekrar yayınlamak hangi etik ihlalidir?",
+                options: ["İntihal", "Fabrikasyon", "Oto-intihal (self-plagiarism)", "Falsifikasyon", "Duplikasyon"],
+                correct: 2,
+                explanation: "Oto-intihal: Kendi önceki çalışmalarını kaynak göstermeden yeniden kullanmak."
+            },
+            {
+                category: "Etik",
+                difficulty: "medium",
+                question: "Araştırma verilerini uydurma veya sahte veri oluşturma hangi etik ihlalidir?",
+                options: ["İntihal", "Fabrikasyon", "Falsifikasyon", "Oto-intihal", "HARKing"],
+                correct: 1,
+                explanation: "Fabrikasyon: Olmayan verileri uydurma. Falsifikasyon: Var olan verileri değiştirme."
+            },
+            // DEĞİŞKENLER
+            {
+                category: "Değişkenler",
+                difficulty: "hard",
+                question: "Bağımsız ve bağımlı değişken arasındaki ilişkiyi zayıflatabilir veya güçlendirebilen, ama doğrudan bağımlı değişkeni etkilemeyen değişken hangisidir?",
+                options: ["Bağımsız değişken", "Bağımlı değişken", "Kontrol değişkeni", "Düzenleyici (Moderatör) değişken", "Aracı (Mediatör) değişken"],
+                correct: 3,
+                explanation: "Moderatör değişken ilişkinin gücünü veya yönünü değiştirir ama doğrudan sonucu etkilemez."
+            },
+            {
+                category: "Değişkenler",
+                difficulty: "hard",
+                question: "Bağımsız değişkenin etkisini bağımlı değişkene TAŞIYAN değişken hangisidir?",
+                options: ["Kontrol değişkeni", "Moderatör değişken", "Mediatör (Aracı) değişken", "Karıştırıcı değişken", "Serbest değişken"],
+                correct: 2,
+                explanation: "Mediatör değişken: X → M → Y zincirinde M aracı değişkendir. Etkiyi taşır."
+            },
+            // SMART HEDEFLER
+            {
+                category: "SMART",
+                difficulty: "medium",
+                question: "SMART hedef kriterlerinden 'T' neyi ifade eder?",
+                options: ["Testable", "Trackable", "Time-bound", "Transparent", "Tangible"],
+                correct: 2,
+                explanation: "SMART: Specific, Measurable, Achievable, Realistic, Time-bound (Zamana bağlı)"
+            },
+            {
+                category: "SMART",
+                difficulty: "hard",
+                question: "Aşağıdakilerden hangisi SMART hedefe uygun bir örnektir?",
+                options: [
+                    "Daha fazla makale okumak",
+                    "Araştırmayı daha verimli yapmak",
+                    "5 ay içinde 300 katılımcıyla anket yaparak veri toplamak",
+                    "Projeyi mükemmel hale getirmek",
+                    "Yeni analiz yöntemleri araştırmak"
+                ],
+                correct: 2,
+                explanation: "SMART: Spesifik (300 katılımcı, anket), Ölçülebilir (300), Ulaşılabilir, Gerçekçi, Zamanlı (5 ay)."
+            },
+            // ARAŞTIRMA TASARIMI
+            {
+                category: "Araştırma",
+                difficulty: "medium",
+                question: "Bir araştırmacı farklı yaş gruplarının internet kullanımını TEK bir zaman diliminde incelemiştir. Bu hangi araştırma türüdür?",
+                options: ["Uzunlamasına araştırma", "Deneysel araştırma", "Kesitsel araştırma", "Nitel araştırma", "Tarihsel araştırma"],
+                correct: 2,
+                explanation: "Kesitsel araştırma: Tek bir zaman diliminde farklı gruplardan veri toplama."
+            },
+            {
+                category: "Araştırma",
+                difficulty: "medium",
+                question: "IMRAD kısaltmasının açılımı nedir?",
+                options: [
+                    "Introduction, Materials, Results, and Discussion",
+                    "Introduction, Methods, Results, and Discussion",
+                    "Information, Methods, Research, and Data",
+                    "Introduction, Methodology, Review, and Data",
+                    "Investigation, Methods, Results, and Discussion"
+                ],
+                correct: 1,
+                explanation: "IMRAD: Introduction (Giriş), Methods (Yöntem), Results (Bulgular), and Discussion (Tartışma)"
+            },
+            // BİLİM TÜRLERİ
+            {
+                category: "Bilim",
+                difficulty: "hard",
+                question: "Aşağıdakilerden hangisi pozitif bilimler kategorisine GİRMEZ?",
+                options: ["Matematik", "Ekonomi", "Fizik", "Astronomi", "Biyoloji"],
+                correct: 1,
+                explanation: "Ekonomi sosyal bilimdir. Pozitif (doğa) bilimleri: Fizik, Kimya, Biyoloji, Astronomi, Matematik."
+            },
+            {
+                category: "Bilim",
+                difficulty: "medium",
+                question: "Aşağıdaki seçeneklerden hangisinde doğa bilimleri ve uygulamalı bilimler bir arada verilmiştir?",
+                options: ["Antropoloji - Mühendislik", "Tıp - Fizik", "Mantık - Tarih", "Biyoloji - Siyaset Bilimi", "Mimarlık - Sosyoloji"],
+                correct: 1,
+                explanation: "Tıp = uygulamalı bilim, Fizik = doğa bilimi."
+            },
+            // SUNUM TEKNİKLERİ
+            {
+                category: "Sunum",
+                difficulty: "medium",
+                question: "Etkili bir bilimsel sunumda aşağıdakilerden hangisinden KAÇINILMALIDIR?",
+                options: [
+                    "Görseller ve grafikler kullanmak",
+                    "Dinleyicilerle göz teması kurmak",
+                    "Slaytları aşırı detaylı metinlerle doldurmak",
+                    "Sunum öncesi prova yapmak",
+                    "Konuyu sade ve net aktarmak"
+                ],
+                correct: 2,
+                explanation: "Slaytlar sade olmalı, aşırı metin okumayı zorlaştırır ve dinleyici dikkatini dağıtır."
+            },
+            // OLGU & KAVRAM
+            {
+                category: "Bilim",
+                difficulty: "medium",
+                question: "Aşağıdakilerden hangisi bir OLGU olarak kabul edilemez?",
+                options: [
+                    "İstanbul'un Türkiye'nin en kalabalık şehri olması",
+                    "Katılımcıların %70'inin belirli bir görüşü desteklemesi",
+                    "Yerçekimi kuvvetinin var olması",
+                    "İnsanların mutluluğu hakkında yapılan felsefi tartışmalar",
+                    "Türkiye'de yıllık ortalama sıcaklığın 15°C olması"
+                ],
+                correct: 3,
+                explanation: "Felsefi tartışmalar soyut ve öznel olduğu için olgu değildir. Olgular gözlenebilir ve ölçülebilir olmalıdır."
+            },
+            // KAYNAK GÖSTERME
+            {
+                category: "Kaynak",
+                difficulty: "medium",
+                question: "Doğrudan alıntı yaparken aşağıdakilerden hangisi YANLIŞTIR?",
+                options: [
+                    "Alıntı tırnak içine alınır",
+                    "Alıntı olduğu gibi aktarılır",
+                    "Alıntı çok uzunsa parantez içine alınır",
+                    "Kaynağı belirtilir",
+                    "Kullanılmayacak kısımlar [...] ile gösterilir"
+                ],
+                correct: 2,
+                explanation: "Uzun alıntılar paranteze değil, ayrı bir paragraf olarak girintili şekilde yazılır (blok alıntı)."
+            },
+            // H-INDEX vs i10-INDEX
+            {
+                category: "Metrikler",
+                difficulty: "hard",
+                question: "H-index ve i10-index arasındaki fark nedir?",
+                options: [
+                    "H-index hem atıf hem yayın sayısını değerlendirirken, i10-index sadece 10+ atıf alan makaleleri sayar",
+                    "H-index sadece yüksek atıf makaleleri dikkate alır",
+                    "İkisi aynı şeyi ölçer",
+                    "i10-index yalnızca Scopus tarafından hesaplanır",
+                    "H-index Google Scholar'a özgüdür"
+                ],
+                correct: 0,
+                explanation: "H-index: En az h atıf almış h makale. i10-index: En az 10 atıf almış makale sayısı."
+            },
+            // ÖRNEKLEME HATASI
+            {
+                category: "Örnekleme",
+                difficulty: "medium",
+                question: "Örnekleme hatası nedir?",
+                options: [
+                    "Anket sonuçlarını analiz etme sırasında yapılan hata",
+                    "Popülasyondan seçilen örneklerin popülasyonu tam olarak yansıtmaması",
+                    "Bilimsel teorilerin yanlış kabul edilmesi",
+                    "Araştırma konusunun yanlış seçilmesi",
+                    "Yanlış veri toplama yöntemlerinin kullanılması"
+                ],
+                correct: 1,
+                explanation: "Örnekleme hatası: Örneklemin evreni mükemmel temsil edememesinden kaynaklanan fark."
+            },
+            // TEORİ, KANUN, HİPOTEZ
+            {
+                category: "Bilim",
+                difficulty: "hard",
+                question: "Teori, kanun ve hipotez ile ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+                options: [
+                    "Hipotez, test edilebilir bir önermedir",
+                    "Bilimsel teori geniş kanıtlarla desteklenir",
+                    "Bilimsel kanunlar, neden-sonuç ilişkisini açıklar ve teorilerden daha kesin bilgi içerir",
+                    "Teoriler olayların 'nasıl' ve 'neden'ini açıklar",
+                    "Hipotezler doğrulanırsa teoriye dönüşebilir"
+                ],
+                correct: 2,
+                explanation: "Kanunlar 'ne olur' sorusuna cevap verir, neden-sonuç açıklamaz. Teoriler daha kapsamlıdır ve 'neden' sorusuna cevap verir."
+            }
+        ];
+
+        // Soruları karıştır
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        let shuffledQuestions = [];
+        let currentQuestion = 0;
+        let score = 0;
+        let answers = [];
+        let answered = [];
+
+        function startQuiz() {
+            shuffledQuestions = shuffleArray([...questions]);
+            document.getElementById('startScreen').style.display = 'none';
+            document.getElementById('quizScreen').classList.add('show');
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const q = shuffledQuestions[currentQuestion];
+            
+            document.getElementById('questionNum').textContent = `Soru ${currentQuestion + 1}`;
+            document.getElementById('categoryTag').textContent = q.category;
+            
+            const diffTag = document.getElementById('difficultyTag');
+            diffTag.textContent = q.difficulty === 'hard' ? 'Zor' : 'Orta';
+            diffTag.className = `difficulty-tag ${q.difficulty}`;
+            
+            document.getElementById('progressLabel').textContent = `Soru ${currentQuestion + 1} / ${shuffledQuestions.length}`;
+            document.getElementById('scoreLabel').textContent = `Puan: ${score}`;
+            document.getElementById('progressBar').style.width = `${((currentQuestion + 1) / shuffledQuestions.length) * 100}%`;
+            
+            // Context
+            const contextEl = document.getElementById('questionContext');
+            if (q.context) {
+                contextEl.textContent = q.context;
+                contextEl.style.display = 'block';
+            } else {
+                contextEl.style.display = 'none';
+            }
+
+            // Formula
+            const formulaEl = document.getElementById('formulaBox');
+            if (q.formula) {
+                formulaEl.textContent = q.formula;
+                formulaEl.style.display = 'block';
+            } else {
+                formulaEl.style.display = 'none';
+            }
+
+            // Data table
+            document.getElementById('dataTable').innerHTML = q.tableHtml || '';
+            
+            document.getElementById('questionText').textContent = q.question;
+            
+            // Options
+            const optionsList = document.getElementById('optionsList');
+            optionsList.innerHTML = '';
+            
+            const letters = ['A', 'B', 'C', 'D', 'E'];
+            q.options.forEach((opt, i) => {
+                const div = document.createElement('div');
+                div.className = 'option';
+                div.innerHTML = `
+                    <span class="option-letter">${letters[i]}</span>
+                    <span class="option-text">${opt}</span>
+                `;
+                
+                if (answered[currentQuestion] !== undefined) {
+                    div.classList.add('disabled');
+                    if (i === q.correct) {
+                        div.classList.add('correct');
+                    } else if (i === answers[currentQuestion] && i !== q.correct) {
+                        div.classList.add('incorrect');
+                    }
+                } else {
+                    div.onclick = () => selectOption(i);
+                }
+                
+                optionsList.appendChild(div);
+            });
+            
+            // Explanation
+            const explanationEl = document.getElementById('explanation');
+            if (answered[currentQuestion] !== undefined) {
+                document.getElementById('explanationText').textContent = q.explanation;
+                explanationEl.classList.add('show');
+            } else {
+                explanationEl.classList.remove('show');
+            }
+            
+            // Navigation
+            document.getElementById('prevBtn').disabled = currentQuestion === 0;
+            document.getElementById('nextBtn').textContent = currentQuestion === shuffledQuestions.length - 1 ? 'Sonuçları Gör' : 'Sonraki →';
+        }
+
+        function selectOption(index) {
+            if (answered[currentQuestion] !== undefined) return;
+            
+            const q = shuffledQuestions[currentQuestion];
+            answers[currentQuestion] = index;
+            answered[currentQuestion] = true;
+            
+            if (index === q.correct) {
+                score++;
+            }
+            
+            showQuestion();
+        }
+
+        function nextQuestion() {
+            if (currentQuestion < shuffledQuestions.length - 1) {
+                currentQuestion++;
+                showQuestion();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            } else {
+                showResults();
+            }
+        }
+
+        function prevQuestion() {
+            if (currentQuestion > 0) {
+                currentQuestion--;
+                showQuestion();
+            }
+        }
+
+        function showResults() {
+            document.getElementById('quizScreen').classList.remove('show');
+            document.getElementById('resultsScreen').classList.add('show');
+            
+            const total = shuffledQuestions.length;
+            const percentage = Math.round((score / total) * 100);
+            
+            document.getElementById('finalScore').textContent = score;
+            document.querySelector('.score-label').textContent = `/ ${total}`;
+            document.getElementById('correctCount').textContent = score;
+            document.getElementById('incorrectCount').textContent = total - score;
+            document.getElementById('percentageScore').textContent = percentage + '%';
+            
+            let title, message;
+            if (percentage >= 90) {
+                title = '🏆 Mükemmel!';
+                message = 'Zor soruları bile geçtin! Sınava tamamen hazırsın.';
+            } else if (percentage >= 75) {
+                title = '🎯 Çok İyi!';
+                message = 'Güçlü bir performans! Birkaç konuyu gözden geçirsen yeterli.';
+            } else if (percentage >= 60) {
+                title = '📚 İyi!';
+                message = 'Temel konulara hakimsin ama zor konuları tekrar etmelisin.';
+            } else if (percentage >= 50) {
+                title = '⚠️ Orta';
+                message = 'Daha fazla çalışman gerekiyor. Özellikle hesaplama sorularına odaklan.';
+            } else {
+                title = '📖 Çalışmaya Devam!';
+                message = 'Notlarını baştan gözden geçirmeni öneririm. Pes etme!';
+            }
+            
+            document.getElementById('resultsTitle').textContent = title;
+            document.getElementById('resultsMessage').textContent = message;
+        }
+
+        function restartQuiz() {
+            currentQuestion = 0;
+            score = 0;
+            answers = [];
+            answered = [];
+            shuffledQuestions = shuffleArray([...questions]);
+            
+            document.getElementById('resultsScreen').classList.remove('show');
+            document.getElementById('quizScreen').classList.add('show');
+            showQuestion();
+        }
+    </script>
+</body>
+</html>
