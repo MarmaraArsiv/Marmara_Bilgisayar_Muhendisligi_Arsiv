@@ -1,0 +1,1363 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilimsel Araştırma Yöntemleri - Quiz</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a24;
+            --accent-primary: #6366f1;
+            --accent-secondary: #818cf8;
+            --accent-glow: rgba(99, 102, 241, 0.3);
+            --success: #10b981;
+            --success-glow: rgba(16, 185, 129, 0.3);
+            --error: #ef4444;
+            --error-glow: rgba(239, 68, 68, 0.3);
+            --warning: #f59e0b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --border: rgba(255, 255, 255, 0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Source Sans 3', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(ellipse at 20% 20%, rgba(99, 102, 241, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(129, 140, 248, 0.05) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Header */
+        .header {
+            text-align: center;
+            padding: 3rem 0;
+            margin-bottom: 2rem;
+        }
+
+        .header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--text-primary) 0%, var(--accent-secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .header p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            font-weight: 300;
+        }
+
+        /* Progress Bar */
+        .progress-container {
+            background: var(--bg-secondary);
+            border-radius: 100px;
+            height: 8px;
+            margin-bottom: 2rem;
+            overflow: hidden;
+            border: 1px solid var(--border);
+        }
+
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+            border-radius: 100px;
+            transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 0 20px var(--accent-glow);
+        }
+
+        .progress-text {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        /* Question Card */
+        .question-card {
+            background: var(--bg-card);
+            border-radius: 24px;
+            padding: 2.5rem;
+            border: 1px solid var(--border);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .question-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+        }
+
+        .question-number {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(99, 102, 241, 0.1);
+            color: var(--accent-secondary);
+            padding: 0.5rem 1rem;
+            border-radius: 100px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .category-tag {
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--warning);
+            padding: 0.3rem 0.8rem;
+            border-radius: 100px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-left: 0.5rem;
+            border: 1px solid rgba(245, 158, 11, 0.2);
+        }
+
+        .question-text {
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--text-primary);
+            margin-bottom: 2rem;
+            line-height: 1.7;
+        }
+
+        .question-context {
+            background: rgba(99, 102, 241, 0.05);
+            border-left: 3px solid var(--accent-primary);
+            padding: 1rem 1.5rem;
+            margin-bottom: 1.5rem;
+            border-radius: 0 12px 12px 0;
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+        }
+
+        /* Options */
+        .options-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .option {
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+            padding: 1.25rem 1.5rem;
+            background: var(--bg-secondary);
+            border: 2px solid var(--border);
+            border-radius: 16px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .option:hover:not(.disabled) {
+            border-color: var(--accent-primary);
+            background: rgba(99, 102, 241, 0.05);
+            transform: translateX(4px);
+        }
+
+        .option.selected {
+            border-color: var(--accent-primary);
+            background: rgba(99, 102, 241, 0.1);
+            box-shadow: 0 0 30px var(--accent-glow);
+        }
+
+        .option.correct {
+            border-color: var(--success);
+            background: rgba(16, 185, 129, 0.1);
+            box-shadow: 0 0 30px var(--success-glow);
+        }
+
+        .option.incorrect {
+            border-color: var(--error);
+            background: rgba(239, 68, 68, 0.1);
+            box-shadow: 0 0 30px var(--error-glow);
+        }
+
+        .option.disabled {
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+
+        .option-letter {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            background: var(--bg-card);
+            border-radius: 10px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            flex-shrink: 0;
+            transition: all 0.3s ease;
+        }
+
+        .option.selected .option-letter {
+            background: var(--accent-primary);
+            color: white;
+        }
+
+        .option.correct .option-letter {
+            background: var(--success);
+            color: white;
+        }
+
+        .option.incorrect .option-letter {
+            background: var(--error);
+            color: white;
+        }
+
+        .option-text {
+            flex: 1;
+            font-size: 1rem;
+            color: var(--text-primary);
+            padding-top: 0.4rem;
+        }
+
+        /* Explanation Box */
+        .explanation {
+            margin-top: 1.5rem;
+            padding: 1.5rem;
+            background: rgba(99, 102, 241, 0.05);
+            border-radius: 16px;
+            border: 1px solid rgba(99, 102, 241, 0.2);
+            display: none;
+        }
+
+        .explanation.show {
+            display: block;
+            animation: slideIn 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .explanation-title {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: 600;
+            color: var(--accent-secondary);
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+
+        .explanation-text {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+
+        /* Navigation */
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 2rem;
+            gap: 1rem;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: none;
+            font-family: inherit;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            color: white;
+            box-shadow: 0 10px 30px var(--accent-glow);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 40px var(--accent-glow);
+        }
+
+        .btn-secondary {
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-card);
+            color: var(--text-primary);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        /* Results Screen */
+        .results-screen {
+            display: none;
+            text-align: center;
+            padding: 3rem;
+        }
+
+        .results-screen.show {
+            display: block;
+        }
+
+        .score-circle {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: var(--bg-secondary);
+            margin: 0 auto 2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border: 4px solid var(--accent-primary);
+            box-shadow: 0 0 60px var(--accent-glow);
+            position: relative;
+        }
+
+        .score-circle::before {
+            content: '';
+            position: absolute;
+            inset: -8px;
+            border-radius: 50%;
+            border: 2px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .score-number {
+            font-family: 'Playfair Display', serif;
+            font-size: 4rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            line-height: 1;
+        }
+
+        .score-label {
+            color: var(--text-secondary);
+            font-size: 1rem;
+            margin-top: 0.5rem;
+        }
+
+        .results-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .results-message {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            padding: 1.5rem;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .stat-value.success { color: var(--success); }
+        .stat-value.error { color: var(--error); }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+        }
+
+        /* Start Screen */
+        .start-screen {
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+
+        .start-screen h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .start-screen p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .topic-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+            text-align: left;
+        }
+
+        .topic-item {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+        }
+
+        .topic-icon {
+            width: 40px;
+            height: 40px;
+            background: rgba(99, 102, 241, 0.1);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+
+        .topic-text {
+            font-size: 0.95rem;
+            color: var(--text-primary);
+        }
+
+        /* Quiz Screen */
+        .quiz-screen {
+            display: none;
+        }
+
+        .quiz-screen.show {
+            display: block;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            .question-card {
+                padding: 1.5rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .navigation {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Animations */
+        .fade-in {
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .question-card {
+            animation: cardIn 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        @keyframes cardIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Bilimsel Araştırma Yöntemleri</h1>
+            <p>Kapsamlı Quiz Çalışması</p>
+        </header>
+
+        <!-- Start Screen -->
+        <div id="startScreen" class="start-screen question-card">
+            <h2>Sınava Hazır mısın?</h2>
+            <p>Bu quiz, Bilimsel Araştırma ve Sunum Teknikleri dersinin tüm konularını kapsayan 40 sorudan oluşmaktadır.</p>
+            
+            <div class="topic-grid">
+                <div class="topic-item">
+                    <div class="topic-icon">📊</div>
+                    <span class="topic-text">Örnekleme Yöntemleri</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">📈</div>
+                    <span class="topic-text">İstatistik & Normal Dağılım</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">📚</div>
+                    <span class="topic-text">APA Kaynak Gösterimi</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">🔬</div>
+                    <span class="topic-text">Araştırma Yöntemleri</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">💡</div>
+                    <span class="topic-text">Hipotez & Değişkenler</span>
+                </div>
+                <div class="topic-item">
+                    <div class="topic-icon">📝</div>
+                    <span class="topic-text">Etik & H-İndeks</span>
+                </div>
+            </div>
+
+            <button class="btn btn-primary" onclick="startQuiz()">
+                Quize Başla →
+            </button>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quizScreen" class="quiz-screen">
+            <div class="progress-text">
+                <span id="progressLabel">Soru 1 / 40</span>
+                <span id="scoreLabel">Puan: 0</span>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar" id="progressBar" style="width: 0%"></div>
+            </div>
+
+            <div class="question-card" id="questionCard">
+                <div class="question-number">
+                    <span id="questionNum">Soru 1</span>
+                    <span class="category-tag" id="categoryTag">Örnekleme</span>
+                </div>
+                
+                <div class="question-context" id="questionContext" style="display: none;"></div>
+                
+                <p class="question-text" id="questionText"></p>
+
+                <div class="options-list" id="optionsList"></div>
+
+                <div class="explanation" id="explanation">
+                    <div class="explanation-title">💡 Açıklama</div>
+                    <p class="explanation-text" id="explanationText"></p>
+                </div>
+            </div>
+
+            <div class="navigation">
+                <button class="btn btn-secondary" id="prevBtn" onclick="prevQuestion()" disabled>
+                    ← Önceki
+                </button>
+                <button class="btn btn-primary" id="nextBtn" onclick="nextQuestion()">
+                    Sonraki →
+                </button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="results-screen question-card">
+            <div class="score-circle">
+                <span class="score-number" id="finalScore">0</span>
+                <span class="score-label">/ 40</span>
+            </div>
+            
+            <h2 class="results-title" id="resultsTitle">Tebrikler!</h2>
+            <p class="results-message" id="resultsMessage">Quiz'i tamamladın!</p>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value success" id="correctCount">0</div>
+                    <div class="stat-label">Doğru</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value error" id="incorrectCount">0</div>
+                    <div class="stat-label">Yanlış</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="percentageScore">0%</div>
+                    <div class="stat-label">Başarı Oranı</div>
+                </div>
+            </div>
+
+            <button class="btn btn-primary" onclick="restartQuiz()">
+                Tekrar Dene
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            // ÖRNEKLEME YÖNTEMLERİ
+            {
+                category: "Örnekleme",
+                question: "Bir araştırmacı, öğrencilerin akademik başarılarını etkileyen faktörleri incelemek için belirli bir okulda okuyan tüm öğrencileri yaş gruplarına göre kategorilere ayırarak her yaş grubundan rastgele öğrenci seçmiştir. Bu durumda hangi örnekleme yöntemi kullanılmıştır?",
+                options: [
+                    "Basit Rastgele Örnekleme",
+                    "Sistematik Örnekleme",
+                    "Tabakalı Örnekleme",
+                    "Kartopu Örnekleme",
+                    "Amaçlı Örnekleme"
+                ],
+                correct: 2,
+                explanation: "Popülasyon gruplara (yaş grupları) ayrılıp her gruptan rastgele seçim yapıldığında tabakalı örnekleme kullanılmış olur."
+            },
+            {
+                category: "Örnekleme",
+                question: "Bir araştırmacı, bilimsel bir çalışmada örneklem seçerken rastgele bir başlangıç noktası belirleyip, ardından her 10. kişiyi seçerek örneklemini oluşturmuştur. Bu araştırmacının kullandığı örnekleme yöntemi hangisidir?",
+                options: [
+                    "Basit Rastgele Örnekleme",
+                    "Tabakalı Örnekleme",
+                    "Sistematik Örnekleme",
+                    "Küme Örnekleme",
+                    "Amaçlı Örnekleme"
+                ],
+                correct: 2,
+                explanation: "Rastgele başlangıç noktası + her k. kişiyi seçme = Sistematik Örnekleme'nin tanımıdır."
+            },
+            {
+                category: "Örnekleme",
+                question: "Bir araştırmacı, Türkiye'deki üniversite öğrencilerinin sosyal medya kullanım alışkanlıklarını incelemek için 15 farklı üniversite belirlemiş ve her üniversiteden rastgele 50 öğrenci seçmiştir. Bu örnekleme yöntemi aşağıdakilerden hangisidir?",
+                options: [
+                    "Tabakalı Örnekleme",
+                    "Küme Örnekleme",
+                    "Basit Rastgele Örnekleme",
+                    "Sistematik Örnekleme",
+                    "Kartopu Örnekleme"
+                ],
+                correct: 1,
+                explanation: "Üniversiteler birer küme olarak seçilmiş ve her kümeden örneklem alınmış. Tabakalıdan farkı: Tüm gruplardan değil, seçilen kümelerden örneklem alınır."
+            },
+            {
+                category: "Örnekleme",
+                question: "Bir araştırmacı, Türkiye'deki vegan beslenme alışkanlıklarını incelemek için sosyal medya gruplarındaki aktif katılımcıları özellikle seçiyor ve bu gruplar üzerinden veri topluyor. Bu örnekleme yöntemi aşağıdakilerden hangisidir?",
+                options: [
+                    "Tabakalı Örnekleme",
+                    "Küme Örnekleme",
+                    "Amaçlı Örnekleme",
+                    "Sistematik Örnekleme",
+                    "Kartopu Örnekleme"
+                ],
+                correct: 2,
+                explanation: "Araştırmacı belirli özelliklere sahip kişileri bilinçli olarak seçtiğinde amaçlı (kasti) örnekleme yapmış olur."
+            },
+            {
+                category: "Örnekleme",
+                question: "Bir araştırmada örneklem büyüklüğünü artırmanın temel amacı nedir?",
+                options: [
+                    "Araştırmanın maliyetini düşürmek",
+                    "Sonuçların istatistiksel olarak daha güvenilir olmasını sağlamak",
+                    "Hipotezi değiştirmek",
+                    "Veri toplama süresini kısaltmak"
+                ],
+                correct: 1,
+                explanation: "Örneklem büyüklüğü arttıkça sonuçların genellenebilirliği ve güvenilirliği artar."
+            },
+            // İSTATİSTİK & NORMAL DAĞILIM
+            {
+                category: "İstatistik",
+                question: "Aşağıdakilerden hangisi normal dağılımın özelliklerinden biri değildir?",
+                options: [
+                    "Sürekli rassal bir değişkenin yoğunluk fonksiyonu olduğu için eğrinin altında kalan alanın tamamı 1'e eşittir.",
+                    "Dağılımın aritmetik ortalama (µ) etrafında simetriktir.",
+                    "Aritmetik ortalamanın 1σ sağında ve solunda kalan alan toplam alanın %68'ine eşittir.",
+                    "Aritmetik ortalamanın 2σ sağında ve solunda kalan alan toplam alanın %99.7'sine eşittir.",
+                    "Aritmetik ortalama, mod ve medyan birbirine eşittir."
+                ],
+                correct: 3,
+                explanation: "Normal dağılımda: ±1σ = %68, ±2σ = %95, ±3σ = %99.7. D şıkkında 2σ için %99.7 denmiş, bu yanlış."
+            },
+            {
+                category: "İstatistik",
+                context: "Bir fabrikada üretilen vidaların boyları normal dağılım göstermektedir. Ortalama (μ): 50 mm, Standart Sapma (σ): 5 mm. Z-tablosu kullanılarak P(z≤2) = 0.9772 olduğu biliniyor.",
+                question: "60 mm'den uzun bir vidanın üretilme olasılığı nedir?",
+                options: [
+                    "0.0228",
+                    "0.1587",
+                    "0.5000",
+                    "0.8413",
+                    "0.9772"
+                ],
+                correct: 0,
+                explanation: "Z = (60-50)/5 = 2. P(Z>2) = 1 - P(Z≤2) = 1 - 0.9772 = 0.0228"
+            },
+            {
+                category: "İstatistik",
+                context: "Mahmut lineer cebir sınavından 60, mat 1 sınavından 50 almıştır. Lineer cebir: ortalama=70, standart sapma=5. Mat 1: ortalama=30, standart sapma=10.",
+                question: "Aşağıdakilerden hangisi yanlıştır?",
+                options: [
+                    "Lineer cebir sınavında 1 standart sapma içindedir",
+                    "Mat 1 sınavında daha başarılıdır",
+                    "Mat 1 sınavında üst %2.5'lik dilimdedir",
+                    "Lineer cebirde 2 standart sapma içindedir",
+                    "Lineer cebirde en başarılı %97.5 içindedir"
+                ],
+                correct: 0,
+                explanation: "Lineer Cebir Z = (60-70)/5 = -2 (2 standart sapma uzakta), Mat 1 Z = (50-30)/10 = +2. A şıkkı yanlış çünkü -2, 1 standart sapma içinde değil."
+            },
+            {
+                category: "İstatistik",
+                question: "Z değerinin anlamı nedir?",
+                options: [
+                    "Normal dağılımda bir gözlemin ortalamaya göre kaç standart sapma uzakta olduğunu gösterir.",
+                    "Verilerin aritmetik ortalamaya göre dağılım miktarını ölçer.",
+                    "Bir örneklemin varyansını hesaplamak için kullanılır.",
+                    "Verilerin birbirine yakınlık derecesini gösterir.",
+                    "Belirli bir veri setinin ortalama değerini bulmaya yarar."
+                ],
+                correct: 0,
+                explanation: "Z skoru = (X - μ) / σ formülü ile bir değerin ortalamadan kaç standart sapma uzakta olduğunu gösterir."
+            },
+            {
+                category: "İstatistik",
+                question: "Aşağıdakilerden hangisi merkezi eğilim ölçülerinden değildir?",
+                options: [
+                    "Aritmetik ortalama",
+                    "Standart sapma",
+                    "Mod",
+                    "Medyan",
+                    "Tepe değer"
+                ],
+                correct: 1,
+                explanation: "Standart sapma bir yayılım ölçüsüdür, merkezi eğilim ölçüsü değildir. Merkezi eğilim: ortalama, medyan, mod."
+            },
+            {
+                category: "İstatistik",
+                question: "Normal dağılımda en fazla yığılma nerede olur?",
+                options: [
+                    "2σ",
+                    "σ",
+                    "-σ",
+                    "μ (ortalama)",
+                    "Dağılımın en sağında ve en solunda"
+                ],
+                correct: 3,
+                explanation: "Normal dağılımda en fazla yığılma ortalamada (μ) olur ve çan eğrisi burada tepe yapar."
+            },
+            // H-İNDEKS
+            {
+                category: "H-İndeks",
+                context: "Bir araştırmacının 9 makalesi bulunmaktadır. Bu makalelerden 4 tanesi en az 4 atıf almıştır, ancak 5. en yüksek atıf alan makalesi yalnızca 3 atıf almıştır.",
+                question: "Bu durumda araştırmacının h-indeksi kaçtır?",
+                options: ["3", "4", "5", "6", "7"],
+                correct: 1,
+                explanation: "H-indeks: En az h atıf almış h adet makale. 4 makale en az 4 atıf almış, 5. makale 3 atıf almış → h-indeks = 4"
+            },
+            {
+                category: "H-İndeks",
+                question: "H-index ile ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+                options: [
+                    "H-index, bir araştırmacının hem yayın sayısını hem de aldığı atıf sayısını dikkate alır.",
+                    "H-index, yalnızca en çok atıf alan tek bir makaleye bağlıdır.",
+                    "Bir araştırmacının H-index değeri zamanla artabilir ancak azalmaz.",
+                    "H-index, akademik performans değerlendirmelerinde kullanılan önemli bir metriktir.",
+                    "H-index, bireysel araştırmacılar için olduğu gibi üniversiteler için de hesaplanabilir."
+                ],
+                correct: 1,
+                explanation: "H-index tek bir makaleye değil, birden fazla makalenin atıf dağılımına bağlıdır."
+            },
+            {
+                category: "H-İndeks",
+                question: "H-index hangi amaçla kullanılan bir ölçüttür?",
+                options: [
+                    "Bir araştırmacının yayınladığı makale sayısını ölçmek",
+                    "Bir araştırmacının atıf aldığı makale sayısını ve atıf etkisini birlikte değerlendirmek",
+                    "Sadece en çok atıf alan makaleleri belirlemek",
+                    "Makalelerin yayımlandığı dergilerin etki faktörünü hesaplamak",
+                    "Bir araştırmacının akademik unvanını belirlemek"
+                ],
+                correct: 1,
+                explanation: "H-index hem yayın sayısını hem de bu yayınların aldığı atıfları birlikte değerlendiren bir metriktir."
+            },
+            // APA FORMAT
+            {
+                category: "APA Format",
+                question: "APA formatında metin içi alıntılarda (in-text citation) yazarın adı geçiyorsa yıl nasıl yazılır?",
+                options: [
+                    "Yazarın soyadı ve yılı parantez içinde verilir.",
+                    "Yazarın soyadı, yayın yılı ve sayfa numarası parantez içinde yazılır.",
+                    "Yazarın soyadı cümle içinde geçiyorsa, yayın yılı parantez içinde yazılır.",
+                    "Yazarın adının tamamı ve yayın yılı yazılır.",
+                    "Sadece soyadı yazılır, yıl belirtilmez."
+                ],
+                correct: 2,
+                explanation: "Örnek: 'Yılmaz (2020) bu konuyu incelemiştir.' - Yazar adı cümlede geçiyorsa sadece yıl paranteze alınır."
+            },
+            {
+                category: "APA Format",
+                question: "APA formatına göre aşağıdaki kaynak gösterimlerinden hangisi doğrudur?",
+                options: [
+                    "(Demir, 2022, s. 45)",
+                    "[Demir, 2022]",
+                    "\"Demir (2022) s.45\"",
+                    "(Demir, 2022, 45. sayfa)",
+                    "Demir, 2022; s.45"
+                ],
+                correct: 0,
+                explanation: "APA formatında doğru gösterim: (Soyad, Yıl, s. Sayfa) şeklindedir."
+            },
+            {
+                category: "APA Format",
+                question: "APA'ya göre kitap için kaynakça nasıl yazılır?",
+                options: [
+                    "Yazarın Soyadı, Adının Baş Harfi. (Yıl). Kitap Adı. Yayıncı.",
+                    "Yazar, (Yıl). Kitap Adı. Yayıncı.",
+                    "Kitap Adı, Yazarın Adı Soyadı, Yayıncı (Yıl).",
+                    "Yazarın Adı Soyadı (Yıl) Kitap Adı, Yayıncı.",
+                    "Yazarın Soyadı, Adı. Kitap Adı. Yayıncı, Yıl."
+                ],
+                correct: 0,
+                explanation: "APA 7'de kitap kaynakçası: Soyad, A. (Yıl). Kitap adı. Yayınevi."
+            },
+            {
+                category: "APA Format",
+                question: "APA formatında metin içi kaynak gösteriminde yazarın soyadı ve yıl hangi parantez içinde yazılır?",
+                options: [
+                    "[ ] Köşeli parantez",
+                    "{ } Süslü parantez",
+                    "( ) Normal parantez",
+                    "< > Açılı parantez",
+                    "\" \" Çift tırnak"
+                ],
+                correct: 2,
+                explanation: "APA formatında her zaman normal (yuvarlak) parantez kullanılır: (Soyad, Yıl)"
+            },
+            // ARAŞTIRMA YÖNTEMLERİ
+            {
+                category: "Araştırma",
+                question: "Aşağıdaki araştırma türlerinden hangisi, değişkenler arasında neden-sonuç ilişkisi kurmaya en uygundur?",
+                options: [
+                    "Tanımlayıcı araştırma (Descriptive Research)",
+                    "Kesitsel araştırma (Cross-Sectional Study)",
+                    "Deneysel araştırma (Experimental Research)",
+                    "Meta-analiz"
+                ],
+                correct: 2,
+                explanation: "Deneysel araştırma, bağımsız değişkeni manipüle edip kontrol grubu kullandığı için neden-sonuç ilişkisi kurmaya en uygun yöntemdir."
+            },
+            {
+                category: "Araştırma",
+                question: "Nicel ve nitel araştırma yöntemleri arasındaki temel fark aşağıdakilerden hangisidir?",
+                options: [
+                    "Nicel araştırmalar istatistiksel verilere, nitel araştırmalar ise yorumlara dayanır.",
+                    "Nitel araştırmalar daha güvenilirdir.",
+                    "Nicel araştırmalar daha az veri kullanır.",
+                    "Nitel araştırmalar yalnızca doğal bilimlerde kullanılır."
+                ],
+                correct: 0,
+                explanation: "Nicel: sayısal veriler ve istatistik. Nitel: derinlemesine anlama, yorumlar ve betimlemeler."
+            },
+            {
+                category: "Araştırma",
+                question: "Bir akademik araştırmada, belirli bir konuda daha önce yapılan çalışmaların sonuçlarını bir araya getirerek yeni bir analiz yapılması amaçlanıyorsa, hangi araştırma yöntemi tercih edilmelidir?",
+                options: [
+                    "Deneysel araştırma",
+                    "Vaka analizi",
+                    "Betimsel analiz",
+                    "Meta-analiz",
+                    "Kesitsel araştırma"
+                ],
+                correct: 3,
+                explanation: "Meta-analiz, önceki çalışmaların sonuçlarını istatistiksel olarak birleştirerek genel bir sonuç çıkarmayı amaçlar."
+            },
+            {
+                category: "Araştırma",
+                question: "Bilimsel araştırmalarda kullanılan nicel yöntemlerin temel özelliği nedir?",
+                options: [
+                    "Verileri sayısal olarak ifade etmek",
+                    "Yalnızca gözlem yoluyla bilgi toplamak",
+                    "Kişisel yorumlara dayalı olmak",
+                    "Sonuçların öznel bir bakış açısıyla değerlendirilmek",
+                    "Deneysel yöntemlerden kaçınmak"
+                ],
+                correct: 0,
+                explanation: "Nicel araştırma, verileri sayısal olarak toplar ve istatistiksel yöntemlerle analiz eder."
+            },
+            // DEĞİŞKENLER & HİPOTEZ
+            {
+                category: "Değişkenler",
+                context: "Bir araştırmacı, bitkilerin ışık miktarına bağlı olarak nasıl büyüdüğünü incelemek istiyor. Aynı türden üç bitkiyi aynı türdeki saksılara ve toprağa yerleştiriyor. Birinci bitkiyi günlük 2 saat ışık alan bir ortama, ikinci bitkiyi günlük 6 saat, üçüncü bitkiyi ise günlük 12 saat ışık alan bir ortama yerleştiriyor.",
+                question: "Bu deneyde bağımsız değişken nedir?",
+                options: [
+                    "Bitkilerin aldığı ışık miktarı",
+                    "Bitkilerin aldığı su miktarı",
+                    "Bitkilerin bulunduğu saksılar",
+                    "Bitkilerin türü",
+                    "Bitkilerin başlangıçtaki boyu"
+                ],
+                correct: 0,
+                explanation: "Bağımsız değişken, araştırmacının değiştirdiği (manipüle ettiği) değişkendir. Burada ışık miktarı değiştiriliyor."
+            },
+            {
+                category: "Değişkenler",
+                question: "Bir araştırmada 'Öğrencilerin uyku düzeni ile akademik başarıları arasındaki ilişki' incelenmektedir. Bu çalışmada bağımlı değişken nedir?",
+                options: [
+                    "Öğrencilerin yaşı",
+                    "Uyku düzeni",
+                    "Akademik başarı",
+                    "Öğrencilerin beslenme alışkanlıkları",
+                    "Öğrencilerin çalıştıkları ortam şartları"
+                ],
+                correct: 2,
+                explanation: "Bağımlı değişken, bağımsız değişkenden etkilenen ve ölçülen değişkendir. Uyku düzeni → Akademik başarıyı etkiler."
+            },
+            {
+                category: "Hipotez",
+                question: "Bilimsel araştırmalarda hipotezin rolü nedir?",
+                options: [
+                    "Sonuçların kesin doğruluğunu kanıtlamak",
+                    "Araştırma sürecini tamamlamak için bir formalite olmak",
+                    "Araştırmada test edilebilir bir önerme sunmak",
+                    "Yalnızca teorik bilgileri tekrar etmek",
+                    "Verilerin analizine gerek bırakmadan sonucu belirlemek"
+                ],
+                correct: 2,
+                explanation: "Hipotez, araştırmada test edilebilir bir önerme sunar ve araştırmanın yönünü belirler."
+            },
+            {
+                category: "Hipotez",
+                question: "Aşağıdakilerden hangisi bilimsel araştırmalarda bir hipotezin sahip olması gereken özelliklerden biri değildir?",
+                options: [
+                    "Test edilebilir olması",
+                    "Gözlemlenebilir verilere dayanması",
+                    "Kesin ve değişmez bir ifade içermesi",
+                    "Araştırma sorusuyla ilişkili olması",
+                    "Ölçülebilir sonuçlar öngörmesi"
+                ],
+                correct: 2,
+                explanation: "Hipotez kesin ve değişmez olamaz. Test edilebilir, yanlışlanabilir ve değiştirilebilir olmalıdır."
+            },
+            // GÜVENİLİRLİK & GEÇERLİLİK
+            {
+                category: "Güvenilirlik",
+                question: "Bir testin iç tutarlılığını ölçmek için en yaygın kullanılan yöntem aşağıdakilerden hangisidir?",
+                options: [
+                    "Korelasyon katsayısını hesaplamak",
+                    "Cronbach Alpha katsayısını hesaplamak",
+                    "Faktör analizi yapmak",
+                    "Açıklayıcı veri analizi uygulamak"
+                ],
+                correct: 1,
+                explanation: "İç tutarlılık için en yaygın yöntem Cronbach Alpha'dır. Faktör analizi yapı geçerliliği için kullanılır."
+            },
+            {
+                category: "Güvenilirlik",
+                context: "Bir araştırmacı, geliştirdiği psikolojik ölçeğin tutarlı sonuçlar verip vermediğini test etmek için aynı katılımcı grubuna iki hafta arayla aynı ölçeği uyguluyor.",
+                question: "Bu yöntem aşağıdaki kavramlardan hangisini ölçmeyi amaçlar?",
+                options: [
+                    "Yapı Geçerliliği",
+                    "İç Tutarlılık",
+                    "Test-Tekrar Test Güvenilirliği",
+                    "Eş Zamanlı Geçerlilik",
+                    "Faktör Analizi"
+                ],
+                correct: 2,
+                explanation: "Aynı testi iki farklı zamanda uygulayıp sonuçları karşılaştırmak test-tekrar test güvenilirliğini ölçer."
+            },
+            {
+                category: "Geçerlilik",
+                question: "Bir testin geçerliliği neyi ifade eder?",
+                options: [
+                    "Testin tutarlı sonuçlar verip vermediğini",
+                    "Testin ölçmek istediği kavramı ne kadar doğru ölçtüğünü",
+                    "Testin uygulama süresini",
+                    "Testin maddelerinin zorluk derecesini"
+                ],
+                correct: 1,
+                explanation: "Geçerlilik: Testin ölçmek istediği şeyi doğru ölçmesi. Güvenilirlik: Tutarlı sonuç vermesi."
+            },
+            // ETİK
+            {
+                category: "Etik",
+                question: "Aşağıdakilerden hangisi bilimsel araştırmalarda etik ilkelerden biri değildir?",
+                options: [
+                    "Katılımcıların gizliliğinin korunması",
+                    "Araştırma verilerinin kasıtlı olarak değiştirilmesi",
+                    "Çalışmaların açık ve şeffaf bir şekilde yürütülmesi",
+                    "Kaynak gösterme kurallarına uyulması",
+                    "Araştırmaya katılımın gönüllülük esasına dayanması"
+                ],
+                correct: 1,
+                explanation: "Verilerin kasıtlı olarak değiştirilmesi (fabrikasyon) ciddi bir etik ihlaldir."
+            },
+            {
+                category: "Etik",
+                question: "\"Plagiarizm\" (intihal) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+                options: [
+                    "Başkasının fikrini kaynak göstermeden kullanmak intihaldir.",
+                    "Alıntı yaparken tırnak işareti kullanılmazsa bu da intihal sayılabilir.",
+                    "Kaynakçada belirtilmiş olsa bile, metin içinde kaynak gösterilmezse intihal olur.",
+                    "İntihal sadece doğrudan alıntı için geçerlidir, fikir çalmak sayılmaz.",
+                    "Otomatik intihal tespit sistemleri bu durumları saptamada kullanılır."
+                ],
+                correct: 3,
+                explanation: "İntihal sadece kelime çalmak değil, fikir çalmayı da kapsar. Başkasının fikrini kaynak göstermeden kullanmak da intihaldir."
+            },
+            {
+                category: "Etik",
+                question: "Aşağıdakilerden hangisi bilimsel etik ihlali kapsamına girmez?",
+                options: [
+                    "Başkasının fikrini kaynak göstermeden kullanmak",
+                    "Araştırma verilerini kasıtlı olarak değiştirmek",
+                    "Kendi daha önce yazdığı makaleyi tekrar yayımlamak",
+                    "Araştırma sonuçlarını olduğu gibi, değiştirmeden paylaşmak"
+                ],
+                correct: 3,
+                explanation: "Sonuçları olduğu gibi paylaşmak etik bir davranıştır. Diğerleri (intihal, fabrikasyon, oto-intihal) etik ihlaldir."
+            },
+            // BİLİM TÜRLERİ & KAVRAMLAR
+            {
+                category: "Bilim",
+                question: "Aşağıdakilerden hangisi bir bilim türü değildir?",
+                options: [
+                    "Sosyal bilimler",
+                    "Temel bilimler",
+                    "Doğa bilimleri",
+                    "Uygulamalı Bilimler",
+                    "Araştırma bilimleri"
+                ],
+                correct: 4,
+                explanation: "'Araştırma bilimleri' diye bir bilim sınıflandırması yoktur."
+            },
+            {
+                category: "Bilim",
+                question: "Aşağıdakilerden hangisi olgular hakkında yanlış bir bilgi içerir?",
+                options: [
+                    "Gözlenebilir ya da görgül işlemlerle kavranabilir olaylardır.",
+                    "Olgular doğaları gereğince soyutturlar.",
+                    "Çevremizde olan biten her şey birer olgudur.",
+                    "Genellikle duyular aracılığıyla kavranırlar.",
+                    "Olguların 'bir isimleri', 'bir adresleri' vardır."
+                ],
+                correct: 1,
+                explanation: "Olgular soyut değil, somuttur. Gözlenebilir, ölçülebilir ve duyularla kavranabilir gerçekliklerdir."
+            },
+            {
+                category: "Bilim",
+                question: "Bilimsel araştırmaların temel ilkelerinden biri olan 'nesnellik' ne anlama gelir?",
+                options: [
+                    "Araştırmacının kendi düşüncelerini ön plana çıkarması",
+                    "Araştırmanın kişisel görüşlerden bağımsız olması",
+                    "Sadece olumlu sonuçların raporlanması",
+                    "Araştırmanın yalnızca teorik temellere dayanması",
+                    "Verilerin istenilen sonuca ulaşacak şekilde düzenlenmesi"
+                ],
+                correct: 1,
+                explanation: "Nesnellik: Araştırmanın kişisel görüş, önyargı ve beklentilerden bağımsız yürütülmesi."
+            },
+            // EXCEL
+            {
+                category: "Excel",
+                question: "Excel'de hangi formül, belirli bir koşulu sağlayan hücrelerin toplamını hesaplamak için kullanılır?",
+                options: [
+                    "SUM",
+                    "COUNTIF",
+                    "SUMIF",
+                    "AVERAGEIF",
+                    "IFERROR"
+                ],
+                correct: 2,
+                explanation: "SUMIF: Koşulu sağlayan hücreleri toplar. COUNTIF: Koşulu sağlayanları sayar. AVERAGEIF: Koşulu sağlayanların ortalamasını alır."
+            },
+            {
+                category: "Excel",
+                question: "Excel'de bir sütunu tamamen seçmek için hangi kısayol kullanılır?",
+                options: [
+                    "Ctrl + S",
+                    "Ctrl + C",
+                    "Ctrl + Space",
+                    "Shift + Space",
+                    "Ctrl + A"
+                ],
+                correct: 2,
+                explanation: "Ctrl + Space = Sütun seç, Shift + Space = Satır seç, Ctrl + A = Tümünü seç."
+            },
+            {
+                category: "Excel",
+                question: "Excel'de bir veri setindeki en düşük 3 değeri bulmak için kullanılması gereken fonksiyon aşağıdakilerden hangisidir?",
+                options: [
+                    "=MİN()",
+                    "=KÜÇÜK()",
+                    "=ORTANCA()",
+                    "=MAK()",
+                    "=EĞER()"
+                ],
+                correct: 1,
+                explanation: "KÜÇÜK(aralık, k): k. en küçük değeri döndürür. En düşük 3 değer için KÜÇÜK(A1:A10, 1), KÜÇÜK(A1:A10, 2), KÜÇÜK(A1:A10, 3)"
+            },
+            // WORD
+            {
+                category: "Word",
+                question: "Word'de bir belgedeki belirli bir kelimeyi başka bir kelimeyle değiştirmek için hangi araç kullanılır?",
+                options: [
+                    "Yazım ve Dilbilgisi",
+                    "Bul ve Değiştir",
+                    "Biçim Boyacısı",
+                    "Paragraf Ayarları",
+                    "Tablo Ekle"
+                ],
+                correct: 1,
+                explanation: "Bul ve Değiştir (Ctrl+H): Belgedeki kelimeleri bulup başka kelimelerle değiştirir."
+            },
+            {
+                category: "Word",
+                question: "Microsoft Word'de bir belgenin farklı bölümlerine farklı sayfa numaralandırma stilleri eklemek için hangi özellik kullanılır?",
+                options: [
+                    "Sayfa Sonu (Page Break)",
+                    "Bölüm Sonu (Section Break)",
+                    "Üstbilgi ve Altbilgi (Header & Footer)",
+                    "Sayfa Düzeni (Page Layout)",
+                    "Başvurular (References)"
+                ],
+                correct: 1,
+                explanation: "Bölüm Sonu ekleyerek belgeyi bağımsız bölümlere ayırabilir ve her bölüme farklı numaralandırma uygulayabilirsiniz."
+            },
+            // SMART HEDEFLER
+            {
+                category: "SMART",
+                question: "Aşağıdaki seçeneklerden hangisi, SMART hedef belirleme modelinde yer alan bir özellik değildir?",
+                options: [
+                    "Spesifik (Specific)",
+                    "Ölçülebilir (Measurable)",
+                    "Ulaşılabilir (Achievable)",
+                    "Gerçekçi (Realistic)",
+                    "Esnek (Flexible)"
+                ],
+                correct: 4,
+                explanation: "SMART: Specific, Measurable, Achievable, Realistic/Relevant, Time-bound. 'Esnek' bu modelde yer almaz."
+            }
+        ];
+
+        let currentQuestion = 0;
+        let score = 0;
+        let answers = [];
+        let answered = [];
+
+        function startQuiz() {
+            document.getElementById('startScreen').style.display = 'none';
+            document.getElementById('quizScreen').classList.add('show');
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const q = questions[currentQuestion];
+            
+            document.getElementById('questionNum').textContent = `Soru ${currentQuestion + 1}`;
+            document.getElementById('categoryTag').textContent = q.category;
+            document.getElementById('progressLabel').textContent = `Soru ${currentQuestion + 1} / ${questions.length}`;
+            document.getElementById('scoreLabel').textContent = `Puan: ${score}`;
+            document.getElementById('progressBar').style.width = `${((currentQuestion + 1) / questions.length) * 100}%`;
+            
+            // Context
+            const contextEl = document.getElementById('questionContext');
+            if (q.context) {
+                contextEl.textContent = q.context;
+                contextEl.style.display = 'block';
+            } else {
+                contextEl.style.display = 'none';
+            }
+            
+            document.getElementById('questionText').textContent = q.question;
+            
+            // Options
+            const optionsList = document.getElementById('optionsList');
+            optionsList.innerHTML = '';
+            
+            const letters = ['A', 'B', 'C', 'D', 'E'];
+            q.options.forEach((opt, i) => {
+                const div = document.createElement('div');
+                div.className = 'option';
+                div.innerHTML = `
+                    <span class="option-letter">${letters[i]}</span>
+                    <span class="option-text">${opt}</span>
+                `;
+                
+                if (answered[currentQuestion] !== undefined) {
+                    div.classList.add('disabled');
+                    if (i === q.correct) {
+                        div.classList.add('correct');
+                    } else if (i === answers[currentQuestion] && i !== q.correct) {
+                        div.classList.add('incorrect');
+                    }
+                } else {
+                    div.onclick = () => selectOption(i);
+                }
+                
+                optionsList.appendChild(div);
+            });
+            
+            // Explanation
+            const explanationEl = document.getElementById('explanation');
+            if (answered[currentQuestion] !== undefined) {
+                document.getElementById('explanationText').textContent = q.explanation;
+                explanationEl.classList.add('show');
+            } else {
+                explanationEl.classList.remove('show');
+            }
+            
+            // Navigation buttons
+            document.getElementById('prevBtn').disabled = currentQuestion === 0;
+            document.getElementById('nextBtn').textContent = currentQuestion === questions.length - 1 ? 'Sonuçları Gör' : 'Sonraki →';
+        }
+
+        function selectOption(index) {
+            if (answered[currentQuestion] !== undefined) return;
+            
+            const q = questions[currentQuestion];
+            answers[currentQuestion] = index;
+            answered[currentQuestion] = true;
+            
+            if (index === q.correct) {
+                score++;
+            }
+            
+            showQuestion();
+        }
+
+        function nextQuestion() {
+            if (currentQuestion < questions.length - 1) {
+                currentQuestion++;
+                showQuestion();
+                // Scroll to top
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            } else {
+                showResults();
+            }
+        }
+
+        function prevQuestion() {
+            if (currentQuestion > 0) {
+                currentQuestion--;
+                showQuestion();
+            }
+        }
+
+        function showResults() {
+            document.getElementById('quizScreen').classList.remove('show');
+            document.getElementById('resultsScreen').classList.add('show');
+            
+            const percentage = Math.round((score / questions.length) * 100);
+            document.getElementById('finalScore').textContent = score;
+            document.getElementById('correctCount').textContent = score;
+            document.getElementById('incorrectCount').textContent = questions.length - score;
+            document.getElementById('percentageScore').textContent = percentage + '%';
+            
+            let title, message;
+            if (percentage >= 90) {
+                title = '🎉 Mükemmel!';
+                message = 'Sınava hazırsın! Konulara hakim görünüyorsun.';
+            } else if (percentage >= 70) {
+                title = '👏 Çok İyi!';
+                message = 'Güzel bir performans! Birkaç konuyu tekrar edersen daha da iyileşir.';
+            } else if (percentage >= 50) {
+                title = '📚 İyi Çalışma!';
+                message = 'Orta düzeyde bir başarı. Eksik konuları tekrar etmeni öneririm.';
+            } else {
+                title = '💪 Pes Etme!';
+                message = 'Daha fazla çalışman gerekiyor. Notlarını tekrar gözden geçir.';
+            }
+            
+            document.getElementById('resultsTitle').textContent = title;
+            document.getElementById('resultsMessage').textContent = message;
+        }
+
+        function restartQuiz() {
+            currentQuestion = 0;
+            score = 0;
+            answers = [];
+            answered = [];
+            
+            document.getElementById('resultsScreen').classList.remove('show');
+            document.getElementById('quizScreen').classList.add('show');
+            showQuestion();
+        }
+    </script>
+</body>
+</html>
