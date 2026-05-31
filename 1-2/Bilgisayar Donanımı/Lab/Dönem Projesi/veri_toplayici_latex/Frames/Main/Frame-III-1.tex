@@ -1,0 +1,45 @@
+\begin{frame}{SD Kart Dosya Yapisi}
+  \begin{columns}[T]
+    \column{0.50\textwidth}
+      \begin{block}{\texttt{veri.csv} -- Surekli Kayit}
+        \scriptsize
+        \texttt{FILE\_WRITE} modu: \textbf{ekleme yapar}\\[4pt]
+        \begin{tabular}{|l|}
+          \hline
+          \texttt{No,Uptime,Sicaklik,LDR\_Ham,...}\\
+          \texttt{1,000-00:00:01,24.50,512,...}\\
+          \texttt{2,000-00:00:02,35.10,150,...}\\
+          \hline
+        \end{tabular}
+        \vspace{4pt}
+        \begin{itemize}
+          \item Ilk satir bos ise baslik yazar
+          \item Reset sonrasi veriler \textbf{korunur}
+          \item Her saniye 1 satir eklenir
+        \end{itemize}
+      \end{block}
+
+    \column{0.46\textwidth}
+      \begin{block}{\texttt{ozet.txt} -- Rapor}
+        \scriptsize
+        Butona basilinca \textbf{sifirdan} yazilir:\\[4pt]
+        \begin{tabular}{|l|}
+          \hline
+          \texttt{Toplam kayit : 932}\\
+          \texttt{Sicak Max    : 37.20 C}\\
+          \texttt{Sicak Min    : 22.10 C}\\
+          \texttt{Sicak Ort    : 25.43 C}\\
+          \texttt{Sicak alarm  : 14}\\
+          \texttt{LDR Max      : 980 (95\%)}\\
+          \texttt{Karanlik al. : 3}\\
+          \hline
+        \end{tabular}
+      \end{block}
+      \vspace{4pt}
+      \begin{alertblock}{SD Kart Gereksinimleri}
+        \scriptsize
+        FAT32 formatlanmis $\cdot$ 32GB alti\\
+        SPI protokolü (D10--D13)
+      \end{alertblock}
+  \end{columns}
+\end{frame}

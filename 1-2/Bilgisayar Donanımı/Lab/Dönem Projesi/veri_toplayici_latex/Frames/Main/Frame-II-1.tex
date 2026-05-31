@@ -1,0 +1,66 @@
+\begin{frame}{Ana Dongu Akis Diyagrami}
+  \begin{columns}[T]
+    \column{0.48\textwidth}
+    \begin{center}
+    \begin{tikzpicture}[
+      proc/.style={rectangle, draw=black, fill=gray!15,
+                   rounded corners=2pt, minimum width=2.8cm,
+                   minimum height=0.48cm, font=\tiny, text centered},
+      dec/.style={diamond, draw=black, fill=gray!30, aspect=2.2,
+                  minimum width=2.4cm, font=\tiny\bfseries, inner sep=1pt},
+      term/.style={proc, fill=black, text=white, rounded corners=8pt},
+      arr/.style={-{Stealth[length=4pt]}, thick},
+      node distance=0.28cm,
+    ]
+      \node[term] (s)  {loop() basi};
+      \node[dec,  below=of s]  (b)  {Buton?};
+      \node[proc, right=0.7cm of b] (oz) {ozetYaz()};
+      \node[dec,  below=0.5cm of b] (t)  {1000ms?};
+      \node[proc, below=0.4cm of t] (ok) {Sensor oku};
+      \node[proc, below=0.28cm of ok](up) {uptimeStr()};
+      \node[proc, below=0.28cm of up](st) {Istatistik guncelle};
+      \node[proc, below=0.28cm of st](ld) {LED kontrol};
+      \node[proc, below=0.28cm of ld](cs) {csvYaz()};
+      \node[proc, below=0.28cm of cs](se) {Serial cikti};
+      \node[term, below=0.28cm of se](e)  {tekrar};
+
+      \draw[arr] (s)--(b);
+      \draw[arr] (b)--node[left,font=\tiny]{Hayir}(t);
+      \draw[arr] (b)--node[above,font=\tiny]{Evet}(oz);
+      \draw[arr] (oz)|-(t);
+      \draw[arr] (t)--node[left,font=\tiny]{Evet}(ok);
+      \draw[arr] (t.east)--++(0.5,0)node[right,font=\tiny]{Hayir}|-(e.east);
+      \draw[arr] (ok)--(up);
+      \draw[arr] (up)--(st);
+      \draw[arr] (st)--(ld);
+      \draw[arr] (ld)--(cs);
+      \draw[arr] (cs)--(se);
+      \draw[arr] (se)--(e);
+      \draw[arr] (e.south)--++(0,-0.15)-|++(-1.8,0)|-(s.west);
+    \end{tikzpicture}
+    \end{center}
+
+    \column{0.48\textwidth}
+      \begin{block}{millis() Tabanli Zamanlama}
+        \small
+        \texttt{delay()} kullanilmaz!\\[4pt]
+        \texttt{if (simdi - sonKayit >= 1000)}\\[4pt]
+        \begin{itemize}\small
+          \item Buton her an algilanir
+          \item Kayit tam 1 saniyede bir olur
+          \item Sensor okuma \textbf{bloklamaz}
+        \end{itemize}
+      \end{block}
+      \vspace{6pt}
+      \begin{block}{Buton Debounce}
+        \small
+        \begin{enumerate}
+          \item Dusus kenari algilanir\\
+                (HIGH $\to$ LOW)
+          \item 30ms beklenir
+          \item Pin tekrar okunur
+          \item Hala LOW ise gecerli
+        \end{enumerate}
+      \end{block}
+  \end{columns}
+\end{frame}

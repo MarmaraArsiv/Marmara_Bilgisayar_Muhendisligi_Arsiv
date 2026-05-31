@@ -1,0 +1,28 @@
+\frametitle{Serial Monitor Ciktisi ve Kod Ornegi}
+\begin{block}{Serial Monitor -- Her 15 Satirda Baslik Tekrar}
+    \scriptsize\ttfamily
+    \begin{tabular}{l|l|l|l|l|l}
+      No & Uptime & Sicak & LDR & \%Isik & Durum \\
+      \hline
+      1 & 000-00:00:01 & 24.50 C & 512 & 50\% & Normal \\
+      2 & 000-00:00:02 & 24.52 C & 156 & 15\% & KARANLIK \\
+      3 & 000-00:00:03 & 35.10 C & 156 & 15\% & SICAK\_ALARM|KARANLIK \\
+    \end{tabular}
+  \end{block}
+  \vspace{4pt}
+  \begin{block}{Temel Kayit Dongusu}
+    \begin{lstlisting}[style=arduino]
+if (simdi - sonKayit >= KAYIT_MS) {
+    sonKayit = simdi;
+    kayitNo++;
+    float sicak = sicaklikOku(); // 8 ornek ort.
+    int   ldr   = ldrOku();     // 4 ornek ort.
+    uptimeStr();   // uptimeBuf[] guncelle
+    durumEtiket(sicak, ldr); // durumBuf[] guncelle
+    if (sicak > stat.sicakMax) stat.sicakMax = sicak;
+    stat.say++;
+    if (sdHazir) csvYaz(kayitNo, sicak, ldr);
+    Serial.println(durumBuf);
+}
+    \end{lstlisting}
+  \end{block}
