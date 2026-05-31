@@ -1,0 +1,57 @@
+\begin{frame}{Donanim ve Baglanti Semaasi}
+  \begin{columns}[T]
+    \column{0.38\textwidth}
+      \begin{block}{Malzeme Listesi}
+        \begin{tabular}{ll}
+          \textbf{MCU}      & Arduino Uno \\
+          \textbf{Sensor 1} & LM35 (sicaklik) \\
+          \textbf{Sensor 2} & LDR (isik) \\
+          \textbf{Depolama} & SD Kart Mod. \\
+          \textbf{Giris}    & Buton (D2) \\
+          \textbf{Cikis}    & LED (D13) \\
+        \end{tabular}
+      \end{block}
+      \vspace{4pt}
+      \begin{block}{Pin Baglantilari}
+        \scriptsize
+        \begin{tabular}{ll}
+          \texttt{D10} & SD -- CS \\
+          \texttt{D11} & SD -- MOSI \\
+          \texttt{D12} & SD -- MISO \\
+          \texttt{D13} & SD -- SCK / LED \\
+          \texttt{A0}  & LDR \\
+          \texttt{A5}  & LM35 \\
+          \texttt{D2}  & Buton \\
+        \end{tabular}
+      \end{block}
+
+    \column{0.58\textwidth}
+      \begin{block}{Baglanti Semasi}
+        \begin{center}
+        \begin{tikzpicture}[
+          box/.style={rectangle, draw=black, fill=gray!20,
+                      rounded corners=3pt, minimum width=1.8cm,
+                      minimum height=0.55cm, font=\scriptsize\bfseries,
+                      text centered},
+          arr/.style={-{Stealth[length=5pt]}, thick},
+          node distance=0.4cm and 1.3cm,
+        ]
+          \node[box, fill=black, text=white, minimum height=3.2cm,
+                minimum width=1.4cm] (ard) {Arduino};
+
+          \node[box, right=1.5cm of ard, yshift= 0.8cm] (sd)  {SD Kart};
+          \node[box, left =1.5cm of ard, yshift= 0.9cm] (ldr) {LDR};
+          \node[box, left =1.5cm of ard, yshift= 0.2cm] (lm)  {LM35};
+          \node[box, left =1.5cm of ard, yshift=-0.5cm] (btn) {Buton};
+          \node[box, left =1.5cm of ard, yshift=-1.1cm] (led) {LED};
+
+          \draw[arr] (sd.west)  -- node[above,font=\tiny]{SPI} (ard.east |- sd);
+          \draw[arr] (ldr.east) -- node[above,font=\tiny]{A0}  (ard.west |- ldr);
+          \draw[arr] (lm.east)  -- node[above,font=\tiny]{A5}  (ard.west |- lm);
+          \draw[arr] (btn.east) -- node[above,font=\tiny]{D2}  (ard.west |- btn);
+          \draw[arr] (led.east) -- node[above,font=\tiny]{D13} (ard.west |- led);
+        \end{tikzpicture}
+        \end{center}
+      \end{block}
+  \end{columns}
+\end{frame}

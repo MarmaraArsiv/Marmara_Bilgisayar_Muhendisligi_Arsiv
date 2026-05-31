@@ -1,0 +1,62 @@
+\begin{frame}{Alarm Sistemi}
+  \begin{columns}[T]
+    \column{0.52\textwidth}
+      \begin{block}{Alarm Esikleri}
+        \begin{center}
+        \small
+        \begin{tabular}{|l|c|l|}
+          \hline
+          \rowcolor{black}\color{white}\textbf{Durum} &
+          \color{white}\textbf{Kosul} &
+          \color{white}\textbf{Etiket} \\
+          \hline
+          Asiri Sicak & $T \geq 35$\textcelsius & \texttt{SICAK\_ALARM} \\
+          \hline
+          \rowcolor{gray!15}
+          Asiri Soguk & $T \leq 10$\textcelsius & \texttt{SOGUK\_ALARM} \\
+          \hline
+          Karanlik    & LDR $\leq 200$ & \texttt{KARANLIK} \\
+          \hline
+          \rowcolor{gray!15}
+          Cok Parlak  & LDR $\geq 900$ & \texttt{COK\_PARLAK} \\
+          \hline
+          Normal      & Hicbiri & \texttt{Normal} \\
+          \hline
+        \end{tabular}
+        \end{center}
+      \end{block}
+      \vspace{4pt}
+      \begin{block}{Birden Fazla Alarm}
+        \small
+        Kosullar \texttt{|} ile birlestirilir:\\
+        \texttt{SICAK\_ALARM|KARANLIK}
+      \end{block}
+
+    \column{0.44\textwidth}
+      \begin{block}{LED Alarm Gostergesi}
+        \small
+        \begin{tikzpicture}[
+          node distance=0.4cm,
+          box/.style={rectangle, draw=black, fill=gray!15,
+                      rounded corners=2pt, minimum width=2.5cm,
+                      minimum height=0.48cm, font=\scriptsize, text centered},
+          arr/.style={-{Stealth[length=4pt]}, thick},
+        ]
+          \node[box, fill=black, text=white] (c) {\texttt{sicak >= 35}};
+          \node[box, below=of c] (y) {LED = HIGH};
+          \node[box, below=of y, fill=gray!30] (n) {LED = LOW};
+          \node[box, below=0.6cm of c, xshift=1.5cm, fill=gray!5,
+                font=\tiny] (e) {diger alarm: yok};
+          \draw[arr] (c)--node[left,font=\tiny]{Evet}(y);
+          \draw[arr] (c.east)--++(0.3,0)node[right,font=\tiny]{Hayir}|-(n.east);
+        \end{tikzpicture}
+      \end{block}
+      \vspace{4pt}
+      \begin{block}{Istatistik Sayaclari}
+        \scriptsize
+        \texttt{sicakAlarm++} $\leftarrow$ her asim\\
+        \texttt{karanlikAlarm++} $\leftarrow$ her karanlik\\
+        Ozet raporunda gosterilir.
+      \end{block}
+  \end{columns}
+\end{frame}

@@ -1,0 +1,69 @@
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amssymb, amsmath, amsthm, amsfonts, amscd, graphicx,
+            array, multicol, setspace, caption, color, tikz, listings}
+\usetikzlibrary{intersections, decorations.pathmorphing,
+                shapes.geometric, arrows.meta, positioning, backgrounds}
+\usepackage{pifont}
+\usepackage{textcomp}
+\usepackage{colortbl}
+\usepackage{fix-cm}
+\usepackage{csquotes}
+%----------------------------------------------
+\usecolortheme{beaver}
+\usetheme{Frankfurt}
+\setbeamercolor{section in head/foot}{bg=black}
+\setbeamercolor{title}{fg=white, bg=black}
+\setbeamercolor{frametitle}{fg=white, bg=black}
+\setbeamercolor{block title}{fg=white, bg=black}
+\setbeamercolor{block body}{bg=gray!15}
+\setbeamercolor{item}{fg=gray}
+\setbeamertemplate{navigation symbols}{}
+\setbeamercovered{transparent}
+%----------------------------------------------
+% Kod stili
+\lstdefinestyle{arduino}{
+  basicstyle=\ttfamily\tiny\color{white},
+  backgroundcolor=\color{black!85},
+  keywordstyle=\color{yellow!80}\bfseries,
+  commentstyle=\color{green!60}\itshape,
+  stringstyle=\color{orange!80},
+  language=C++,
+  breaklines=true,
+  frame=single, framerule=0pt,
+  numbers=left, numberstyle=\tiny\color{gray},
+  xleftmargin=1.5em, framexleftmargin=1em,
+  tabsize=2, showstringspaces=false,
+}
+%----------------------------------------------
+\newcommand{\mysection}[1]{\section{#1}\def\sectionname{#1}\SectionFrame}
+%----------------------------------------------
+\newcommand{\Front}{%
+  \thispagestyle{empty}
+  \begin{frame}
+    \begin{figure}
+      \centering
+      \includegraphics[width=0.25\textwidth]{Logos/SUT.png}
+    \end{figure}
+    \maketitle
+  \end{frame}
+}
+\newcommand{\overview}{%
+  \begin{frame}{Genel Bakis}
+    \tableofcontents
+  \end{frame}
+}
+\newcommand{\SectionFrame}{%
+  \begin{frame}{}
+    \begin{center}
+      {\fontsize{25pt}{36pt}\selectfont \thesection.\ \sectionname}
+    \end{center}
+  \end{frame}
+}
+\newcommand{\Ending}[1]{%
+  \begin{frame}{}
+    \begin{center}
+      {\fontsize{35pt}{36pt}\selectfont #1}
+    \end{center}
+  \end{frame}
+}

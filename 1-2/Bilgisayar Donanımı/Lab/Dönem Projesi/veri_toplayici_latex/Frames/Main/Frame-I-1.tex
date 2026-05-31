@@ -1,0 +1,42 @@
+\begin{frame}{Modul Yapisi -- Katmanli Mimari}
+  \begin{center}
+  \begin{tikzpicture}[
+    layer/.style={rectangle, draw=black, minimum width=7.5cm,
+                  minimum height=0.6cm, rounded corners=3pt,
+                  font=\small\bfseries, text centered},
+    mod/.style={rectangle, draw=black, fill=gray!20, rounded corners=3pt,
+                minimum width=2.1cm, minimum height=0.55cm,
+                font=\scriptsize\bfseries, text centered},
+    arr/.style={-{Stealth[length=5pt]}, thick},
+  ]
+    % Katmanlar (aşağıdan yukarı)
+    \node[layer, fill=black, text=white] (hw)
+      at (0,0) {Donanim -- Arduino ADC / SPI / GPIO};
+
+    \node[layer, fill=gray!40] (drv)
+      at (0,0.85) {Surucu Katmani -- SD.h / SPI.h};
+
+    % Modül satırı
+    \node[mod] (ms) at (-2.5, 1.8) {Sensor Modulu};
+    \node[mod] (mf) at ( 0.0, 1.8) {SD/Dosya Modulu};
+    \node[mod] (mi) at ( 2.5, 1.8) {Istatistik Modulu};
+
+    % Yardımcı modüller
+    \node[mod, fill=gray!10] (mu) at (-2.5, 2.65) {Zaman (Uptime)};
+    \node[mod, fill=gray!10] (md) at ( 0.0, 2.65) {Durum Etiketi};
+    \node[mod, fill=gray!10] (mb) at ( 2.5, 2.65) {Buton / Alarm};
+
+    % Uygulama katmanı
+    \node[layer, fill=black!70, text=white] (app)
+      at (0,3.45) {Uygulama -- setup() / loop()};
+
+    % Oklar
+    \foreach \m in {ms,mf,mi}
+      \draw[arr] (\m.south) -- (drv.north -| \m);
+    \foreach \m in {mu,md,mb}
+      \draw[arr] (\m.south) -- ++(0,-0.22);
+    \draw[arr] (drv.south) -- (hw.north);
+    \draw[arr] (app.south) -- ++(0,-0.22);
+  \end{tikzpicture}
+  \end{center}
+\end{frame}

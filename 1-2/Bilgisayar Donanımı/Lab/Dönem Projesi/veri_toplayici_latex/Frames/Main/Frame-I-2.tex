@@ -1,0 +1,40 @@
+\begin{frame}{Fonksiyon Tablosu}
+  \begin{center}
+  \small
+  \begin{tabular}{|l|l|p{5.5cm}|}
+    \hline
+    \rowcolor{black}\color{white}\textbf{Fonksiyon} &
+    \color{white}\textbf{Donus} &
+    \color{white}\textbf{Gorev} \\
+    \hline
+    \texttt{uptimeStr()} & \texttt{void} &
+      Global \texttt{uptimeBuf[]} alanina GGG-SS:DD:SN yazar \\
+    \hline
+    \rowcolor{gray!15}
+    \texttt{sicaklikOku()} & \texttt{float} &
+      8 ornek ortalamasi ile LM35'ten \textcelsius{} okur \\
+    \hline
+    \texttt{ldrOku()} & \texttt{int} &
+      4 ornek ortalamasi ile LDR degeri okur \\
+    \hline
+    \rowcolor{gray!15}
+    \texttt{durumEtiket()} & \texttt{void} &
+      Alarm durumlarini \texttt{durumBuf[]} alanina yazar \\
+    \hline
+    \texttt{csvYaz()} & \texttt{void} &
+      \texttt{veri.csv} dosyasina satir ekler \\
+    \hline
+    \rowcolor{gray!15}
+    \texttt{ozetYaz()} & \texttt{void} &
+      \texttt{ozet.txt} ozet raporunu olusturur \\
+    \hline
+    \texttt{setup()} & --- &
+      Donanim ve SD kart baslatma \\
+    \hline
+    \rowcolor{gray!15}
+    \texttt{loop()} & --- &
+      Buton kontrolu + periyodik kayit dongusu \\
+    \hline
+  \end{tabular}
+  \end{center}
+\end{frame}

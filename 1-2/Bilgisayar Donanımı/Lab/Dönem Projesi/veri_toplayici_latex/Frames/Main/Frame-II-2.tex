@@ -1,0 +1,41 @@
+\begin{frame}{Bellek Optimizasyonu -- Arduino Uno: 2KB RAM}
+  \begin{columns}[T]
+    \column{0.48\textwidth}
+      \begin{block}{Sorun: String Nesneleri}
+        \small
+        \texttt{String} sinifi heap'i \textbf{parcalar}:
+        \begin{itemize}
+          \item Dinamik bellek tahsisi
+          \item Heap parcalanmasi
+          \item SD baslatma icin yer kalmaz
+          \item[\ding{55}] SD kart hatalari
+        \end{itemize}
+      \end{block}
+      \vspace{6pt}
+      \begin{block}{Cozum: char{[}{]} + F()}
+        \small
+        \begin{itemize}
+          \item[\ding{51}] \texttt{char uptimeBuf[20]}
+          \item[\ding{51}] \texttt{char durumBuf[40]}
+          \item[\ding{51}] \texttt{F("sabit metin")}
+          \item[] Sabit metinler Flash'a tasindi
+          \item[] $\approx$400--500 byte RAM kazanildi
+        \end{itemize}
+      \end{block}
+
+    \column{0.48\textwidth}
+      \begin{block}{Sensor Gürültu Azaltma}
+        \small
+        \textbf{LM35:} 8 ornek ortalamasi
+        \[ T = \frac{1}{8}\sum_{i=1}^{8} x_i \cdot \frac{V_{ref}}{1023} \cdot 100 \]
+        Standart sapma $\sigma \to \sigma/\sqrt{8}$\\[6pt]
+        \textbf{LDR:} 4 ornek ortalamasi
+        \[ L = \frac{1}{4}\sum_{i=1}^{4} x_i \]
+      \end{block}
+      \vspace{6pt}
+      \begin{alertblock}{Kritik Not}
+        \small \texttt{F()} makrosu olmadan buyuk
+        kodlarda RAM dolarak program kilitleniyor.
+      \end{alertblock}
+  \end{columns}
+\end{frame}
