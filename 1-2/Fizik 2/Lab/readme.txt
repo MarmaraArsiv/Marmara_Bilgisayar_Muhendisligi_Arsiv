@@ -1,0 +1,1 @@
+Lab dersini 25-26 yılında Şahin Hoca değil Nursaç Hoca verdi.
