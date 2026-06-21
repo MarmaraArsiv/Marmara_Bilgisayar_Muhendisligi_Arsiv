@@ -1,0 +1,378 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct{
+    int x;
+    int y;
+}POINT;
+
+int main()
+{
+    POINT *p; //Point tipinde bir struct oluşturuluyor.
+    //Struct için sistemden bellek alınıyor
+    p=(POINT *)malloc(sizeof(POINT));
+    if(!p){
+        printf("Bellek hatası.");
+        return 1;
+    }
+    //p'nin içeriğinde bulunan x ve y değişkenlerine değerler veriliyor.
+    p->x=234;
+    p->y=987;
+    //p'nin içeriği ekrana yazdırılıyor.
+    printf("x=%d\ny=%d",p->x,p->y);
+
+    free(p);
+    return 0;
+}
+
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#define N 2
+
+struct karma{
+double gercek,sanal;
+};
+void ktopla(struct karma a, struct karma b, struct karma *c){
+c->sanal=a.sanal+b.sanal;
+c->gercek=a.gercek+b.gercek;
+}
+// Program içerisinde bu fonksiyon şu şekilde çağrılır.
+main()
+{
+	struct karma k1,k2, *s;
+
+	k1.gercek=2;k1.sanal=5;
+	k2.gercek=1;k2.sanal=6;
+	ktopla(k1,k2,s);
+	printf("%3.1f %3.1f",s->gercek,s->sanal );}
+
+
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
+struct Metin {
+	
+	char kelime[10][10];
+	int uzunluk;
+	int sesliharf;
+	int sessizharf;
+	
+};
+
+
+hesap(struct Metin kelime1) {
+	char sesliharfler[] = "aeiou" ; 
+    char sessizharfler[] = "zyvtsrpnrmlkhjgdcb"; 
+	int i, j,s;
+	int sayac1 = 0, sayac2 = 0;
+	for (s=0;s<4;s++)
+	{
+
+	
+    kelime1.uzunluk = strlen(kelime1.kelime[s]);
+     sayac1=0;sayac2=0;
+    
+            for ( i = 0; i < strlen(kelime1.kelime[s]); i++)
+        {	 
+            for(j = 0; j < 5; j++)
+            {
+                if(kelime1.kelime[s][i] == sesliharfler[j]){
+                    sayac1++;
+                }
+            }
+        }
+                    for ( i = 0; i < strlen(kelime1.kelime[s]); i++)
+        {
+            for( j = 0; j < 18; j++)
+            {
+                if(kelime1.kelime[s][i]  == sessizharfler[j]){
+                    sayac2++;
+                }
+            }
+        }
+    
+    
+    
+    kelime1.sesliharf = sayac1;
+    kelime1.sessizharf = sayac2;
+printf("metin= %s\n", kelime1.kelime[s]);
+printf("Uzunluk: %d\n", kelime1.uzunluk);
+printf("Sesli harf sayisi: %d\n", kelime1.sesliharf);
+printf("Sessiz harf sayisi: %d\n", kelime1.sessizharf);
+}}
+	
+	
+
+degeratama(struct Metin degerler ) {
+
+ strcpy (degerler.kelime[0],"buket");
+  strcpy (degerler.kelime[1],"marmara");
+strcpy (degerler.kelime[2],"dogan");
+  strcpy (degerler.kelime[3],"teknoloji");
+
+	hesap(degerler);
+}
+int main() {
+	struct Metin kelime1;
+	degeratama(kelime1);
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+void degerAta(int **, int, int);
+void maxBul(int **, int, int, int[]);
+
+int main()
+{
+	int satir,sutun;
+	srand(time(NULL));
+	
+	printf("satir sayisi: ");
+	scanf("%d",&satir);
+	printf("sutun sayisi: ");
+	scanf("%d",&sutun);
+	
+	int** array = (int**)malloc(satir * sizeof(int*));
+    for (int i = 0; i < satir; i++)
+        array[i] = (int*)malloc(sutun * sizeof(int));
+        
+	int maksimum[satir];
+	degerAta(array,satir,sutun);	
+	maxBul(array,satir,sutun,maksimum);
+}
+
+void degerAta(int **array, int satir, int sutun)
+{
+	for(int i=0; i<satir; i++)
+	{
+		for(int j=0; j<sutun; j++)
+		{
+			*(*(array+i)+j)=rand()%(90-20+1)+20;
+			printf("%d ",*(*(array+i)+j)); //array[i][j]
+		}
+		printf("\n");
+	}
+	printf("\n");
+}
+
+void maxBul(int **array, int satir, int sutun, int maksimum[])
+{
+	int max;
+	for(int i=0; i<satir; i++)
+	{
+		max=*(*(array+i));
+		for(int j=0; j<sutun; j++)
+		{
+			if(*(*(array+i)+j)>max)
+			{
+				max=*(*(array+i)+j);
+			}
+		}
+		maksimum[i]=max;
+		printf("\n%d. satir max : %d ",i,max);
+	}
+}
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#define N 2
+
+typedef struct OgrenciBilgileri{
+	char isim[50];
+	char soyisim[50];
+	float projenotu;
+	float vizenotu;
+	float finalnotu;
+	float ort;
+}OB;
+
+int main(){
+	OB ogrenciler[N] = {0};
+	int i, bu = 0;
+	float max = 0;
+	
+	for (i=0; i<N; i++){
+		printf("%d. ogrencinin ismi, soyismi, proje notu, vize notu ve final notunu sirayla giriniz:\n", i+1);
+		scanf(" %s %s %f %f %f", ogrenciler[i].isim, ogrenciler[i].soyisim, &ogrenciler[i].projenotu,
+		&ogrenciler[i].vizenotu, &ogrenciler[i].finalnotu);
+	}
+	for (i=0; i<N; i++){
+		ogrenciler[i].ort = (ogrenciler[i].projenotu + ogrenciler[i].vizenotu + ogrenciler[i].finalnotu)/3;
+		//printf("\nortalama = %lf\n", ogrenciler[i].ort);
+		
+		if (max < ogrenciler[i].ort){
+			max = ogrenciler[i].ort;
+			bu = i;
+		}		
+	}
+	printf("en yuksek not ortalamasi alan ogrenci:\n%s %s \nnot ortalamasi: %.02lf",
+	ogrenciler[bu].isim, ogrenciler[bu].soyisim, max);
+	return 0;	
+}
+
+
+
+
+#include <stdio.h>
+#include <time.h>    //Muhammed Yasin ozdemir
+#include <string.h>  //171421005
+#include <stdlib.h>
+#define sure 36 
+struct Hisse_senedi {
+    char ad[20];
+    float gunlukdeger;
+    int gun, ay, yil;
+};
+typedef struct Hisse_senedi hisse;
+enum {CIKIS,ARCELIK,ASELSAN,AKBANK};
+void hisse_miktarlari_belirleme(hisse[], char[]);
+void hisse_miktarlari_goster(hisse[]);
+void yatirim(struct Hisse_senedi[], int);
+ main() {
+    hisse ARCLK[sure] = {0}, ASELS[sure] = {0}, AKBNK[sure] = {0};
+    srand(time(NULL));
+    int secim, sec, gun;
+    hisse_miktarlari_belirleme(ARCLK, "Arcelik");
+    hisse_miktarlari_belirleme(ASELS, "Aselsan");
+    hisse_miktarlari_belirleme(AKBNK, "Akbank");
+    while (1)
+    {
+        printf("\n\n    ------------ Ozdemir Yatirim ------------\n");
+        printf("\n\n\t1-Hisse miktarlarini goster\n\t2-aylik yatirim\n\t3-Haftalik yatirim\n\t4-cıkıs için 0 a basiniz\n\nsecim : ");
+        scanf("%d", &secim);
+        printf("\n\n");
+        if (secim == 0)
+            break;
+        if (secim == 1) {
+            printf("\n\t1-Arcelik\n\t2-Aselsan\n\t3-Akbank\n\t4-cıkıs icin 0 a basınız.\n\nsecim : ");
+            scanf("%d", &sec);
+            printf("\n\n");
+            while (1) {
+                if (sec == CIKIS)
+                    break;
+                else if (sec == ARCELIK) {
+                    hisse_miktarlari_goster(ARCLK); break;
+                }
+                else if (sec == ASELSAN) {
+                    hisse_miktarlari_goster(ASELS); break;  
+                }
+                else if (sec == AKBANK) {
+                    hisse_miktarlari_goster(AKBNK); break;  
+                }
+                else {
+                    while (1) {
+                        printf("\nhatali kodlama tekrar deneyiniz veya cıkmak isin 0 a basiniz.");
+                        scanf("%d", &sec);
+                        if (sec == ARCELIK || sec == ASELSAN || sec == AKBANK || sec == CIKIS)
+                            break;
+                    }
+                }
+            }
+        }
+        else if (secim == 2 || secim == 3) {
+            printf("\n\t1-Arcelik\n\t2-Aselsan\n\t3-Akbank\n\t4-cıkıs icin 0 a basınız.\n\nsecim : ");
+            scanf("%d", &sec);
+            printf("\n\n");
+            if (secim == 2)
+                gun = 30; 
+            else
+                gun = 7; // gun olarak ilk hafta aliniyor
+            while (1) {
+                if (sec == CIKIS)
+                    break;
+                else if (sec == ARCELIK) {
+                    yatirim(ARCLK, gun); break;  
+                }
+                else if (sec == ASELSAN) {
+                    yatirim(ASELS, gun); break;  
+                }
+                else if (sec == AKBANK) {
+                    yatirim(AKBNK, gun); break; 
+                }
+                else {
+                    while (1) {
+                        printf("hatali kodlama tekrar deneyiniz veya cıkmak isin 0 a basiniz.");
+                        scanf("%d", &sec);
+                        if (sec == ARCELIK || sec == ASELSAN || sec == AKBANK || sec == CIKIS)
+                            break;
+                    }
+                }
+            }
+        }
+        else {
+            while (1) {
+                printf("\nhatali kodlama tekrar deneyiniz veya cıkmak isin 0 a basiniz.\nsecim:");
+                scanf("%d", &secim);
+                if (secim == 1 || secim == 2 || secim == 3 || secim == CIKIS)
+                    break;
+            }
+        }
+    }
+    printf("program sonlandi.\n\n");
+}
+void hisse_miktarlari_belirleme(hisse a[], char ad[]) {
+    int i;
+    a[0].yil = 2022;
+    a[0].ay = 1;
+    a[0].gun = 1;
+    a[0].gunlukdeger = rand() % 500 + 500;
+    strcpy(a[0].ad, ad);
+    for (i = 1; i < sure; i++) {
+        if (a[i - 1].gun == 29) {
+            a[i - 1].gun = 1; 
+            a[i - 1].ay += 1;
+        }
+        a[i].gunlukdeger = rand() % 1000 + 500 + rand() % 100 * 0.01; //gunluk degerler belirleniyor
+        a[i].gun = a[i - 1].gun + 1;
+        a[i].ay = a[i - 1].ay;
+        a[i].yil = a[i - 1].yil;
+        strcpy(a[i].ad, ad);
+    }
+}
+void hisse_miktarlari_goster(hisse a[]) {
+    int i;
+    for (i = 0; i < sure; i++) {
+        printf("%s:\t\t%.2f\t\t%d/%d/%d\n", a[i].ad, a[i].gunlukdeger, a[i].gun, a[i].ay, a[i].yil);
+    }
+}
+void yatirim(hisse a[], int s) {
+    int i, j, f, alis, satis, enbfark = 0;
+    for (i = 0; i < s; i++) {
+        for (j = i + 1; j < s; j++) {
+            f = a[j].gunlukdeger - a[i].gunlukdeger;
+            if (f > enbfark) {
+                enbfark = f;
+                alis = i;
+                satis = j;
+            }
+        }
+    }
+    hisse_miktarlari_goster(a);
+    printf("\n\n%s adli hisse %d/%d/%d tarihinde alinip %d/%d/%d tarihinde satilirsa en buyuk kar elde edilir.\nKar miktari : %.2f TL\nYatirim suresi: %d gun\n\n", 
+    a[0].ad, a[alis].gun, a[alis].ay,a[alis].yil, a[satis].gun, a[satis].ay, 
+    a[satis].yil,a[satis].gunlukdeger-a[alis].gunlukdeger,satis-alis);
+}
+
