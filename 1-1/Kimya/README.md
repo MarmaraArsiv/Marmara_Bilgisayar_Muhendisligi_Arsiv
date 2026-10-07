@@ -1,0 +1,20 @@
+# 📚 Kimya
+
+## ℹ️ Ders Bilgileri
+
+- 📅 **Yıl:** 1
+- 📆 **Dönem:** Güz
+- 🏫 **Ders Tipi:** Zorunlu
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+## 📝 Derse Dair Öneriler
+
+### 💡 Öneri sahibi: Arşiv Notu
+- Kimya hocamız Zeynel Hoca, Yıldız Teknik'in Genel Kimya notlarını biraz değiştirip kullanıyordu, bu yüzden klasörde o notlar da bulunuyor.
+
+## 📖 Faydalı Olabilecek Kaynaklar
+
+- 📄 [📊 Haftalık Konu Sunumları (14 hafta, .ppt)](./) ✨
+- 📄 [📘 Genel Kimya: İlkeler ve Modern Uygulamalar](./GENEL_KIMYA_Ilkeler_ve_Modern_Uygulamala.pdf) ✨
+- 📄 [Genel Çıkmış Sorular]()
+  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.

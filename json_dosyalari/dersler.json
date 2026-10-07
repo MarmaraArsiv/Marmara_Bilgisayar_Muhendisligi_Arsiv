@@ -1,0 +1,185 @@
+{
+    "bolum_adi": "Dersler",
+    "bolum_aciklamasi": "Bu bölümde, tüm dersler hakkında detaylı bilgiler ve kaynaklar bulunmaktadır. Öğrenciler bu bölümü kullanarak ders materyallerine ve içeriklerine ulaşabilirler.",
+    "ders_klasoru_bulunamadi_mesaji": "Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...",
+    "guncel_olmayan_ders_aciklamasi": "Bu ders artık müfredata dahil değildir. Ya tamamen kaldırılmış, ya ismi ve içeriği güncellenmiş ya da birleştirilmiş olabilir.",
+    "en_populer_ders": {"ders_adi": "", "oy_sayisi": 0},
+    "dersler": [
+        {
+            "ad": "Algoritma",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📊 Slaytlar ve Ders Notları](./slaytlar_notlar/)",
+                "[📝 Haftalık Ödevler (works1-7)](./ödevler/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Bilgisayar Mühendisliğine Giriş",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [{"ad": "Doç. Dr. Önder Demir", "kisaltma": "ÖD"}],
+            "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./ders%20notları/)",
+                "[🛠️ Atölye Dersi (haftalık uygulamalar)](./atölye%20dersi/)",
+                "[📝 Atölye Ödevleri](./atolye%20ödev/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Fizik",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📊 Haftalık Slaytlar (Week 1-13)](./slaytlar/)",
+                "[📝 Ödevler](./ödevler/)",
+                "[📄 Çıkmış Vize Soruları](./çıkmışlar/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Kimya",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [],
+            "derse_dair_oneriler": [
+                {"oneri_sahibi": "Arşiv Notu", "oneriler": ["Kimya hocamız Zeynel Hoca, Yıldız Teknik'in Genel Kimya notlarını biraz değiştirip kullanıyordu, bu yüzden klasörde o notlar da bulunuyor."]}
+            ],
+            "faydali_olabilecek_kaynaklar": [
+                "[📘 Genel Kimya: İlkeler ve Modern Uygulamalar](./GENEL_KIMYA_Ilkeler_ve_Modern_Uygulamala.pdf)",
+                "[📊 Haftalık Konu Sunumları (14 hafta, .ppt)](./)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Lineer Cebir",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "T.S. Blyth and E.F. Robertson, Basic Linear Algebra, Springer, 4th Edition, 2007.",
+                "Mehmet Ali Karaca, Lineer Cebir Çözümlü Problemleri, İTÜ Vakfı Yayınları, 2006.",
+                "Gilbert Strang, Introduction to Linear Algebra, Wellesley-Cambridge Press, 1998.",
+                "Serge Lang, Introduction to Linear Algebra, Springer Verlag, 1986.",
+                "[📓 Ders Notları](./notlar/)",
+                "[📝 Çalışma Soruları](./çalışma%20soruları/)",
+                "[📄 Çıkmış Arasınav (2025 Güz)](./çıkmış/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Mat1",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./notlar/)",
+                "[📝 Thomas Calculus Çalışma Soruları](./çalışma%20soruları/)",
+                "[📄 Çıkmış Arasınav (2025 Güz)](./çıkmış/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Türkçe 1",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [], "faydali_olabilecek_kaynaklar": [],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "İngilizce 1",
+            "yil": 1, "donem": "Güz", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [], "faydali_olabilecek_kaynaklar": [],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Bilgisayar Donanımı",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./Lab/)",
+                "[📊 Marmara Donanım Notları (14 hafta sunum)](./MARMARA%20DONANIM%20NOTLARI/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Bilgisayar Programlama",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[💻 Algo (C örnekleri: pointer, dizi, recursive)](./algo/)",
+                "[🧪 Lab (Lab 0-10)](./Lab/)",
+                "[❓ Quiz Örneği](./quizler/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Bilimsel Araştırma ve Sunum Teknikleri",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./Ders%20slaytları/)",
+                "[📝 Ödevler](./ödevler/)",
+                "[📄 Sınav Hazırlık Dosyaları](./sınav%20hazırlık%20dosyaları/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Fizik 2",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📋 Ders İzlencesi (Syllabus)](./Syllabus.pdf)",
+                "[📊 Haftalık Ders Slaytları](./ders%20slaytları/)",
+                "[❓ Ders İçi Sorular](./ders%20içi%20sorular/)",
+                "[📄 Çıkmış Vize Soruları](./çıkmışlar/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "İş sağlığı ve Güvenliği",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📸 Tahtanın Fotoğrafları (haftalık ders anlatımı)](./Tahtanın%20fotoğrafları/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Matematik 2",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [],
+            "faydali_olabilecek_kaynaklar": [
+                "[📋 Ders İzlencesi](./Ders-Izlence-Mat1086.pdf)",
+                "[📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./ders%20notları/)",
+                "[📝 Haftalık Ödevler](./çalışma%20soruları/)"
+            ],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "Türkçe 2",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [], "faydali_olabilecek_kaynaklar": [],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        },
+        {
+            "ad": "İngilizce 2",
+            "yil": 1, "donem": "Bahar", "tip": "Zorunlu", "guncel_mi": true,
+            "dersi_veren_hocalar": [], "derse_dair_oneriler": [], "faydali_olabilecek_kaynaklar": [],
+            "ogrenci_gorusleri": [], "yillara_gore_yildiz_sayilari": [],
+            "kolaylik_puani": 0, "gereklilik_puani": 0, "oy_sayisi": 0, "mufredatlar": ["2026"]
+        }
+    ]
+}
