@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Editör
+.vscode/
+.idea/
+
+# İşletim sistemi / geçici dosyalar
+Thumbs.db
+*.tmp
+
+# Microsoft Office kilit/geçici dosyaları (Word/Excel/PowerPoint açıkken oluşur)
+~$*

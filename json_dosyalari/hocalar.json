@@ -1,0 +1,31 @@
+{
+    "bolum_adi": "Hocalar",
+    "bolum_aciklamasi": "Bu bölüm, Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği bölümündeki hocaların detaylı bilgilerini içerir. Hocaların adları, ofis bilgileri, araştırma sayfalarının bağlantıları ve verdikleri bazı dersler bu bölümde listelenmektedir. Hocaların puanlamaları tamamen subjektiftir ve 0-10 yıldız arasında yapılmıştır.",
+    "en_populer_hoca": {"hoca_adi": "", "oy_sayisi": 0},
+    "hocalar": [
+        {"ad": "Prof. Dr. Serhat Özekes", "ofis": "T4-233", "link": "https://avesis.marmara.edu.tr/15070", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Doç. Dr. Buket Doğan", "ofis": "T4-106", "link": "https://avesis.marmara.edu.tr/buketb", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Doç. Dr. Ayşe Berna Altınel", "ofis": "T4-226", "link": "https://avesis.marmara.edu.tr/berna.altinel", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Prof. Dr. Ali Buldu", "ofis": "T4-234", "link": "https://avesis.marmara.edu.tr/alibuldu", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Prof. Dr. Kazım Yıldız", "ofis": "T4-107", "link": "https://avesis.marmara.edu.tr/kazim.yildiz", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Prof. Dr. Şahin Uyaver", "ofis": "T4-225", "link": "https://avesis.marmara.edu.tr/15193", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Doç. Dr. Önder Demir", "ofis": "T4-105", "link": "https://avesis.marmara.edu.tr/odemir", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": ["Bilgisayar Mühendisliğine Giriş"]},
+        {"ad": "Doç. Dr. Ömer Akgün", "ofis": "T4-225", "link": "https://avesis.marmara.edu.tr/oakgun", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Dr. Öğretim Üyesi Eyüp Emre Ülkü", "ofis": "T4-110", "link": "https://avesis.marmara.edu.tr/emre.ulku", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Dr. Öğretim Üyesi Ali Sarıkaş", "ofis": "T2-102", "link": "https://avesis.marmara.edu.tr/ali.sarikas", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Dr. Öğretim Üyesi Anıl Baş", "ofis": "T4-111", "link": "https://avesis.marmara.edu.tr/anil.bas", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Dr. Öğretim Üyesi Timur İnan", "ofis": "T4-223", "link": "https://avesis.marmara.edu.tr/timur.inan", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Dr. Öğretim Üyesi Neşe Özdemir", "ofis": "T4-224", "link": "https://avesis.marmara.edu.tr/15631", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Dr. Öğretim Üyesi Abdulsamet Aktaş", "ofis": "T2-104", "link": "https://avesis.marmara.edu.tr/abdulsamet.aktas", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Dr. Öğretim Üyesi Emrah Dikbıyık", "ofis": "", "link": "https://avesis.marmara.edu.tr/emrah.dikbiyik", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Arş. Gör. Dr. Abdullah Bal", "ofis": "T2-118", "link": "https://avesis.marmara.edu.tr/abdullah.bal", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []},
+        {"ad": "Arş. Gör. Dr. Büşra Büyüktanır", "ofis": "T2-103", "link": "https://avesis.marmara.edu.tr/14523", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Arş. Gör. Dr. Merve Pınar", "ofis": "T2-101", "link": "https://avesis.marmara.edu.tr/14501", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Arş. Gör. Damla Mengüş", "ofis": "T4-118", "link": "https://avesis.marmara.edu.tr/14920", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Arş. Gör. Şeyda Karcı Şen", "ofis": "T4-118", "link": "https://avesis.marmara.edu.tr/14921", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Arş. Gör. Merve Hazan İşcan", "ofis": "T4-101", "link": "https://avesis.marmara.edu.tr/14923", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Arş. Gör. Nursaç Kurt", "ofis": "T2-103", "link": "https://avesis.marmara.edu.tr/15397", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Arş. Gör. Semiha Koç", "ofis": "T4-101", "link": "https://avesis.marmara.edu.tr/15469", "hoca_aktif_gorevde_mi": true, "erkek_mi": false, "dersler": []},
+        {"ad": "Arş. Gör. Ziya Anıl Şen", "ofis": "T4-Z01", "link": "https://avesis.marmara.edu.tr/15908", "hoca_aktif_gorevde_mi": true, "erkek_mi": true, "dersler": []}
+    ]
+}

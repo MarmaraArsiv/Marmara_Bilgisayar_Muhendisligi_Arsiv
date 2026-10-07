@@ -1,0 +1,14 @@
+{
+    "bolum_adi": "Katkıda Bulunanlar",
+    "bolum_aciklamasi": "Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz Pull Request gönderebilir ya da issue açabilirsiniz.",
+    "katkida_bulunanlar": [
+        {
+            "ad": "Mehmet Emin",
+            "github_link": "https://github.com/mEhMet6968",
+            "katkida_bulunma_orani": "Çok",
+            "iletisim_bilgileri": [
+                {"baslik": "GitHub", "link": "https://github.com/mEhMet6968"}
+            ]
+        }
+    ]
+}

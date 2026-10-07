@@ -1,116 +1,546 @@
-# 📚 Marmara Bilgisayar Mühendisliği Arşiv
+# 📖 Marmara Bilgisayar Mühendisliği Arşiv
 
-![Marmara](https://img.shields.io/badge/University-Marmara-red) ![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)
+Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencileri için düzenli, sürdürülebilir ve değer üreten bir akademik arşiv. Ders notları, ödev çözümleri, slaytlar, çıkmış sorular ve çalışma rehberleri tek bir yerde toplandı.
 
-**Marmara Üniversitesi Bilgisayar Mühendisliği öğrencileri için düzenli, sürdürülebilir ve değer üreten bir akademik arşiv.**  
-Ders notları, ödev çözümleri, slaytlar, çıkmış sorular ve çalışma rehberleri tek bir yerde toplandı.
+ ## 🗣️ Geri Bildirimde Bulunun
 
----
+📬 Öğrenciler ve hocalar, derslerle ilgili hakaret içermeyen geri bildirimlerinizi aşağıdaki linkler aracılığıyla anonim olarak paylaşabilirsiniz.
 
-## 🎯 Hedef
+- [✍️ **Hocalar için yorum linki**]()
+- [⭐ **Hocalar için yıldız linki**]()
+- [✍️ **Dersler için yorum linki**]()
+- [⭐ **Dersler için yıldız linki**]()
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=4c3bb1e56629b12169ddacd8e890a347caebf75&label=Görüntülenme+Sayısı&abbreviated=true&style=for-the-badge&color=orange" width="400" height="auto"/>
+</p>
 
-Bu repo ile amaçlananlar:
+<details>
+<summary><b>🗂 İçindekiler</b></summary>
 
-1. Bölümde bilinen ve güvenilir bir kaynak olmak  
-2. Akademik network oluşturmak ve iş birliklerini kolaylaştırmak  
-3. Dışarıdan bakan biri için temiz, düzenli ve profesyonel bir imaj sunmak  
-4. 3 yıl içinde 200 GitHub yıldızına ulaşmak  
+## 🗂 İçindekiler
 
----
+- 🔗 [Dersler](#-dersler)
+- 🔗 [Hocalar](#-hocalar)
+</details>
 
-## 🗂️ Klasör Yapısı
+<details>
+<summary><b>🛠 Repo Kullanımı</b></summary>
 
-Repo dönem ve ders bazlıdır:
 
-```
-1-1  → 1. Sınıf 1. Dönem
-1-2  → 1. Sınıf 2. Dönem
-```
 
-### 1-1 (1. Sınıf 1. Dönem)
 
-Dersler:
+## 🛠 Repo Kullanımı
 
-- Algoritma
-- Bilgisayar Mühendisliğine Giriş
-- Fizik
-- Kimya
-- Lineer Cebir
-- Mat1
-- Türkçe 1
-- İngilizce 1
+### ⚙️ Açıklamalar:
+- 📋 Bölümde bilinen ve güvenilir bir kaynak olmak.
+- 📋 Akademik network oluşturmak ve iş birliklerini kolaylaştırmak.
+- 📋 Dışarıdan bakan biri için temiz, düzenli ve profesyonel bir imaj sunmak.
+- 📋 İçerikler: ders slaytları, kişisel ders notları ve özetler, ödev çözümleri, atölye çalışmaları, çıkmış sorular ve analizleri, proje dosyaları ve örnekleri.
 
-Klasör yapısı örnek:
 
-```
-Ders/
-├── slaytlar_notlar
-├── ödevler
-├── çıkmışlar
-├── çalışma soruları
-├── ders notları
-└── README.md (ders özeti + rehber)
-```
+### 📝 Talimatlar:
+- 👉 Repo içindeki README.md'leri ders bazlı takip edin.
+- 👉 Ödevleri çalıştırmak için ilgili klasörlerdeki .py veya .cpp dosyalarını kullanabilirsiniz.
+- 👉 Ders özetleri, kısa ve okunabilir şekilde markdown olarak hazırlanmıştır.
+- 👉 Özet ve ödevleri birleştirip kendi öğrenme sürecinize uyarlayabilirsiniz.
+</details>
 
-### 1-2 (1. Sınıf 2. Dönem)
+<details>
+<summary><b>📖 Dersler</b></summary>
 
-Dersler:
 
-- Bilgisayar Donanımı
-- Bilgisayar Programlama
-- Bilimsel Araştırma ve Sunum Teknikleri
-- Fizik 2
-- Matematik 2
-- İş Sağlığı ve Güvenliği
 
----
 
-## 📌 İçerik Türleri
+## 📖 Dersler
+📄 Bu bölümde, tüm dersler hakkında detaylı bilgiler ve kaynaklar bulunmaktadır. Öğrenciler bu bölümü kullanarak ders materyallerine ve içeriklerine ulaşabilirler.
 
-- Ders slaytları  
-- Kişisel ders notları ve özetler  
-- Ödev çözümleri (çalışır kod ve açıklamalar)  
-- Atölye çalışmaları  
-- Çıkmış sorular ve analizleri  
-- Proje dosyaları ve örnekler  
 
-> Tüm içerikler **öğrenmeyi desteklemek ve referans oluşturmak** amacıyla eklenmiştir.
 
----
 
-## 📝 Kullanım Rehberi
+### 🗓 1. Yıl - Güz
 
-1. Repo içindeki **README.md’leri ders bazlı takip edin**.  
-2. Ödevleri çalıştırmak için ilgili klasörlerdeki `.py` veya `.cpp` dosyalarını kullanabilirsiniz.  
-3. Ders özetleri, kısa ve okunabilir şekilde markdown olarak hazırlanmıştır.  
-4. Özet ve ödevleri birleştirip kendi öğrenme sürecinize uyarlayabilirsiniz.
 
----
+#### 📘 Algoritma 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/Algoritma)
 
-## 🌟 Katkı ve Destek
 
-- Katkı sağlamak isteyen arkadaşlar **PR (Pull Request)** ile ekleyebilir.  
-- Hatalı, eksik veya güncel olmayan içerikler için **issue açabilirsiniz**.  
-- Faydalı bulduysanız ⭐ bırakabilirsiniz, bu repo bölgesel bir referans kaynağı olmayı hedefliyor.
+#### 📘 Bilgisayar Mühendisliğine Giriş 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - [ÖD](#-doç-dr-önder-demir)
+  - 📂 [Ders Klasörü](./1-1/Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F)
 
----
 
-## 🚀 Uzun Vadeli Plan
+#### 📘 Fizik 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/Fizik)
 
-1. 2., 3. ve 4. sınıf derslerini ekleyerek arşivi büyütmek  
-2. Ders özetleri + ödev çözümlerini daha okunabilir Markdown formatına çevirmek  
-3. Proje ve kod örneklerini düzenleyip görsel ve açıklama eklemek  
-4. Bölüm içi ve bölüm dışı öğrenci ağını repo etrafında toplamak  
-5. GitHub Pages ile görsel ve okunabilir web arayüzü oluşturmak  
 
----
+#### 📘 İngilizce 1 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/%C4%B0ngilizce%201)
 
-## 🔧 Teknik Notlar
 
-- Düzenli branch yönetimi:  
-  - `1-1`, `1-2` … gibi dönem bazlı  
-- Gereksiz dosyaları temizleyin: `.vscode`, `__MACOSX`  
-- Markdown + görsel kombinasyonu ile okunabilirliği artırın  
+#### 📘 Kimya 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/Kimya)
 
----
 
+#### 📘 Lineer Cebir 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/Lineer%20Cebir)
+
+
+#### 📘 Mat1 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/Mat1)
+
+
+#### 📘 Türkçe 1 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/T%C3%BCrk%C3%A7e%201)
+
+### 🗓 1. Yıl - Bahar
+
+
+#### 📘 Bilgisayar Donanımı 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Donan%C4%B1m%C4%B1)
+
+
+#### 📘 Bilgisayar Programlama 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Programlama)
+
+
+#### 📘 Bilimsel Araştırma ve Sunum Teknikleri 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri)
+
+
+#### 📘 Fizik 2 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/Fizik%202)
+
+
+#### 📘 İngilizce 2 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/%C4%B0ngilizce%202)
+
+
+#### 📘 İş Sağlığı ve Güvenliği 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/%C4%B0%C5%9F%20sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi)
+
+
+#### 📘 Matematik 2 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/Matematik%202)
+
+
+#### 📘 Türkçe 2 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/T%C3%BCrk%C3%A7e%202)
+</details>
+
+<details>
+<summary><b>🎓 Hocalar</b></summary>
+
+
+
+
+## 🎓 Hocalar
+📚 Bu bölüm, Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği bölümündeki hocaların detaylı bilgilerini içerir. Hocaların adları, ofis bilgileri, araştırma sayfalarının bağlantıları ve verdikleri bazı dersler bu bölümde listelenmektedir. Hocaların puanlamaları tamamen subjektiftir ve 0-10 yıldız arasında yapılmıştır.
+
+
+
+
+### Profesörler
+
+
+
+#### 👨‍🏫 Prof. Dr. Ali Buldu 
+- 🚪 **Ofis:** T4-234
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/alibuldu](https://avesis.marmara.edu.tr/alibuldu)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Prof. Dr. Kazım Yıldız 
+- 🚪 **Ofis:** T4-107
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/kazim.yildiz](https://avesis.marmara.edu.tr/kazim.yildiz)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Prof. Dr. Serhat Özekes 
+- 🚪 **Ofis:** T4-233
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15070](https://avesis.marmara.edu.tr/15070)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Prof. Dr. Şahin Uyaver 
+- 🚪 **Ofis:** T4-225
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15193](https://avesis.marmara.edu.tr/15193)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+### Doçentler
+
+
+
+#### 👩‍🏫 Doç. Dr. Ayşe Berna Altınel 
+- 🚪 **Ofis:** T4-226
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/berna.altinel](https://avesis.marmara.edu.tr/berna.altinel)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Doç. Dr. Buket Doğan 
+- 🚪 **Ofis:** T4-106
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/buketb](https://avesis.marmara.edu.tr/buketb)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Doç. Dr. Ömer Akgün 
+- 🚪 **Ofis:** T4-225
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/oakgun](https://avesis.marmara.edu.tr/oakgun)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Doç. Dr. Önder Demir 
+- 🚪 **Ofis:** T4-105
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/odemir](https://avesis.marmara.edu.tr/odemir)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş)
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+### Doktor Öğretim Üyeleri
+
+
+
+#### 👨‍🏫 Dr. Öğretim Üyesi Abdulsamet Aktaş 
+- 🚪 **Ofis:** T2-104
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/abdulsamet.aktas](https://avesis.marmara.edu.tr/abdulsamet.aktas)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Dr. Öğretim Üyesi Ali Sarıkaş 
+- 🚪 **Ofis:** T2-102
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/ali.sarikas](https://avesis.marmara.edu.tr/ali.sarikas)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Dr. Öğretim Üyesi Anıl Baş 
+- 🚪 **Ofis:** T4-111
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/anil.bas](https://avesis.marmara.edu.tr/anil.bas)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Dr. Öğretim Üyesi Emrah Dikbıyık 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/emrah.dikbiyik](https://avesis.marmara.edu.tr/emrah.dikbiyik)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Dr. Öğretim Üyesi Eyüp Emre Ülkü 
+- 🚪 **Ofis:** T4-110
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/emre.ulku](https://avesis.marmara.edu.tr/emre.ulku)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Dr. Öğretim Üyesi Neşe Özdemir 
+- 🚪 **Ofis:** T4-224
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15631](https://avesis.marmara.edu.tr/15631)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Dr. Öğretim Üyesi Timur İnan 
+- 🚪 **Ofis:** T4-223
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/timur.inan](https://avesis.marmara.edu.tr/timur.inan)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+### Araştırma Görevlileri
+
+
+
+#### 👩‍🏫 Arş. Gör. Damla Mengüş 
+- 🚪 **Ofis:** T4-118
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14920](https://avesis.marmara.edu.tr/14920)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Arş. Gör. Dr. Abdullah Bal 
+- 🚪 **Ofis:** T2-118
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/abdullah.bal](https://avesis.marmara.edu.tr/abdullah.bal)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Arş. Gör. Dr. Büşra Büyüktanır 
+- 🚪 **Ofis:** T2-103
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14523](https://avesis.marmara.edu.tr/14523)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Arş. Gör. Dr. Merve Pınar 
+- 🚪 **Ofis:** T2-101
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14501](https://avesis.marmara.edu.tr/14501)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Arş. Gör. Merve Hazan İşcan 
+- 🚪 **Ofis:** T4-101
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14923](https://avesis.marmara.edu.tr/14923)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Arş. Gör. Nursaç Kurt 
+- 🚪 **Ofis:** T2-103
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15397](https://avesis.marmara.edu.tr/15397)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Arş. Gör. Semiha Koç 
+- 🚪 **Ofis:** T4-101
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15469](https://avesis.marmara.edu.tr/15469)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👨‍🏫 Arş. Gör. Ziya Anıl Şen 
+- 🚪 **Ofis:** T4-Z01
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15908](https://avesis.marmara.edu.tr/15908)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+
+
+#### 👩‍🏫 Arş. Gör. Şeyda Karcı Şen 
+- 🚪 **Ofis:** T4-118
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14921](https://avesis.marmara.edu.tr/14921)
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 Ders bilgileri bulunamadı.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+</details>
+
+<details>
+<summary><b>🖋 Yazarın Notları</b></summary>
+
+
+## 🖋 Yazarın Notları
+
+- 📝 🚀 Uzun vadeli plan: 2., 3. ve 4. sınıf derslerini ekleyerek arşivi büyütmek.
+- 📝 🚀 Ders özetleri ve ödev çözümlerini daha okunabilir Markdown formatına çevirmek.
+- 📝 🚀 Proje ve kod örneklerini düzenleyip görsel ve açıklama eklemek.
+- 📝 🚀 Bölüm içi ve bölüm dışı öğrenci ağını repo etrafında toplamak.
+- 📝 🚀 GitHub Pages ile görsel ve okunabilir bir web arayüzü oluşturmak.
+</details>
+
+<details>
+<summary><b>🆎 Hoca Kısaltmaları</b></summary>
+
+<h2 align='center'>🆎 Hoca Kısaltmaları</h2>
+
+<p align='center'>🔹 <b>AA</b> &emsp; Dr. Öğretim Üyesi Abdulsamet Aktaş 🔹</p>
+<p align='center'>🔹 <b>ABA</b> &emsp; Doç. Dr. Ayşe Berna Altınel 🔹</p>
+<p align='center'>🔹 <b>ABal</b> &emsp; Arş. Gör. Dr. Abdullah Bal 🔹</p>
+<p align='center'>🔹 <b>ABaş</b> &emsp; Dr. Öğretim Üyesi Anıl Baş 🔹</p>
+<p align='center'>🔹 <b>ABul</b> &emsp; Prof. Dr. Ali Buldu 🔹</p>
+<p align='center'>🔹 <b>AS</b> &emsp; Dr. Öğretim Üyesi Ali Sarıkaş 🔹</p>
+<p align='center'>🔹 <b>BB</b> &emsp; Arş. Gör. Dr. Büşra Büyüktanır 🔹</p>
+<p align='center'>🔹 <b>BD</b> &emsp; Doç. Dr. Buket Doğan 🔹</p>
+<p align='center'>🔹 <b>DM</b> &emsp; Arş. Gör. Damla Mengüş 🔹</p>
+<p align='center'>🔹 <b>ED</b> &emsp; Dr. Öğretim Üyesi Emrah Dikbıyık 🔹</p>
+<p align='center'>🔹 <b>EEÜ</b> &emsp; Dr. Öğretim Üyesi Eyüp Emre Ülkü 🔹</p>
+<p align='center'>🔹 <b>KY</b> &emsp; Prof. Dr. Kazım Yıldız 🔹</p>
+<p align='center'>🔹 <b>MHİ</b> &emsp; Arş. Gör. Merve Hazan İşcan 🔹</p>
+<p align='center'>🔹 <b>MP</b> &emsp; Arş. Gör. Dr. Merve Pınar 🔹</p>
+<p align='center'>🔹 <b>NK</b> &emsp; Arş. Gör. Nursaç Kurt 🔹</p>
+<p align='center'>🔹 <b>NÖ</b> &emsp; Dr. Öğretim Üyesi Neşe Özdemir 🔹</p>
+<p align='center'>🔹 <b>SK</b> &emsp; Arş. Gör. Semiha Koç 🔹</p>
+<p align='center'>🔹 <b>SÖ</b> &emsp; Prof. Dr. Serhat Özekes 🔹</p>
+<p align='center'>🔹 <b>Tİ</b> &emsp; Dr. Öğretim Üyesi Timur İnan 🔹</p>
+<p align='center'>🔹 <b>ZAŞ</b> &emsp; Arş. Gör. Ziya Anıl Şen 🔹</p>
+<p align='center'>🔹 <b>ÖA</b> &emsp; Doç. Dr. Ömer Akgün 🔹</p>
+<p align='center'>🔹 <b>ÖD</b> &emsp; Doç. Dr. Önder Demir 🔹</p>
+<p align='center'>🔹 <b>ŞKŞ</b> &emsp; Arş. Gör. Şeyda Karcı Şen 🔹</p>
+<p align='center'>🔹 <b>ŞU</b> &emsp; Prof. Dr. Şahin Uyaver 🔹</p>
+</details>
+
+<details>
+<summary><b>🤝 Katkıda Bulunanlar</b></summary>
+
+<h2 align='center'>🤝 Katkıda Bulunanlar</h2>
+
+Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz Pull Request gönderebilir ya da issue açabilirsiniz.
+
+<h1 align='center'>⭐ <b><i>Mehmet Emin</i></b> ⭐</h1>
+<p align='center'><a href='https://github.com/mEhMet6968'><b>GitHub</b></a></p>
+
+</details>
+
+
+## Yıldız Geçmişi
+[![Star History Chart](https://api.star-history.com/svg?repos=mEhMet6968/Marmara_Bilgisayar_Muhendisligi_Arsiv&type=Date)](https://star-history.com/#mEhMet6968/Marmara_Bilgisayar_Muhendisligi_Arsiv&Date)

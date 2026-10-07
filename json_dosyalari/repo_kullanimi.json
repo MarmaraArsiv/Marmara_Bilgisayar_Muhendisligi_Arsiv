@@ -1,0 +1,19 @@
+{
+    "baslik": "Repo Kullanımı",
+    "aciklama": "Açıklamalar",
+    "aciklamalar": [
+        "Bölümde bilinen ve güvenilir bir kaynak olmak.",
+        "Akademik network oluşturmak ve iş birliklerini kolaylaştırmak.",
+        "Dışarıdan bakan biri için temiz, düzenli ve profesyonel bir imaj sunmak.",
+        "İçerikler: ders slaytları, kişisel ders notları ve özetler, ödev çözümleri, atölye çalışmaları, çıkmış sorular ve analizleri, proje dosyaları ve örnekleri."
+    ],
+    "talimat": "Talimatlar",
+    "talimatlar": [
+        "Repo içindeki README.md'leri ders bazlı takip edin.",
+        "Ödevleri çalıştırmak için ilgili klasörlerdeki .py veya .cpp dosyalarını kullanabilirsiniz.",
+        "Ders özetleri, kısa ve okunabilir şekilde markdown olarak hazırlanmıştır.",
+        "Özet ve ödevleri birleştirip kendi öğrenme sürecinize uyarlayabilirsiniz."
+    ],
+    "kavram": "Kavramlar",
+    "kavramlar": []
+}
