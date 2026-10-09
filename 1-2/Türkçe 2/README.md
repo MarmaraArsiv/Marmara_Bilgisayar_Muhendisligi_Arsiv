@@ -11,5 +11,6 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
+- 📄 [📄 Çıkmış Sorular (Bütünleme)](./çıkmış_sorular/)
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.

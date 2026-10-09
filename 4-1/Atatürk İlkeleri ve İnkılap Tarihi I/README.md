@@ -11,4 +11,5 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- 📄 [Çıkmış Sorular](./çıkmış_sorular/)
+- 📄 [Çalışma Soruları](./çalışma_soruları/)
