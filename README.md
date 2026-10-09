@@ -191,6 +191,34 @@ Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencile
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./2-1/Nesne%20Y%C3%B6nelimli%20Programlama)
 
+
+#### 📘 Bilgisayar Programlama II 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/Bilgisayar%20Programlama%20II)
+
+
+#### 📘 İnsan-Bilgisayar Etkileşimi ve Görsellik 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik)
+
+
+#### 📘 Ayrık Matematik 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/Ayr%C4%B1k%20Matematik)
+
+
+#### 📘 Diferansiyel Denklemler 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/Diferansiyel%20Denklemler)
+
 ### 🗓 2. Yıl - Bahar
 
 
@@ -227,6 +255,133 @@ Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencile
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./2-2/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar)
+
+
+#### 📘 Mühendisler için İstatistik 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-2/M%C3%BChendisler%20i%C3%A7in%20%C4%B0statistik)
+
+### 🗓 3. Yıl - Güz
+
+
+#### 📘 Staj I 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-1/Staj%20I)
+
+
+#### 📘 Veritabanı Yönetim Sistemleri 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri)
+
+
+#### 📘 İşletim Sistemleri 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-1/%C4%B0%C5%9Fletim%20Sistemleri)
+
+
+#### 📘 Mikrodenetleyiciler 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-1/Mikrodenetleyiciler)
+
+
+#### 📘 Sinyaller ve Sistemlere Giriş 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-1/Sinyaller%20ve%20Sistemlere%20Giri%C5%9F)
+
+### 🗓 3. Yıl - Bahar
+
+
+#### 📘 Bilgisayar Organizasyonu ve Mimarisi 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-2/Bilgisayar%20Organizasyonu%20ve%20Mimarisi)
+
+
+#### 📘 Web Programlama 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-2/Web%20Programlama)
+
+
+#### 📘 Sistem Programlama 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-2/Sistem%20Programlama)
+
+
+#### 📘 Yazılım Mühendisliği 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-2/Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi)
+
+### 🗓 4. Yıl - Güz
+
+
+#### 📘 Staj II 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-1/Staj%20II)
+
+
+#### 📘 İş Yeri Eğitimi 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-1/%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi)
+
+
+#### 📘 Atatürk İlkeleri ve İnkılap Tarihi I 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%20I)
+
+### 🗓 4. Yıl - Bahar
+
+
+#### 📘 Sistem ve Sunucu Yönetimi 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-2/Sistem%20ve%20Sunucu%20Y%C3%B6netimi)
+
+
+#### 📘 Bitirme Projesi 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi)
+
+
+#### 📘 Atatürk İlkeleri ve İnkılap Tarihi II 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-2/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%20II)
+
+
+#### 📘 Teknik İngilizce 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-2/Teknik%20%C4%B0ngilizce)
 </details>
 
 <details>
