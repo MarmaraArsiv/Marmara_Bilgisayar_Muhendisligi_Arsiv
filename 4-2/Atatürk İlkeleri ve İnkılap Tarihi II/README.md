@@ -11,4 +11,4 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- 📄 [Slaytlar ve Notlar](./slaytlar_notlar/)

@@ -15,5 +15,6 @@
 - 📄 [📄 Çıkmış Vize Soruları](./çıkmışlar/) ✨
 - 📄 [📊 Haftalık Ders Slaytları](./ders%20slaytları/) ✨
 - 📄 [📋 Ders İzlencesi (Syllabus)](./Syllabus.pdf) ✨
+- 📄 [Lab Dersi Tahta Soruları](./Lab/lab_dersi_tahta_soruları.pdf)
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
