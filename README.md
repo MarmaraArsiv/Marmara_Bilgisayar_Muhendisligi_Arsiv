@@ -1009,7 +1009,7 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz Pull Request gönderebilir ya da issue açabilirsiniz.
 
 <h1 align='center'>⭐ <b><i>Mehmet Emin</i></b> ⭐</h1>
-<p align='center'><a href='https://github.com/mEhMet6968'><b>GitHub</b></a></p>
+<p align='center'><a href='https://github.com/yldzemin'><b>GitHub</b></a></p>
 
 </details>
 
