@@ -174,6 +174,59 @@ Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencile
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./1-2/T%C3%BCrk%C3%A7e%202)
+
+### 🗓 2. Yıl - Güz
+
+
+#### 📘 Mantık Devreleri 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/Mant%C4%B1k%20Devreleri)
+
+
+#### 📘 Nesne Yönelimli Programlama 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/Nesne%20Y%C3%B6nelimli%20Programlama)
+
+### 🗓 2. Yıl - Bahar
+
+
+#### 📘 Bilgisayar Ağlarına Giriş 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-2/Bilgisayar%20A%C4%9Flar%C4%B1na%20Giri%C5%9F)
+
+
+#### 📘 Elektronik Devrelere Giriş 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-2/Elektronik%20Devrelere%20Giri%C5%9F)
+
+
+#### 📘 Mikroişlemciler 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-2/Mikroi%C5%9Flemciler)
+
+
+#### 📘 Sayısal Analiz 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-2/Say%C4%B1sal%20Analiz)
+
+
+#### 📘 Veri Yapıları ve Algoritmalar 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-2/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar)
 </details>
 
 <details>
