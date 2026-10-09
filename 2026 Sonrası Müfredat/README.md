@@ -13,3 +13,9 @@ Detaylar ve 2026 öncesi müfredatla farkı için [`../Müfredat/README.md`](../
 - [3. Yıl - Bahar](./3-2/) (5 ders)
 - [4. Yıl - Güz](./4-1/) (5 ders)
 - [4. Yıl - Bahar](./4-2/) (2 ders)
+
+## 🧩 Seçmeli Ders Havuzları
+
+- [Mesleki Seçmeli](./Mesleki%20Se%C3%A7meli/) (36 ders, S1-S11)
+- [Fakülte Teknik Seçmeli](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/) (8 ders, 8. yarıyıl)
+- [Üniversite Seçmeli](./%C3%9Cniversite%20Se%C3%A7meli/) (15 ders, 8. yarıyıl)
