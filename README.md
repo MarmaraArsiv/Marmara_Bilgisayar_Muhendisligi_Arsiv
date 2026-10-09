@@ -1406,7 +1406,7 @@ Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir
 <h2 align='center'>🌟 <b><i>Efe Özan</i></b> 🌟</h2>
 <p align='center'><a href='https://github.com/thozoz'><b>GitHub</b></a></p>
 
-<h3 align='center'>💫 <b><i>İsmail Efe Terlemez</i></b> 💫</h3>
+<h2 align='center'>🌟 <b><i>İsmail Efe Terlemez</i></b> 🌟</h2>
 <p align='center'><a href='https://github.com/ism00efe'><b>GitHub</b></a></p>
 
 </details>
