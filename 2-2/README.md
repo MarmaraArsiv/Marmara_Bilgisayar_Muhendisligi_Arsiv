@@ -82,3 +82,18 @@
 - 📄 [📄 Çıkmış Sorular (2024-2025 Final)](./Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/%C3%A7%C4%B1km%C4%B1%C5%9Flar/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+### 📘 Mühendisler için İstatistik
+
+#### 📄 Ders Bilgileri
+
+- 📅 **Yıl:** 2
+- 📆 **Dönem:** Bahar
+- 🏫 **Ders Tipi:** Zorunlu
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+#### 📚 Faydalı Olabilecek Kaynaklar
+
+- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+
