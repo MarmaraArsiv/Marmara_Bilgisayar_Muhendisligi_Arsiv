@@ -19,6 +19,7 @@ Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencile
 
 ## 🗂 İçindekiler
 
+- 🔗 [Kavramlar](#-kavramlar)
 - 🔗 [Dersler](#-dersler)
 - 🔗 [Seçmeli Dersler](#-seçmeli-dersler)
 - 🔗 [Hocalar](#-hocalar)
@@ -44,6 +45,52 @@ Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencile
 - 👉 Ödevleri çalıştırmak için ilgili klasörlerdeki .py veya .cpp dosyalarını kullanabilirsiniz.
 - 👉 Ders özetleri, kısa ve okunabilir şekilde markdown olarak hazırlanmıştır.
 - 👉 Özet ve ödevleri birleştirip kendi öğrenme sürecinize uyarlayabilirsiniz.
+</details>
+
+<details>
+<summary><b>🔍 Kavramlar</b></summary>
+
+## 🔍 Kavramlar
+
+📌 Bölümle ilgili sık karşılaşılan terimlerin kısa açıklamaları. Not: tarih/şart gibi somut rakamlar dönemden
+döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci işlerine danışın.
+
+- 💡 **Bütünleme Sınavı**
+  - 📘 **S: Bütünleme sınavı nedir?** **C:** Final sınavının ardından yapılan, dersten başarısız olanların
+    (ve şartlı geçenlerin isterlerse) girebildiği ek bir sınavdır. Bütünlemeye giren bir öğrencinin notu,
+    final notunun yerini alır — geri dönüş yoktur.
+- 💡 **Çan Eğrisi**
+  - 📘 **S: Çan eğrisi nedir?** **C:** Bir sınıfın sınav sonuçlarının ortalama ve standart sapmasına göre
+    harf notlarının belirlendiği bağıl bir değerlendirme yöntemidir. Her hoca kullanmak zorunda değildir;
+    bazı dersler mutlak (bareme dayalı) notlandırılır.
+- 💡 **DC Notu / Şartlı Geçme**
+  - 📘 **S: DC nedir?** **C:** Şartlı geçme notudur — dersi geçmiş sayılırsınız ama not ortalamanız
+    (GANO) yeterince yüksek değilse dersi tekrar almanız istenebilir. Bütünlemeye isteğe bağlı girilebilir.
+- 💡 **GANO / AGNO**
+  - 📘 **S: GANO nedir?** **C:** Genel Ağırlıklı Not Ortalaması — o ana kadar alınan tüm derslerin kredi
+    ağırlıklı not ortalamasıdır. Mezuniyet, ÇAP/yandal başvurusu gibi şartlarda kullanılır.
+- 💡 **Mazeret Sınavı**
+  - 📘 **S: Mazeret sınavı nedir?** **C:** Sağlık raporu, resmi belgeli bir mazeret vb. nedenle vize/finale
+    giremeyen öğrenciler için düzenlenen, geçerli belgeyle başvurulan ek sınavdır.
+- 💡 **ÇAP / Yandal**
+  - 📘 **S: ÇAP nedir?** **C:** Çift Anadal Programı — uygun GANO'ya sahip öğrencilerin, okurken ikinci bir
+    bölümden de lisans diploması almasını sağlayan program.
+  - 📘 **S: Yandal nedir?** **C:** Diploma vermeyen, ikinci bir alanda sertifika niteliğinde daha hafif bir
+    program.
+- 💡 **Staj I / Staj II**
+  - 📘 **S: Staj I/II nedir?** **C:** Müfredatta 3. ve 4. yıllarda yer alan, işletmede kısa süreli uygulamalı
+    çalışmayı zorunlu kılan derslerdir. Bkz. [`3-1/Staj I`](./3-1/Staj%20I) ve [`4-1/Staj II`](./4-1/Staj%20II).
+- 💡 **İş Yeri Eğitimi**
+  - 📘 **S: İş Yeri Eğitimi nedir?** **C:** Staj'dan daha kapsamlı, bir dönem boyunca işletmede tam zamanlı
+    çalışmayı içeren müfredat dersi (bkz. [müfredat](./M%C3%BCfredat/) — 7. yarıyılda 28 AKTS ile oldukça
+    yüklü bir ders). Bkz. [`4-1/İş Yeri Eğitimi`](./4-1/%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi).
+- 💡 **Bitirme Projesi**
+  - 📘 **S: Bitirme Projesi nedir?** **C:** Son dönemde bir danışman hoca eşliğinde yürütülen, mezuniyet
+    şartı olan bitirme çalışmasıdır. Bkz. [`4-2/Bitirme Projesi`](./4-2/Bitirme%20Projesi).
+- 💡 **Mesleki Seçmeli / Üniversite Seçmeli**
+  - 📘 **S: Aralarındaki fark ne?** **C:** Mesleki Seçmeli dersler bölüm içi teknik derslerdir (örn. Veri
+    Madenciliği, Bilgisayar Güvenliği). Üniversite Seçmeli dersler ise bölüm dışı, daha genel/sosyal
+    içeriklidir (örn. Girişimcilik, Osmanlı Tarihi). Bkz. [Seçmeli Dersler](#-seçmeli-dersler).
 </details>
 
 <details>
