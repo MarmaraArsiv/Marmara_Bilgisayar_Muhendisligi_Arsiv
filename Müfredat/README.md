@@ -1,6 +1,6 @@
 # 🎓 Müfredat Notu
 
-Kökte iki müfredat dosyası var:
+Bu klasörde iki müfredat dosyası var:
 
 - [`bilgisayar_mühendisliği_müfredatı_2026_öncesi.pdf`](./bilgisayar_mühendisliği_müfredatı_2026_öncesi.pdf) — şu an aktif olan, 2026-2027'den önce kayıt olmuş öğrencilerin tabi olduğu müfredat.
 - [`bilgisayar_mühendisliği_müfredatı_2026_sonrası.pdf`](./bilgisayar_mühendisliği_müfredatı_2026_sonrası.pdf) — 2026-2027 akademik yılından itibaren kayıt olan öğrenciler için geçerli, revize müfredat.
@@ -17,4 +17,8 @@ Kökte iki müfredat dosyası var:
 - **7-8. Yarıyıl:** `Bitirme Projesi` tek ders yerine `Bitirme Projesi I` (7. yarıyıl) ve `Bitirme Projesi II` (8. yarıyıl) olarak ikiye bölünmüş.
 - Seçmeli ders havuzlarında bazı dersler yenilenmiş/eklenmiş (örn. `Makine Öğrenimine Giriş`, `Veri Bilimine Giriş`, `Bulut Bilişim`).
 
-Tam liste için her iki PDF'e bakılabilir. **2026-2027'de kayıt olacak öğrencilerin içerik üretmeye başlamasıyla**, bu repoda 2026-sonrası müfredata göre ayrı bir klasörleme gerekip gerekmediğine o zaman karar verilecek — şimdilik erken.
+Tam liste için her iki PDF'e bakılabilir.
+
+## 📂 2026 Sonrası Müfredat İskeleti
+
+2026-2027'den itibaren kayıt olacak öğrenciler için `../2026 Sonrası Müfredat/` altında ayrı bir dönem iskeleti (1-1 … 4-2, zorunlu dersler) hazırlandı. Bu öğrenciler henüz içerik üretmeye başlamadığı için klasörler şimdilik placeholder README'lerle duruyor. Seçmeli ders havuzları bu iskelete henüz dahil edilmedi.
