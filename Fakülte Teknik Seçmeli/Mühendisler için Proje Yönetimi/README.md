@@ -1,0 +1,13 @@
+# 📚 Mühendisler için Proje Yönetimi
+
+## ℹ️ Ders Bilgileri
+
+- 🏷️ **Ders Tipi:** Seçmeli
+- 🏷️ **Müfredat:** 2026 Sonrası
+    - ℹ️ 2026 öncesi müfredatta bu havuzun karşılığı yok, tamamen yeni bir seçmeli havuzudur.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+## 📖 Faydalı Olabilecek Kaynaklar
+
+- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...

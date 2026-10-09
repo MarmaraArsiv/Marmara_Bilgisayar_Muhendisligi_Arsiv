@@ -108,6 +108,22 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 ### 🗓 1. Yıl - Güz
 
 
+#### 📘 İş Sağlığı ve Güvenliği 1 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201)
+
+
+#### 📘 Modern Biyolojiye Giriş 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-1/Modern%20Biyolojiye%20Giri%C5%9F)
+
+
 #### 📘 Algoritma 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -140,6 +156,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Kimya 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Öncesi
+      - ℹ️ 2026 sonrası müfredatta yerine "Modern Biyolojiye Giriş" eklenmiş.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./1-1/Kimya)
@@ -168,6 +186,14 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 ### 🗓 1. Yıl - Bahar
 
 
+#### 📘 Mühendislik Ekonomisi 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./1-2/M%C3%BChendislik%20Ekonomisi)
+
+
 #### 📘 Bilgisayar Donanımı 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -184,6 +210,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Bilimsel Araştırma ve Sunum Teknikleri 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Öncesi
+      - ℹ️ 2026 sonrası müfredatta 3. yıl bahar dönemine taşınmış, "Bilimsel Araştırma ve Sunum Teknikleri 2" olarak anılıyor.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./1-2/Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri)
@@ -205,6 +233,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 İş Sağlığı ve Güvenliği 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** Her İki Müfredat
+      - ℹ️ 2026 sonrası müfredatta "İş Sağlığı ve Güvenliği 2" olarak anılıyor.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./1-2/%C4%B0%C5%9F%20sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi)
@@ -226,6 +256,22 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 ### 🗓 2. Yıl - Güz
 
 
+#### 📘 Teknik İngilizce I 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/Teknik%20%C4%B0ngilizce%20I)
+
+
+#### 📘 Olasılık ve İstatistik 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-1/Olas%C4%B1l%C4%B1k%20ve%20%C4%B0statistik)
+
+
 #### 📘 Mantık Devreleri 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -242,6 +288,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Bilgisayar Programlama II 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Öncesi
+      - ℹ️ 2026 sonrası müfredatta ayrı bir "Bilgisayar Programlama II" dersi yok.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./2-1/Bilgisayar%20Programlama%20II)
@@ -249,6 +297,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 İnsan-Bilgisayar Etkileşimi ve Görsellik 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Öncesi (Zorunlu)
+      - ℹ️ 2026 sonrası müfredatta zorunlu değil, Mesleki Seçmeli havuzuna taşınmış.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./2-1/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik)
@@ -270,6 +320,14 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 ### 🗓 2. Yıl - Bahar
 
 
+#### 📘 Teknik İngilizce II 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./2-2/Teknik%20%C4%B0ngilizce%20II)
+
+
 #### 📘 Bilgisayar Ağlarına Giriş 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -279,6 +337,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Elektronik Devrelere Giriş 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** Her İki Müfredat
+      - ℹ️ 2026 öncesi müfredatta 4. yarıyılda (burada), 2026 sonrası müfredatta 2. yarıyılda yer alıyor.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./2-2/Elektronik%20Devrelere%20Giri%C5%9F)
@@ -307,11 +367,22 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Mühendisler için İstatistik 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Öncesi
+      - ℹ️ 2026 sonrası müfredatta yerine "Olasılık ve İstatistik" dersi var.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./2-2/M%C3%BChendisler%20i%C3%A7in%20%C4%B0statistik)
 
 ### 🗓 3. Yıl - Güz
+
+
+#### 📘 Algoritma Analizi ve Tasarımı 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+      - ℹ️ 2026 öncesi müfredatta "Algoritma Analizi" adıyla Mesleki Seçmeli havuzunda yer alıyor.
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-1/Algoritma%20Analizi%20ve%20Tasar%C4%B1m%C4%B1)
 
 
 #### 📘 Staj I 
@@ -337,6 +408,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Mikrodenetleyiciler 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Öncesi (Zorunlu)
+      - ℹ️ 2026 sonrası müfredatta zorunlu değil, Mesleki Seçmeli havuzuna taşınmış.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./3-1/Mikrodenetleyiciler)
@@ -344,11 +417,31 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Sinyaller ve Sistemlere Giriş 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** Her İki Müfredat
+      - ℹ️ 2026 sonrası müfredatta "Sinyaller ve Sistemler" adıyla anılıyor.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./3-1/Sinyaller%20ve%20Sistemlere%20Giri%C5%9F)
 
 ### 🗓 3. Yıl - Bahar
+
+
+#### 📘 Bilimsel Araştırma ve Sunum Teknikleri 2 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+      - ℹ️ 2026 öncesi müfredatta 1. yıl bahar döneminde yer alıyor.
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-2/Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri%202)
+
+
+#### 📘 Biçimsel Diller ve Otomata Teorisi 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+      - ℹ️ 2026 öncesi müfredatta Mesleki Seçmeli havuzunda yer alıyor.
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./3-2/Bi%C3%A7imsel%20Diller%20ve%20Otomata%20Teorisi)
 
 
 #### 📘 Bilgisayar Organizasyonu ve Mimarisi 
@@ -381,6 +474,23 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 ### 🗓 4. Yıl - Güz
 
 
+#### 📘 Bitirme Projesi I 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+      - ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak 4. yıl bahar döneminde yer alıyor.
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-1/Bitirme%20Projesi%20I)
+
+
+#### 📘 İş Hukuku ve Etiği 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-1/%C4%B0%C5%9F%20Hukuku%20ve%20Eti%C4%9Fi)
+
+
 #### 📘 Staj II 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -404,6 +514,15 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 ### 🗓 4. Yıl - Bahar
 
 
+#### 📘 Bitirme Projesi II 
+  - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Sonrası
+      - ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak yer alıyor.
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi%20II)
+
+
 #### 📘 Sistem ve Sunucu Yönetimi 
   - 🏷️ **Ders Tipi:** Zorunlu
   - ⭐ **Yıldız Sayıları:**
@@ -413,6 +532,8 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 #### 📘 Bitirme Projesi 
   - 🏷️ **Ders Tipi:** Zorunlu
+  - 🏷️ **Müfredat:** 2026 Öncesi
+      - ℹ️ 2026 sonrası müfredatta "Bitirme Projesi I" ve "Bitirme Projesi II" olarak ikiye bölünmüş.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi)
@@ -436,63 +557,16 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 <summary><b>🧩 Seçmeli Dersler</b></summary>
 
 ## 🧩 Seçmeli Dersler
-📌 Bu dersler belirli bir yıl/döneme sabit değildir, öğrenciler ilgili yarıyıllarda havuzdan seçer. Hangi dersin hangi dönemde açıldığı değişebilir.
+📌 Bu dersler belirli bir yıl/döneme sabit değildir, öğrenciler ilgili yarıyıllarda havuzdan seçer. Hangi dersin hangi dönemde açıldığı değişebilir. Etiketlenmemiş dersler her iki müfredatta da ortaktır.
 
 ### 🗂 Mesleki Seçmeli
 
-#### 📘 Yapay Sinir Ağları 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yapay%20Sinir%20A%C4%9Flar%C4%B1)
-
-#### 📘 Eğitim Sistemleri Tasarımı 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/E%C4%9Fitim%20Sistemleri%20Tasar%C4%B1m%C4%B1)
-
-#### 📘 Bilgisayar Grafik 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20Grafik)
-
-#### 📘 Biçimsel Diller ve Otomata Teorisi 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bi%C3%A7imsel%20Diller%20ve%20Otomata%20Teorisi)
-
-#### 📘 Bilgisayar Ağ Protokolleri 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20A%C4%9F%20Protokolleri)
-
 #### 📘 Algoritma Analizi 
   - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Öncesi
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Algoritma%20Analizi)
-
-#### 📘 Veri Madenciliği 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Veri%20Madencili%C4%9Fi)
-
-#### 📘 Gömülü Sistemler 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/G%C3%B6m%C3%BCl%C3%BC%20Sistemler)
-
-#### 📘 Simulasyon ve Modelleme 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Simulasyon%20ve%20Modelleme)
 
 #### 📘 Açık Kaynak Kodlu Yazılımlar 
   - 🏷️ **Ders Tipi:** Seçmeli
@@ -500,41 +574,44 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/A%C3%A7%C4%B1k%20Kaynak%20Kodlu%20Yaz%C4%B1l%C4%B1mlar)
 
+#### 📘 Bilgisayar Ağ Protokolleri 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20A%C4%9F%20Protokolleri)
+
+#### 📘 Bilgisayar Grafik 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20Grafik)
+
 #### 📘 Bilgisayar Güvenliği 
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20G%C3%BCvenli%C4%9Fi)
 
-#### 📘 Sayısal İşaret İşleme 
+#### 📘 Biçimsel Diller ve Otomata Teorisi 
   - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Öncesi
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Say%C4%B1sal%20%C4%B0%C5%9Faret%20%C4%B0%C5%9Fleme)
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bi%C3%A7imsel%20Diller%20ve%20Otomata%20Teorisi)
 
-#### 📘 E-Ticarete Giriş 
+#### 📘 Blockchain Programlamaya Giriş 
   - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/E-Ticarete%20Giri%C5%9F)
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Blockchain%20Programlamaya%20Giri%C5%9F)
 
-#### 📘 Oyun Yazılımı Geliştirme 
+#### 📘 Bulut Bilişim 
   - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Oyun%20Yaz%C4%B1l%C4%B1m%C4%B1%20Geli%C5%9Ftirme)
-
-#### 📘 Yazılım Projelerinin Yönetimi 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yaz%C4%B1l%C4%B1m%20Projelerinin%20Y%C3%B6netimi)
-
-#### 📘 Mobil Programlama 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Mobil%20Programlama)
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bulut%20Bili%C5%9Fim)
 
 #### 📘 Dağıtık Sistemler 
   - 🏷️ **Ders Tipi:** Seçmeli
@@ -542,23 +619,30 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Da%C4%9F%C4%B1t%C4%B1k%20Sistemler)
 
-#### 📘 Web Servisleri 
+#### 📘 Derin Öğrenme ve Yapay Sinir Ağlarına Giriş 
   - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Web%20Servisleri)
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Derin%20%C3%96%C4%9Frenme%20ve%20Yapay%20Sinir%20A%C4%9Flar%C4%B1na%20Giri%C5%9F)
 
-#### 📘 Kriptoloji 
+#### 📘 E-Ticarete Giriş 
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kriptoloji)
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/E-Ticarete%20Giri%C5%9F)
 
-#### 📘 Yapay Zekâya Giriş 
+#### 📘 Eğitim Sistemleri Tasarımı 
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yapay%20Zek%C3%A2ya%20Giri%C5%9F)
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/E%C4%9Fitim%20Sistemleri%20Tasar%C4%B1m%C4%B1)
+
+#### 📘 Gömülü Sistemler 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/G%C3%B6m%C3%BCl%C3%BC%20Sistemler)
 
 #### 📘 Görüntü İşlemenin Temelleri 
   - 🏷️ **Ders Tipi:** Seçmeli
@@ -566,61 +650,173 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Flemenin%20Temelleri)
 
+#### 📘 Güncel Yapay Zeka Yaklaşımları 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/G%C3%BCncel%20Yapay%20Zeka%20Yakla%C5%9F%C4%B1mlar%C4%B1)
+
 #### 📘 Kablosuz Ağlar 
   - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Öncesi
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kablosuz%20A%C4%9Flar)
 
+#### 📘 Kablosuz ve Mobil Ağlar 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kablosuz%20ve%20Mobil%20A%C4%9Flar)
+
+#### 📘 Kriptoloji 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kriptoloji)
+
+#### 📘 Linux Kabuk Programlama 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Linux%20Kabuk%20Programlama)
+
+#### 📘 Makine Öğrenimine Giriş 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Makine%20%C3%96%C4%9Frenimine%20Giri%C5%9F)
+
+#### 📘 Mikrodenetleyiciler 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Mikrodenetleyiciler)
+
+#### 📘 Mobil Programlama 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Mobil%20Programlama)
+
+#### 📘 Mühendislik Matematiği ve Uygulamaları 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/M%C3%BChendislik%20Matemati%C4%9Fi%20ve%20Uygulamalar%C4%B1)
+
+#### 📘 Mühendislik Uygulamaları için Python 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/M%C3%BChendislik%20Uygulamalar%C4%B1%20i%C3%A7in%20Python)
+
+#### 📘 Nesnelerin İnterneti 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Nesnelerin%20%C4%B0nterneti)
+
+#### 📘 Optimizasyon Teknikleri ve Uygulamaları 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Optimizasyon%20Teknikleri%20ve%20Uygulamalar%C4%B1)
+
+#### 📘 Oyun Yazılımı Geliştirme 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Oyun%20Yaz%C4%B1l%C4%B1m%C4%B1%20Geli%C5%9Ftirme)
+
+#### 📘 Paralel Hesaplama 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Paralel%20Hesaplama)
+
+#### 📘 Rastgele Değişkenler 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Rastgele%20De%C4%9Fi%C5%9Fkenler)
+
+#### 📘 Sayısal İşaret İşleme 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Say%C4%B1sal%20%C4%B0%C5%9Faret%20%C4%B0%C5%9Fleme)
+
+#### 📘 Simulasyon ve Modelleme 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Simulasyon%20ve%20Modelleme)
+
+#### 📘 Sosyal Ağlarda Uygulamalı Metin Analizi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Sosyal%20A%C4%9Flarda%20Uygulamal%C4%B1%20Metin%20Analizi)
+
+#### 📘 Veri Bilimine Giriş 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Veri%20Bilimine%20Giri%C5%9F)
+
+#### 📘 Veri Madenciliği 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Veri%20Madencili%C4%9Fi)
+
+#### 📘 Web Servisleri 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Web%20Servisleri)
+
+#### 📘 Yapay Sinir Ağları 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yapay%20Sinir%20A%C4%9Flar%C4%B1)
+
+#### 📘 Yapay Zekâya Giriş 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Öncesi
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yapay%20Zek%C3%A2ya%20Giri%C5%9F)
+
+#### 📘 Yazılım Projelerinin Yönetimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yaz%C4%B1l%C4%B1m%20Projelerinin%20Y%C3%B6netimi)
+
+#### 📘 İnsan-Bilgisayar Etkileşimi ve Görsellik 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik)
+
 ### 🗂 Üniversite Seçmeli
-
-#### 📘 Girişimcilik ve İnovasyon 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Giri%C5%9Fimcilik%20ve%20%C4%B0novasyon)
-
-#### 📘 İş Psikolojisi 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/%C4%B0%C5%9F%20Psikolojisi)
-
-#### 📘 Çevre ve Enerji 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/%C3%87evre%20ve%20Enerji)
-
-#### 📘 Kalite Yönetimi 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Kalite%20Y%C3%B6netimi)
-
-#### 📘 Rapor Hazırlama ve Sunum Teknikleri 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Rapor%20Haz%C4%B1rlama%20ve%20Sunum%20Teknikleri)
-
-#### 📘 Sosyal Organizasyon 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Sosyal%20Organizasyon)
-
-#### 📘 Osmanlı Tarihi 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Osmanl%C4%B1%20Tarihi)
-
-#### 📘 Teknik İletişim 
-  - 🏷️ **Ders Tipi:** Seçmeli
-  - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Teknik%20%C4%B0leti%C5%9Fim)
 
 #### 📘 Bilim Tarihi 
   - 🏷️ **Ders Tipi:** Seçmeli
@@ -634,17 +830,144 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Fizibilite%20Haz%C4%B1rlama%20ve%20Uygulamalar%C4%B1)
 
+#### 📘 Girişimcilik 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Giri%C5%9Fimcilik)
+
+#### 📘 Girişimcilik ve İnovasyon 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Giri%C5%9Fimcilik%20ve%20%C4%B0novasyon)
+
+#### 📘 Kalite Yönetimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Kalite%20Y%C3%B6netimi)
+
+#### 📘 Liderlik 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Liderlik)
+
+#### 📘 Moda 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Moda)
+
+#### 📘 Osmanlı Tarihi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Osmanl%C4%B1%20Tarihi)
+
+#### 📘 Rapor Hazırlama ve Sunum Teknikleri 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Rapor%20Haz%C4%B1rlama%20ve%20Sunum%20Teknikleri)
+
+#### 📘 Sistem Mühendisliği 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Sistem%20M%C3%BChendisli%C4%9Fi)
+
+#### 📘 Sosyal Organizasyon 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Sosyal%20Organizasyon)
+
 #### 📘 Teknik Satış ve Pazarlama 
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Teknik%20Sat%C4%B1%C5%9F%20ve%20Pazarlama)
 
-#### 📘 Girişimcilik 
+#### 📘 Teknik İletişim 
   - 🏷️ **Ders Tipi:** Seçmeli
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Giri%C5%9Fimcilik)
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Teknik%20%C4%B0leti%C5%9Fim)
+
+#### 📘 Çevre ve Enerji 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/%C3%87evre%20ve%20Enerji)
+
+#### 📘 İş Psikolojisi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/%C4%B0%C5%9F%20Psikolojisi)
+
+### 🗂 Fakülte Teknik Seçmeli
+
+#### 📘 Araştırma Planlama ve Yönetimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/Ara%C5%9Ft%C4%B1rma%20Planlama%20ve%20Y%C3%B6netimi)
+
+#### 📘 Bilgi Sistemleri Yönetimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/Bilgi%20Sistemleri%20Y%C3%B6netimi)
+
+#### 📘 Disiplinler Arası Proje Tasarımı 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/Disiplinler%20Aras%C4%B1%20Proje%20Tasar%C4%B1m%C4%B1)
+
+#### 📘 Mühendisler için Proje Yönetimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/M%C3%BChendisler%20i%C3%A7in%20Proje%20Y%C3%B6netimi)
+
+#### 📘 Mühendislik ve Teknoloji Yönetimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/M%C3%BChendislik%20ve%20Teknoloji%20Y%C3%B6netimi)
+
+#### 📘 Veri Bilimi ve Veri Analitiğine Giriş 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/Veri%20Bilimi%20ve%20Veri%20Analiti%C4%9Fine%20Giri%C5%9F)
+
+#### 📘 Yazılım Proje Yönetimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/Yaz%C4%B1l%C4%B1m%20Proje%20Y%C3%B6netimi)
+
+#### 📘 Çok Disiplinli Takım Çalışması Deneyimi 
+  - 🏷️ **Ders Tipi:** Seçmeli
+  - 🏷️ **Müfredat:** 2026 Sonrası
+  - ⭐ **Yıldız Sayıları:**
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 📂 [Ders Klasörü](./Fak%C3%BClte%20Teknik%20Se%C3%A7meli/%C3%87ok%20Disiplinli%20Tak%C4%B1m%20%C3%87al%C4%B1%C5%9Fmas%C4%B1%20Deneyimi)
 
 </details>
 
