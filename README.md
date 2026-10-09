@@ -69,6 +69,9 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 - 💡 **GANO / AGNO**
   - 📘 **S: GANO nedir?** **C:** Genel Ağırlıklı Not Ortalaması — o ana kadar alınan tüm derslerin kredi
     ağırlıklı not ortalamasıdır. Mezuniyet, ÇAP/yandal başvurusu gibi şartlarda kullanılır.
+- 💡 **YANO**
+  - 📘 **S: YANO nedir?** **C:** Yarıyıl Ağırlıklı Not Ortalaması — yalnızca ilgili dönemde alınan derslerin
+    kredi ağırlıklı not ortalamasıdır. Her dönem sıfırdan hesaplanır; GANO ise tüm dönemleri kapsar.
 - 💡 **Mazeret Sınavı**
   - 📘 **S: Mazeret sınavı nedir?** **C:** Sağlık raporu, resmi belgeli bir mazeret vb. nedenle vize/finale
     giremeyen öğrenciler için düzenlenen, geçerli belgeyle başvurulan ek sınavdır.
