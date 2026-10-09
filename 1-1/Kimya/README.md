@@ -5,6 +5,8 @@
 - 📅 **Yıl:** 1
 - 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Öncesi
+    - ℹ️ 2026 sonrası müfredatta bu ders yok, yerine "Modern Biyolojiye Giriş" eklenmiş.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 ## 📝 Derse Dair Öneriler

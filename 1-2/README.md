@@ -48,6 +48,8 @@
 - 📅 **Yıl:** 1
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Öncesi
+    - ℹ️ 2026 sonrası müfredatta 3. yıl bahar dönemine taşınmış, "Bilimsel Araştırma ve Sunum Teknikleri 2" olarak anılıyor.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -100,6 +102,8 @@
 - 📅 **Yıl:** 1
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** Her İki Müfredat
+    - ℹ️ 2026 sonrası müfredatta "İş Sağlığı ve Güvenliği 2" olarak anılıyor.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -141,3 +145,18 @@
 
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+### 📘 Mühendislik Ekonomisi
+
+#### 📄 Ders Bilgileri
+
+- 📅 **Yıl:** 1
+- 📆 **Dönem:** Bahar
+- 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Sonrası
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+#### 📚 Faydalı Olabilecek Kaynaklar
+
+- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...

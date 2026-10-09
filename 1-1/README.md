@@ -85,6 +85,8 @@
 - 📅 **Yıl:** 1
 - 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Öncesi
+    - ℹ️ 2026 sonrası müfredatta yerine "Modern Biyolojiye Giriş" eklenmiş.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 #### 💡 Derse Dair Öneriler
@@ -153,3 +155,33 @@
 
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+### 📘 Modern Biyolojiye Giriş
+
+#### 📄 Ders Bilgileri
+
+- 📅 **Yıl:** 1
+- 📆 **Dönem:** Güz
+- 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Sonrası
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+#### 📚 Faydalı Olabilecek Kaynaklar
+
+- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+
+### 📘 İş Sağlığı ve Güvenliği 1
+
+#### 📄 Ders Bilgileri
+
+- 📅 **Yıl:** 1
+- 📆 **Dönem:** Güz
+- 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Sonrası
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+#### 📚 Faydalı Olabilecek Kaynaklar
+
+- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...

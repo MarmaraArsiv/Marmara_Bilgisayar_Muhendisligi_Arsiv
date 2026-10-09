@@ -5,6 +5,8 @@
 - 📅 **Yıl:** 1
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** Her İki Müfredat
+    - ℹ️ 2026 sonrası müfredatta "İş Sağlığı ve Güvenliği 2" olarak anılıyor (1. yarıyılda ayrıca "İş Sağlığı ve Güvenliği 1" eklenmiş).
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 

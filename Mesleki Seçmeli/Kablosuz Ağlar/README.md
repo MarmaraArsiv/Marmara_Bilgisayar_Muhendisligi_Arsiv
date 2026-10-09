@@ -3,6 +3,8 @@
 ## ℹ️ Ders Bilgileri
 
 - 🏷️ **Ders Tipi:** Seçmeli
+- 🏷️ **Müfredat:** 2026 Öncesi
+    - ℹ️ 2026 sonrası müfredatta yerine "Kablosuz ve Mobil Ağlar" eklenmiş.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 

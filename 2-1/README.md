@@ -43,6 +43,8 @@
 - 📅 **Yıl:** 2
 - 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Öncesi
+    - ℹ️ 2026 sonrası müfredatta ayrı bir "Bilgisayar Programlama II" dersi yok.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -57,6 +59,8 @@
 - 📅 **Yıl:** 2
 - 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Öncesi (Zorunlu)
+    - ℹ️ 2026 sonrası müfredatta zorunlu değil, Mesleki Seçmeli havuzuna taşınmış.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -92,3 +96,33 @@
 
 - ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
 
+
+### 📘 Olasılık ve İstatistik
+
+#### 📄 Ders Bilgileri
+
+- 📅 **Yıl:** 2
+- 📆 **Dönem:** Güz
+- 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Sonrası
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+#### 📚 Faydalı Olabilecek Kaynaklar
+
+- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+
+### 📘 Teknik İngilizce I
+
+#### 📄 Ders Bilgileri
+
+- 📅 **Yıl:** 2
+- 📆 **Dönem:** Güz
+- 🏫 **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Sonrası
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+
+#### 📚 Faydalı Olabilecek Kaynaklar
+
+- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
