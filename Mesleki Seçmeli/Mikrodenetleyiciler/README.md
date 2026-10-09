@@ -9,4 +9,4 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ 2026 öncesi müfredatta bu ders zorunludur, bkz. [`3-1/Mikrodenetleyiciler`](../3-1/Mikrodenetleyiciler/).
+- ℹ️ 2026 öncesi müfredatta bu ders zorunludur, bkz. [`3-1/Mikrodenetleyiciler`](../../3-1/Mikrodenetleyiciler/).
