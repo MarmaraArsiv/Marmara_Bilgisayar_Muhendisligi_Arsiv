@@ -21,7 +21,7 @@ import urllib.request
 
 # Toplam commit sayısı -> seviye (büyükten küçüğe kontrol edilir).
 SEVIYE_ESIKLERI = [
-    (20, "Çok"),       # h1
+    (10, "Çok"),       # h1
     (5, "Orta Üst"),   # h2
     (1, "Orta"),       # h3
 ]
