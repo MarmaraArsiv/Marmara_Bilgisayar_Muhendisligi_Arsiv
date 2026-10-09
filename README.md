@@ -1015,4 +1015,4 @@ Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir
 
 
 ## Yıldız Geçmişi
-[![Star History Chart](https://api.star-history.com/svg?repos=mEhMet6968/Marmara_Bilgisayar_Muhendisligi_Arsiv&type=Date)](https://star-history.com/#mEhMet6968/Marmara_Bilgisayar_Muhendisligi_Arsiv&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=MarmaraArsiv/Marmara_Bilgisayar_Muhendisligi_Arsiv&type=Date)](https://star-history.com/#MarmaraArsiv/Marmara_Bilgisayar_Muhendisligi_Arsiv&Date)
