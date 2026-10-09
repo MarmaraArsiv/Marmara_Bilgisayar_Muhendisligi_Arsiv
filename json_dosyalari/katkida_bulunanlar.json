@@ -1,13 +1,42 @@
 {
     "bolum_adi": "Katkıda Bulunanlar",
-    "bolum_aciklamasi": "Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz Pull Request gönderebilir ya da issue açabilirsiniz.",
+    "bolum_aciklamasi": "Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz 📁 Google Drive klasörümüze dosya yükleyebilir (link yakında eklenecek), bizimle iletişime geçebilir ya da pull request gönderebilirsiniz. Nasıl pull request açacağınızı anlatan videolar yakında eklenecek. Burada isminizin yer almasını isterseniz bölüm dersleriyle alakalı, elle tutulur bir katkı yapmanız beklenir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmeniz yeterli.",
     "katkida_bulunanlar": [
         {
             "ad": "Mehmet Emin",
             "github_link": "https://github.com/yldzemin",
             "katkida_bulunma_orani": "Çok",
             "iletisim_bilgileri": [
-                {"baslik": "GitHub", "link": "https://github.com/yldzemin"}
+                {
+                    "baslik": "GitHub",
+                    "link": "https://github.com/yldzemin"
+                },
+                {
+                    "baslik": "LinkedIn",
+                    "link": "https://www.linkedin.com/in/mehmet-emin-yildizz/"
+                }
+            ]
+        },
+        {
+            "ad": "Efe Özan",
+            "github_link": "https://github.com/thozoz",
+            "katkida_bulunma_orani": "Orta Üst",
+            "iletisim_bilgileri": [
+                {
+                    "baslik": "GitHub",
+                    "link": "https://github.com/thozoz"
+                }
+            ]
+        },
+        {
+            "ad": "İsmail Efe Terlemez",
+            "github_link": "https://github.com/ism00efe",
+            "katkida_bulunma_orani": "Orta",
+            "iletisim_bilgileri": [
+                {
+                    "baslik": "GitHub",
+                    "link": "https://github.com/ism00efe"
+                }
             ]
         }
     ]

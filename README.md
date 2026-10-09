@@ -1395,10 +1395,16 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 <h2 align='center'>🤝 Katkıda Bulunanlar</h2>
 
-Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz Pull Request gönderebilir ya da issue açabilirsiniz.
+Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz 📁 Google Drive klasörümüze dosya yükleyebilir (link yakında eklenecek), bizimle iletişime geçebilir ya da pull request gönderebilirsiniz. Nasıl pull request açacağınızı anlatan videolar yakında eklenecek. Burada isminizin yer almasını isterseniz bölüm dersleriyle alakalı, elle tutulur bir katkı yapmanız beklenir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmeniz yeterli.
 
 <h1 align='center'>⭐ <b><i>Mehmet Emin</i></b> ⭐</h1>
-<p align='center'><a href='https://github.com/yldzemin'><b>GitHub</b></a></p>
+<p align='center'><a href='https://github.com/yldzemin'><b>GitHub</b></a> &nbsp<a href='https://www.linkedin.com/in/mehmet-emin-yildizz/'><b>LinkedIn</b></a></p>
+
+<h2 align='center'>🌟 <b><i>Efe Özan</i></b> 🌟</h2>
+<p align='center'><a href='https://github.com/thozoz'><b>GitHub</b></a></p>
+
+<h3 align='center'>💫 <b><i>İsmail Efe Terlemez</i></b> 💫</h3>
+<p align='center'><a href='https://github.com/ism00efe'><b>GitHub</b></a></p>
 
 </details>
 

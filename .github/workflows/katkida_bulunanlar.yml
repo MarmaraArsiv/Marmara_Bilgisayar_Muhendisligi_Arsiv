@@ -1,0 +1,48 @@
+name: Katkıda Bulunanları Güncelle
+
+on:
+  # PR merge edilince main'e push düşer; fork PR'larında da yazma izni olsun diye push kullanılıyor.
+  push:
+    branches: [main]
+    paths-ignore:
+      - "json_dosyalari/katkida_bulunanlar.json"
+  schedule:
+    - cron: "0 6 * * 1"  # her pazartesi 09:00 (TR)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: katkida-bulunanlar
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Katkıda bulunanları hesapla
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/katkida_bulunanlari_guncelle.py
+
+      - name: Değişiklik varsa commit et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add json_dosyalari/katkida_bulunanlar.json README.md
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git commit -m "Katkıda bulunanlar otomatik güncellendi"
+          git push
