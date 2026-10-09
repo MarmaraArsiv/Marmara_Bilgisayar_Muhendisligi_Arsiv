@@ -21,4 +21,4 @@ Tam liste için her iki PDF'e bakılabilir.
 
 ## 📂 2026 Sonrası Müfredat İskeleti
 
-2026-2027'den itibaren kayıt olacak öğrenciler için `../2026 Sonrası Müfredat/` altında ayrı bir dönem iskeleti (1-1 … 4-2, zorunlu dersler) hazırlandı. Bu öğrenciler henüz içerik üretmeye başlamadığı için klasörler şimdilik placeholder README'lerle duruyor. Seçmeli ders havuzları bu iskelete henüz dahil edilmedi.
+2026-2027'den itibaren kayıt olacak öğrenciler için `../2026 Sonrası Müfredat/` altında ayrı, kendi içinde tam bir iskelet hazırlandı: 1-1 … 4-2 zorunlu dersler + Mesleki Seçmeli, Fakülte Teknik Seçmeli ve Üniversite Seçmeli havuzları. Bu öğrenciler henüz içerik üretmeye başlamadığı için tüm klasörler şimdilik placeholder README'lerle duruyor.
