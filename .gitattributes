@@ -1,1 +1,17 @@
+* text=auto eol=lf
+*.json text diff=json
+
 *.pdf binary
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.xls binary
+*.xlsx binary
+*.accdb binary
+*.zip binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.exe binary
