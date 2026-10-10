@@ -21,6 +21,10 @@
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+
 ### 📘 Nesne Yönelimli Programlama
 
 #### 📄 Ders Bilgileri
@@ -37,6 +41,10 @@
 - 📄 [📄 Çıkmış Sorular (2021-2025 arası final/bütünleme/quiz/vize)](./Nesne%20Y%C3%B6nelimli%20Programlama/%C3%A7%C4%B1km%C4%B1%C5%9Flar/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **KY** — Prof. Dr. Kazım Yıldız
 
 ### 📘 Bilgisayar Programlama II
 
@@ -70,6 +78,11 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **ABal** — Arş. Gör. Dr. Abdullah Bal
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+
 ### 📘 Ayrık Matematik
 
 #### 📄 Ders Bilgileri
@@ -84,6 +97,10 @@
 #### 📚 Faydalı Olabilecek Kaynaklar
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **Tİ** — Dr. Öğretim Üyesi Timur İnan
 
 ### 📘 Diferansiyel Denklemler
 
@@ -100,6 +117,9 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
 
 ### 📘 Olasılık ve İstatistik
 

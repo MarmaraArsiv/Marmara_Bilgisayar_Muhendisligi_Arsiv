@@ -34,6 +34,10 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **BD** — Doç. Dr. Buket Doğan
+
 ### 📘 İşletim Sistemleri
 
 #### 📄 Ders Bilgileri
@@ -48,6 +52,10 @@
 #### 📚 Faydalı Olabilecek Kaynaklar
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **AA** — Dr. Öğretim Üyesi Abdulsamet Aktaş
 
 ### 📘 Mikrodenetleyiciler
 

@@ -17,6 +17,10 @@
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **SK** — Arş. Gör. Semiha Koç (lab)
+
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

@@ -18,7 +18,10 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **ÖD** — Doç. Dr. Önder Demir
+- **2025-2026:**
+  - **ÖD** — Doç. Dr. Önder Demir
+  - **SK** — Arş. Gör. Semiha Koç (atölye)
+  - **SÖ** — Prof. Dr. Serhat Özekes
 
 ## 🤝 Katkıda Bulun
 

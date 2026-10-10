@@ -25,6 +25,12 @@
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **SK** — Arş. Gör. Semiha Koç (teori/lab)
+
 ### 📘 Bilgisayar Mühendisliğine Giriş
 
 #### 📄 Ders Bilgileri
@@ -45,7 +51,10 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **ÖD** — Doç. Dr. Önder Demir
+- **2025-2026:**
+  - **ÖD** — Doç. Dr. Önder Demir
+  - **SK** — Arş. Gör. Semiha Koç (atölye)
+  - **SÖ** — Prof. Dr. Serhat Özekes
 
 ### 📘 Fizik
 
@@ -65,6 +74,10 @@
 - 📄 [📝 Ödevler](./Fizik/%C3%B6devler/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **ŞU** — Prof. Dr. Şahin Uyaver
 
 ### 📘 İngilizce 1
 
@@ -104,6 +117,10 @@
 - 📄 [📘 Genel Kimya: İlkeler ve Modern Uygulamalar](./Kimya/GENEL_KIMYA_Ilkeler_ve_Modern_Uygulamala.pdf) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - Zeynel Hoca
 
 ### 📘 Lineer Cebir
 

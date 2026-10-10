@@ -14,6 +14,11 @@
 
 - 📄 [Slaytlar ve Notlar](./slaytlar_notlar/)
 
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **ABal** — Arş. Gör. Dr. Abdullah Bal
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

@@ -43,6 +43,10 @@
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **SK** — Arş. Gör. Semiha Koç (lab)
+
 ### 📘 Bilimsel Araştırma ve Sunum Teknikleri
 
 #### 📄 Ders Bilgileri
@@ -63,6 +67,10 @@
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **BD** — Doç. Dr. Buket Doğan
+
 ### 📘 Fizik 2
 
 #### 📄 Ders Bilgileri
@@ -82,6 +90,10 @@
 - 📄 [📋 Ders İzlencesi (Syllabus)](./Fizik%202/Syllabus.pdf) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **ŞU** — Prof. Dr. Şahin Uyaver
 
 ### 📘 İngilizce 2
 
@@ -135,6 +147,10 @@
 - 📄 [📝 Haftalık Ödevler](./Matematik%202/%C3%A7al%C4%B1%C5%9Fma%20sorular%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
 
 ### 📘 Türkçe 2
 

@@ -195,6 +195,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2025-2026:** [BD](#-doç-dr-buket-doğan), [ABA](#-doç-dr-ayşe-berna-altınel), [SK](#-arş-gör-semiha-koç) (teori/lab)
   - 📂 [Ders Klasörü](./1-1/Algoritma)
 
 
@@ -204,7 +206,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - [ÖD](#-doç-dr-önder-demir)
+    - **2025-2026:** [ÖD](#-doç-dr-önder-demir), [SK](#-arş-gör-semiha-koç) (atölye), [SÖ](#-prof-dr-serhat-özekes)
   - 📂 [Ders Klasörü](./1-1/Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F)
 
 
@@ -213,6 +215,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2025-2026:** [ŞU](#-prof-dr-şahin-uyaver)
   - 📂 [Ders Klasörü](./1-1/Fizik)
 
 
@@ -230,6 +234,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
       - ℹ️ 2026 sonrası müfredatta yerine "Modern Biyolojiye Giriş" eklenmiş.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2025-2026:** Zeynel Hoca
   - 📂 [Ders Klasörü](./1-1/Kimya)
 
 
@@ -280,6 +286,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2025-2026:** [SK](#-arş-gör-semiha-koç) (lab)
   - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Programlama)
 
 
@@ -289,6 +297,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
       - ℹ️ 2026 sonrası müfredatta 3. yıl bahar dönemine taşınmış, "Bilimsel Araştırma ve Sunum Teknikleri 2" olarak anılıyor.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2025-2026:** [BD](#-doç-dr-buket-doğan)
   - 📂 [Ders Klasörü](./1-2/Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri)
 
 
@@ -297,6 +307,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2025-2026:** [ŞU](#-prof-dr-şahin-uyaver)
   - 📂 [Ders Klasörü](./1-2/Fizik%202)
 
 
@@ -322,6 +334,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2025-2026:** [NÖ](#-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./1-2/Matematik%202)
 
 
@@ -356,6 +370,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [AS](#-dr-öğretim-üyesi-ali-sarıkaş)
   - 📂 [Ders Klasörü](./2-1/Mant%C4%B1k%20Devreleri)
 
 
@@ -364,6 +380,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [KY](#-prof-dr-kazım-yıldız)
   - 📂 [Ders Klasörü](./2-1/Nesne%20Y%C3%B6nelimli%20Programlama)
 
 
@@ -382,6 +400,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
       - ℹ️ 2026 sonrası müfredatta zorunlu değil, Mesleki Seçmeli havuzuna taşınmış.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [ABal](#-arş-gör-dr-abdullah-bal), [ABaş](#-dr-öğretim-üyesi-anıl-baş)
   - 📂 [Ders Klasörü](./2-1/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik)
 
 
@@ -390,6 +410,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [Tİ](#-dr-öğretim-üyesi-timur-inan)
   - 📂 [Ders Klasörü](./2-1/Ayr%C4%B1k%20Matematik)
 
 
@@ -398,6 +420,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [NÖ](#-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./2-1/Diferansiyel%20Denklemler)
 
 ### 🗓 2. Yıl - Bahar
@@ -485,6 +509,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [BD](#-doç-dr-buket-doğan)
   - 📂 [Ders Klasörü](./3-1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri)
 
 
@@ -493,6 +519,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [AA](#-dr-öğretim-üyesi-abdulsamet-aktaş)
   - 📂 [Ders Klasörü](./3-1/%C4%B0%C5%9Fletim%20Sistemleri)
 
 
@@ -689,6 +717,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [ABaş](#-dr-öğretim-üyesi-anıl-baş)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20Grafik)
 
 #### 📘 Bilgisayar Güvenliği 
@@ -1137,7 +1167,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Nesne Yönelimli Programlama](#-nesne-yönelimli-programlama) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1149,7 +1179,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş) (2025-2026)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1161,7 +1191,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Fizik](#-fizik) (2025-2026)
+  - 📖 [Fizik 2](#-fizik-2) (2025-2026)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1175,7 +1206,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Algoritma](#-algoritma) (2025-2026)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1187,7 +1218,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Algoritma](#-algoritma) (2025-2026)
+  - 📖 [Bilimsel Araştırma ve Sunum Teknikleri](#-bilimsel-araştırma-ve-sunum-teknikleri) (2025-2026)
+  - 📖 [Veritabanı Yönetim Sistemleri](#-veritabanı-yönetim-sistemleri) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1211,7 +1244,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş)
+  - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş) (2025-2026)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1225,7 +1258,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [İşletim Sistemleri](#-işletim-sistemleri) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1237,7 +1270,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Mantık Devreleri](#-mantık-devreleri) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1249,7 +1282,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [İnsan-Bilgisayar Etkileşimi ve Görsellik](#-insan-bilgisayar-etkileşimi-ve-görsellik) (2026-2027)
+  - 📖 [Bilgisayar Grafik](#-bilgisayar-grafik) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1285,7 +1319,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Matematik 2](#-matematik-2) (2025-2026)
+  - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1297,7 +1332,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Ayrık Matematik](#-ayrık-matematik) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1323,7 +1358,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [İnsan-Bilgisayar Etkileşimi ve Görsellik](#-insan-bilgisayar-etkileşimi-ve-görsellik) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1383,7 +1418,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Algoritma](#-algoritma) (2025-2026)
+  - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş) (2025-2026)
+  - 📖 [Bilgisayar Programlama](#-bilgisayar-programlama) (2025-2026)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
