@@ -10,6 +10,21 @@ Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencile
 - [⭐ **Hocalar için yıldız linki**]()
 - [✍️ **Dersler için yorum linki**]()
 - [⭐ **Dersler için yıldız linki**]()
+
+## 🤝 Katkıda Bulunun
+
+Elinde ders notu, slayt, çıkmış soru ya da ödev çözümü varsa arşive eklemek çok kolay:
+
+- 📁 **GitHub kullanmıyorsan:** [Google Drive klasörümüze](https://drive.google.com/drive/folders/1KRobMRVHpJxUKcCZdCEippSZ5SmgpkZq?usp=sharing) yükle. Önce BENİOKU dosyasını oku, sonra **Bilgisayar-Teknoloji** klasöründe kendi adınla bir klasör aç.
+- 🌐 **GitHub hesabın varsa:** Repoyu fork'la, dosyayı ilgili ders klasörüne yükle ve pull request gönder. Kurulum gerekmez, her şey tarayıcıdan yapılır.
+- 📖 **Adım adım rehber:** [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Pull request ile katkıda bulunanların adı sayfanın en altındaki **Katkıda Bulunanlar** listesine otomatik eklenir.
+
+### 📺 Video Rehberler
+- 🎬 **Repoya nasıl katkı yapılır?** (~10 dk): *yakında*
+- 🎬 **Repo nasıl kullanılır?** Klasör yapısı, ders README'leri ve aradığını bulma: *yakında*
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=4c3bb1e56629b12169ddacd8e890a347caebf75&label=Görüntülenme+Sayısı&abbreviated=true&style=for-the-badge&color=orange" width="400" height="auto"/>
 </p>
@@ -19,6 +34,7 @@ Marmara Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği öğrencile
 
 ## 🗂 İçindekiler
 
+- 🔗 [Katkıda Bulunun](#-katkıda-bulunun)
 - 🔗 [Kavramlar](#-kavramlar)
 - 🔗 [Dersler](#-dersler)
 - 🔗 [Seçmeli Dersler](#-seçmeli-dersler)
@@ -1398,7 +1414,7 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 <h2 align='center'>🤝 Katkıda Bulunanlar</h2>
 
-Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Siz de katkıda bulunmak isterseniz pull request gönderebilir ya da GitHub ile uğraşmak istemiyorsanız [📁 Google Drive klasörümüze](https://drive.google.com/drive/folders/1KRobMRVHpJxUKcCZdCEippSZ5SmgpkZq?usp=sharing) dosya yükleyebilirsiniz: önce BENİOKU dosyasını okuyun, ardından **Bilgisayar-Teknoloji** klasörünün içinde kendi adınıza bir klasör açıp materyallerinizi oraya koyun. Klasöre iletişim için bir e-posta adresi ve kısa bir not (hangi ders, hangi yıl/dönem, neleri kapsadığı) eklemeniz yeterli; uygun bulunan dosyalar repoya eklenir. Nasıl pull request açacağınızı anlatan videolar yakında eklenecek. Burada isminizin yer almasını isterseniz bölüm dersleriyle alakalı, elle tutulur bir katkı yapmanız beklenir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmeniz yeterli.
+Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. Nasıl katkıda bulunabileceğini README'nin başındaki **🤝 Katkıda Bulunun** bölümünde ve [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında bulabilirsin. Burada isminin yer alması için bölüm dersleriyle alakalı, elle tutulur bir katkı yapman beklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmen yeterli.
 
 <h1 align='center'>⭐ <b><i>Mehmet Emin</i></b> ⭐</h1>
 <p align='center'><a href='https://github.com/yldzemin'><b>GitHub</b></a> &nbsp<a href='https://www.linkedin.com/in/mehmet-emin-yildizz/'><b>LinkedIn</b></a></p>
