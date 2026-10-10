@@ -9,7 +9,7 @@
     },
     "dersler": [
         {
-            "ad": "Algoritma",
+            "ad": "Algoritma ve Programlamaya Giriş",
             "yil": 1,
             "donem": "Güz",
             "tip": "Zorunlu",
@@ -52,9 +52,9 @@
             ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
-                "[📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./ders%20notları/)",
-                "[🛠️ Atölye Dersi (haftalık uygulamalar)](./atölye%20dersi/)",
-                "[📝 Atölye Ödevleri](./atolye%20ödev/)"
+                "[📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./slaytlar_notlar/)",
+                "[🛠️ Atölye Dersi (haftalık uygulamalar)](./at%C3%B6lye_notlar%C4%B1/)",
+                "[📝 Atölye Ödevleri](./at%C3%B6lye_%C3%B6devleri/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "ad": "Fizik",
+            "ad": "Fizik 1",
             "yil": 1,
             "donem": "Güz",
             "tip": "Zorunlu",
@@ -79,9 +79,9 @@
             ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
-                "[📊 Haftalık Slaytlar (Week 1-13)](./slaytlar/)",
+                "[📊 Haftalık Slaytlar (Week 1-13)](./slaytlar_notlar/)",
                 "[📝 Ödevler](./ödevler/)",
-                "[📄 Çıkmış Vize Soruları](./çıkmışlar/)"
+                "[📄 Çıkmış Vize Soruları](./çıkmış_sorular/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -109,7 +109,7 @@
             ],
             "faydali_olabilecek_kaynaklar": [
                 "[📘 Genel Kimya: İlkeler ve Modern Uygulamalar](./GENEL_KIMYA_Ilkeler_ve_Modern_Uygulamala.pdf)",
-                "[📊 Haftalık Konu Sunumları (14 hafta, .ppt)](./)"
+                "[📊 Haftalık Konu Sunumları (14 hafta, .ppt)](././)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -138,9 +138,9 @@
                 "Mehmet Ali Karaca, Lineer Cebir Çözümlü Problemleri, İTÜ Vakfı Yayınları, 2006.",
                 "Gilbert Strang, Introduction to Linear Algebra, Wellesley-Cambridge Press, 1998.",
                 "Serge Lang, Introduction to Linear Algebra, Springer Verlag, 1986.",
-                "[📓 Ders Notları](./notlar/)",
-                "[📝 Çalışma Soruları](./çalışma%20soruları/)",
-                "[📄 Çıkmış Arasınav (2025 Güz)](./çıkmış/)"
+                "[📓 Ders Notları](./slaytlar_notlar/)",
+                "[📝 Çalışma Soruları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/)",
+                "[📄 Çıkmış Arasınav (2025 Güz)](./çıkmış_sorular/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "ad": "Mat1",
+            "ad": "Matematik 1",
             "yil": 1,
             "donem": "Güz",
             "tip": "Zorunlu",
@@ -165,9 +165,9 @@
             ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
-                "[📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./notlar/)",
-                "[📝 Thomas Calculus Çalışma Soruları](./çalışma%20soruları/)",
-                "[📄 Çıkmış Arasınav (2025 Güz)](./çıkmış/)"
+                "[📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./slaytlar_notlar/)",
+                "[📝 Thomas Calculus Çalışma Soruları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/)",
+                "[📄 Çıkmış Arasınav (2025 Güz)](./çıkmış_sorular/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -228,8 +228,8 @@
             ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
-                "[🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./Lab/)",
-                "[📊 Marmara Donanım Notları (14 hafta sunum)](./MARMARA%20DONANIM%20NOTLARI/)"
+                "[🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./lablar/)",
+                "[📊 Marmara Donanım Notları (14 hafta sunum)](./slaytlar_notlar/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -241,7 +241,7 @@
             ]
         },
         {
-            "ad": "Bilgisayar Programlama",
+            "ad": "Bilgisayar Programlama 1",
             "yil": 1,
             "donem": "Bahar",
             "tip": "Zorunlu",
@@ -262,8 +262,8 @@
             ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
-                "[💻 Algo (C örnekleri: pointer, dizi, recursive)](./algo/)",
-                "[🧪 Lab (Lab 0-10)](./Lab/)",
+                "[💻 Algo (C örnekleri: pointer, dizi, recursive)](./slaytlar_notlar/)",
+                "[🧪 Lab (Lab 0-10)](./lablar/)",
                 "[❓ Quiz Örneği](./quizler/)"
             ],
             "ogrenci_gorusleri": [],
@@ -289,9 +289,9 @@
             ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
-                "[📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./Ders%20slaytları/)",
+                "[📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./slaytlar_notlar/)",
                 "[📝 Ödevler](./ödevler/)",
-                "[📄 Sınav Hazırlık Dosyaları](./sınav%20hazırlık%20dosyaları/)"
+                "[📄 Sınav Hazırlık Dosyaları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -317,9 +317,9 @@
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
                 "[📋 Ders İzlencesi (Syllabus)](./Syllabus.pdf)",
-                "[📊 Haftalık Ders Slaytları](./ders%20slaytları/)",
-                "[❓ Ders İçi Sorular](./ders%20içi%20sorular/)",
-                "[📄 Çıkmış Vize Soruları](./çıkmışlar/)"
+                "[📊 Haftalık Ders Slaytları](./slaytlar_notlar/)",
+                "[❓ Ders İçi Sorular](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/)",
+                "[📄 Çıkmış Vize Soruları](./çıkmış_sorular/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -331,7 +331,7 @@
             ]
         },
         {
-            "ad": "İş sağlığı ve Güvenliği",
+            "ad": "İş Sağlığı ve Güvenliği 2",
             "yil": 1,
             "donem": "Bahar",
             "tip": "Zorunlu",
@@ -339,7 +339,7 @@
             "dersi_veren_hocalar": [],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
-                "[📸 Tahtanın Fotoğrafları (haftalık ders anlatımı)](./Tahtanın%20fotoğrafları/)"
+                "[📸 Tahtanın Fotoğrafları (haftalık ders anlatımı)](./tahta_notlar%C4%B1/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],
@@ -365,8 +365,8 @@
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
                 "[📋 Ders İzlencesi](./Ders-Izlence-Mat1086.pdf)",
-                "[📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./ders%20notları/)",
-                "[📝 Haftalık Ödevler](./çalışma%20soruları/)"
+                "[📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./slaytlar_notlar/)",
+                "[📝 Haftalık Ödevler](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/)"
             ],
             "ogrenci_gorusleri": [],
             "yillara_gore_yildiz_sayilari": [],

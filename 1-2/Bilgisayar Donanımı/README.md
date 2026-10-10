@@ -11,8 +11,8 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📊 Marmara Donanım Notları (14 hafta sunum)](./MARMARA%20DONANIM%20NOTLARI/) ✨
-- 📄 [🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./Lab/) ✨
+- 📄 [📊 Marmara Donanım Notları (14 hafta sunum)](./slaytlar_notlar/) ✨
+- 📄 [🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./lablar/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

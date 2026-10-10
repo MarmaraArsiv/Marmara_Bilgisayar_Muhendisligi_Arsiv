@@ -1,35 +1,39 @@
-# 📚 Veri Yapıları ve Algoritmalar
+# 📚 Bilgisayar Programlama 2
 
 ## ℹ️ Ders Bilgileri
 
 - 📅 **Yıl:** 2
-- 📆 **Dönem:** Bahar
+- 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
-- 🏷️ **Müfredat:** Her İki Müfredat
+- 🏷️ **Müfredat:** 2026 Öncesi
+    - ℹ️ 2026 sonrası müfredatta ayrı bir "Bilgisayar Programlama 2" dersi yok.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Sorular (2024-2025 Final)](./çıkmış_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+- 📄 [Slaytlar ve Notlar](./slaytlar_notlar/)
+- 📄 [Lablar](./lablar/)
+- 📄 [Ödevler](./ödevler/)
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
 - **2025-2026:**
-  - **AA** — Dr. Öğretim Üyesi Abdulsamet Aktaş
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
 - **2024-2025:**
-  - **ÖD** — Doç. Dr. Önder Demir
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2023-2024:**
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-  - **ÖD** — Doç. Dr. Önder Demir
 - **2022-2023:**
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 - **2021-2022:**
   - **KY** — Prof. Dr. Kazım Yıldız
-  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 - **2020-2021:**
   - **KY** — Prof. Dr. Kazım Yıldız
 

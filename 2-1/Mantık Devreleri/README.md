@@ -11,8 +11,8 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📝 Çalışma Soruları](./çalışma%20soruları/) ✨
-- 📄 [📄 Çıkmış Sorular (2024 Bütünleme, 2025 Final)](./çıkmışlar/) ✨
+- 📄 [📝 Çalışma Soruları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
+- 📄 [📄 Çıkmış Sorular (2024 Bütünleme, 2025 Final)](./çıkmış_sorular/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

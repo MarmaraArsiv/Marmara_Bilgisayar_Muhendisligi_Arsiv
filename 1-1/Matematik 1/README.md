@@ -1,36 +1,37 @@
-# 📚 Bilimsel Araştırma ve Sunum Teknikleri
+# 📚 Matematik 1
 
 ## ℹ️ Ders Bilgileri
 
 - 📅 **Yıl:** 1
-- 📆 **Dönem:** Bahar
+- 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
-- 🏷️ **Müfredat:** 2026 Öncesi
-    - ℹ️ 2026 sonrası müfredatta 3. yıl bahar dönemine taşınmış ve "Bilimsel Araştırma ve Sunum Teknikleri 2" olarak anılıyor.
+- 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Sınav Hazırlık Dosyaları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./slaytlar_notlar/) ✨
-- 📄 [📝 Ödevler](./ödevler/) ✨
+- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./çıkmış_sorular/) ✨
+- 📄 [📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./slaytlar_notlar/) ✨
+- 📄 [📝 Thomas Calculus Çalışma Soruları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
 - **2025-2026:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
 - **2024-2025:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
 - **2023-2024:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - Doç. Dr. Nazlı Yazıcı Gözütok
 - **2022-2023:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - Doç. Dr. Nazlı Yazıcı Gözütok
 - **2021-2022:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - Prof. Dr. Bahar Kırık Rácz
 - **2020-2021:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - Prof. Dr. Bahar Kırık Rácz
 
 ## 🤝 Katkıda Bulun
 

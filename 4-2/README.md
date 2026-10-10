@@ -39,7 +39,7 @@
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** 2026 Öncesi
-    - ℹ️ 2026 sonrası müfredatta "Bitirme Projesi I" (4-1) ve "Bitirme Projesi II" (4-2) olarak ikiye bölünmüş.
+    - ℹ️ 2026 sonrası müfredatta "Bitirme Projesi 1" (4-1) ve "Bitirme Projesi 2" (4-2) olarak ikiye bölünmüş.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -103,7 +103,7 @@
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 
-### 📘 Atatürk İlkeleri ve İnkılap Tarihi II
+### 📘 Atatürk İlkeleri ve İnkılap Tarihi 2
 
 #### 📄 Ders Bilgileri
 
@@ -138,7 +138,7 @@
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** 2026 Öncesi
-    - ℹ️ 2026 sonrası müfredatta yerine "Teknik İngilizce I" (2-1) ve "Teknik İngilizce II" (2-2) var.
+    - ℹ️ 2026 sonrası müfredatta yerine "Teknik İngilizce 1" (2-1) ve "Teknik İngilizce 2" (2-2) var.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -158,7 +158,7 @@
 - **2021-2022:**
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 
-### 📘 Bitirme Projesi II
+### 📘 Bitirme Projesi 2
 
 #### 📄 Ders Bilgileri
 
@@ -166,7 +166,7 @@
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** 2026 Sonrası
-    - ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak yer alıyor (Bitirme Projesi I, 4-1'de).
+    - ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak yer alıyor (Bitirme Projesi 1, 4-1'de).
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 

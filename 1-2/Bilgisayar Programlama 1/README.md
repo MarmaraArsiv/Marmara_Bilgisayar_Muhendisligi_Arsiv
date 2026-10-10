@@ -1,36 +1,41 @@
-# 📚 Bilimsel Araştırma ve Sunum Teknikleri
+# 📚 Bilgisayar Programlama 1
 
 ## ℹ️ Ders Bilgileri
 
 - 📅 **Yıl:** 1
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
-- 🏷️ **Müfredat:** 2026 Öncesi
-    - ℹ️ 2026 sonrası müfredatta 3. yıl bahar dönemine taşınmış ve "Bilimsel Araştırma ve Sunum Teknikleri 2" olarak anılıyor.
+- 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Sınav Hazırlık Dosyaları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./slaytlar_notlar/) ✨
-- 📄 [📝 Ödevler](./ödevler/) ✨
+- 📄 [❓ Quiz Örneği](./quizler/) ✨
+- 📄 [💻 Algo (C örnekleri: pointer, dizi, recursive)](./slaytlar_notlar/) ✨
+- 📄 [🧪 Lab (Lab 0-10)](./lablar/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **SK** — Arş. Gör. Semiha Koç (lab)
 - **2024-2025:**
   - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
 - **2023-2024:**
   - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
 - **2022-2023:**
   - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
 - **2021-2022:**
   - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
 - **2020-2021:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ## 🤝 Katkıda Bulun
 

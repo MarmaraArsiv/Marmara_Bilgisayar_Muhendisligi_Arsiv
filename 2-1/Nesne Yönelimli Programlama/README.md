@@ -11,7 +11,7 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Sorular (2021-2025 arası final/bütünleme/quiz/vize)](./çıkmışlar/) ✨
+- 📄 [📄 Çıkmış Sorular (2021-2025 arası final/bütünleme/quiz/vize)](./çıkmış_sorular/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

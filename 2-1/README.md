@@ -16,8 +16,8 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📝 Çalışma Soruları](./Mant%C4%B1k%20Devreleri/%C3%A7al%C4%B1%C5%9Fma%20sorular%C4%B1/) ✨
-- 📄 [📄 Çıkmış Sorular (2024 Bütünleme, 2025 Final)](./Mant%C4%B1k%20Devreleri/%C3%A7%C4%B1km%C4%B1%C5%9Flar/) ✨
+- 📄 [📝 Çalışma Soruları](./Mant%C4%B1k%20Devreleri/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
+- 📄 [📄 Çıkmış Sorular (2024 Bütünleme, 2025 Final)](./Mant%C4%B1k%20Devreleri/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -55,7 +55,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Sorular (2021-2025 arası final/bütünleme/quiz/vize)](./Nesne%20Y%C3%B6nelimli%20Programlama/%C3%A7%C4%B1km%C4%B1%C5%9Flar/) ✨
+- 📄 [📄 Çıkmış Sorular (2021-2025 arası final/bütünleme/quiz/vize)](./Nesne%20Y%C3%B6nelimli%20Programlama/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -81,7 +81,7 @@
 - **2020-2021:**
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
-### 📘 Bilgisayar Programlama II
+### 📘 Bilgisayar Programlama 2
 
 #### 📄 Ders Bilgileri
 
@@ -89,7 +89,7 @@
 - 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** 2026 Öncesi
-    - ℹ️ 2026 sonrası müfredatta ayrı bir "Bilgisayar Programlama II" dersi yok.
+    - ℹ️ 2026 sonrası müfredatta ayrı bir "Bilgisayar Programlama 2" dersi yok.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -227,7 +227,7 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
-### 📘 Teknik İngilizce I
+### 📘 Teknik İngilizce 1
 
 #### 📄 Ders Bilgileri
 

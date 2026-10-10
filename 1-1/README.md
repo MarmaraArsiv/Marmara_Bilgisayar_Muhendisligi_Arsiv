@@ -7,7 +7,7 @@
 ## 📚 Dönemin Zorunlu Dersleri
 
 
-### 📘 Algoritma
+### 📘 Algoritma ve Programlamaya Giriş
 
 #### 📄 Ders Bilgileri
 
@@ -20,8 +20,8 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📊 Slaytlar ve Ders Notları](./Algoritma/slaytlar_notlar/) ✨
-- 📄 [📝 Haftalık Ödevler (works1-7)](./Algoritma/%C3%B6devler/) ✨
+- 📄 [📊 Slaytlar ve Ders Notları](./Algoritma%20ve%20Programlamaya%20Giri%C5%9F/slaytlar_notlar/) ✨
+- 📄 [📝 Haftalık Ödevler (works1-7)](./Algoritma%20ve%20Programlamaya%20Giri%C5%9F/%C3%B6devler/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -61,9 +61,9 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/ders%20notlar%C4%B1/) ✨
-- 📄 [📝 Atölye Ödevleri](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/atolye%20%C3%B6dev/) ✨
-- 📄 [🛠️ Atölye Dersi (haftalık uygulamalar)](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/at%C3%B6lye%20dersi/) ✨
+- 📄 [📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/slaytlar_notlar/) ✨
+- 📄 [📝 Atölye Ödevleri](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/at%C3%B6lye_%C3%B6devleri/) ✨
+- 📄 [🛠️ Atölye Dersi (haftalık uygulamalar)](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/at%C3%B6lye_notlar%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -84,7 +84,7 @@
 - **2020-2021:**
   - **ÖD** — Doç. Dr. Önder Demir
 
-### 📘 Fizik
+### 📘 Fizik 1
 
 #### 📄 Ders Bilgileri
 
@@ -97,9 +97,9 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Vize Soruları](./Fizik/%C3%A7%C4%B1km%C4%B1%C5%9Flar/) ✨
-- 📄 [📊 Haftalık Slaytlar (Week 1-13)](./Fizik/slaytlar/) ✨
-- 📄 [📝 Ödevler](./Fizik/%C3%B6devler/) ✨
+- 📄 [📄 Çıkmış Vize Soruları](./Fizik%201/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
+- 📄 [📊 Haftalık Slaytlar (Week 1-13)](./Fizik%201/slaytlar_notlar/) ✨
+- 📄 [📝 Ödevler](./Fizik%201/%C3%B6devler/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -203,9 +203,9 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./Lineer%20Cebir/%C3%A7%C4%B1km%C4%B1%C5%9F/) ✨
-- 📄 [📓 Ders Notları](./Lineer%20Cebir/notlar/) ✨
-- 📄 [📝 Çalışma Soruları](./Lineer%20Cebir/%C3%A7al%C4%B1%C5%9Fma%20sorular%C4%B1/) ✨
+- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./Lineer%20Cebir/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
+- 📄 [📓 Ders Notları](./Lineer%20Cebir/slaytlar_notlar/) ✨
+- 📄 [📝 Çalışma Soruları](./Lineer%20Cebir/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
 - 📄 Gilbert Strang, Introduction to Linear Algebra, Wellesley-Cambridge Press, 1998. ✨
 - 📄 Mehmet Ali Karaca, Lineer Cebir Çözümlü Problemleri, İTÜ Vakfı Yayınları, 2006. ✨
 - 📄 Serge Lang, Introduction to Linear Algebra, Springer Verlag, 1986. ✨
@@ -229,7 +229,7 @@
 - **2020-2021:**
   - Prof. Dr. Hülya Yılmaz
 
-### 📘 Mat1
+### 📘 Matematik 1
 
 #### 📄 Ders Bilgileri
 
@@ -242,9 +242,9 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./Mat1/%C3%A7%C4%B1km%C4%B1%C5%9F/) ✨
-- 📄 [📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./Mat1/notlar/) ✨
-- 📄 [📝 Thomas Calculus Çalışma Soruları](./Mat1/%C3%A7al%C4%B1%C5%9Fma%20sorular%C4%B1/) ✨
+- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./Matematik%201/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
+- 📄 [📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./Matematik%201/slaytlar_notlar/) ✨
+- 📄 [📝 Thomas Calculus Çalışma Soruları](./Matematik%201/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

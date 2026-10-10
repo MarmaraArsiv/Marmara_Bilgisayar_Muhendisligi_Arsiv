@@ -97,9 +97,9 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
     bölümden de lisans diploması almasını sağlayan program.
   - 📘 **S: Yandal nedir?** **C:** Diploma vermeyen, ikinci bir alanda sertifika niteliğinde daha hafif bir
     program.
-- 💡 **Staj I / Staj II**
-  - 📘 **S: Staj I/II nedir?** **C:** Müfredatta 3. ve 4. yıllarda yer alan, işletmede kısa süreli uygulamalı
-    çalışmayı zorunlu kılan derslerdir. Bkz. [`3-1/Staj I`](./3-1/Staj%20I) ve [`4-1/Staj II`](./4-1/Staj%20II).
+- 💡 **Staj 1 / Staj 2**
+  - 📘 **S: Staj 1/II nedir?** **C:** Müfredatta 3. ve 4. yıllarda yer alan, işletmede kısa süreli uygulamalı
+    çalışmayı zorunlu kılan derslerdir. Bkz. [`3-1/Staj 1`](./3-1/Staj%201) ve [`4-1/Staj 2`](./4-1/Staj%202).
 - 💡 **İş Yeri Eğitimi**
   - 📘 **S: İş Yeri Eğitimi nedir?** **C:** Staj'dan daha kapsamlı, bir dönem boyunca işletmede tam zamanlı
     çalışmayı içeren müfredat dersi (bkz. [müfredat](./M%C3%BCfredat/) — 7. yarıyılda 28 AKTS ile oldukça
@@ -146,12 +146,12 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 
 - **1. Yıl Güz:** İş Sağlığı ve Güvenliği 1, Modern Biyolojiye Giriş
 - **1. Yıl Bahar:** Mühendislik Ekonomisi
-- **2. Yıl Güz:** Ayrık Matematik, Diferansiyel Denklemler, Olasılık ve İstatistik, Teknik İngilizce I
-- **2. Yıl Bahar:** Mühendisler için İstatistik, Teknik İngilizce II
-- **3. Yıl Güz:** Algoritma Analizi ve Tasarımı, İşletim Sistemleri, Mikrodenetleyiciler, Sinyaller ve Sistemlere Giriş, Staj I, Veritabanı Yönetim Sistemleri
+- **2. Yıl Güz:** Ayrık Matematik, Diferansiyel Denklemler, Olasılık ve İstatistik, Teknik İngilizce 1
+- **2. Yıl Bahar:** Mühendisler için İstatistik, Teknik İngilizce 2
+- **3. Yıl Güz:** Algoritma Analizi ve Tasarımı, İşletim Sistemleri, Mikrodenetleyiciler, Sinyaller ve Sistemlere Giriş, Staj 1, Veritabanı Yönetim Sistemleri
 - **3. Yıl Bahar:** Biçimsel Diller ve Otomata Teorisi, Bilgisayar Organizasyonu ve Mimarisi, Bilimsel Araştırma ve Sunum Teknikleri 2, Sistem Programlama, Yazılım Mühendisliği, Web Programlama
-- **4. Yıl Güz:** Bitirme Projesi I, İş Hukuku ve Etiği, İş Yeri Eğitimi, Staj II
-- **4. Yıl Bahar:** Bitirme Projesi, Bitirme Projesi II, Sistem ve Sunucu Yönetimi, Teknik İngilizce
+- **4. Yıl Güz:** Bitirme Projesi 1, İş Hukuku ve Etiği, İş Yeri Eğitimi, Staj 2
+- **4. Yıl Bahar:** Bitirme Projesi, Bitirme Projesi 2, Sistem ve Sunucu Yönetimi, Teknik İngilizce
 - **Mesleki Seçmeli:** Açık Kaynak Kodlu Yazılımlar, Algoritma Analizi, Biçimsel Diller ve Otomata Teorisi, Bilgisayar Ağ Protokolleri, Bilgisayar Grafik, Bilgisayar Güvenliği, Blockchain Programlamaya Giriş, Bulut Bilişim, Dağıtık Sistemler, Derin Öğrenme ve Yapay Sinir Ağlarına Giriş, Eğitim Sistemleri Tasarımı, E-Ticarete Giriş, Gömülü Sistemler, Görüntü İşlemenin Temelleri, Güncel Yapay Zeka Yaklaşımları, İnsan-Bilgisayar Etkileşimi ve Görsellik, Kablosuz Ağlar, Kablosuz ve Mobil Ağlar, Kriptoloji, Linux Kabuk Programlama, Makine Öğrenimine Giriş, Mikrodenetleyiciler, Mobil Programlama, Mühendislik Matematiği ve Uygulamaları, Mühendislik Uygulamaları için Python, Nesnelerin İnterneti, Optimizasyon Teknikleri ve Uygulamaları, Oyun Yazılımı Geliştirme, Paralel Hesaplama, Rastgele Değişkenler, Sayısal İşaret İşleme, Simulasyon ve Modelleme, Sosyal Ağlarda Uygulamalı Metin Analizi, Veri Bilimine Giriş, Veri Madenciliği, Yapay Sinir Ağları, Yapay Zekâya Giriş, Yazılım Projelerinin Yönetimi, Web Programlama, Web Servisleri
 - **Fakülte Teknik Seçmeli:** Araştırma Planlama ve Yönetimi, Bilgi Sistemleri Yönetimi, Çok Disiplinli Takım Çalışması Deneyimi, Disiplinler Arası Proje Tasarımı, Mühendisler için Proje Yönetimi, Mühendislik ve Teknoloji Yönetimi, Veri Bilimi ve Veri Analitiğine Giriş, Yazılım Proje Yönetimi
 - **Üniversite Seçmeli:** Bilim Tarihi, Çevre ve Enerji, Fizibilite Hazırlama ve Uygulamaları, Girişimcilik, Girişimcilik ve İnovasyon, İş Psikolojisi, Kalite Yönetimi, Liderlik, Moda, Osmanlı Tarihi, Rapor Hazırlama ve Sunum Teknikleri, Sistem Mühendisliği, Sosyal Organizasyon, Teknik İletişim, Teknik Satış ve Pazarlama
@@ -194,14 +194,14 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./1-1/Modern%20Biyolojiye%20Giri%C5%9F)
 
 
-#### 📘 Algoritma 
+#### 📘 Algoritma ve Programlamaya Giriş 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027:** [BD](#‍-doç-dr-buket-doğan), [ABA](#‍-doç-dr-ayşe-berna-altınel)
-  - 📂 [Ders Klasörü](./1-1/Algoritma)
+  - 📂 [Ders Klasörü](./1-1/Algoritma%20ve%20Programlamaya%20Giri%C5%9F)
 
 
 #### 📘 Bilgisayar Mühendisliğine Giriş 
@@ -214,14 +214,14 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./1-1/Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F)
 
 
-#### 📘 Fizik 
+#### 📘 Fizik 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027:** [ŞU](#‍-prof-dr-şahin-uyaver)
-  - 📂 [Ders Klasörü](./1-1/Fizik)
+  - 📂 [Ders Klasörü](./1-1/Fizik%201)
 
 
 #### 📘 İngilizce 1 
@@ -255,14 +255,14 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./1-1/Lineer%20Cebir)
 
 
-#### 📘 Mat1 
+#### 📘 Matematik 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027:** [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
-  - 📂 [Ders Klasörü](./1-1/Mat1)
+  - 📂 [Ders Klasörü](./1-1/Matematik%201)
 
 
 #### 📘 Türkçe 1 
@@ -295,14 +295,14 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Donan%C4%B1m%C4%B1)
 
 
-#### 📘 Bilgisayar Programlama 
+#### 📘 Bilgisayar Programlama 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026:** [ABaş](#‍-dr-öğretim-üyesi-anıl-baş), [ABA](#‍-doç-dr-ayşe-berna-altınel), [SK](#‍-arş-gör-semiha-koç) (lab)
-  - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Programlama)
+  - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Programlama%201)
 
 
 #### 📘 Bilimsel Araştırma ve Sunum Teknikleri 
@@ -336,7 +336,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./1-2/%C4%B0ngilizce%202)
 
 
-#### 📘 İş Sağlığı ve Güvenliği 
+#### 📘 İş Sağlığı ve Güvenliği 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
       - ℹ️ 2026 sonrası müfredatta "İş Sağlığı ve Güvenliği 2" olarak anılıyor.
@@ -344,7 +344,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026:** Prof. Dr. İsmail Kıyak
-  - 📂 [Ders Klasörü](./1-2/%C4%B0%C5%9F%20sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi)
+  - 📂 [Ders Klasörü](./1-2/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202)
 
 
 #### 📘 Matematik 2 
@@ -369,12 +369,12 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 ### 🗓 2. Yıl - Güz
 
 
-#### 📘 Teknik İngilizce I 
+#### 📘 Teknik İngilizce 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** 2026 Sonrası
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./2-1/Teknik%20%C4%B0ngilizce%20I)
+  - 📂 [Ders Klasörü](./2-1/Teknik%20%C4%B0ngilizce%201)
 
 
 #### 📘 Olasılık ve İstatistik 
@@ -405,15 +405,15 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./2-1/Nesne%20Y%C3%B6nelimli%20Programlama)
 
 
-#### 📘 Bilgisayar Programlama II 
+#### 📘 Bilgisayar Programlama 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** 2026 Öncesi
-      - ℹ️ 2026 sonrası müfredatta ayrı bir "Bilgisayar Programlama II" dersi yok.
+      - ℹ️ 2026 sonrası müfredatta ayrı bir "Bilgisayar Programlama 2" dersi yok.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027:** [ABA](#‍-doç-dr-ayşe-berna-altınel), [ED](#‍-dr-öğretim-üyesi-emrah-dikbıyık)
-  - 📂 [Ders Klasörü](./2-1/Bilgisayar%20Programlama%20II)
+  - 📂 [Ders Klasörü](./2-1/Bilgisayar%20Programlama%202)
 
 
 #### 📘 İnsan-Bilgisayar Etkileşimi ve Görsellik 
@@ -449,12 +449,12 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 ### 🗓 2. Yıl - Bahar
 
 
-#### 📘 Teknik İngilizce II 
+#### 📘 Teknik İngilizce 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** 2026 Sonrası
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./2-2/Teknik%20%C4%B0ngilizce%20II)
+  - 📂 [Ders Klasörü](./2-2/Teknik%20%C4%B0ngilizce%202)
 
 
 #### 📘 Bilgisayar Ağlarına Giriş 
@@ -530,14 +530,14 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./3-1/Algoritma%20Analizi%20ve%20Tasar%C4%B1m%C4%B1)
 
 
-#### 📘 Staj I 
+#### 📘 Staj 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2020-2021:** [AEK](#‍-prof-dr-ahmet-emin-kuzucuoğlu)
-  - 📂 [Ders Klasörü](./3-1/Staj%20I)
+  - 📂 [Ders Klasörü](./3-1/Staj%201)
 
 
 #### 📘 Veritabanı Yönetim Sistemleri 
@@ -645,13 +645,13 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 ### 🗓 4. Yıl - Güz
 
 
-#### 📘 Bitirme Projesi I 
+#### 📘 Bitirme Projesi 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** 2026 Sonrası
       - ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak 4. yıl bahar döneminde yer alıyor.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./4-1/Bitirme%20Projesi%20I)
+  - 📂 [Ders Klasörü](./4-1/Bitirme%20Projesi%201)
 
 
 #### 📘 İş Hukuku ve Etiği 
@@ -662,12 +662,12 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./4-1/%C4%B0%C5%9F%20Hukuku%20ve%20Eti%C4%9Fi)
 
 
-#### 📘 Staj II 
+#### 📘 Staj 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./4-1/Staj%20II)
+  - 📂 [Ders Klasörü](./4-1/Staj%202)
 
 
 #### 📘 İş Yeri Eğitimi 
@@ -680,23 +680,25 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./4-1/%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi)
 
 
-#### 📘 Atatürk İlkeleri ve İnkılap Tarihi I 
+#### 📘 Atatürk İlkeleri ve İnkılap Tarihi 1 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./4-1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%20I)
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** Dr. Öğretim Üyesi Oya Ayhan Girit
+  - 📂 [Ders Klasörü](./4-1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%201)
 
 ### 🗓 4. Yıl - Bahar
 
 
-#### 📘 Bitirme Projesi II 
+#### 📘 Bitirme Projesi 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** 2026 Sonrası
       - ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak yer alıyor.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
-  - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi%20II)
+  - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi%202)
 
 
 #### 📘 Sistem ve Sunucu Yönetimi 
@@ -712,7 +714,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 #### 📘 Bitirme Projesi 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** 2026 Öncesi
-      - ℹ️ 2026 sonrası müfredatta "Bitirme Projesi I" ve "Bitirme Projesi II" olarak ikiye bölünmüş.
+      - ℹ️ 2026 sonrası müfredatta "Bitirme Projesi 1" ve "Bitirme Projesi 2" olarak ikiye bölünmüş.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
@@ -720,20 +722,20 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi)
 
 
-#### 📘 Atatürk İlkeleri ve İnkılap Tarihi II 
+#### 📘 Atatürk İlkeleri ve İnkılap Tarihi 2 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026:** Dr. Öğretim Üyesi Oya Ayhan Girit
-  - 📂 [Ders Klasörü](./4-2/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%20II)
+  - 📂 [Ders Klasörü](./4-2/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%202)
 
 
 #### 📘 Teknik İngilizce 
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** 2026 Öncesi
-      - ℹ️ 2026 sonrası müfredatta yerine "Teknik İngilizce I" (2-1) ve "Teknik İngilizce II" (2-2) var.
+      - ℹ️ 2026 sonrası müfredatta yerine "Teknik İngilizce 1" (2-1) ve "Teknik İngilizce 2" (2-2) var.
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
@@ -754,6 +756,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** 2026 Öncesi
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [ÖD](#‍-doç-dr-önder-demir)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Algoritma%20Analizi)
 
 #### 📘 Açık Kaynak Kodlu Yazılımlar 
@@ -779,6 +783,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
+  - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
+    - **2026-2027:** [AHD](#‍-öğr-gör-ata-hürdoğan-demiray)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20Grafik)
 
 #### 📘 Bilgisayar Güvenliği 
@@ -1272,7 +1278,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📖 [Sistem Programlama](#-sistem-programlama) (2020-2021 → 2025-2026)
   - 📖 [Yapay Zekâya Giriş](#-yapay-zekâya-giriş) (2023-2024 → 2025-2026)
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2021-2022 → 2025-2026)
-  - 📖 [Bilgisayar Programlama II](#-bilgisayar-programlama-ii) (2020-2021 → 2021-2022)
+  - 📖 [Bilgisayar Programlama 2](#-bilgisayar-programlama-2) (2020-2021 → 2021-2022)
   - 📖 [Yapay Sinir Ağları](#-yapay-sinir-ağları) (2020-2021 → 2021-2022)
   - 📖 [Veri Yapıları ve Algoritmalar](#-veri-yapıları-ve-algoritmalar) (2020-2021 → 2021-2022)
 - ⭐ **Yıldız Sayıları:**
@@ -1301,7 +1307,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 📚 **Verdiği Dersler:**
   - 📖 [Linux Kabuk Programlama](#-linux-kabuk-programlama) (2025-2026 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2023-2024, 2025-2026 → 2026-2027)
-  - 📖 [Fizik](#-fizik) (2023-2024, 2025-2026 → 2026-2027)
+  - 📖 [Fizik 1](#-fizik-1) (2023-2024, 2025-2026 → 2026-2027)
   - 📖 [Simulasyon ve Modelleme](#-simulasyon-ve-modelleme) (2022-2023, 2025-2026)
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2023-2024, 2025-2026)
   - 📖 [Fizik 2](#-fizik-2) (2023-2024, 2025-2026)
@@ -1318,10 +1324,10 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Algoritma](#-algoritma) (2022-2023 → 2026-2027)
-  - 📖 [Bilgisayar Programlama II](#-bilgisayar-programlama-ii) (2022-2023 → 2026-2027)
+  - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2022-2023 → 2026-2027)
+  - 📖 [Bilgisayar Programlama 2](#-bilgisayar-programlama-2) (2022-2023 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2023-2024 → 2026-2027)
-  - 📖 [Bilgisayar Programlama](#-bilgisayar-programlama) (2021-2022 → 2025-2026)
+  - 📖 [Bilgisayar Programlama 1](#-bilgisayar-programlama-1) (2021-2022 → 2025-2026)
   - 📖 [Veri Madenciliği](#-veri-madenciliği) (2020-2021 → 2025-2026)
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2021-2022 → 2025-2026)
 - ⭐ **Yıldız Sayıları:**
@@ -1333,13 +1339,13 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Algoritma](#-algoritma) (2020-2021 → 2026-2027)
+  - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2020-2021 → 2026-2027)
   - 📖 [Veritabanı Yönetim Sistemleri](#-veritabanı-yönetim-sistemleri) (2020-2021 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2021-2022 → 2026-2027)
   - 📖 [Yazılım Mühendisliği](#-yazılım-mühendisliği) (2021-2022 → 2025-2026)
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2021-2022 → 2025-2026)
   - 📖 [Bilimsel Araştırma ve Sunum Teknikleri](#-bilimsel-araştırma-ve-sunum-teknikleri) (2020-2021 → 2025-2026)
-  - 📖 [Bilgisayar Programlama](#-bilgisayar-programlama) (2021-2022 → 2024-2025)
+  - 📖 [Bilgisayar Programlama 1](#-bilgisayar-programlama-1) (2021-2022 → 2024-2025)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1361,7 +1367,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 📚 **Verdiği Dersler:**
   - 📖 [Sinyaller ve Sistemlere Giriş](#-sinyaller-ve-sistemlere-giriş) (2020-2021 → 2026-2027)
   - 📖 [Sayısal İşaret İşleme](#-sayısal-i̇şaret-i̇şleme) (2020-2021 → 2025-2026)
-  - 📖 [Fizik](#-fizik) (2020-2021 → 2022-2023)
+  - 📖 [Fizik 1](#-fizik-1) (2020-2021 → 2022-2023)
   - 📖 [Fizik 2](#-fizik-2) (2020-2021 → 2022-2023)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
@@ -1420,7 +1426,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Bilgisayar Programlama](#-bilgisayar-programlama) (2025-2026)
+  - 📖 [Bilgisayar Programlama 1](#-bilgisayar-programlama-1) (2025-2026)
   - 📖 [Web Programlama](#-web-programlama) (2020-2021 → 2022-2023, 2025-2026)
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2021-2022 → 2022-2023, 2025-2026)
   - 📖 [İnsan-Bilgisayar Etkileşimi ve Görsellik](#-i̇nsan-bilgisayar-etkileşimi-ve-görsellik) (2020-2021 → 2022-2023)
@@ -1436,7 +1442,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Bilgisayar Programlama II](#-bilgisayar-programlama-ii) (2025-2026 → 2026-2027)
+  - 📖 [Bilgisayar Programlama 2](#-bilgisayar-programlama-2) (2025-2026 → 2026-2027)
   - 📖 [Veri Yapıları ve Algoritmalar](#-veri-yapıları-ve-algoritmalar) (2025-2026)
   - 📖 [Web Programlama](#-web-programlama) (2025-2026)
 - ⭐ **Yıldız Sayıları:**
@@ -1454,8 +1460,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2021-2022 → 2025-2026)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2022-2023 → 2024-2025)
   - 📖 [Veri Yapıları ve Algoritmalar](#-veri-yapıları-ve-algoritmalar) (2021-2022 → 2022-2023)
-  - 📖 [Algoritma](#-algoritma) (2021-2022)
-  - 📖 [Bilgisayar Programlama](#-bilgisayar-programlama) (2020-2021)
+  - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2021-2022)
+  - 📖 [Bilgisayar Programlama 1](#-bilgisayar-programlama-1) (2020-2021)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1465,7 +1471,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Mat1](#-mat1) (2024-2025 → 2026-2027)
+  - 📖 [Matematik 1](#-matematik-1) (2024-2025 → 2026-2027)
   - 📖 [Lineer Cebir](#-lineer-cebir) (2025-2026 → 2026-2027)
   - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2024-2025 → 2026-2027)
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2025-2026)
@@ -1648,8 +1654,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş) (2025-2026)
-  - 📖 [Algoritma](#-algoritma) (2025-2026)
-  - 📖 [Bilgisayar Programlama](#-bilgisayar-programlama) (2025-2026)
+  - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2025-2026)
+  - 📖 [Bilgisayar Programlama 1](#-bilgisayar-programlama-1) (2025-2026)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1684,7 +1690,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Staj I](#-staj-i) (2020-2021)
+  - 📖 [Staj 1](#-staj-1) (2020-2021)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
@@ -1746,7 +1752,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [Bilgisayar Programlama II](#-bilgisayar-programlama-ii) (2022-2023 → 2024-2025)
+  - 📖 [Bilgisayar Programlama 2](#-bilgisayar-programlama-2) (2022-2023 → 2024-2025)
   - 📖 [Biçimsel Diller ve Otomata Teorisi](#-biçimsel-diller-ve-otomata-teorisi) (2022-2023 → 2024-2025)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2024-2025)
   - 📖 [Veri Yapıları ve Algoritmalar](#-veri-yapıları-ve-algoritmalar) (2022-2023 → 2023-2024)

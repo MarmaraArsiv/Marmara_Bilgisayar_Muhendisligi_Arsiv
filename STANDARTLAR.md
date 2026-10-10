@@ -2,7 +2,7 @@
 
 Bu belge, repo içindeki dizin ve dosya isimlendirme kurallarını tanımlar. Yıldız Teknik Üniversitesi'nin [YTU Bilgisayar Mühendisliği Arşivi](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv) reposundaki standarttan uyarlanmıştır.
 
-**Not:** Bu standart **bundan sonra eklenecek** içerikler için geçerlidir. Mevcut klasörlerin standarda göre yeniden adlandırılması bilerek ayrı bir adıma bırakıldı — aşağıdaki "Bilinen Sapmalar" bölümünde listeleniyor.
+**Not:** Mevcut klasörler Ekim 2026'da bu standarda göre yeniden adlandırıldı (bkz. bölüm 6). Dosya adlarına dokunulmadı; yeni eklenen dosyalar için bölüm 4 geçerlidir.
 
 ---
 
@@ -96,18 +96,22 @@ Ders dizini **içindeki** tüm alt klasörler bu kurala uyar: tümü küçük ha
 
 ---
 
-## 6. Bilinen Sapmalar (Mevcut Klasörler — Henüz Taşınmadı)
+## 6. Yapılan Taşıma (Ekim 2026)
 
-Aşağıdaki mevcut klasör adları yukarıdaki standarda uymuyor. Bilerek, ayrı bir adımda düzeltilecek; şimdilik referans için listeleniyor:
+Mevcut klasörler bu standarda göre yeniden adlandırıldı:
 
-| Şu an | Olması gereken |
+| Önce | Sonra |
 |-------|----------------|
+| `Algoritma`, `Mat1`, `Fizik` | `Algoritma ve Programlamaya Giriş`, `Matematik 1`, `Fizik 1` |
+| Roma rakamlı ders adları (`… II`, `Staj I`) | Arap rakamı (`… 2`, `Staj 1`) |
 | `çalışma soruları` (boşluklu) | `çalışma_soruları` |
 | `çıkmış` / `çıkmışlar` | `çıkmış_sorular` |
-| `slaytlar` + `notlar` (ayrı klasörler) | `slaytlar_notlar` |
-| `Lab` | `lablar` |
-| `algo` | `kodlar` ya da `lablar_kodlar` |
+| `slaytlar`, `notlar`, `ders notları`, `ders slaytları`, `algo` | `slaytlar_notlar` |
+| `Lab`, `Lab 1`, `lab ödevleri` | `lablar`, `lab_1` |
 | `atölye dersi` / `atolye ödev` | `atölye_notları` / `atölye_ödevleri` |
+| `not dağılımları` | `harf_notları` |
+
+**Ders numaralandırma:** Ders adlarında Arap rakamı kullanılır: `Fizik 1`, `Bilgisayar Programlama 2`, `Staj 1`.
 
 ---
 

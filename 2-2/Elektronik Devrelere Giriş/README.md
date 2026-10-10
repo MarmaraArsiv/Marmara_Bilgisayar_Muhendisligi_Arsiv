@@ -12,7 +12,7 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Sorular (2024-2025 Final)](./çıkmışlar/) ✨
+- 📄 [📄 Çıkmış Sorular (2024-2025 Final)](./çıkmış_sorular/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

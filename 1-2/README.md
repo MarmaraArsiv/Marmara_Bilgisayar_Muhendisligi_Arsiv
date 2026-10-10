@@ -19,8 +19,8 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📊 Marmara Donanım Notları (14 hafta sunum)](./Bilgisayar%20Donan%C4%B1m%C4%B1/MARMARA%20DONANIM%20NOTLARI/) ✨
-- 📄 [🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./Bilgisayar%20Donan%C4%B1m%C4%B1/Lab/) ✨
+- 📄 [📊 Marmara Donanım Notları (14 hafta sunum)](./Bilgisayar%20Donan%C4%B1m%C4%B1/slaytlar_notlar/) ✨
+- 📄 [🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./Bilgisayar%20Donan%C4%B1m%C4%B1/lablar/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -38,7 +38,7 @@
 - **2020-2021:**
   - **ÖD** — Doç. Dr. Önder Demir
 
-### 📘 Bilgisayar Programlama
+### 📘 Bilgisayar Programlama 1
 
 #### 📄 Ders Bilgileri
 
@@ -51,9 +51,9 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [❓ Quiz Örneği](./Bilgisayar%20Programlama/quizler/) ✨
-- 📄 [💻 Algo (C örnekleri: pointer, dizi, recursive)](./Bilgisayar%20Programlama/algo/) ✨
-- 📄 [🧪 Lab (Lab 0-10)](./Bilgisayar%20Programlama/Lab/) ✨
+- 📄 [❓ Quiz Örneği](./Bilgisayar%20Programlama%201/quizler/) ✨
+- 📄 [💻 Algo (C örnekleri: pointer, dizi, recursive)](./Bilgisayar%20Programlama%201/slaytlar_notlar/) ✨
+- 📄 [🧪 Lab (Lab 0-10)](./Bilgisayar%20Programlama%201/lablar/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -91,8 +91,8 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Sınav Hazırlık Dosyaları](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/s%C4%B1nav%20haz%C4%B1rl%C4%B1k%20dosyalar%C4%B1/) ✨
-- 📄 [📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/Ders%20slaytlar%C4%B1/) ✨
+- 📄 [📄 Sınav Hazırlık Dosyaları](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
+- 📄 [📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/slaytlar_notlar/) ✨
 - 📄 [📝 Ödevler](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/%C3%B6devler/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
@@ -124,9 +124,9 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [❓ Ders İçi Sorular](./Fizik%202/ders%20i%C3%A7i%20sorular/) ✨
-- 📄 [📄 Çıkmış Vize Soruları](./Fizik%202/%C3%A7%C4%B1km%C4%B1%C5%9Flar/) ✨
-- 📄 [📊 Haftalık Ders Slaytları](./Fizik%202/ders%20slaytlar%C4%B1/) ✨
+- 📄 [❓ Ders İçi Sorular](./Fizik%202/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
+- 📄 [📄 Çıkmış Vize Soruları](./Fizik%202/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
+- 📄 [📊 Haftalık Ders Slaytları](./Fizik%202/slaytlar_notlar/) ✨
 - 📄 [📋 Ders İzlencesi (Syllabus)](./Fizik%202/Syllabus.pdf) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
@@ -175,7 +175,7 @@
 - **2020-2021:**
   - Öğr. Gör. Abdullah Mert Pekel
 
-### 📘 İş Sağlığı ve Güvenliği
+### 📘 İş Sağlığı ve Güvenliği 2
 
 #### 📄 Ders Bilgileri
 
@@ -189,7 +189,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📸 Tahtanın Fotoğrafları (haftalık ders anlatımı)](./%C4%B0%C5%9F%20sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi/Tahtan%C4%B1n%20foto%C4%9Fraflar%C4%B1/) ✨
+- 📄 [📸 Tahtanın Fotoğrafları (haftalık ders anlatımı)](./%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202/tahta_notlar%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
@@ -221,8 +221,8 @@
 #### 📚 Faydalı Olabilecek Kaynaklar
 
 - 📄 [📋 Ders İzlencesi](./Matematik%202/Ders-Izlence-Mat1086.pdf) ✨
-- 📄 [📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./Matematik%202/ders%20notlar%C4%B1/) ✨
-- 📄 [📝 Haftalık Ödevler](./Matematik%202/%C3%A7al%C4%B1%C5%9Fma%20sorular%C4%B1/) ✨
+- 📄 [📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./Matematik%202/slaytlar_notlar/) ✨
+- 📄 [📝 Haftalık Ödevler](./Matematik%202/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

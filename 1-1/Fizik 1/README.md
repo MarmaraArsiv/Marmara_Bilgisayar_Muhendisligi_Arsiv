@@ -1,36 +1,37 @@
-# 📚 Bilimsel Araştırma ve Sunum Teknikleri
+# 📚 Fizik 1
 
 ## ℹ️ Ders Bilgileri
 
 - 📅 **Yıl:** 1
-- 📆 **Dönem:** Bahar
+- 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
-- 🏷️ **Müfredat:** 2026 Öncesi
-    - ℹ️ 2026 sonrası müfredatta 3. yıl bahar dönemine taşınmış ve "Bilimsel Araştırma ve Sunum Teknikleri 2" olarak anılıyor.
+- 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Sınav Hazırlık Dosyaları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./slaytlar_notlar/) ✨
+- 📄 [📄 Çıkmış Vize Soruları](./çıkmış_sorular/) ✨
+- 📄 [📊 Haftalık Slaytlar (Week 1-13)](./slaytlar_notlar/) ✨
 - 📄 [📝 Ödevler](./ödevler/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **ŞU** — Prof. Dr. Şahin Uyaver
 - **2025-2026:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **ŞU** — Prof. Dr. Şahin Uyaver
 - **2024-2025:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - Prof. Dr. Adil Güler
 - **2023-2024:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **ŞU** — Prof. Dr. Şahin Uyaver
 - **2022-2023:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **ÖA** — Doç. Dr. Ömer Akgün
 - **2021-2022:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **ÖA** — Doç. Dr. Ömer Akgün
 - **2020-2021:**
-  - **BD** — Doç. Dr. Buket Doğan
+  - **ÖA** — Doç. Dr. Ömer Akgün
 
 ## 🤝 Katkıda Bulun
 

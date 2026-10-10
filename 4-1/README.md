@@ -4,7 +4,7 @@
 
 
 
-### 📘 Staj II
+### 📘 Staj 2
 
 #### 📄 Ders Bilgileri
 
@@ -78,7 +78,7 @@
   - **ÖD** — Doç. Dr. Önder Demir
   - **BD** — Doç. Dr. Buket Doğan
 
-### 📘 Atatürk İlkeleri ve İnkılap Tarihi I
+### 📘 Atatürk İlkeleri ve İnkılap Tarihi 1
 
 #### 📄 Ders Bilgileri
 
@@ -122,7 +122,7 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
-### 📘 Bitirme Projesi I
+### 📘 Bitirme Projesi 1
 
 #### 📄 Ders Bilgileri
 

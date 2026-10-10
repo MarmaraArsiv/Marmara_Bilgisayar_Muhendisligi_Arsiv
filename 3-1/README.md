@@ -4,7 +4,7 @@
 
 
 
-### 📘 Staj I
+### 📘 Staj 1
 
 #### 📄 Ders Bilgileri
 

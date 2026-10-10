@@ -18,9 +18,9 @@ Bu repo **iki ayrı klasör ağacı tutmaz.** Her iki müfredatın dersleri ayn�
 
 - **1. Yıl:** `Kimya` → `Modern Biyolojiye Giriş`. İş Sağlığı ve Güvenliği iki parçaya bölünmüş (1. ve 2. yarıyıl).
 - **1-2. Yıl:** `Bilimsel Araştırma ve Sunum Teknikleri` 3. yıla taşınmış (`...Teknikleri 2` adıyla), yerine `Mühendislik Ekonomisi` eklenmiş.
-- **2-3. Yıl:** `Mühendisler için İstatistik` → `Olasılık ve İstatistik` + `Teknik İngilizce I/II`.
+- **2-3. Yıl:** `Mühendisler için İstatistik` → `Olasılık ve İstatistik` + `Teknik İngilizce 1/II`.
 - **2-3. Yıl:** `İnsan-Bilgisayar Etkileşimi ve Görsellik` ve `Mikrodenetleyiciler` zorunluluktan seçmeliye düşmüş (Mesleki Seçmeli'ye taşınmış); `Algoritma Analizi` ve `Biçimsel Diller ve Otomata Teorisi` ise seçmeliden zorunluya çıkmış (sırasıyla `Algoritma Analizi ve Tasarımı` adıyla 3-1'e, aynı adla 3-2'ye).
-- **4. Yıl:** `Bitirme Projesi` → `Bitirme Projesi I` (4-1) + `Bitirme Projesi II` (4-2). Ayrıca `İş Hukuku ve Etiği` eklenmiş.
+- **4. Yıl:** `Bitirme Projesi` → `Bitirme Projesi 1` (4-1) + `Bitirme Projesi 2` (4-2). Ayrıca `İş Hukuku ve Etiği` eklenmiş.
 - **Seçmeli havuzları:** 2026 sonrası müfredat çoğu dersi korumuş, bazılarını güncellemiş (`Yapay Zekâya Giriş`→`Güncel Yapay Zeka Yaklaşımları`, `Kablosuz Ağlar`→`Kablosuz ve Mobil Ağlar`) ve tamamen yeni dersler eklemiş (Makine Öğrenimine Giriş, Blockchain Programlamaya Giriş, Bulut Bilişim vb.). Ayrıca eski müfredatta karşılığı olmayan, tamamen yeni bir **Fakülte Teknik Seçmeli** havuzu eklenmiş.
 
 Tam liste için her iki PDF'e bakılabilir. Yukarıdaki her fark, ilgili ders klasörlerinde `🏷️ Müfredat:` etiketi ve çapraz referans notuyla da işaretli.

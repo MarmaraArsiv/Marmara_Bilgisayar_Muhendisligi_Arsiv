@@ -11,9 +11,9 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./çıkmış/) ✨
-- 📄 [📓 Ders Notları](./notlar/) ✨
-- 📄 [📝 Çalışma Soruları](./çalışma%20soruları/) ✨
+- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./çıkmış_sorular/) ✨
+- 📄 [📓 Ders Notları](./slaytlar_notlar/) ✨
+- 📄 [📝 Çalışma Soruları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
 - 📄 Gilbert Strang, Introduction to Linear Algebra, Wellesley-Cambridge Press, 1998. ✨
 - 📄 Mehmet Ali Karaca, Lineer Cebir Çözümlü Problemleri, İTÜ Vakfı Yayınları, 2006. ✨
 - 📄 Serge Lang, Introduction to Linear Algebra, Springer Verlag, 1986. ✨

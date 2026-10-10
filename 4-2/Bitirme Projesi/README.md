@@ -6,7 +6,7 @@
 - 📆 **Dönem:** Bahar
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** 2026 Öncesi
-    - ℹ️ 2026 sonrası müfredatta "Bitirme Projesi I" (4-1) ve "Bitirme Projesi II" (4-2) olarak ikiye bölünmüş.
+    - ℹ️ 2026 sonrası müfredatta "Bitirme Projesi 1" (4-1) ve "Bitirme Projesi 2" (4-2) olarak ikiye bölünmüş.
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 

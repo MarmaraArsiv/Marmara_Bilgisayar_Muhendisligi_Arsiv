@@ -12,8 +12,8 @@
 ## 📖 Faydalı Olabilecek Kaynaklar
 
 - 📄 [📋 Ders İzlencesi](./Ders-Izlence-Mat1086.pdf) ✨
-- 📄 [📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./ders%20notları/) ✨
-- 📄 [📝 Haftalık Ödevler](./çalışma%20soruları/) ✨
+- 📄 [📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./slaytlar_notlar/) ✨
+- 📄 [📝 Haftalık Ödevler](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

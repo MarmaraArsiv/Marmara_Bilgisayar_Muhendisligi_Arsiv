@@ -11,11 +11,11 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [❓ Ders İçi Sorular](./ders%20içi%20sorular/) ✨
-- 📄 [📄 Çıkmış Vize Soruları](./çıkmışlar/) ✨
-- 📄 [📊 Haftalık Ders Slaytları](./ders%20slaytları/) ✨
+- 📄 [❓ Ders İçi Sorular](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
+- 📄 [📄 Çıkmış Vize Soruları](./çıkmış_sorular/) ✨
+- 📄 [📊 Haftalık Ders Slaytları](./slaytlar_notlar/) ✨
 - 📄 [📋 Ders İzlencesi (Syllabus)](./Syllabus.pdf) ✨
-- 📄 [Lab Dersi Tahta Soruları](./Lab/lab_dersi_tahta_soruları.pdf)
+- 📄 [Lab Dersi Tahta Soruları](./lablar/lab_dersi_tahta_soruları.pdf)
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 

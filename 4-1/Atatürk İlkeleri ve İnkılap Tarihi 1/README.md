@@ -1,9 +1,9 @@
-# 📚 Mikroişlemciler
+# 📚 Atatürk İlkeleri ve İnkılap Tarihi 1
 
 ## ℹ️ Ders Bilgileri
 
-- 📅 **Yıl:** 2
-- 📆 **Dönem:** Bahar
+- 📅 **Yıl:** 4
+- 📆 **Dönem:** Güz
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
@@ -11,23 +11,22 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📄 Çıkmış Sorular (2024-2025 Vize)](./çıkmış_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+- 📄 [Çıkmış Sorular](./çıkmış_sorular/)
+- 📄 [Çalışma Soruları](./çalışma_soruları/)
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - Dr. Öğretim Üyesi Oya Ayhan Girit
 - **2025-2026:**
-  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
+  - Dr. Öğretim Üyesi Oya Ayhan Girit
 - **2024-2025:**
-  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
+  - Dr. Öğretim Üyesi Oya Ayhan Girit
 - **2023-2024:**
-  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
+  - Dr. Öğretim Üyesi Oya Ayhan Girit
 - **2022-2023:**
-  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
+  - Dr. Öğretim Üyesi Oya Ayhan Girit
 - **2021-2022:**
-  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
-- **2020-2021:**
-  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
+  - Dr. Öğretim Üyesi Oya Ayhan Girit
 
 ## 🤝 Katkıda Bulun
 

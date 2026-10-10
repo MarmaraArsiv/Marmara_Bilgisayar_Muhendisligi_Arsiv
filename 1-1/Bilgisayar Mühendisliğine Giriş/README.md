@@ -11,9 +11,9 @@
 
 ## 📖 Faydalı Olabilecek Kaynaklar
 
-- 📄 [📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./ders%20notları/) ✨
-- 📄 [📝 Atölye Ödevleri](./atolye%20ödev/) ✨
-- 📄 [🛠️ Atölye Dersi (haftalık uygulamalar)](./atölye%20dersi/) ✨
+- 📄 [📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./slaytlar_notlar/) ✨
+- 📄 [📝 Atölye Ödevleri](./at%C3%B6lye_%C3%B6devleri/) ✨
+- 📄 [🛠️ Atölye Dersi (haftalık uygulamalar)](./at%C3%B6lye_notlar%C4%B1/) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
