@@ -18,8 +18,20 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **ŞU** — Prof. Dr. Şahin Uyaver
 - **2025-2026:**
   - **ŞU** — Prof. Dr. Şahin Uyaver
+- **2024-2025:**
+  - Prof. Dr. Adil Güler
+- **2023-2024:**
+  - **ŞU** — Prof. Dr. Şahin Uyaver
+- **2022-2023:**
+  - **ÖA** — Doç. Dr. Ömer Akgün
+- **2021-2022:**
+  - **ÖA** — Doç. Dr. Ömer Akgün
+- **2020-2021:**
+  - **ÖA** — Doç. Dr. Ömer Akgün
 
 ## 🤝 Katkıda Bulun
 

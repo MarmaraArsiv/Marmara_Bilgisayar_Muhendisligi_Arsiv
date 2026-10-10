@@ -22,10 +22,6 @@
                 {
                     "ad": "Doç. Dr. Ayşe Berna Altınel",
                     "kisaltma": "ABA"
-                },
-                {
-                    "ad": "Arş. Gör. Semiha Koç",
-                    "kisaltma": "SK"
                 }
             ],
             "derse_dair_oneriler": [],
@@ -49,14 +45,6 @@
             "tip": "Zorunlu",
             "guncel_mi": true,
             "dersi_veren_hocalar": [
-                {
-                    "ad": "Doç. Dr. Önder Demir",
-                    "kisaltma": "ÖD"
-                },
-                {
-                    "ad": "Arş. Gör. Semiha Koç",
-                    "kisaltma": "SK"
-                },
                 {
                     "ad": "Prof. Dr. Serhat Özekes",
                     "kisaltma": "SÖ"
@@ -138,7 +126,12 @@
             "donem": "Güz",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Dr. Öğretim Üyesi Neşe Özdemir",
+                    "kisaltma": "NÖ"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
                 "T.S. Blyth and E.F. Robertson, Basic Linear Algebra, Springer, 4th Edition, 2007.",
@@ -164,7 +157,12 @@
             "donem": "Güz",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Dr. Öğretim Üyesi Neşe Özdemir",
+                    "kisaltma": "NÖ"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
                 "[📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./notlar/)",
@@ -222,7 +220,12 @@
             "donem": "Bahar",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Prof. Dr. Ali Buldu",
+                    "kisaltma": "ABul"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
                 "[🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./Lab/)",
@@ -244,6 +247,14 @@
             "tip": "Zorunlu",
             "guncel_mi": true,
             "dersi_veren_hocalar": [
+                {
+                    "ad": "Dr. Öğretim Üyesi Anıl Baş",
+                    "kisaltma": "ABaş"
+                },
+                {
+                    "ad": "Doç. Dr. Ayşe Berna Altınel",
+                    "kisaltma": "ABA"
+                },
                 {
                     "ad": "Arş. Gör. Semiha Koç",
                     "kisaltma": "SK"

@@ -16,6 +16,20 @@
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **Tİ** — Dr. Öğretim Üyesi Timur İnan
+- **2024-2025:**
+  - Doç. Dr. Alper Nabi Akpolat
+- **2023-2024:**
+  - Doç. Dr. Alper Nabi Akpolat
+- **2022-2023:**
+  - Doç. Dr. Alper Nabi Akpolat
+- **2021-2022:**
+  - Dr. Öğretim Üyesi Serkan Aydın
+- **2020-2021:**
+  - Dr. Öğretim Üyesi Pınar Özkan Bakbak
+
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

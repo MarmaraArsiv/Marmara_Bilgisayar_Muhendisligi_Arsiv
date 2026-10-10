@@ -19,6 +19,20 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+- **2024-2025:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+- **2023-2024:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+- **2022-2023:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+- **2021-2022:**
+  - Prof. Dr. Vedat Topuz
+- **2020-2021:**
+  - Prof. Dr. Vedat Topuz
+
 ### 📘 Web Programlama
 
 #### 📄 Ders Bilgileri
@@ -35,6 +49,21 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+  - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
+- **2024-2025:**
+  - Dr. Selman Şişman
+- **2023-2024:**
+  - Dr. Selman Şişman
+- **2022-2023:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+- **2021-2022:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+- **2020-2021:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+
 ### 📘 Sistem Programlama
 
 #### 📄 Ders Bilgileri
@@ -49,6 +78,20 @@
 #### 📚 Faydalı Olabilecek Kaynaklar
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
+
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+- **2024-2025:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+- **2023-2024:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+- **2022-2023:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+- **2021-2022:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+- **2020-2021:**
+  - **KY** — Prof. Dr. Kazım Yıldız
 
 ### 📘 Yazılım Mühendisliği
 
@@ -65,6 +108,19 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
+#### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2024-2025:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2023-2024:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2022-2023:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2021-2022:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2020-2021:**
+  - Öğr. Gör. Halil Özkan
 
 ### 📘 Biçimsel Diller ve Otomata Teorisi
 

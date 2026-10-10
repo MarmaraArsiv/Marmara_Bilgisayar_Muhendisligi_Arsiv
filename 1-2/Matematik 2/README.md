@@ -20,6 +20,16 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
+- **2024-2025:**
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
+- **2023-2024:**
+  - Doç. Dr. Nazlı Yazıcı Gözütok
+- **2022-2023:**
+  - Doç. Dr. Nazlı Yazıcı Gözütok
+- **2021-2022:**
+  - Doç. Dr. Nazlı Yazıcı Gözütok
+- **2020-2021:**
+  - Prof. Dr. Bahar Kırık Rácz
 
 ## 🤝 Katkıda Bulun
 

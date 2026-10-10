@@ -17,10 +17,27 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2026-2027:**
   - **BD** — Doç. Dr. Buket Doğan
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
+- **2025-2026:**
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **BD** — Doç. Dr. Buket Doğan
   - **SK** — Arş. Gör. Semiha Koç (teori/lab)
+- **2024-2025:**
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **BD** — Doç. Dr. Buket Doğan
+- **2023-2024:**
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **BD** — Doç. Dr. Buket Doğan
+- **2022-2023:**
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+  - **BD** — Doç. Dr. Buket Doğan
+- **2021-2022:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
+- **2020-2021:**
+  - **BD** — Doç. Dr. Buket Doğan
 
 ## 🤝 Katkıda Bulun
 

@@ -19,7 +19,23 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **SK** — Arş. Gör. Semiha Koç (lab)
+- **2024-2025:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+- **2023-2024:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+- **2022-2023:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+- **2021-2022:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - **ABA** — Doç. Dr. Ayşe Berna Altınel
+- **2020-2021:**
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ## 🤝 Katkıda Bulun
 

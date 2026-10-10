@@ -19,6 +19,23 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+  - **ABul** — Prof. Dr. Ali Buldu
+- **2025-2026:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+  - **ABul** — Prof. Dr. Ali Buldu
+- **2024-2025:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+  - **ABul** — Prof. Dr. Ali Buldu
+- **2023-2024:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+  - **ABul** — Prof. Dr. Ali Buldu
+- **2022-2023:**
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+  - **ABul** — Prof. Dr. Ali Buldu
+- **2021-2022:**
+  - Dr. Öğretim Üyesi Ayşe Yayla
+- **2020-2021:**
+  - Dr. Öğretim Üyesi Uğur Kesen
 
 ## 🤝 Katkıda Bulun
 

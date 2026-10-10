@@ -13,6 +13,10 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2020-2021:**
+  - Prof. Dr. Ahmet Emin Kuzucuoğlu
+
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

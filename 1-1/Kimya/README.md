@@ -22,8 +22,20 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - Prof. Dr. Canan Doğan
 - **2025-2026:**
-  - Zeynel Şahin
+  - Dr. Öğretim Üyesi Zeynel Şahin
+- **2024-2025:**
+  - Dr. Öğretim Üyesi Zeynel Şahin
+- **2023-2024:**
+  - Dr. Öğretim Üyesi Zeynel Şahin
+- **2022-2023:**
+  - Prof. Dr. Mehmet Sayıp Eroğlu
+- **2021-2022:**
+  - Doç. Dr. Sabahattin Deniz
+- **2020-2021:**
+  - Doç. Dr. Sabahattin Deniz
 
 ## 🤝 Katkıda Bulun
 

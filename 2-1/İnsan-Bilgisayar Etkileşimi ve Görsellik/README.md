@@ -17,6 +17,18 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **ABal** — Arş. Gör. Dr. Abdullah Bal
+- **2025-2026:**
+  - Doç. Dr. Lutfi Özdemir
+- **2024-2025:**
+  - Doç. Dr. Lutfi Özdemir
+- **2023-2024:**
+  - Doç. Dr. Lutfi Özdemir
+- **2022-2023:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+- **2021-2022:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
+- **2020-2021:**
+  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 
 ## 🤝 Katkıda Bulun
 

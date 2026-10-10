@@ -13,7 +13,12 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "Bilgisayar Mühendisliğine Giriş"
+                "Bilgisayar Mühendisliğine Giriş",
+                "Yapay Sinir Ağları",
+                "İş Yeri Eğitimi",
+                "Görüntü İşlemenin Temelleri",
+                "Bitirme Projesi",
+                "Teknik İngilizce"
             ]
         },
         {
@@ -24,8 +29,12 @@
             "erkek_mi": false,
             "dersler": [
                 "Algoritma",
-                "Bilimsel Araştırma ve Sunum Teknikleri",
-                "Veritabanı Yönetim Sistemleri"
+                "Veritabanı Yönetim Sistemleri",
+                "İş Yeri Eğitimi",
+                "Bilgisayar Programlama",
+                "Yazılım Mühendisliği",
+                "Bitirme Projesi",
+                "Bilimsel Araştırma ve Sunum Teknikleri"
             ]
         },
         {
@@ -35,7 +44,12 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": false,
             "dersler": [
-                "Algoritma"
+                "Algoritma",
+                "Bilgisayar Programlama II",
+                "İş Yeri Eğitimi",
+                "Bilgisayar Programlama",
+                "Veri Madenciliği",
+                "Bitirme Projesi"
             ]
         },
         {
@@ -44,7 +58,12 @@
             "link": "https://avesis.marmara.edu.tr/alibuldu",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
-            "dersler": []
+            "dersler": [
+                "Mantık Devreleri",
+                "İş Yeri Eğitimi",
+                "Bilgisayar Donanımı",
+                "Bitirme Projesi"
+            ]
         },
         {
             "ad": "Prof. Dr. Kazım Yıldız",
@@ -53,7 +72,14 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "Nesne Yönelimli Programlama"
+                "Bilgisayar Programlama II",
+                "Nesne Yönelimli Programlama",
+                "Yapay Sinir Ağları",
+                "İş Yeri Eğitimi",
+                "Veri Yapıları ve Algoritmalar",
+                "Sistem Programlama",
+                "Yapay Zekâya Giriş",
+                "Bitirme Projesi"
             ]
         },
         {
@@ -63,8 +89,13 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
+                "Linux Kabuk Programlama",
+                "İş Yeri Eğitimi",
                 "Fizik",
-                "Fizik 2"
+                "Simulasyon ve Modelleme",
+                "Bitirme Projesi",
+                "Fizik 2",
+                "Sayısal Analiz"
             ]
         },
         {
@@ -74,7 +105,14 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "Bilgisayar Mühendisliğine Giriş"
+                "Bilgisayar Mühendisliğine Giriş",
+                "Algoritma Analizi",
+                "Bilgisayar Grafik",
+                "İş Yeri Eğitimi",
+                "Bilgisayar Donanımı",
+                "Veri Yapıları ve Algoritmalar",
+                "Görüntü İşlemenin Temelleri",
+                "Bitirme Projesi"
             ]
         },
         {
@@ -83,7 +121,12 @@
             "link": "https://avesis.marmara.edu.tr/oakgun",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
-            "dersler": []
+            "dersler": [
+                "Sinyaller ve Sistemlere Giriş",
+                "Fizik",
+                "Sayısal İşaret İşleme",
+                "Fizik 2"
+            ]
         },
         {
             "ad": "Dr. Öğretim Üyesi Eyüp Emre Ülkü",
@@ -92,7 +135,14 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "Nesne Yönelimli Programlama"
+                "Algoritma",
+                "Nesne Yönelimli Programlama",
+                "İşletim Sistemleri",
+                "İş Yeri Eğitimi",
+                "Bilgisayar Programlama",
+                "Veri Yapıları ve Algoritmalar",
+                "Bilgisayar Ağlarına Giriş",
+                "Bitirme Projesi"
             ]
         },
         {
@@ -102,7 +152,12 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "Mantık Devreleri"
+                "Mantık Devreleri",
+                "İş Yeri Eğitimi",
+                "Bilgisayar Donanımı",
+                "Bilgisayar Organizasyonu ve Mimarisi",
+                "Gömülü Sistemler",
+                "Bitirme Projesi"
             ]
         },
         {
@@ -112,7 +167,13 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "Bilgisayar Grafik"
+                "İnsan-Bilgisayar Etkileşimi ve Görsellik",
+                "Bilgisayar Grafik",
+                "İş Yeri Eğitimi",
+                "Bilgisayar Programlama",
+                "Web Programlama",
+                "Bitirme Projesi",
+                "Teknik İngilizce"
             ]
         },
         {
@@ -122,7 +183,11 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "Ayrık Matematik"
+                "Mikrodenetleyiciler",
+                "Ayrık Matematik",
+                "Elektronik Devrelere Giriş",
+                "Mobil Programlama",
+                "Bitirme Projesi"
             ]
         },
         {
@@ -132,8 +197,13 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": false,
             "dersler": [
+                "Mat1",
+                "Lineer Cebir",
+                "Diferansiyel Denklemler",
+                "Bitirme Projesi",
+                "Mühendisler için İstatistik",
                 "Matematik 2",
-                "Diferansiyel Denklemler"
+                "Sayısal Analiz"
             ]
         },
         {
@@ -143,7 +213,10 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "İşletim Sistemleri"
+                "İşletim Sistemleri",
+                "Biçimsel Diller ve Otomata Teorisi",
+                "Veri Yapıları ve Algoritmalar",
+                "Bitirme Projesi"
             ]
         },
         {
@@ -152,7 +225,11 @@
             "link": "https://avesis.marmara.edu.tr/emrah.dikbiyik",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
-            "dersler": []
+            "dersler": [
+                "Bilgisayar Programlama II",
+                "Veri Yapıları ve Algoritmalar",
+                "Web Programlama"
+            ]
         },
         {
             "ad": "Arş. Gör. Dr. Abdullah Bal",
@@ -161,7 +238,8 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "İnsan-Bilgisayar Etkileşimi ve Görsellik"
+                "İnsan-Bilgisayar Etkileşimi ve Görsellik",
+                "Oyun Yazılımı Geliştirme"
             ]
         },
         {
@@ -170,7 +248,9 @@
             "link": "https://avesis.marmara.edu.tr/14523",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": false,
-            "dersler": []
+            "dersler": [
+                "Veritabanı Yönetim Sistemleri"
+            ]
         },
         {
             "ad": "Arş. Gör. Dr. Merve Pınar",
@@ -178,7 +258,9 @@
             "link": "https://avesis.marmara.edu.tr/14501",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": false,
-            "dersler": []
+            "dersler": [
+                "Nesne Yönelimli Programlama"
+            ]
         },
         {
             "ad": "Arş. Gör. Damla Mengüş",
@@ -219,8 +301,8 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": false,
             "dersler": [
-                "Algoritma",
                 "Bilgisayar Mühendisliğine Giriş",
+                "Algoritma",
                 "Bilgisayar Programlama"
             ]
         },

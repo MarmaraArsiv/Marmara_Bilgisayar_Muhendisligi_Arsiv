@@ -12,6 +12,22 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2025-2026:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2024-2025:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2023-2024:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2022-2023:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2021-2022:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2020-2021:**
+  - **ÖD** — Doç. Dr. Önder Demir
+
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

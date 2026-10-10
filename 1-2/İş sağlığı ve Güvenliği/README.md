@@ -16,6 +16,20 @@
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026:**
+  - Prof. Dr. İsmail Kıyak
+- **2024-2025:**
+  - Prof. Dr. İsmail Kıyak
+- **2023-2024:**
+  - Prof. Dr. İsmail Kıyak
+- **2022-2023:**
+  - Prof. Dr. İsmail Kıyak
+- **2021-2022:**
+  - Prof. Dr. İsmail Kıyak
+- **2020-2021:**
+  - Prof. Dr. İsmail Kıyak
+
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

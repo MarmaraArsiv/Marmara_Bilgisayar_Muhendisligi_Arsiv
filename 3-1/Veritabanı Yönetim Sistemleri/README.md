@@ -16,6 +16,21 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **BD** — Doç. Dr. Buket Doğan
+  - **BB** — Arş. Gör. Dr. Büşra Büyüktanır
+- **2025-2026:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2024-2025:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+- **2023-2024:**
+  - **BD** — Doç. Dr. Buket Doğan
+  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+- **2022-2023:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2021-2022:**
+  - **BD** — Doç. Dr. Buket Doğan
+- **2020-2021:**
+  - **BD** — Doç. Dr. Buket Doğan
 
 ## 🤝 Katkıda Bulun
 

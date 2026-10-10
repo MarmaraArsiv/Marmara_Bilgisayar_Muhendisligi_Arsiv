@@ -18,6 +18,23 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **KY** — Prof. Dr. Kazım Yıldız
+  - **MP** — Arş. Gör. Dr. Merve Pınar
+- **2025-2026:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
+- **2024-2025:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
+- **2023-2024:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
+- **2022-2023:**
+  - **KY** — Prof. Dr. Kazım Yıldız
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
+- **2021-2022:**
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
+  - **KY** — Prof. Dr. Kazım Yıldız
+- **2020-2021:**
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ## 🤝 Katkıda Bulun

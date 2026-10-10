@@ -11,6 +11,16 @@
 
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2024-2025:**
+  - Dr. Öğretim Üyesi Emre Akın
+- **2023-2024:**
+  - Dr. Öğretim Üyesi Emre Akın
+- **2022-2023:**
+  - Dr. Öğretim Üyesi Emre Akın
+- **2021-2022:**
+  - Dr. Hulusi Ersoy
+
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

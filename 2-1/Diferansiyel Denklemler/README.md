@@ -16,6 +16,18 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
+- **2025-2026:**
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
+- **2024-2025:**
+  - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
+- **2023-2024:**
+  - Doç. Dr. Burhan Tiryakioğlu
+- **2022-2023:**
+  - Prof. Dr. Serhan Eker
+- **2021-2022:**
+  - Dr. Öğretim Üyesi Halil İbrahim Çelik
+- **2020-2021:**
+  - Prof. Ayşe Neşe Dernek
 
 ## 🤝 Katkıda Bulun
 

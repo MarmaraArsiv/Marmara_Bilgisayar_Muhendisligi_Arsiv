@@ -18,10 +18,21 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - **ÖD** — Doç. Dr. Önder Demir
-  - **SK** — Arş. Gör. Semiha Koç (atölye)
+- **2026-2027:**
   - **SÖ** — Prof. Dr. Serhat Özekes
+- **2025-2026:**
+  - **SÖ** — Prof. Dr. Serhat Özekes
+  - **SK** — Arş. Gör. Semiha Koç (atölye)
+- **2024-2025:**
+  - **SÖ** — Prof. Dr. Serhat Özekes
+- **2023-2024:**
+  - **SÖ** — Prof. Dr. Serhat Özekes
+- **2022-2023:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2021-2022:**
+  - **ÖD** — Doç. Dr. Önder Demir
+- **2020-2021:**
+  - **ÖD** — Doç. Dr. Önder Demir
 
 ## 🤝 Katkıda Bulun
 

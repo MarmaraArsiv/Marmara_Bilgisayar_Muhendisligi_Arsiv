@@ -16,6 +16,18 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
+- **2025-2026:**
+  - **Tİ** — Dr. Öğretim Üyesi Timur İnan
+- **2024-2025:**
+  - **Tİ** — Dr. Öğretim Üyesi Timur İnan
+- **2023-2024:**
+  - Doç. Dr. Nazlı Yazıcı Gözütok
+- **2022-2023:**
+  - Doç. Dr. Nazlı Yazıcı Gözütok
+- **2021-2022:**
+  - Doç. Dr. Suat Koç
+- **2020-2021:**
+  - Doç. Dr. Suat Koç
 
 ## 🤝 Katkıda Bulun
 
