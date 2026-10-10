@@ -10,3 +10,7 @@
 ## 📖 Faydalı Olabilecek Kaynaklar
 
 - ℹ️ 2026 öncesi müfredatta bu ders zorunludur, bkz. [`2-1/İnsan-Bilgisayar Etkileşimi ve Görsellik`](../../2-1/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik/).
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

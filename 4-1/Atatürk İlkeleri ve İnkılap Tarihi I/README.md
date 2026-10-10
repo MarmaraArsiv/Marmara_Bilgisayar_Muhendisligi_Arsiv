@@ -13,3 +13,7 @@
 
 - 📄 [Çıkmış Sorular](./çıkmış_sorular/)
 - 📄 [Çalışma Soruları](./çalışma_soruları/)
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

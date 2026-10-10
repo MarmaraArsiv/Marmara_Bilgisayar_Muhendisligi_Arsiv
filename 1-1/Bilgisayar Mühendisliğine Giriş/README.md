@@ -19,3 +19,7 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **ÖD** — Doç. Dr. Önder Demir
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

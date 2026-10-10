@@ -20,3 +20,7 @@
 - 📄 [📘 Genel Kimya: İlkeler ve Modern Uygulamalar](./GENEL_KIMYA_Ilkeler_ve_Modern_Uygulamala.pdf) ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

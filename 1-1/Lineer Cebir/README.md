@@ -20,3 +20,7 @@
 - 📄 T.S. Blyth and E.F. Robertson, Basic Linear Algebra, Springer, 4th Edition, 2007. ✨
 - 📄 [Genel Çıkmış Sorular]()
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

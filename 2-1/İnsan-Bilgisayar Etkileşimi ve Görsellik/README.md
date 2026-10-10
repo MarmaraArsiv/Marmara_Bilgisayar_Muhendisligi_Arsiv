@@ -13,3 +13,7 @@
 ## 📖 Faydalı Olabilecek Kaynaklar
 
 - 📄 [Slaytlar ve Notlar](./slaytlar_notlar/)
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

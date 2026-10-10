@@ -12,3 +12,7 @@
 ## 📖 Faydalı Olabilecek Kaynaklar
 
 - ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak yer alıyor (Bitirme Projesi I, 4-1'de).
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
