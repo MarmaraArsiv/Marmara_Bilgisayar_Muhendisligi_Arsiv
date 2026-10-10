@@ -1640,7 +1640,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-111
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/anil.bas](https://avesis.marmara.edu.tr/anil.bas)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20An%C4%B1l%20Ba%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - 👤 **_havadangelensayi_**: test deneme ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+    - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20An%C4%B1l%20Ba%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Programlama 1](#-bilgisayar-programlama-1) (2025-2026)
   - 📖 [Web Programlama](#-web-programlama) (2020-2021 → 2022-2023, 2025-2026)
