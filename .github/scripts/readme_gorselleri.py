@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """README'deki otomatik görsel bölümleri üretir:
 
-- 🗺 Müfredat Haritası: 2026 öncesi ve 2026 sonrası müfredat için ayrı Mermaid diyagramları.
-  Kaynak: ders klasörlerinin README'lerindeki "🏷️ Müfredat:" etiketi.
 - 📊 Arşiv Doluluk Durumu: her dönemde materyali olan ders oranı + boş ders listesi.
   DOLULUK_AKTIF = False yapılırsa bölüm README'den kaldırılır.
 
@@ -23,7 +21,6 @@ DONEMLER = [
     ("4-1", "4. Yıl Güz"), ("4-2", "4. Yıl Bahar"),
 ]
 HAVUZLAR = ["Mesleki Seçmeli", "Fakülte Teknik Seçmeli", "Üniversite Seçmeli"]
-MUFREDATLAR = [("oncesi", "2026 Öncesi Müfredat"), ("sonrasi", "2026 Sonrası Müfredat")]
 MATERYAL_SAYILMAYANLAR = {"readme.md", "readme.txt", ".gitkeep"}
 
 
@@ -43,71 +40,9 @@ def dersler(klasor):
                   key=tr_sirala)
 
 
-def mufredatlar(ders_yolu):
-    """Ders hangi müfredatlarda var? Etiket yoksa iki müfredatta da kabul edilir."""
-    try:
-        with open(os.path.join(ders_yolu, "README.md"), encoding="utf-8") as f:
-            m = re.search(r"Müfredat:\*\*\s*([^\n]+)", f.read())
-    except FileNotFoundError:
-        m = None
-    etiket = m.group(1) if m else ""
-    if "Öncesi" in etiket:
-        return {"oncesi"}
-    if "Sonrası" in etiket:
-        return {"sonrasi"}
-    return {"oncesi", "sonrasi"}
-
-
 def materyal_sayisi(ders_yolu):
     return sum(1 for _, _, dosyalar in os.walk(ders_yolu)
                for d in dosyalar if d.lower() not in MATERYAL_SAYILMAYANLAR)
-
-
-def etiket_kacis(metin):
-    return metin.replace('"', "#quot;")
-
-
-def mufredat_haritasi():
-    parcalar = []
-    for anahtar, baslik in MUFREDATLAR:
-        satirlar = ["```mermaid", "flowchart LR"]
-        sadece_bu = []
-        donem_idleri = []
-        n = 0
-        for klasor, donem_adi in DONEMLER:
-            ogeler = [(d, mufredatlar(os.path.join(klasor, d))) for d in dersler(klasor)]
-            ogeler = [(d, m) for d, m in ogeler if anahtar in m]
-            if not ogeler:
-                continue
-            sid = "d" + klasor.replace("-", "")
-            donem_idleri.append(sid)
-            satirlar.append(f'  subgraph {sid}["{donem_adi}"]')
-            for ders, m in ogeler:
-                n += 1
-                satirlar.append(f'    n{n}["{etiket_kacis(ders)}"]')
-                if len(m) == 1:
-                    sadece_bu.append(f"n{n}")
-            satirlar.append("  end")
-        havuz_satirlari = []
-        for havuz in HAVUZLAR:
-            sayi = sum(1 for d in dersler(havuz) if anahtar in mufredatlar(os.path.join(havuz, d)))
-            if sayi:
-                n += 1
-                havuz_satirlari.append(f'    n{n}["{havuz}<br/>{sayi} ders"]')
-        if havuz_satirlari:
-            donem_idleri.append("secmeli")
-            satirlar += ['  subgraph secmeli["Seçmeli Havuzları"]', *havuz_satirlari, "  end"]
-        satirlar.append("  " + " ~~~ ".join(donem_idleri))
-        if sadece_bu:
-            satirlar.append("  classDef ozel fill:#fde68a,stroke:#b45309,color:#000")
-            satirlar.append(f"  class {','.join(sadece_bu)} ozel")
-        satirlar.append("```")
-        parcalar.append(f"### {baslik}\n\n" + "\n".join(satirlar))
-    aciklama = ("Sarı kutular sadece o müfredatta bulunan dersleri gösterir. "
-                "Diğer dersler iki müfredatta da ortak. "
-                "Ayrıntılı karşılaştırma için [Müfredat/](./Müfredat/) klasörüne bakabilirsin.")
-    return ("<details>\n<summary><b>🗺 Müfredat Haritası</b></summary>\n\n"
-            "## 🗺 Müfredat Haritası\n\n" + aciklama + "\n\n" + "\n\n".join(parcalar) + "\n\n</details>")
 
 
 def cubuk(oran, uzunluk=10):
@@ -172,7 +107,6 @@ def main():
     with open(README_YOLU, encoding="utf-8") as f:
         metin = f.read()
     dersler_bolumu = "<details>\n<summary><b>📖 Dersler</b></summary>"
-    metin = bolum_yaz(metin, "MUFREDAT_HARITASI", mufredat_haritasi(), dersler_bolumu)
     metin = bolum_yaz(metin, "DOLULUK", doluluk() if DOLULUK_AKTIF else None, dersler_bolumu)
     with open(README_YOLU, "w", encoding="utf-8") as f:
         f.write(metin)
