@@ -171,11 +171,12 @@ def readme_bolumu(veri):
             satirlar.append(f"<p align='center'><a href='{k['github_link']}'>"
                             f"<img src='https://github.com/{login}.png?size={boyut * 2}' "
                             f"width='{boyut}' alt='{k.get('ad', '')}'></a></p>")
-        satirlar.append(f"<{tag} align='center'>{emoji} <b><i>{k.get('ad', '')}</i></b> {emoji}</{tag}>")
+        # Linkler başlığın içinde: GitHub h1/h2 altına çizgi çeker, çizgi linklerin altında kalsın.
+        linkler = ""
         if k.get("iletisim_bilgileri"):
-            html = " &nbsp".join(f"<a href='{b['link']}'><b>{b['baslik']}</b></a>"
-                                 for b in k["iletisim_bilgileri"])
-            satirlar.append(f"<p align='center'>{html}</p>")
+            linkler = "<br><sub>" + " &nbsp;·&nbsp; ".join(
+                f"<a href='{b['link']}'>{b['baslik']}</a>" for b in k["iletisim_bilgileri"]) + "</sub>"
+        satirlar.append(f"<{tag} align='center'>{emoji} <b><i>{k.get('ad', '')}</i></b> {emoji}{linkler}</{tag}>")
         satirlar.append("")
     satirlar.append("</details>\n")
     return "\n".join(satirlar)

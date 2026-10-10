@@ -2424,16 +2424,13 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. Nasıl katkıda bulunabileceğini README'nin başındaki **🤝 Katkıda Bulunun** bölümünde ve [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında bulabilirsin. Burada isminin yer alması için bölüm dersleriyle alakalı, elle tutulur bir katkı yapman beklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmen yeterli.
 
 <p align='center'><a href='https://github.com/yldzemin'><img src='https://github.com/yldzemin.png?size=200' width='100' alt='Mehmet Emin'></a></p>
-<h1 align='center'>⭐ <b><i>Mehmet Emin</i></b> ⭐</h1>
-<p align='center'><a href='https://github.com/yldzemin'><b>GitHub</b></a> &nbsp<a href='https://www.linkedin.com/in/mehmet-emin-yildizz/'><b>LinkedIn</b></a></p>
+<h1 align='center'>⭐ <b><i>Mehmet Emin</i></b> ⭐<br><sub><a href='https://github.com/yldzemin'>GitHub</a> &nbsp;·&nbsp; <a href='https://www.linkedin.com/in/mehmet-emin-yildizz/'>LinkedIn</a></sub></h1>
 
 <p align='center'><a href='https://github.com/thozoz'><img src='https://github.com/thozoz.png?size=160' width='80' alt='Efe Özan'></a></p>
-<h2 align='center'>🌟 <b><i>Efe Özan</i></b> 🌟</h2>
-<p align='center'><a href='https://github.com/thozoz'><b>GitHub</b></a></p>
+<h2 align='center'>🌟 <b><i>Efe Özan</i></b> 🌟<br><sub><a href='https://github.com/thozoz'>GitHub</a></sub></h2>
 
 <p align='center'><a href='https://github.com/ism00efe'><img src='https://github.com/ism00efe.png?size=160' width='80' alt='İsmail Efe Terlemez'></a></p>
-<h2 align='center'>🌟 <b><i>İsmail Efe Terlemez</i></b> 🌟</h2>
-<p align='center'><a href='https://github.com/ism00efe'><b>GitHub</b></a></p>
+<h2 align='center'>🌟 <b><i>İsmail Efe Terlemez</i></b> 🌟<br><sub><a href='https://github.com/ism00efe'>GitHub</a></sub></h2>
 
 </details>
 
