@@ -52,7 +52,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 İnsan-Bilgisayar Etkileşimi ve Görsellik
 
@@ -68,7 +68,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 Ayrık Matematik
 
@@ -83,7 +83,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 Diferansiyel Denklemler
 
@@ -98,7 +98,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 
 ### 📘 Olasılık ve İstatistik
@@ -114,7 +114,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 Teknik İngilizce I
 
@@ -129,4 +129,4 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

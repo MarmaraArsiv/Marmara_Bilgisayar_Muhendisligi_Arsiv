@@ -17,7 +17,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 Web Programlama
 
@@ -33,7 +33,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 Sistem Programlama
 
@@ -48,7 +48,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 Yazılım Mühendisliği
 
@@ -63,7 +63,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 
 ### 📘 Biçimsel Diller ve Otomata Teorisi
@@ -80,7 +80,7 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 ### 📘 Bilimsel Araştırma ve Sunum Teknikleri 2
 
@@ -96,4 +96,4 @@
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
-- ℹ️ Henüz dersle alakalı bir döküman ne yazık ki yok. Katkıda bulunmak istersen lütfen bizimle iletişime geç...
+- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
