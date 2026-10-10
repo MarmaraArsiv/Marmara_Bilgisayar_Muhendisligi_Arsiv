@@ -134,6 +134,8 @@ def blok_degistir(metin, desen, yeni_satirlar):
     if ilk_alt:
         ic = ilk_alt.group(1)
     govde = "".join(f"{ic}{s}\n" for s in yeni_satirlar)
+    if metin[son:].startswith("#"):  # hemen ardından başlık geliyorsa araya boş satır
+        govde += "\n"
     return metin[:m.start()] + m.group(0) + "\n" + govde + metin[son:], True
 
 
