@@ -33,14 +33,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/katkida_bulunanlari_guncelle.py
 
-      - name: Müfredat haritası ve doluluk durumunu üret
+      - name: Doluluk durumunu üret
         run: python .github/scripts/readme_gorselleri.py
+
+      - name: Google Form linklerini doldur
+        run: python .github/scripts/form_linkleri.py
 
       - name: Değişiklik varsa commit et
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add json_dosyalari/katkida_bulunanlar.json README.md
+          git add -A -- json_dosyalari/katkida_bulunanlar.json '*README.md'
           if git diff --cached --quiet; then
             echo "Değişiklik yok."
             exit 0
