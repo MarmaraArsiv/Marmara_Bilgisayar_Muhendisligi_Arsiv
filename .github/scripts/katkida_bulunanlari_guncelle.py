@@ -7,7 +7,8 @@ json_dosyalari/katkida_bulunanlar.json ve README.md'yi günceller.
 - GitHub linki her zaman, LinkedIn linki kişinin GitHub profilinde ekliyse eklenir.
 - Elle yazılmış ad ve iletişim bilgileri ezilmez; PR'ı olmayan kişilere dokunulmaz.
 
-README çıktısı, Readme Oluşturucu'daki (Java) KatkidaBulunanlarWriter ile aynıdır.
+README çıktısı, Readme Oluşturucu'daki (Java) KatkidaBulunanlarWriter ile aynıdır;
+tek fark isimlerin üstündeki GitHub profil fotoğraflarıdır.
 Sadece Python standart kütüphanesi kullanılır.
 """
 import json
@@ -32,6 +33,10 @@ SABIT_SEVIYELI = {"yldzemin"}
 # Java tarafındaki Sabitler.KATKIDA_BULUNMA_ORANI_DIZI / KATKIDA_EMOJILER ile aynı olmalı.
 ORAN_DIZI = ["Çok", "Orta Üst", "Orta", "Orta Alt", "Az", "Çok Az"]
 EMOJILER = ["⭐", "🌟", "💫", "✨", "🔹", ""]
+
+# Profil fotoğrafı genişliği (px), seviyeye göre: h1, h2, h3, ...
+# Not: Java README aracının KatkidaBulunanlarWriter'ı fotoğraf basmıyor; o araç devreye girince ona da eklenmeli.
+AVATAR_BOYUTLARI = [100, 80, 64, 56, 48, 40]
 
 JSON_YOLU = "json_dosyalari/katkida_bulunanlar.json"
 README_YOLU = "README.md"
@@ -160,6 +165,12 @@ def readme_bolumu(veri):
         idx = oran_index(k.get("katkida_bulunma_orani"))
         emoji = EMOJILER[min(idx, len(EMOJILER) - 1)]
         tag = f"h{min(idx + 1, 6)}"
+        login = github_login(k)
+        if login:
+            boyut = AVATAR_BOYUTLARI[min(idx, len(AVATAR_BOYUTLARI) - 1)]
+            satirlar.append(f"<p align='center'><a href='{k['github_link']}'>"
+                            f"<img src='https://github.com/{login}.png?size={boyut * 2}' "
+                            f"width='{boyut}' alt='{k.get('ad', '')}'></a></p>")
         satirlar.append(f"<{tag} align='center'>{emoji} <b><i>{k.get('ad', '')}</i></b> {emoji}</{tag}>")
         if k.get("iletisim_bilgileri"):
             html = " &nbsp".join(f"<a href='{b['link']}'><b>{b['baslik']}</b></a>"

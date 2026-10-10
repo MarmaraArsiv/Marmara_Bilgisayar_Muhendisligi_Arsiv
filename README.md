@@ -36,6 +36,8 @@ Pull request ile katkıda bulunanların adı sayfanın en altındaki **Katkıda 
 
 - 🔗 [Katkıda Bulunun](#-katkıda-bulunun)
 - 🔗 [Kavramlar](#-kavramlar)
+- 🔗 [Müfredat Haritası](#-müfredat-haritası)
+- 🔗 [Arşiv Doluluk Durumu](#-arşiv-doluluk-durumu)
 - 🔗 [Dersler](#-dersler)
 - 🔗 [Seçmeli Dersler](#-seçmeli-dersler)
 - 🔗 [Hocalar](#-hocalar)
@@ -111,6 +113,213 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
     Madenciliği, Bilgisayar Güvenliği). Üniversite Seçmeli dersler ise bölüm dışı, daha genel/sosyal
     içeriklidir (örn. Girişimcilik, Osmanlı Tarihi). Bkz. [Seçmeli Dersler](#-seçmeli-dersler).
 </details>
+
+<!-- MUFREDAT_HARITASI_BASLANGIC -->
+<details>
+<summary><b>🗺 Müfredat Haritası</b></summary>
+
+## 🗺 Müfredat Haritası
+
+Sarı kutular sadece o müfredatta bulunan dersleri gösterir. Diğer dersler iki müfredatta da ortak. Ayrıntılı karşılaştırma için [Müfredat/](./Müfredat/) klasörüne bakabilirsin.
+
+### 2026 Öncesi Müfredat
+
+```mermaid
+flowchart LR
+  subgraph d11["1. Yıl Güz"]
+    n1["Algoritma"]
+    n2["Bilgisayar Mühendisliğine Giriş"]
+    n3["Fizik"]
+    n4["İngilizce 1"]
+    n5["Kimya"]
+    n6["Lineer Cebir"]
+    n7["Mat1"]
+    n8["Türkçe 1"]
+  end
+  subgraph d12["1. Yıl Bahar"]
+    n9["Bilgisayar Donanımı"]
+    n10["Bilgisayar Programlama"]
+    n11["Bilimsel Araştırma ve Sunum Teknikleri"]
+    n12["Fizik 2"]
+    n13["İngilizce 2"]
+    n14["İş sağlığı ve Güvenliği"]
+    n15["Matematik 2"]
+    n16["Türkçe 2"]
+  end
+  subgraph d21["2. Yıl Güz"]
+    n17["Ayrık Matematik"]
+    n18["Bilgisayar Programlama II"]
+    n19["Diferansiyel Denklemler"]
+    n20["İnsan-Bilgisayar Etkileşimi ve Görsellik"]
+    n21["Mantık Devreleri"]
+    n22["Nesne Yönelimli Programlama"]
+  end
+  subgraph d22["2. Yıl Bahar"]
+    n23["Bilgisayar Ağlarına Giriş"]
+    n24["Elektronik Devrelere Giriş"]
+    n25["Mikroişlemciler"]
+    n26["Mühendisler için İstatistik"]
+    n27["Sayısal Analiz"]
+    n28["Veri Yapıları ve Algoritmalar"]
+  end
+  subgraph d31["3. Yıl Güz"]
+    n29["İşletim Sistemleri"]
+    n30["Mikrodenetleyiciler"]
+    n31["Sinyaller ve Sistemlere Giriş"]
+    n32["Staj I"]
+    n33["Veritabanı Yönetim Sistemleri"]
+  end
+  subgraph d32["3. Yıl Bahar"]
+    n34["Bilgisayar Organizasyonu ve Mimarisi"]
+    n35["Sistem Programlama"]
+    n36["Yazılım Mühendisliği"]
+    n37["Web Programlama"]
+  end
+  subgraph d41["4. Yıl Güz"]
+    n38["Atatürk İlkeleri ve İnkılap Tarihi I"]
+    n39["İş Yeri Eğitimi"]
+    n40["Staj II"]
+  end
+  subgraph d42["4. Yıl Bahar"]
+    n41["Atatürk İlkeleri ve İnkılap Tarihi II"]
+    n42["Bitirme Projesi"]
+    n43["Sistem ve Sunucu Yönetimi"]
+    n44["Teknik İngilizce"]
+  end
+  subgraph secmeli["Seçmeli Havuzları"]
+    n45["Mesleki Seçmeli<br/>22 ders"]
+    n46["Üniversite Seçmeli<br/>12 ders"]
+  end
+  d11 ~~~ d12 ~~~ d21 ~~~ d22 ~~~ d31 ~~~ d32 ~~~ d41 ~~~ d42 ~~~ secmeli
+  classDef ozel fill:#fde68a,stroke:#b45309,color:#000
+  class n5,n11,n18,n20,n26,n30,n37,n42,n44 ozel
+```
+
+### 2026 Sonrası Müfredat
+
+```mermaid
+flowchart LR
+  subgraph d11["1. Yıl Güz"]
+    n1["Algoritma"]
+    n2["Bilgisayar Mühendisliğine Giriş"]
+    n3["Fizik"]
+    n4["İngilizce 1"]
+    n5["İş Sağlığı ve Güvenliği 1"]
+    n6["Lineer Cebir"]
+    n7["Mat1"]
+    n8["Modern Biyolojiye Giriş"]
+    n9["Türkçe 1"]
+  end
+  subgraph d12["1. Yıl Bahar"]
+    n10["Bilgisayar Donanımı"]
+    n11["Bilgisayar Programlama"]
+    n12["Fizik 2"]
+    n13["İngilizce 2"]
+    n14["İş sağlığı ve Güvenliği"]
+    n15["Matematik 2"]
+    n16["Mühendislik Ekonomisi"]
+    n17["Türkçe 2"]
+  end
+  subgraph d21["2. Yıl Güz"]
+    n18["Ayrık Matematik"]
+    n19["Diferansiyel Denklemler"]
+    n20["Mantık Devreleri"]
+    n21["Nesne Yönelimli Programlama"]
+    n22["Olasılık ve İstatistik"]
+    n23["Teknik İngilizce I"]
+  end
+  subgraph d22["2. Yıl Bahar"]
+    n24["Bilgisayar Ağlarına Giriş"]
+    n25["Elektronik Devrelere Giriş"]
+    n26["Mikroişlemciler"]
+    n27["Sayısal Analiz"]
+    n28["Teknik İngilizce II"]
+    n29["Veri Yapıları ve Algoritmalar"]
+  end
+  subgraph d31["3. Yıl Güz"]
+    n30["Algoritma Analizi ve Tasarımı"]
+    n31["İşletim Sistemleri"]
+    n32["Sinyaller ve Sistemlere Giriş"]
+    n33["Staj I"]
+    n34["Veritabanı Yönetim Sistemleri"]
+  end
+  subgraph d32["3. Yıl Bahar"]
+    n35["Biçimsel Diller ve Otomata Teorisi"]
+    n36["Bilgisayar Organizasyonu ve Mimarisi"]
+    n37["Bilimsel Araştırma ve Sunum Teknikleri 2"]
+    n38["Sistem Programlama"]
+    n39["Yazılım Mühendisliği"]
+  end
+  subgraph d41["4. Yıl Güz"]
+    n40["Atatürk İlkeleri ve İnkılap Tarihi I"]
+    n41["Bitirme Projesi I"]
+    n42["İş Hukuku ve Etiği"]
+    n43["İş Yeri Eğitimi"]
+    n44["Staj II"]
+  end
+  subgraph d42["4. Yıl Bahar"]
+    n45["Atatürk İlkeleri ve İnkılap Tarihi II"]
+    n46["Bitirme Projesi II"]
+    n47["Sistem ve Sunucu Yönetimi"]
+  end
+  subgraph secmeli["Seçmeli Havuzları"]
+    n48["Mesleki Seçmeli<br/>36 ders"]
+    n49["Fakülte Teknik Seçmeli<br/>8 ders"]
+    n50["Üniversite Seçmeli<br/>15 ders"]
+  end
+  d11 ~~~ d12 ~~~ d21 ~~~ d22 ~~~ d31 ~~~ d32 ~~~ d41 ~~~ d42 ~~~ secmeli
+  classDef ozel fill:#fde68a,stroke:#b45309,color:#000
+  class n5,n8,n16,n22,n23,n28,n30,n35,n37,n41,n42,n46 ozel
+```
+
+</details>
+<!-- MUFREDAT_HARITASI_BITIS -->
+
+<!-- DOLULUK_BASLANGIC -->
+<details>
+<summary><b>📊 Arşiv Doluluk Durumu</b></summary>
+
+## 📊 Arşiv Doluluk Durumu
+
+Arşivdeki **119** dersin **27** tanesinde en az bir materyal var (genel doluluk **%23**).
+
+```mermaid
+pie showData
+  "Materyali olan" : 27
+  "Henüz boş" : 92
+```
+
+| Dönem | Doluluk | Materyali olan ders |
+|---|---|---|
+| [1. Yıl Güz](./1-1/) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ %80 | 8 / 10 |
+| [1. Yıl Bahar](./1-2/) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ %89 | 8 / 9 |
+| [2. Yıl Güz](./2-1/) | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ %50 | 4 / 8 |
+| [2. Yıl Bahar](./2-2/) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ %71 | 5 / 7 |
+| [3. Yıl Güz](./3-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 6 |
+| [3. Yıl Bahar](./3-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 6 |
+| [4. Yıl Güz](./4-1/) | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ %20 | 1 / 5 |
+| [4. Yıl Bahar](./4-2/) | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ %20 | 1 / 5 |
+| [Mesleki Seçmeli](./Mesleki%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 40 |
+| [Fakülte Teknik Seçmeli](./Fakülte%20Teknik%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 8 |
+| [Üniversite Seçmeli](./Üniversite%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 15 |
+
+### 🙋 Bu dersler katkını bekliyor
+Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölümüne göz at.
+
+- **1. Yıl Güz:** İş Sağlığı ve Güvenliği 1, Modern Biyolojiye Giriş
+- **1. Yıl Bahar:** Mühendislik Ekonomisi
+- **2. Yıl Güz:** Ayrık Matematik, Diferansiyel Denklemler, Olasılık ve İstatistik, Teknik İngilizce I
+- **2. Yıl Bahar:** Mühendisler için İstatistik, Teknik İngilizce II
+- **3. Yıl Güz:** Algoritma Analizi ve Tasarımı, İşletim Sistemleri, Mikrodenetleyiciler, Sinyaller ve Sistemlere Giriş, Staj I, Veritabanı Yönetim Sistemleri
+- **3. Yıl Bahar:** Biçimsel Diller ve Otomata Teorisi, Bilgisayar Organizasyonu ve Mimarisi, Bilimsel Araştırma ve Sunum Teknikleri 2, Sistem Programlama, Yazılım Mühendisliği, Web Programlama
+- **4. Yıl Güz:** Bitirme Projesi I, İş Hukuku ve Etiği, İş Yeri Eğitimi, Staj II
+- **4. Yıl Bahar:** Bitirme Projesi, Bitirme Projesi II, Sistem ve Sunucu Yönetimi, Teknik İngilizce
+- **Mesleki Seçmeli:** Açık Kaynak Kodlu Yazılımlar, Algoritma Analizi, Biçimsel Diller ve Otomata Teorisi, Bilgisayar Ağ Protokolleri, Bilgisayar Grafik, Bilgisayar Güvenliği, Blockchain Programlamaya Giriş, Bulut Bilişim, Dağıtık Sistemler, Derin Öğrenme ve Yapay Sinir Ağlarına Giriş, Eğitim Sistemleri Tasarımı, E-Ticarete Giriş, Gömülü Sistemler, Görüntü İşlemenin Temelleri, Güncel Yapay Zeka Yaklaşımları, İnsan-Bilgisayar Etkileşimi ve Görsellik, Kablosuz Ağlar, Kablosuz ve Mobil Ağlar, Kriptoloji, Linux Kabuk Programlama, Makine Öğrenimine Giriş, Mikrodenetleyiciler, Mobil Programlama, Mühendislik Matematiği ve Uygulamaları, Mühendislik Uygulamaları için Python, Nesnelerin İnterneti, Optimizasyon Teknikleri ve Uygulamaları, Oyun Yazılımı Geliştirme, Paralel Hesaplama, Rastgele Değişkenler, Sayısal İşaret İşleme, Simulasyon ve Modelleme, Sosyal Ağlarda Uygulamalı Metin Analizi, Veri Bilimine Giriş, Veri Madenciliği, Yapay Sinir Ağları, Yapay Zekâya Giriş, Yazılım Projelerinin Yönetimi, Web Programlama, Web Servisleri
+- **Fakülte Teknik Seçmeli:** Araştırma Planlama ve Yönetimi, Bilgi Sistemleri Yönetimi, Çok Disiplinli Takım Çalışması Deneyimi, Disiplinler Arası Proje Tasarımı, Mühendisler için Proje Yönetimi, Mühendislik ve Teknoloji Yönetimi, Veri Bilimi ve Veri Analitiğine Giriş, Yazılım Proje Yönetimi
+- **Üniversite Seçmeli:** Bilim Tarihi, Çevre ve Enerji, Fizibilite Hazırlama ve Uygulamaları, Girişimcilik, Girişimcilik ve İnovasyon, İş Psikolojisi, Kalite Yönetimi, Liderlik, Moda, Osmanlı Tarihi, Rapor Hazırlama ve Sunum Teknikleri, Sistem Mühendisliği, Sosyal Organizasyon, Teknik İletişim, Teknik Satış ve Pazarlama
+
+</details>
+<!-- DOLULUK_BITIS -->
 
 <details>
 <summary><b>📖 Dersler</b></summary>
@@ -1416,12 +1625,15 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. Nasıl katkıda bulunabileceğini README'nin başındaki **🤝 Katkıda Bulunun** bölümünde ve [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında bulabilirsin. Burada isminin yer alması için bölüm dersleriyle alakalı, elle tutulur bir katkı yapman beklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmen yeterli.
 
+<p align='center'><a href='https://github.com/yldzemin'><img src='https://github.com/yldzemin.png?size=200' width='100' alt='Mehmet Emin'></a></p>
 <h1 align='center'>⭐ <b><i>Mehmet Emin</i></b> ⭐</h1>
 <p align='center'><a href='https://github.com/yldzemin'><b>GitHub</b></a> &nbsp<a href='https://www.linkedin.com/in/mehmet-emin-yildizz/'><b>LinkedIn</b></a></p>
 
+<p align='center'><a href='https://github.com/thozoz'><img src='https://github.com/thozoz.png?size=160' width='80' alt='Efe Özan'></a></p>
 <h2 align='center'>🌟 <b><i>Efe Özan</i></b> 🌟</h2>
 <p align='center'><a href='https://github.com/thozoz'><b>GitHub</b></a></p>
 
+<p align='center'><a href='https://github.com/ism00efe'><img src='https://github.com/ism00efe.png?size=160' width='80' alt='İsmail Efe Terlemez'></a></p>
 <h2 align='center'>🌟 <b><i>İsmail Efe Terlemez</i></b> 🌟</h2>
 <p align='center'><a href='https://github.com/ism00efe'><b>GitHub</b></a></p>
 
