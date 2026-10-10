@@ -5,7 +5,10 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 6 * * *"  # her gün 09:00 (TR): onaylanan form yorumları ve oylar işlenir
+    - cron: "0 6 * * *"    # her gün 09:00 (TR): tam güncelleme
+    # 5 dakikada bir sadece form cevaplarına bakar: Telegram'dan onaylanan yorumlar ~10-15 dk içinde yayına girer.
+    # Değişiklik yoksa commit atmadan kapanır.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,11 +32,13 @@ jobs:
           python-version: "3.12"
 
       - name: Katkıda bulunanları hesapla
+        if: github.event.schedule != '*/5 * * * *'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/katkida_bulunanlari_guncelle.py
 
       - name: Doluluk durumunu üret
+        if: github.event.schedule != '*/5 * * * *'
         run: python .github/scripts/readme_gorselleri.py
 
       - name: Form linkleri, oylar ve onaylı yorumlar
@@ -49,4 +54,5 @@ jobs:
             exit 0
           fi
           git commit -m "README otomatik güncellendi"
+          git pull --rebase -q
           git push
