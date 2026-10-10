@@ -46,8 +46,7 @@ Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocan
 - **[Dr. Öğretim Üyesi Ali Sarıkaş](../../README.md#‍-dr-öğretim-üyesi-ali-sarıkaş)**
     - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ali%20Sar%C4%B1ka%C5%9F) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Ali Buldu](../../README.md#‍-prof-dr-ali-buldu)**
-    - 👤 **_aasdas_**: asdasd ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
-    - ✍️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Ali%20Buldu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Ali%20Buldu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 
