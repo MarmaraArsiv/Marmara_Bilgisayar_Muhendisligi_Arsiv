@@ -254,7 +254,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
       - 🎯 Ders Mesleki Açıdan Gerekli Mi: ★★☆☆☆☆☆☆☆☆
         - ℹ️ Yıldızlar 1 oy üzerinden hesaplanmıştır. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Kimya) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Kimya) anonim şekilde görüşlerinizi belirtebilirsiniz.
+      - 👤 **_havadangelensayi_**: Mesleki açıdan pek bir şey ifade etmiyor, sadece almanız gereken bir ders. AYT Kimya’nın biraz daha detaylı işlenmiş hâli desek yanlış olmaz. ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+        - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Kimya) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027:** Prof. Dr. Canan Doğan
   - 📂 [Ders Klasörü](./1-1/Kimya)
