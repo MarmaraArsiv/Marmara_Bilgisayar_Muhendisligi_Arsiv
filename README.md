@@ -1549,7 +1549,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 
 
 #### 👩‍🏫 Doç. Dr. Ayşe Berna Altınel 
-- 🚪 **Ofis:** T4-226
+- 🚪 **Ofis:** T4-202
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/berna.altinel](https://avesis.marmara.edu.tr/berna.altinel)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Ay%C5%9Fe%20Berna%20Alt%C4%B1nel) anonim şekilde görüşlerinizi belirtebilirsiniz.
@@ -1577,7 +1577,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 
 #### 🧑‍🏫 Doç. Dr. Lutfi Özdemir 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/lozdemir](https://avesis.marmara.edu.tr/lozdemir)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Lutfi%20%C3%96zdemir) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
@@ -1624,7 +1624,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2025-2026)
 
 #### 👨‍🏫 Dr. Öğretim Üyesi Ali Sarıkaş 
-- 🚪 **Ofis:** T2-102
+- 🚪 **Ofis:** T4-222
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/ali.sarikas](https://avesis.marmara.edu.tr/ali.sarikas)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ali%20Sar%C4%B1ka%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
@@ -1689,9 +1689,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 📖 [Matematik 2](#-matematik-2) (2024-2025 → 2025-2026)
   - 📖 [Sayısal Analiz](#-sayısal-analiz) (2024-2025 → 2025-2026)
 
-#### 🧑‍🏫 Dr. Öğretim Üyesi Serkan Aydın 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+#### 👨‍🏫 Dr. Öğretim Üyesi Serkan Aydın 
+- 🚪 **Ofis:** MYO 4016
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/serkan.aydin](https://avesis.marmara.edu.tr/serkan.aydin)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Serkan%20Ayd%C4%B1n) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
@@ -1857,16 +1857,16 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) veren, başka bölümlerden gelen hocalar.
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T3-318
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/aceren](https://avesis.marmara.edu.tr/aceren)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ay%C5%9Fe%20Ceren%20%C3%87al%C4%B1ko%C4%9Flu%20Koyuncu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Modern Biyolojiye Giriş](#-modern-biyolojiye-giriş) (2026-2027)
 
 #### 🧑‍🏫 Prof. Dr. Canan Doğan 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T3-333
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/canan.dogan](https://avesis.marmara.edu.tr/canan.dogan)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Canan%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
@@ -1874,7 +1874,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/isil.silahtaroglu](https://avesis.marmara.edu.tr/isil.silahtaroglu)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20I%C5%9F%C4%B1l%20Ruacan%20Silahtaro%C4%9Flu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
@@ -1882,8 +1882,8 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2025-2026)
 
 #### 🧑‍🏫 Prof. Dr. İsmail Kıyak 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T4-232
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/imkiyak](https://avesis.marmara.edu.tr/imkiyak)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20%C4%B0smail%20K%C4%B1yak) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
@@ -1891,7 +1891,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Mehmet Kocakaplan 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/mkocakaplan](https://avesis.marmara.edu.tr/mkocakaplan)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Mehmet%20Kocakaplan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
@@ -1916,24 +1916,24 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Oya Ayhan Girit 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/oya.girit](https://avesis.marmara.edu.tr/oya.girit)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Oya%20Ayhan%20Girit) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Atatürk İlkeleri ve İnkılap Tarihi 1](#-atatürk-i̇lkeleri-ve-i̇nkılap-tarihi-1) (2021-2022 → 2026-2027)
   - 📖 [Atatürk İlkeleri ve İnkılap Tarihi 2](#-atatürk-i̇lkeleri-ve-i̇nkılap-tarihi-2) (2021-2022 → 2025-2026)
 
-#### 🧑‍🏫 Prof. Dr. Yahya Bozkurt 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+#### 👨‍🏫 Prof. Dr. Yahya Bozkurt 
+- 🚪 **Ofis:** T3-207
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/ybozkurt](https://avesis.marmara.edu.tr/ybozkurt)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Yahya%20Bozkurt) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Sağlığı ve Güvenliği 1](#-i̇ş-sağlığı-ve-güvenliği-1) (2026-2027)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Zeynel Şahin 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T3-322
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14505](https://avesis.marmara.edu.tr/14505)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Zeynel%20%C5%9Eahin) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
@@ -1946,7 +1946,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Öğr. Gör. Abdullah Mert Pekel 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/abdullah.pekel](https://avesis.marmara.edu.tr/abdullah.pekel)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -1954,8 +1954,8 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2020-2021 → 2021-2022)
 
 #### 🧑‍🏫 Prof. Dr. Adil Güler 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T4-217
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/adil.guler](https://avesis.marmara.edu.tr/adil.guler)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -1964,16 +1964,16 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [Fizik 2](#-fizik-2) (2024-2025)
 
 #### 🧑‍🏫 Prof. Dr. Ahmet Emin Kuzucuoğlu 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T4-108 / T4-228
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/kuzucuoglu](https://avesis.marmara.edu.tr/kuzucuoglu)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Staj 1](#-staj-1) (2020-2021)
 
-#### 🧑‍🏫 Doç. Dr. Alper Nabi Akpolat 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+#### 👨‍🏫 Doç. Dr. Alper Nabi Akpolat 
+- 🚪 **Ofis:** T4-218
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/alper.nabi](https://avesis.marmara.edu.tr/alper.nabi)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -1981,7 +1981,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Öğr. Gör. Aysu Öztürk 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/aysuozturk](https://avesis.marmara.edu.tr/aysuozturk)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -1989,7 +1989,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Prof. Ayşe Neşe Dernek 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/ndernek](https://avesis.marmara.edu.tr/ndernek)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -1997,33 +1997,33 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Ayşe Yayla 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/acetinkaya](https://avesis.marmara.edu.tr/acetinkaya)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mantık Devreleri](#-mantık-devreleri) (2021-2022)
   - 📖 [Gömülü Sistemler](#-gömülü-sistemler) (2021-2022)
 
-#### 🧑‍🏫 Prof. Dr. Bahar Kırık Rácz 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+#### 👩‍🏫 Prof. Dr. Bahar Kırık Rácz 
+- 🚪 **Ofis:** GZFC003
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/bahar.kirik](https://avesis.marmara.edu.tr/bahar.kirik)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Matematik 1](#-matematik-1) (2020-2021 → 2021-2022)
   - 📖 [Matematik 2](#-matematik-2) (2020-2021)
 
-#### 🧑‍🏫 Dr. Öğretim Üyesi Banu Çalış Uslu 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+#### 👩‍🏫 Dr. Öğretim Üyesi Banu Çalış Uslu 
+- 🚪 **Ofis:** M1-111
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/bcalis](https://avesis.marmara.edu.tr/bcalis)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Simulasyon ve Modelleme](#-simulasyon-ve-modelleme) (2020-2021)
 
 #### 🧑‍🏫 Doç. Dr. Burhan Tiryakioğlu 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** GZFC026
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/burhan.tiryakioglu](https://avesis.marmara.edu.tr/burhan.tiryakioglu)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2037,17 +2037,17 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 📚 **Verdiği Dersler:**
   - 📖 [Mühendisler için İstatistik](#-mühendisler-için-i̇statistik) (2020-2021)
 
-#### 🧑‍🏫 Prof. Dr. Dursun Üstündağ 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+#### 👨‍🏫 Prof. Dr. Dursun Üstündağ 
+- 🚪 **Ofis:** GZFA023
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/dustundag](https://avesis.marmara.edu.tr/dustundag)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Sayısal Analiz](#-sayısal-analiz) (2020-2021 → 2021-2022)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Emre Akın 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T3-331
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/emre.akin](https://avesis.marmara.edu.tr/emre.akin)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2080,7 +2080,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Gözde Karataş Baydoğmuş 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/gkaratas](https://avesis.marmara.edu.tr/gkaratas)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2094,15 +2094,15 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Halil İbrahim Çelik 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/hicelik](https://avesis.marmara.edu.tr/hicelik)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2021-2022)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Hasan Hüseyin Çelik 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T4-204
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/hcelik](https://avesis.marmara.edu.tr/hcelik)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2117,8 +2117,8 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [Bilim Tarihi](#-bilim-tarihi) (2021-2022)
 
 #### 🧑‍🏫 Prof. Dr. Hülya Yılmaz 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** GZFA024
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/hbagdatli](https://avesis.marmara.edu.tr/hbagdatli)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2134,16 +2134,16 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2023-2024)
 
 #### 🧑‍🏫 Doç. Dr. Mehmet Fatih Karaaslan 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** GZFA019
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14962](https://avesis.marmara.edu.tr/14962)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Sayısal Analiz](#-sayısal-analiz) (2022-2023)
 
 #### 🧑‍🏫 Prof. Dr. Mehmet Sayıp Eroğlu 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T3-206
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/mehmet.eroglu](https://avesis.marmara.edu.tr/mehmet.eroglu)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2151,7 +2151,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Mehmet Vehbi Büker 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15214](https://avesis.marmara.edu.tr/15214)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2167,8 +2167,8 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [Biçimsel Diller ve Otomata Teorisi](#-biçimsel-diller-ve-otomata-teorisi) (2020-2021)
 
 #### 🧑‍🏫 Doç. Dr. Nazlı Yazıcı Gözütok 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** GZFA016
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14754](https://avesis.marmara.edu.tr/14754)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2178,7 +2178,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Nurgül Yıldız 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/nurgul.yildiz](https://avesis.marmara.edu.tr/nurgul.yildiz)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2194,24 +2194,24 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [Web Servisleri](#-web-servisleri) (2022-2023 → 2023-2024)
 
 #### 🧑‍🏫 Prof. Dr. Özge Cağcağ Yolcu 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** C020
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14583](https://avesis.marmara.edu.tr/14583)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mühendisler için İstatistik](#-mühendisler-için-i̇statistik) (2021-2022 → 2024-2025)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Pınar Özkan Bakbak 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T4-215
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14526](https://avesis.marmara.edu.tr/14526)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Elektronik Devrelere Giriş](#-elektronik-devrelere-giriş) (2020-2021)
 
 #### 🧑‍🏫 Doç. Dr. Sabahattin Deniz 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T1-326
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/sdeniz](https://avesis.marmara.edu.tr/sdeniz)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2226,8 +2226,8 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2022-2023, 2024-2025)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Savaş Öztürk 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T4-231 / T4-205
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/savas.ozturk](https://avesis.marmara.edu.tr/savas.ozturk)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2250,17 +2250,17 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [E-Ticarete Giriş](#-e-ticarete-giriş) (2023-2024 → 2024-2025)
 
 #### 🧑‍🏫 Prof. Dr. Serhan Eker 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** GZFC001
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14791](https://avesis.marmara.edu.tr/14791)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Lineer Cebir](#-lineer-cebir) (2022-2023)
   - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2022-2023)
 
-#### 🧑‍🏫 Doç. Dr. Suat Koç 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+#### 👨‍🏫 Doç. Dr. Suat Koç 
+- 🚪 **Ofis:** GZFA003
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/suat.koc](https://avesis.marmara.edu.tr/suat.koc)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2276,16 +2276,16 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [Yapay Zekâya Giriş](#-yapay-zekâya-giriş) (2022-2023)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Uğur Kesen 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T1-344
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/ukesen](https://avesis.marmara.edu.tr/ukesen)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mantık Devreleri](#-mantık-devreleri) (2020-2021)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Ulvi Başpınar 
-- 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🚪 **Ofis:** T4-219
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/ubaspinar](https://avesis.marmara.edu.tr/ubaspinar)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2293,7 +2293,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Prof. Dr. Vedat Topuz 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/vtopuz](https://avesis.marmara.edu.tr/vtopuz)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
@@ -2301,7 +2301,7 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Yasemin Bulut 
 - 🚪 **Ofis:** 
-- 🔗 **Araştırma Sayfası:** 
+- 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/yasemin.bulut](https://avesis.marmara.edu.tr/yasemin.bulut)
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**

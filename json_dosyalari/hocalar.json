@@ -39,7 +39,7 @@
         },
         {
             "ad": "Doç. Dr. Ayşe Berna Altınel",
-            "ofis": "T4-226",
+            "ofis": "T4-202",
             "link": "https://avesis.marmara.edu.tr/berna.altinel",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": false,
@@ -147,7 +147,7 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Ali Sarıkaş",
-            "ofis": "T2-102",
+            "ofis": "T4-222",
             "link": "https://avesis.marmara.edu.tr/ali.sarikas",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
@@ -316,10 +316,10 @@
         },
         {
             "ad": "Doç. Dr. Alper Nabi Akpolat",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-218",
+            "link": "https://avesis.marmara.edu.tr/alper.nabi",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Elektronik Devrelere Giriş"
             ]
@@ -327,7 +327,7 @@
         {
             "ad": "Doç. Dr. Lutfi Özdemir",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/lozdemir",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -377,7 +377,7 @@
         {
             "ad": "Dr. Öğretim Üyesi Ayşe Yayla",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/acetinkaya",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -387,18 +387,18 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Banu Çalış Uslu",
-            "ofis": "",
-            "link": "",
+            "ofis": "M1-111",
+            "link": "https://avesis.marmara.edu.tr/bcalis",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Simulasyon ve Modelleme"
             ]
         },
         {
             "ad": "Dr. Öğretim Üyesi Hasan Hüseyin Çelik",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-204",
+            "link": "https://avesis.marmara.edu.tr/hcelik",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -407,8 +407,8 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Pınar Özkan Bakbak",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-215",
+            "link": "https://avesis.marmara.edu.tr/14526",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -417,8 +417,8 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Savaş Öztürk",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-231 / T4-205",
+            "link": "https://avesis.marmara.edu.tr/savas.ozturk",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -427,10 +427,10 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Serkan Aydın",
-            "ofis": "",
-            "link": "",
+            "ofis": "MYO 4016",
+            "link": "https://avesis.marmara.edu.tr/serkan.aydin",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Mikroişlemciler",
                 "Elektronik Devrelere Giriş"
@@ -438,8 +438,8 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Ulvi Başpınar",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-219",
+            "link": "https://avesis.marmara.edu.tr/ubaspinar",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -448,8 +448,8 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Uğur Kesen",
-            "ofis": "",
-            "link": "",
+            "ofis": "T1-344",
+            "link": "https://avesis.marmara.edu.tr/ukesen",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -458,8 +458,8 @@
         },
         {
             "ad": "Prof. Dr. Ahmet Emin Kuzucuoğlu",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-108 / T4-228",
+            "link": "https://avesis.marmara.edu.tr/kuzucuoglu",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -469,7 +469,7 @@
         {
             "ad": "Prof. Dr. Vedat Topuz",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/vtopuz",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -530,7 +530,7 @@
         {
             "ad": "Öğr. Gör. Dr. Gözde Karataş Baydoğmuş",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/gkaratas",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -610,8 +610,8 @@
         },
         {
             "ad": "Doç. Dr. Burhan Tiryakioğlu",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFC026",
+            "link": "https://avesis.marmara.edu.tr/burhan.tiryakioglu",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -620,8 +620,8 @@
         },
         {
             "ad": "Doç. Dr. Mehmet Fatih Karaaslan",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFA019",
+            "link": "https://avesis.marmara.edu.tr/14962",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -630,8 +630,8 @@
         },
         {
             "ad": "Doç. Dr. Nazlı Yazıcı Gözütok",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFA016",
+            "link": "https://avesis.marmara.edu.tr/14754",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -642,8 +642,8 @@
         },
         {
             "ad": "Doç. Dr. Sabahattin Deniz",
-            "ofis": "",
-            "link": "",
+            "ofis": "T1-326",
+            "link": "https://avesis.marmara.edu.tr/sdeniz",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -652,10 +652,10 @@
         },
         {
             "ad": "Doç. Dr. Suat Koç",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFA003",
+            "link": "https://avesis.marmara.edu.tr/suat.koc",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Ayrık Matematik"
             ]
@@ -672,8 +672,8 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu",
-            "ofis": "",
-            "link": "",
+            "ofis": "T3-318",
+            "link": "https://avesis.marmara.edu.tr/aceren",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -682,8 +682,8 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Emre Akın",
-            "ofis": "",
-            "link": "",
+            "ofis": "T3-331",
+            "link": "https://avesis.marmara.edu.tr/emre.akin",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -693,7 +693,7 @@
         {
             "ad": "Dr. Öğretim Üyesi Halil İbrahim Çelik",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/hicelik",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -703,7 +703,7 @@
         {
             "ad": "Dr. Öğretim Üyesi Oya Ayhan Girit",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/oya.girit",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -713,8 +713,8 @@
         },
         {
             "ad": "Dr. Öğretim Üyesi Zeynel Şahin",
-            "ofis": "",
-            "link": "",
+            "ofis": "T3-322",
+            "link": "https://avesis.marmara.edu.tr/14505",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -724,7 +724,7 @@
         {
             "ad": "Prof. Ayşe Neşe Dernek",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/ndernek",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -733,8 +733,8 @@
         },
         {
             "ad": "Prof. Dr. Adil Güler",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-217",
+            "link": "https://avesis.marmara.edu.tr/adil.guler",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -745,10 +745,10 @@
         },
         {
             "ad": "Prof. Dr. Bahar Kırık Rácz",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFC003",
+            "link": "https://avesis.marmara.edu.tr/bahar.kirik",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Matematik 1",
                 "Matematik 2"
@@ -756,8 +756,8 @@
         },
         {
             "ad": "Prof. Dr. Canan Doğan",
-            "ofis": "",
-            "link": "",
+            "ofis": "T3-333",
+            "link": "https://avesis.marmara.edu.tr/canan.dogan",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -766,18 +766,18 @@
         },
         {
             "ad": "Prof. Dr. Dursun Üstündağ",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFA023",
+            "link": "https://avesis.marmara.edu.tr/dustundag",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Sayısal Analiz"
             ]
         },
         {
             "ad": "Prof. Dr. Hülya Yılmaz",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFA024",
+            "link": "https://avesis.marmara.edu.tr/hbagdatli",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -786,8 +786,8 @@
         },
         {
             "ad": "Prof. Dr. Mehmet Sayıp Eroğlu",
-            "ofis": "",
-            "link": "",
+            "ofis": "T3-206",
+            "link": "https://avesis.marmara.edu.tr/mehmet.eroglu",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -796,8 +796,8 @@
         },
         {
             "ad": "Prof. Dr. Serhan Eker",
-            "ofis": "",
-            "link": "",
+            "ofis": "GZFC001",
+            "link": "https://avesis.marmara.edu.tr/14791",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -807,18 +807,18 @@
         },
         {
             "ad": "Prof. Dr. Yahya Bozkurt",
-            "ofis": "",
-            "link": "",
+            "ofis": "T3-207",
+            "link": "https://avesis.marmara.edu.tr/ybozkurt",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "İş Sağlığı ve Güvenliği 1"
             ]
         },
         {
             "ad": "Prof. Dr. Özge Cağcağ Yolcu",
-            "ofis": "",
-            "link": "",
+            "ofis": "C020",
+            "link": "https://avesis.marmara.edu.tr/14583",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -827,8 +827,8 @@
         },
         {
             "ad": "Prof. Dr. İsmail Kıyak",
-            "ofis": "",
-            "link": "",
+            "ofis": "T4-232",
+            "link": "https://avesis.marmara.edu.tr/imkiyak",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -838,7 +838,7 @@
         {
             "ad": "Öğr. Gör. Abdullah Mert Pekel",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/abdullah.pekel",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -849,7 +849,7 @@
         {
             "ad": "Öğr. Gör. Aysu Öztürk",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/aysuozturk",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -859,7 +859,7 @@
         {
             "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/isil.silahtaroglu",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -870,7 +870,7 @@
         {
             "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/mkocakaplan",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": null,
             "dersler": [
@@ -881,7 +881,7 @@
         {
             "ad": "Öğr. Gör. Dr. Mehmet Vehbi Büker",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/15214",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -902,7 +902,7 @@
         {
             "ad": "Öğr. Gör. Dr. Nurgül Yıldız",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/nurgul.yildiz",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
@@ -913,7 +913,7 @@
         {
             "ad": "Öğr. Gör. Dr. Yasemin Bulut",
             "ofis": "",
-            "link": "",
+            "link": "https://avesis.marmara.edu.tr/yasemin.bulut",
             "hoca_aktif_gorevde_mi": false,
             "erkek_mi": null,
             "dersler": [
