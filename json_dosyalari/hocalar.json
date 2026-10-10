@@ -313,6 +313,290 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": []
+        },
+        {
+            "ad": "Doç. Dr. Alper Nabi Akpolat",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Elektronik Devrelere Giriş"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Lutfi Özdemir",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "İnsan-Bilgisayar Etkileşimi ve Görsellik"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Mustafa Cem Kasapbaşı",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Biçimsel Diller ve Otomata Teorisi"
+            ]
+        },
+        {
+            "ad": "Dr. Mustafa Şahin",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Sistem ve Sunucu Yönetimi"
+            ]
+        },
+        {
+            "ad": "Dr. Selman Şişman",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Web Programlama"
+            ]
+        },
+        {
+            "ad": "Dr. Sema Demir Yaylacı",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "E-Ticarete Giriş"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ayşe Yayla",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Mantık Devreleri",
+                "Gömülü Sistemler"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Banu Çalış Uslu",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Simulasyon ve Modelleme"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Hasan Hüseyin Çelik",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Mikrodenetleyiciler"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Pınar Özkan Bakbak",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Elektronik Devrelere Giriş"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Savaş Öztürk",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Oyun Yazılımı Geliştirme"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Serkan Aydın",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Mikroişlemciler",
+                "Elektronik Devrelere Giriş"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ulvi Başpınar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Mikroişlemciler"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Uğur Kesen",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Mantık Devreleri"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Ahmet Emin Kuzucuoğlu",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Staj I"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Vedat Topuz",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Bilgisayar Organizasyonu ve Mimarisi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Ahmet Bozdağ",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Web Servisleri"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Ata Hürdoğan Demiray",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Bilgisayar Grafik"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Barış İnceişçi",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Bilgisayar Güvenliği"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Esra Çalık Bayazıt",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Veritabanı Yönetim Sistemleri",
+                "Sistem ve Sunucu Yönetimi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Gökhan Akın",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Sistem ve Sunucu Yönetimi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Gözde Karataş Baydoğmuş",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Bilgisayar Programlama II",
+                "Biçimsel Diller ve Otomata Teorisi",
+                "İş Yeri Eğitimi",
+                "Veri Yapıları ve Algoritmalar",
+                "Bilgisayar Güvenliği",
+                "Bitirme Projesi",
+                "Kriptoloji"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Uğur Çekmez",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Yapay Sinir Ağları",
+                "Yapay Zekâya Giriş"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Halil Özkan",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Yazılım Mühendisliği",
+                "Açık Kaynak Kodlu Yazılımlar",
+                "Yazılım Projelerinin Yönetimi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Onur Türk",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Web Servisleri"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Osman Cihan Akar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Bilgisayar Ağ Protokolleri",
+                "Kablosuz Ağlar"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Sebahattin Babur",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Gömülü Sistemler",
+                "Simulasyon ve Modelleme"
+            ]
         }
     ]
 }

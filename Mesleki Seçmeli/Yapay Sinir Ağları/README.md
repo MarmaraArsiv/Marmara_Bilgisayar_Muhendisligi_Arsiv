@@ -21,7 +21,7 @@
 - **2023-2024:**
   - **SÖ** — Prof. Dr. Serhat Özekes
 - **2022-2023:**
-  - Öğr. Gör. Dr. Uğur Çekmez
+  - **UÇ** — Öğr. Gör. Dr. Uğur Çekmez
 - **2021-2022:**
   - **KY** — Prof. Dr. Kazım Yıldız
 - **2020-2021:**

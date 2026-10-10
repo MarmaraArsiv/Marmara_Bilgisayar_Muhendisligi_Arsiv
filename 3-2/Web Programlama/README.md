@@ -19,9 +19,9 @@
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
 - **2024-2025:**
-  - Dr. Selman Şişman
+  - **SŞ** — Dr. Selman Şişman
 - **2023-2024:**
-  - Dr. Selman Şişman
+  - **SŞ** — Dr. Selman Şişman
 - **2022-2023:**
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 - **2021-2022:**

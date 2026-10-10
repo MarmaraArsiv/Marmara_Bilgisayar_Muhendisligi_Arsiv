@@ -21,10 +21,10 @@
   - **BD** — Doç. Dr. Buket Doğan
 - **2024-2025:**
   - **BD** — Doç. Dr. Buket Doğan
-  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+  - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
 - **2023-2024:**
   - **BD** — Doç. Dr. Buket Doğan
-  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+  - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
 - **2022-2023:**
   - **BD** — Doç. Dr. Buket Doğan
 - **2021-2022:**

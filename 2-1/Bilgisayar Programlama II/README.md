@@ -25,13 +25,13 @@
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
 - **2024-2025:**
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2023-2024:**
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2022-2023:**
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2021-2022:**
   - **KY** — Prof. Dr. Kazım Yıldız
 - **2020-2021:**

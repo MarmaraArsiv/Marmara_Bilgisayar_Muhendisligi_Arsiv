@@ -15,7 +15,7 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2020-2021:**
-  - Prof. Dr. Ahmet Emin Kuzucuoğlu
+  - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
 
 ## 🤝 Katkıda Bulun
 

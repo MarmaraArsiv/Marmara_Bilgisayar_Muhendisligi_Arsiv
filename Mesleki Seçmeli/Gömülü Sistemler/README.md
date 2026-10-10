@@ -13,13 +13,13 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - Öğr. Gör. Sebahattin Babur
+  - **SB** — Öğr. Gör. Sebahattin Babur
 - **2024-2025:**
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 - **2023-2024:**
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 - **2021-2022:**
-  - Dr. Öğretim Üyesi Ayşe Yayla
+  - **AY** — Dr. Öğretim Üyesi Ayşe Yayla
 - **2020-2021:**
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 

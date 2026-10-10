@@ -21,15 +21,15 @@
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - Dr. Mustafa Şahin
+  - **MŞ** — Dr. Mustafa Şahin
 - **2024-2025:**
-  - Dr. Mustafa Şahin
+  - **MŞ** — Dr. Mustafa Şahin
 - **2023-2024:**
-  - Dr. Mustafa Şahin
+  - **MŞ** — Dr. Mustafa Şahin
 - **2022-2023:**
-  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+  - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
 - **2021-2022:**
-  - Öğr. Gör. Dr. Gökhan Akın
+  - **GA** — Öğr. Gör. Dr. Gökhan Akın
 
 ### 📘 Bitirme Projesi
 
@@ -82,7 +82,7 @@
   - **ÖD** — Doç. Dr. Önder Demir
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2022-2023:**
   - **ÖD** — Doç. Dr. Önder Demir
   - **ABul** — Prof. Dr. Ali Buldu
@@ -91,7 +91,7 @@
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 - **2021-2022:**
   - **ÖD** — Doç. Dr. Önder Demir
@@ -100,7 +100,7 @@
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 
 ### 📘 Atatürk İlkeleri ve İnkılap Tarihi II

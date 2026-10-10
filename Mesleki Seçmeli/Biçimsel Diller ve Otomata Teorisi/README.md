@@ -18,13 +18,13 @@
 - **2025-2026:**
   - **AA** — Dr. Öğretim Üyesi Abdulsamet Aktaş
 - **2024-2025:**
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2023-2024:**
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2022-2023:**
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2020-2021:**
-  - Doç. Dr. Mustafa Cem Kasapbaşı
+  - **MCK** — Doç. Dr. Mustafa Cem Kasapbaşı
 
 ## 🤝 Katkıda Bulun
 

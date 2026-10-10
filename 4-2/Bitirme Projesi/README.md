@@ -49,7 +49,7 @@
   - **ÖD** — Doç. Dr. Önder Demir
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2022-2023:**
   - **ÖD** — Doç. Dr. Önder Demir
   - **ABul** — Prof. Dr. Ali Buldu
@@ -58,7 +58,7 @@
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 - **2021-2022:**
   - **ÖD** — Doç. Dr. Önder Demir
@@ -67,7 +67,7 @@
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 
 ## 🤝 Katkıda Bulun

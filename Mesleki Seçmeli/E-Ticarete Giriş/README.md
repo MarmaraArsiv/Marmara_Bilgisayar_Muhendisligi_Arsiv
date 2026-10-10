@@ -13,9 +13,9 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2024-2025:**
-  - Dr. Sema Demir Yaylacı
+  - **SDY** — Dr. Sema Demir Yaylacı
 - **2023-2024:**
-  - Dr. Sema Demir Yaylacı
+  - **SDY** — Dr. Sema Demir Yaylacı
 
 ## 🤝 Katkıda Bulun
 

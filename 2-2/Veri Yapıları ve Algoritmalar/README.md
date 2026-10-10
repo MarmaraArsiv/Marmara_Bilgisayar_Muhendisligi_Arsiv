@@ -22,10 +22,10 @@
 - **2024-2025:**
   - **ÖD** — Doç. Dr. Önder Demir
 - **2023-2024:**
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **ÖD** — Doç. Dr. Önder Demir
 - **2022-2023:**
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 - **2021-2022:**
   - **KY** — Prof. Dr. Kazım Yıldız

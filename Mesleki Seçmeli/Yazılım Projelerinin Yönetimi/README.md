@@ -13,7 +13,7 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2021-2022:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 
 ## 🤝 Katkıda Bulun
 

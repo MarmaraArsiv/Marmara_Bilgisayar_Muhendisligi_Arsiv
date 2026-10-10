@@ -25,7 +25,7 @@
 - **2021-2022:**
   - **BD** — Doç. Dr. Buket Doğan
 - **2020-2021:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 
 ## 🤝 Katkıda Bulun
 

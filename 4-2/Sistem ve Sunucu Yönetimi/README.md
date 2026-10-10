@@ -15,15 +15,15 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - Dr. Mustafa Şahin
+  - **MŞ** — Dr. Mustafa Şahin
 - **2024-2025:**
-  - Dr. Mustafa Şahin
+  - **MŞ** — Dr. Mustafa Şahin
 - **2023-2024:**
-  - Dr. Mustafa Şahin
+  - **MŞ** — Dr. Mustafa Şahin
 - **2022-2023:**
-  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+  - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
 - **2021-2022:**
-  - Öğr. Gör. Dr. Gökhan Akın
+  - **GA** — Öğr. Gör. Dr. Gökhan Akın
 
 ## 🤝 Katkıda Bulun
 

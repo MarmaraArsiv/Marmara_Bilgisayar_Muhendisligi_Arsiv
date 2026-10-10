@@ -13,11 +13,11 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
-  - Öğr. Gör. Ata Hürdoğan Demiray
+  - **AHD** — Öğr. Gör. Ata Hürdoğan Demiray
 - **2025-2026:**
-  - Öğr. Gör. Ata Hürdoğan Demiray
+  - **AHD** — Öğr. Gör. Ata Hürdoğan Demiray
 - **2024-2025:**
-  - Öğr. Gör. Ata Hürdoğan Demiray
+  - **AHD** — Öğr. Gör. Ata Hürdoğan Demiray
 - **2023-2024:**
   - **ÖD** — Doç. Dr. Önder Demir
 - **2022-2023:**

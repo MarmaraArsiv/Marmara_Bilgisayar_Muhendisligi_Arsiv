@@ -23,9 +23,9 @@
 - **2022-2023:**
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 - **2021-2022:**
-  - Prof. Dr. Vedat Topuz
+  - **VT** — Prof. Dr. Vedat Topuz
 - **2020-2021:**
-  - Prof. Dr. Vedat Topuz
+  - **VT** — Prof. Dr. Vedat Topuz
 
 ## 🤝 Katkıda Bulun
 

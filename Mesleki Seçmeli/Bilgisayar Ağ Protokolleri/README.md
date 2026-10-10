@@ -13,19 +13,19 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
-  - Öğr. Gör. Osman Cihan Akar
+  - **OCA** — Öğr. Gör. Osman Cihan Akar
 - **2025-2026:**
-  - Öğr. Gör. Osman Cihan Akar
+  - **OCA** — Öğr. Gör. Osman Cihan Akar
 - **2024-2025:**
-  - Öğr. Gör. Osman Cihan Akar
+  - **OCA** — Öğr. Gör. Osman Cihan Akar
 - **2023-2024:**
-  - Öğr. Gör. Osman Cihan Akar
+  - **OCA** — Öğr. Gör. Osman Cihan Akar
 - **2022-2023:**
-  - Öğr. Gör. Osman Cihan Akar
+  - **OCA** — Öğr. Gör. Osman Cihan Akar
 - **2021-2022:**
-  - Öğr. Gör. Osman Cihan Akar
+  - **OCA** — Öğr. Gör. Osman Cihan Akar
 - **2020-2021:**
-  - Öğr. Gör. Osman Cihan Akar
+  - **OCA** — Öğr. Gör. Osman Cihan Akar
 
 ## 🤝 Katkıda Bulun
 

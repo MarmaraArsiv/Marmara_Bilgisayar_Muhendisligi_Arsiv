@@ -29,9 +29,9 @@
 - **2022-2023:**
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
 - **2021-2022:**
-  - Prof. Dr. Vedat Topuz
+  - **VT** — Prof. Dr. Vedat Topuz
 - **2020-2021:**
-  - Prof. Dr. Vedat Topuz
+  - **VT** — Prof. Dr. Vedat Topuz
 
 ### 📘 Web Programlama
 
@@ -54,9 +54,9 @@
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
 - **2024-2025:**
-  - Dr. Selman Şişman
+  - **SŞ** — Dr. Selman Şişman
 - **2023-2024:**
-  - Dr. Selman Şişman
+  - **SŞ** — Dr. Selman Şişman
 - **2022-2023:**
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 - **2021-2022:**
@@ -120,7 +120,7 @@
 - **2021-2022:**
   - **BD** — Doç. Dr. Buket Doğan
 - **2020-2021:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 
 ### 📘 Biçimsel Diller ve Otomata Teorisi
 

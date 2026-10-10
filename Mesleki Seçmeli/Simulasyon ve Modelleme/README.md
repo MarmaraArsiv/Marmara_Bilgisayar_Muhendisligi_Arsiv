@@ -15,13 +15,13 @@
 - **2025-2026:**
   - **ŞU** — Prof. Dr. Şahin Uyaver
 - **2024-2025:**
-  - Öğr. Gör. Sebahattin Babur
+  - **SB** — Öğr. Gör. Sebahattin Babur
 - **2023-2024:**
-  - Öğr. Gör. Sebahattin Babur
+  - **SB** — Öğr. Gör. Sebahattin Babur
 - **2022-2023:**
   - **ŞU** — Prof. Dr. Şahin Uyaver
 - **2020-2021:**
-  - Dr. Öğretim Üyesi Banu Çalış Uslu
+  - **BÇU** — Dr. Öğretim Üyesi Banu Çalış Uslu
 
 ## 🤝 Katkıda Bulun
 

@@ -21,7 +21,7 @@
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2020-2021:**
-  - Prof. Dr. Ahmet Emin Kuzucuoğlu
+  - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
 
 ### 📘 Veritabanı Yönetim Sistemleri
 
@@ -46,10 +46,10 @@
   - **BD** — Doç. Dr. Buket Doğan
 - **2024-2025:**
   - **BD** — Doç. Dr. Buket Doğan
-  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+  - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
 - **2023-2024:**
   - **BD** — Doç. Dr. Buket Doğan
-  - Öğr. Gör. Dr. Esra Çalık Bayazıt
+  - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
 - **2022-2023:**
   - **BD** — Doç. Dr. Buket Doğan
 - **2021-2022:**
@@ -113,13 +113,13 @@
 - **2024-2025:**
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
 - **2023-2024:**
-  - Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
 - **2022-2023:**
-  - Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
 - **2021-2022:**
-  - Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
 - **2020-2021:**
-  - Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
 
 ### 📘 Sinyaller ve Sistemlere Giriş
 

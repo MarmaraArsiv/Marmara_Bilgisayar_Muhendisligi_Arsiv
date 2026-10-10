@@ -13,17 +13,17 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 - **2024-2025:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 - **2023-2024:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 - **2022-2023:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 - **2021-2022:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 - **2020-2021:**
-  - Öğr. Gör. Halil Özkan
+  - **HÖ** — Öğr. Gör. Halil Özkan
 
 ## 🤝 Katkıda Bulun
 

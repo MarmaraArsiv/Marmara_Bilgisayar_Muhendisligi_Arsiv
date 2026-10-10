@@ -20,15 +20,15 @@
 - **2025-2026:**
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
 - **2024-2025:**
-  - Doç. Dr. Alper Nabi Akpolat
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
 - **2023-2024:**
-  - Doç. Dr. Alper Nabi Akpolat
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
 - **2022-2023:**
-  - Doç. Dr. Alper Nabi Akpolat
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
 - **2021-2022:**
-  - Dr. Öğretim Üyesi Serkan Aydın
+  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
 - **2020-2021:**
-  - Dr. Öğretim Üyesi Pınar Özkan Bakbak
+  - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
 
 ## 🤝 Katkıda Bulun
 

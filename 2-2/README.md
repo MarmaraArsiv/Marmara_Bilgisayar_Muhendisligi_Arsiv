@@ -56,15 +56,15 @@
 - **2025-2026:**
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
 - **2024-2025:**
-  - Doç. Dr. Alper Nabi Akpolat
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
 - **2023-2024:**
-  - Doç. Dr. Alper Nabi Akpolat
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
 - **2022-2023:**
-  - Doç. Dr. Alper Nabi Akpolat
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
 - **2021-2022:**
-  - Dr. Öğretim Üyesi Serkan Aydın
+  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
 - **2020-2021:**
-  - Dr. Öğretim Üyesi Pınar Özkan Bakbak
+  - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
 
 ### 📘 Mikroişlemciler
 
@@ -85,17 +85,17 @@
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - Dr. Öğretim Üyesi Serkan Aydın
+  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
 - **2024-2025:**
-  - Dr. Öğretim Üyesi Serkan Aydın
+  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
 - **2023-2024:**
-  - Dr. Öğretim Üyesi Serkan Aydın
+  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
 - **2022-2023:**
-  - Dr. Öğretim Üyesi Serkan Aydın
+  - **SA** — Dr. Öğretim Üyesi Serkan Aydın
 - **2021-2022:**
-  - Dr. Öğretim Üyesi Ulvi Başpınar
+  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
 - **2020-2021:**
-  - Dr. Öğretim Üyesi Ulvi Başpınar
+  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
 
 ### 📘 Sayısal Analiz
 
@@ -152,10 +152,10 @@
 - **2024-2025:**
   - **ÖD** — Doç. Dr. Önder Demir
 - **2023-2024:**
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **ÖD** — Doç. Dr. Önder Demir
 - **2022-2023:**
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 - **2021-2022:**
   - **KY** — Prof. Dr. Kazım Yıldız

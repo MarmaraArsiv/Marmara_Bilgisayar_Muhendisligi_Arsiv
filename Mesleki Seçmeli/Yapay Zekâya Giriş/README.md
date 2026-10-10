@@ -20,7 +20,7 @@
 - **2023-2024:**
   - **KY** — Prof. Dr. Kazım Yıldız
 - **2022-2023:**
-  - Öğr. Gör. Dr. Uğur Çekmez
+  - **UÇ** — Öğr. Gör. Dr. Uğur Çekmez
 
 ## 🤝 Katkıda Bulun
 

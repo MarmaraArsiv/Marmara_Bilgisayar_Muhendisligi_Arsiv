@@ -38,9 +38,9 @@
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
   - **ABul** — Prof. Dr. Ali Buldu
 - **2021-2022:**
-  - Dr. Öğretim Üyesi Ayşe Yayla
+  - **AY** — Dr. Öğretim Üyesi Ayşe Yayla
 - **2020-2021:**
-  - Dr. Öğretim Üyesi Uğur Kesen
+  - **UK** — Dr. Öğretim Üyesi Uğur Kesen
 
 ### 📘 Nesne Yönelimli Programlama
 
@@ -106,13 +106,13 @@
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
 - **2024-2025:**
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2023-2024:**
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2022-2023:**
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
 - **2021-2022:**
   - **KY** — Prof. Dr. Kazım Yıldız
 - **2020-2021:**
@@ -138,11 +138,11 @@
 - **2026-2027:**
   - **ABal** — Arş. Gör. Dr. Abdullah Bal
 - **2025-2026:**
-  - Doç. Dr. Lutfi Özdemir
+  - **LÖ** — Doç. Dr. Lutfi Özdemir
 - **2024-2025:**
-  - Doç. Dr. Lutfi Özdemir
+  - **LÖ** — Doç. Dr. Lutfi Özdemir
 - **2023-2024:**
-  - Doç. Dr. Lutfi Özdemir
+  - **LÖ** — Doç. Dr. Lutfi Özdemir
 - **2022-2023:**
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 - **2021-2022:**

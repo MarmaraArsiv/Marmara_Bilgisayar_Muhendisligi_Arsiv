@@ -56,7 +56,7 @@
   - **BD** — Doç. Dr. Buket Doğan
   - **ÖD** — Doç. Dr. Önder Demir
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-  - Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+  - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **KY** — Prof. Dr. Kazım Yıldız
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş

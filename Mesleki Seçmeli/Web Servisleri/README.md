@@ -13,15 +13,15 @@
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - Öğr. Gör. Ahmet Bozdağ
+  - **AB** — Öğr. Gör. Ahmet Bozdağ
 - **2024-2025:**
-  - Öğr. Gör. Ahmet Bozdağ
+  - **AB** — Öğr. Gör. Ahmet Bozdağ
 - **2023-2024:**
-  - Öğr. Gör. Onur Türk
+  - **OT** — Öğr. Gör. Onur Türk
 - **2022-2023:**
-  - Öğr. Gör. Onur Türk
+  - **OT** — Öğr. Gör. Onur Türk
 - **2021-2022:**
-  - Öğr. Gör. Ahmet Bozdağ
+  - **AB** — Öğr. Gör. Ahmet Bozdağ
 
 ## 🤝 Katkıda Bulun
 
