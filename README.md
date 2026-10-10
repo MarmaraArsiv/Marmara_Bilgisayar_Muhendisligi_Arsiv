@@ -235,7 +235,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** Zeynel Hoca
+    - **2025-2026:** Zeynel Şahin
   - 📂 [Ders Klasörü](./1-1/Kimya)
 
 
@@ -381,7 +381,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [KY](#-prof-dr-kazım-yıldız)
+    - **2026-2027:** [KY](#-prof-dr-kazım-yıldız), [EEÜ](#-dr-öğretim-üyesi-eyüp-emre-ülkü)
   - 📂 [Ders Klasörü](./2-1/Nesne%20Y%C3%B6nelimli%20Programlama)
 
 
@@ -401,7 +401,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - ⭐ **Yıldız Sayıları:**
       - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [ABal](#-arş-gör-dr-abdullah-bal), [ABaş](#-dr-öğretim-üyesi-anıl-baş)
+    - **2026-2027:** [ABal](#-arş-gör-dr-abdullah-bal)
   - 📂 [Ders Klasörü](./2-1/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik)
 
 
@@ -1282,7 +1282,6 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 [İnsan-Bilgisayar Etkileşimi ve Görsellik](#-insan-bilgisayar-etkileşimi-ve-görsellik) (2026-2027)
   - 📖 [Bilgisayar Grafik](#-bilgisayar-grafik) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
@@ -1307,7 +1306,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 💬 **Öğrenci Görüşleri:**
   - ℹ️ Siz de [linkten]() anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
-  - 📖 Ders bilgileri bulunamadı.
+  - 📖 [Nesne Yönelimli Programlama](#-nesne-yönelimli-programlama) (2026-2027)
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten]() anonim şekilde oylamaya katılabilirsiniz.
 

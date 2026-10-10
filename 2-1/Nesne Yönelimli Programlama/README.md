@@ -18,6 +18,7 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **KY** — Prof. Dr. Kazım Yıldız
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ## 🤝 Katkıda Bulun
 

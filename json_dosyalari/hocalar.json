@@ -91,7 +91,9 @@
             "link": "https://avesis.marmara.edu.tr/emre.ulku",
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
-            "dersler": []
+            "dersler": [
+                "Nesne Yönelimli Programlama"
+            ]
         },
         {
             "ad": "Dr. Öğretim Üyesi Ali Sarıkaş",
@@ -110,7 +112,6 @@
             "hoca_aktif_gorevde_mi": true,
             "erkek_mi": true,
             "dersler": [
-                "İnsan-Bilgisayar Etkileşimi ve Görsellik",
                 "Bilgisayar Grafik"
             ]
         },

@@ -45,6 +45,7 @@
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **KY** — Prof. Dr. Kazım Yıldız
+  - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ### 📘 Bilgisayar Programlama II
 
@@ -81,7 +82,6 @@
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **ABal** — Arş. Gör. Dr. Abdullah Bal
-  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 
 ### 📘 Ayrık Matematik
 

@@ -17,7 +17,6 @@
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027:**
   - **ABal** — Arş. Gör. Dr. Abdullah Bal
-  - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 
 ## 🤝 Katkıda Bulun
 

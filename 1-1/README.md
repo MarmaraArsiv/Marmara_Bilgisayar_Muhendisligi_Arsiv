@@ -109,7 +109,7 @@
 #### 💡 Derse Dair Öneriler
 
 ##### 📌 Öneri sahibi: Arşiv Notu
-- Kimya hocamız Zeynel Hoca, Yıldız Teknik'in Genel Kimya notlarını biraz değiştirip kullanıyordu, bu yüzden klasörde o notlar da bulunuyor.
+- Kimya hocamız Zeynel Şahin, Yıldız Teknik'in Genel Kimya notlarını biraz değiştirip kullanıyordu, bu yüzden klasörde o notlar da bulunuyor.
 
 #### 📚 Faydalı Olabilecek Kaynaklar
 
@@ -120,7 +120,7 @@
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026:**
-  - Zeynel Hoca
+  - Zeynel Şahin
 
 ### 📘 Lineer Cebir
 
