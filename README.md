@@ -1496,7 +1496,8 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-234
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/alibuldu](https://avesis.marmara.edu.tr/alibuldu)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Ali%20Buldu) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - 👤 **_aasdas_**: asdasd ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+    - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Ali%20Buldu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mantık Devreleri](#-mantık-devreleri) (2022-2023 → 2026-2027)
   - 📖 [Bilgisayar Donanımı](#-bilgisayar-donanımı) (2022-2023 → 2025-2026)
