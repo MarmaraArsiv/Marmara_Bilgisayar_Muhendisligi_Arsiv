@@ -42,9 +42,9 @@ def csv_oku(f, anahtar):
     if dizin:
         with open(os.path.join(dizin, anahtar + ".csv"), encoding="utf-8") as d:
             return list(csv.DictReader(d))
-    adres = f.get(anahtar + "_csv")
+    adres = f.get(anahtar, {}).get(anahtar + "_csv")
     if not adres:
-        return []
+        raise ValueError(f"konfigurasyon.json'da {anahtar}_csv adresi yok")
     with urllib.request.urlopen(adres, timeout=60) as y:
         return list(csv.DictReader(io.StringIO(y.read().decode("utf-8"))))
 
