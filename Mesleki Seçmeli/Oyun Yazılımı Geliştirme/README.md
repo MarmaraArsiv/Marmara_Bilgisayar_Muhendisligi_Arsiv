@@ -9,10 +9,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Oyun%20Yaz%C4%B1l%C4%B1m%C4%B1%20Geli%C5%9Ftirme) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok.
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **ABal** — Arş. Gör. Dr. Abdullah Bal

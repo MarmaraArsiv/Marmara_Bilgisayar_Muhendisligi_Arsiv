@@ -16,13 +16,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mant%C4%B1k%20Devreleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📝 Çalışma Soruları](./Mant%C4%B1k%20Devreleri/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📄 Çıkmış Sorular (2024 Bütünleme, 2025 Final)](./Mant%C4%B1k%20Devreleri/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
@@ -56,12 +49,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Nesne%20Y%C3%B6nelimli%20Programlama) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Nesne%20Y%C3%B6nelimli%20Programlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Sorular (2021-2025 arası final/bütünleme/quiz/vize)](./Nesne%20Y%C3%B6nelimli%20Programlama/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -99,10 +86,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Programlama%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
@@ -138,10 +121,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
   - **ABal** — Arş. Gör. Dr. Abdullah Bal
@@ -170,10 +149,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Ayr%C4%B1k%20Matematik) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Ayr%C4%B1k%20Matematik) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -204,10 +179,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Diferansiyel%20Denklemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
@@ -237,10 +208,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Olas%C4%B1l%C4%B1k%20ve%20%C4%B0statistik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 ### 📘 Teknik İngilizce 1
 
 #### 📄 Ders Bilgileri
@@ -254,6 +221,3 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Teknik%20%C4%B0ngilizce%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

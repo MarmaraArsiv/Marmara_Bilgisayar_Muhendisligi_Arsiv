@@ -16,12 +16,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20A%C4%9Flar%C4%B1na%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Sorular (2024-2025 Final + görseller)](./Bilgisayar%20A%C4%9Flar%C4%B1na%20Giri%C5%9F/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
@@ -50,12 +44,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Elektronik%20Devrelere%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Sorular (2024-2025 Final)](./Elektronik%20Devrelere%20Giri%C5%9F/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
@@ -82,12 +70,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Mikroi%C5%9Flemciler) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mikroi%C5%9Flemciler) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Sorular (2024-2025 Vize)](./Mikroi%C5%9Flemciler/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -116,12 +98,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Say%C4%B1sal%20Analiz) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Sorular (2024-2025 Bütünleme)](./Say%C4%B1sal%20Analiz/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
@@ -148,12 +124,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Sorular (2024-2025 Final)](./Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -187,10 +157,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=M%C3%BChendisler%20i%C3%A7in%20%C4%B0statistik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
@@ -218,6 +184,3 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Teknik%20%C4%B0ngilizce%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

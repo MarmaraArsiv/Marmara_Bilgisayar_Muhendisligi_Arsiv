@@ -11,11 +11,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- 📄 [Çıkmış Sorular](./çıkmış_sorular/)
-- 📄 [Çalışma Soruları](./çalışma_soruları/)
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit

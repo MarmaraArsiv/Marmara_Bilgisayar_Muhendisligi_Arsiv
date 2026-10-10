@@ -19,13 +19,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Donan%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📊 Marmara Donanım Notları (14 hafta sunum)](./Bilgisayar%20Donan%C4%B1m%C4%B1/slaytlar_notlar/) ✨
-- 📄 [🛠️ Lab (haftalık uygulamalar + Dönem Projesi)](./Bilgisayar%20Donan%C4%B1m%C4%B1/lablar/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **ABul** — Prof. Dr. Ali Buldu
@@ -52,14 +45,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Bilgisayar%20Programlama%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Programlama%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [❓ Quiz Örneği](./Bilgisayar%20Programlama%201/quizler/) ✨
-- 📄 [💻 Algo (C örnekleri: pointer, dizi, recursive)](./Bilgisayar%20Programlama%201/slaytlar_notlar/) ✨
-- 📄 [🧪 Lab (Lab 0-10)](./Bilgisayar%20Programlama%201/lablar/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -95,14 +80,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Sınav Hazırlık Dosyaları](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/slaytlar_notlar/) ✨
-- 📄 [📝 Ödevler](./Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri/%C3%B6devler/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **BD** — Doç. Dr. Buket Doğan
@@ -130,15 +107,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Fizik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [❓ Ders İçi Sorular](./Fizik%202/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📄 Çıkmış Vize Soruları](./Fizik%202/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [📊 Haftalık Ders Slaytları](./Fizik%202/slaytlar_notlar/) ✨
-- 📄 [📋 Ders İzlencesi (Syllabus)](./Fizik%202/Syllabus.pdf) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
@@ -165,11 +133,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=%C4%B0ngilizce%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0ngilizce%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -199,12 +162,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📸 Tahtanın Fotoğrafları (haftalık ders anlatımı)](./%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202/tahta_notlar%C4%B1/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **İK** — Prof. Dr. İsmail Kıyak
@@ -231,14 +188,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Matematik%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Matematik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📋 Ders İzlencesi](./Matematik%202/Ders-Izlence-Mat1086.pdf) ✨
-- 📄 [📓 Ders Notları (küresel koordinatlar, seriler, vektörler)](./Matematik%202/slaytlar_notlar/) ✨
-- 📄 [📝 Haftalık Ödevler](./Matematik%202/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -267,11 +216,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=T%C3%BCrk%C3%A7e%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **MK** — Öğr. Gör. Dr. Mehmet Kocakaplan
@@ -299,6 +243,3 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=M%C3%BChendislik%20Ekonomisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

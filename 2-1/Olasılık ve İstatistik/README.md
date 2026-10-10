@@ -11,10 +11,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Olas%C4%B1l%C4%B1k%20ve%20%C4%B0statistik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok.
-
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

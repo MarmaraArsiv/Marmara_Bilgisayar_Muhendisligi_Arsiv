@@ -20,13 +20,6 @@
 ### 💡 Öneri sahibi: Arşiv Notu
 - Kimya hocamız Zeynel Şahin, Yıldız Teknik'in Genel Kimya notlarını biraz değiştirip kullanıyordu, bu yüzden klasörde o notlar da bulunuyor.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📊 Haftalık Konu Sunumları (14 hafta, .ppt)](./) ✨
-- 📄 [📘 Genel Kimya: İlkeler ve Modern Uygulamalar](./GENEL_KIMYA_Ilkeler_ve_Modern_Uygulamala.pdf) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
   - **CD** — Prof. Dr. Canan Doğan

@@ -11,10 +11,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bitirme%20Projesi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ 2026 öncesi müfredatta tek parça "Bitirme Projesi" olarak 4. yıl bahar döneminde yer alıyor, bkz. [`4-2/Bitirme Projesi`](../../4-2/Bitirme%20Projesi/).
-
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

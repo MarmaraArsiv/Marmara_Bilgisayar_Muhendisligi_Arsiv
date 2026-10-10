@@ -17,10 +17,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Staj%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2020-2021**:
   - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
@@ -37,10 +33,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -74,10 +66,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0%C5%9Fletim%20Sistemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **AA** — Dr. Öğretim Üyesi Abdulsamet Aktaş
@@ -109,10 +97,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mikrodenetleyiciler) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
@@ -142,10 +126,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Sinyaller%20ve%20Sistemlere%20Giri%C5%9F) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Sinyaller%20ve%20Sistemlere%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -177,6 +157,3 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Algoritma%20Analizi%20ve%20Tasar%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

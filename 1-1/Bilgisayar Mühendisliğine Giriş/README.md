@@ -11,14 +11,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./slaytlar_notlar/) ✨
-- 📄 [📝 Atölye Ödevleri](./at%C3%B6lye_%C3%B6devleri/) ✨
-- 📄 [🛠️ Atölye Dersi (haftalık uygulamalar)](./at%C3%B6lye_notlar%C4%B1/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **SÖ** — Prof. Dr. Serhat Özekes

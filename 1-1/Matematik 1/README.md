@@ -11,14 +11,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Matematik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./çıkmış_sorular/) ✨
-- 📄 [📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./slaytlar_notlar/) ✨
-- 📄 [📝 Thomas Calculus Çalışma Soruları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir

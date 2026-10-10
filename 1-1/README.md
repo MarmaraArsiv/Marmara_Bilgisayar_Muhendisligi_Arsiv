@@ -20,13 +20,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Algoritma%20ve%20Programlamaya%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📊 Slaytlar ve Ders Notları](./Algoritma%20ve%20Programlamaya%20Giri%C5%9F/slaytlar_notlar/) ✨
-- 📄 [📝 Haftalık Ödevler (works1-7)](./Algoritma%20ve%20Programlamaya%20Giri%C5%9F/%C3%B6devler/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **BD** — Doç. Dr. Buket Doğan
@@ -63,14 +56,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📓 Ders Notları (AI, DB, Etik, Makine Dili...)](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/slaytlar_notlar/) ✨
-- 📄 [📝 Atölye Ödevleri](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/at%C3%B6lye_%C3%B6devleri/) ✨
-- 📄 [🛠️ Atölye Dersi (haftalık uygulamalar)](./Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/at%C3%B6lye_notlar%C4%B1/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **SÖ** — Prof. Dr. Serhat Özekes
@@ -101,14 +86,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Fizik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Vize Soruları](./Fizik%201/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [📊 Haftalık Slaytlar (Week 1-13)](./Fizik%201/slaytlar_notlar/) ✨
-- 📄 [📝 Ödevler](./Fizik%201/%C3%B6devler/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
@@ -137,11 +114,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=%C4%B0ngilizce%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0ngilizce%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -181,13 +153,6 @@
 ##### 📌 Öneri sahibi: Arşiv Notu
 - Kimya hocamız Zeynel Şahin, Yıldız Teknik'in Genel Kimya notlarını biraz değiştirip kullanıyordu, bu yüzden klasörde o notlar da bulunuyor.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📊 Haftalık Konu Sunumları (14 hafta, .ppt)](./Kimya) ✨
-- 📄 [📘 Genel Kimya: İlkeler ve Modern Uygulamalar](./Kimya/GENEL_KIMYA_Ilkeler_ve_Modern_Uygulamala.pdf) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
   - **CD** — Prof. Dr. Canan Doğan
@@ -216,18 +181,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=Lineer%20Cebir) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Lineer%20Cebir) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./Lineer%20Cebir/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [📓 Ders Notları](./Lineer%20Cebir/slaytlar_notlar/) ✨
-- 📄 [📝 Çalışma Soruları](./Lineer%20Cebir/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 Gilbert Strang, Introduction to Linear Algebra, Wellesley-Cambridge Press, 1998. ✨
-- 📄 Mehmet Ali Karaca, Lineer Cebir Çözümlü Problemleri, İTÜ Vakfı Yayınları, 2006. ✨
-- 📄 Serge Lang, Introduction to Linear Algebra, Springer Verlag, 1986. ✨
-- 📄 T.S. Blyth and E.F. Robertson, Basic Linear Algebra, Springer, 4th Edition, 2007. ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -258,14 +211,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Matematik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Çıkmış Arasınav (2025 Güz)](./Matematik%201/%C3%A7%C4%B1km%C4%B1%C5%9F_sorular/) ✨
-- 📄 [📓 Ders Notları (hiperbolik fonksiyonlar, integral uygulamaları)](./Matematik%201/slaytlar_notlar/) ✨
-- 📄 [📝 Thomas Calculus Çalışma Soruları](./Matematik%201/%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
@@ -294,11 +239,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=T%C3%BCrk%C3%A7e%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=T%C3%BCrk%C3%A7e%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -329,10 +269,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Modern%20Biyolojiye%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
-
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **ACÇK** — Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu
@@ -349,10 +285,6 @@
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeT-6WtaEJERW5OcUyvBFAX6bhmzT8Op8utM8AXhNaCtruTRA/viewform?usp=pp_url&entry.1850083761=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
-
-#### 📚 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:

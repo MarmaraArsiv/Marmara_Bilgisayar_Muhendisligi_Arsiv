@@ -11,13 +11,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mant%C4%B1k%20Devreleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📝 Çalışma Soruları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📄 Çıkmış Sorular (2024 Bütünleme, 2025 Final)](./çıkmış_sorular/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş

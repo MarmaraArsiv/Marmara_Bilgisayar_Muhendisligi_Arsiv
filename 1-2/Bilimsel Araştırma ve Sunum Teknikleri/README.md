@@ -12,14 +12,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- 📄 [📄 Sınav Hazırlık Dosyaları](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📊 Ders Slaytları (LaTeX, hipotez testleri, WoS kullanımı)](./slaytlar_notlar/) ✨
-- 📄 [📝 Ödevler](./ödevler/) ✨
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **BD** — Doç. Dr. Buket Doğan

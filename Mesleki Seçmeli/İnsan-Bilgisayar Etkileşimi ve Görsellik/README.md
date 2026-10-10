@@ -9,10 +9,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- ℹ️ 2026 öncesi müfredatta bu ders zorunludur, bkz. [`2-1/İnsan-Bilgisayar Etkileşimi ve Görsellik`](../../2-1/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik/).
-
 ## 🤝 Katkıda Bulun
 
 Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

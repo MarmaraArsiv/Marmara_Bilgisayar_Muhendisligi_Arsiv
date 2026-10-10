@@ -11,16 +11,6 @@
 - 💬 **Öğrenci Görüşleri:**
     - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Fizik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
-## 📖 Faydalı Olabilecek Kaynaklar
-
-- 📄 [❓ Ders İçi Sorular](./%C3%A7al%C4%B1%C5%9Fma_sorular%C4%B1/) ✨
-- 📄 [📄 Çıkmış Vize Soruları](./çıkmış_sorular/) ✨
-- 📄 [📊 Haftalık Ders Slaytları](./slaytlar_notlar/) ✨
-- 📄 [📋 Ders İzlencesi (Syllabus)](./Syllabus.pdf) ✨
-- 📄 [Lab Dersi Tahta Soruları](./lablar/lab_dersi_tahta_soruları.pdf)
-- 📄 [Genel Çıkmış Sorular]()
-  - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
-
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
