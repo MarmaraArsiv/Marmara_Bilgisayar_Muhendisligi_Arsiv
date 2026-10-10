@@ -329,7 +329,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/lozdemir",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "İnsan-Bilgisayar Etkileşimi ve Görsellik"
             ]
@@ -339,7 +339,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Biçimsel Diller ve Otomata Teorisi"
             ]
@@ -349,7 +349,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Sistem ve Sunucu Yönetimi"
             ]
@@ -359,7 +359,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Web Programlama"
             ]
@@ -369,7 +369,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "E-Ticarete Giriş"
             ]
@@ -379,7 +379,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/acetinkaya",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Mantık Devreleri",
                 "Gömülü Sistemler"
@@ -400,7 +400,7 @@
             "ofis": "T4-204",
             "link": "https://avesis.marmara.edu.tr/hcelik",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Mikrodenetleyiciler"
             ]
@@ -410,7 +410,7 @@
             "ofis": "T4-215",
             "link": "https://avesis.marmara.edu.tr/14526",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Elektronik Devrelere Giriş"
             ]
@@ -420,7 +420,7 @@
             "ofis": "T4-231 / T4-205",
             "link": "https://avesis.marmara.edu.tr/savas.ozturk",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Oyun Yazılımı Geliştirme"
             ]
@@ -441,7 +441,7 @@
             "ofis": "T4-219",
             "link": "https://avesis.marmara.edu.tr/ubaspinar",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Mikroişlemciler"
             ]
@@ -451,7 +451,7 @@
             "ofis": "T1-344",
             "link": "https://avesis.marmara.edu.tr/ukesen",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Mantık Devreleri"
             ]
@@ -461,7 +461,7 @@
             "ofis": "T4-108 / T4-228",
             "link": "https://avesis.marmara.edu.tr/kuzucuoglu",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Staj 1"
             ]
@@ -471,7 +471,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/vtopuz",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Bilgisayar Organizasyonu ve Mimarisi"
             ]
@@ -481,7 +481,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Web Servisleri"
             ]
@@ -491,7 +491,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Bilgisayar Grafik"
             ]
@@ -501,7 +501,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Bilgisayar Güvenliği"
             ]
@@ -511,7 +511,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Veritabanı Yönetim Sistemleri",
                 "Sistem ve Sunucu Yönetimi"
@@ -522,7 +522,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Sistem ve Sunucu Yönetimi"
             ]
@@ -532,7 +532,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/gkaratas",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Bilgisayar Programlama 2",
                 "Biçimsel Diller ve Otomata Teorisi",
@@ -548,7 +548,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Yapay Sinir Ağları",
                 "Yapay Zekâya Giriş"
@@ -559,7 +559,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Yazılım Mühendisliği",
                 "Açık Kaynak Kodlu Yazılımlar",
@@ -571,7 +571,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Web Servisleri"
             ]
@@ -581,7 +581,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Bilgisayar Ağ Protokolleri",
                 "Kablosuz Ağlar"
@@ -592,7 +592,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Gömülü Sistemler",
                 "Simulasyon ve Modelleme"
@@ -603,7 +603,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Mühendisler için İstatistik"
             ]
@@ -613,7 +613,7 @@
             "ofis": "GZFC026",
             "link": "https://avesis.marmara.edu.tr/burhan.tiryakioglu",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Diferansiyel Denklemler"
             ]
@@ -623,7 +623,7 @@
             "ofis": "GZFA019",
             "link": "https://avesis.marmara.edu.tr/14962",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Sayısal Analiz"
             ]
@@ -633,7 +633,7 @@
             "ofis": "GZFA016",
             "link": "https://avesis.marmara.edu.tr/14754",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Matematik 1",
                 "Ayrık Matematik",
@@ -645,7 +645,7 @@
             "ofis": "T1-326",
             "link": "https://avesis.marmara.edu.tr/sdeniz",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Kimya"
             ]
@@ -665,7 +665,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Bilim Tarihi"
             ]
@@ -675,7 +675,7 @@
             "ofis": "T3-318",
             "link": "https://avesis.marmara.edu.tr/aceren",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Modern Biyolojiye Giriş"
             ]
@@ -685,7 +685,7 @@
             "ofis": "T3-331",
             "link": "https://avesis.marmara.edu.tr/emre.akin",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Bilim Tarihi"
             ]
@@ -695,7 +695,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/hicelik",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Diferansiyel Denklemler"
             ]
@@ -705,7 +705,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/oya.girit",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Atatürk İlkeleri ve İnkılap Tarihi 1",
                 "Atatürk İlkeleri ve İnkılap Tarihi 2"
@@ -716,7 +716,7 @@
             "ofis": "T3-322",
             "link": "https://avesis.marmara.edu.tr/14505",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Kimya"
             ]
@@ -726,7 +726,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/ndernek",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Diferansiyel Denklemler"
             ]
@@ -736,7 +736,7 @@
             "ofis": "T4-217",
             "link": "https://avesis.marmara.edu.tr/adil.guler",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Fizik 1",
                 "Lineer Cebir",
@@ -759,7 +759,7 @@
             "ofis": "T3-333",
             "link": "https://avesis.marmara.edu.tr/canan.dogan",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Kimya"
             ]
@@ -779,7 +779,7 @@
             "ofis": "GZFA024",
             "link": "https://avesis.marmara.edu.tr/hbagdatli",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Lineer Cebir"
             ]
@@ -789,7 +789,7 @@
             "ofis": "T3-206",
             "link": "https://avesis.marmara.edu.tr/mehmet.eroglu",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Kimya"
             ]
@@ -799,7 +799,7 @@
             "ofis": "GZFC001",
             "link": "https://avesis.marmara.edu.tr/14791",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Lineer Cebir",
                 "Diferansiyel Denklemler"
@@ -820,7 +820,7 @@
             "ofis": "C020",
             "link": "https://avesis.marmara.edu.tr/14583",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Mühendisler için İstatistik"
             ]
@@ -830,7 +830,7 @@
             "ofis": "T4-232",
             "link": "https://avesis.marmara.edu.tr/imkiyak",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "İş Sağlığı ve Güvenliği 2"
             ]
@@ -840,7 +840,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/abdullah.pekel",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "İngilizce 1",
                 "İngilizce 2"
@@ -851,7 +851,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/aysuozturk",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "İngilizce 1"
             ]
@@ -861,7 +861,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/isil.silahtaroglu",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "İngilizce 1",
                 "İngilizce 2"
@@ -872,7 +872,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/mkocakaplan",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Türkçe 1",
                 "Türkçe 2"
@@ -883,7 +883,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/15214",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Türkçe 1",
                 "Türkçe 2"
@@ -894,7 +894,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": true,
             "dersler": [
                 "Teknik Satış ve Pazarlama"
             ]
@@ -904,7 +904,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/nurgul.yildiz",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Türkçe 1",
                 "Türkçe 2"
@@ -915,7 +915,7 @@
             "ofis": "",
             "link": "https://avesis.marmara.edu.tr/yasemin.bulut",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Türkçe 1",
                 "Türkçe 2"
@@ -926,7 +926,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "İngilizce 1",
                 "İngilizce 2"
@@ -937,7 +937,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "İngilizce 1"
             ]
@@ -947,7 +947,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": true,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "Girişimcilik"
             ]
@@ -957,7 +957,7 @@
             "ofis": "",
             "link": "",
             "hoca_aktif_gorevde_mi": false,
-            "erkek_mi": null,
+            "erkek_mi": false,
             "dersler": [
                 "İngilizce 2"
             ]
