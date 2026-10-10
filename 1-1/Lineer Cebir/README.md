@@ -24,20 +24,27 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2025-2026:**
+- **2025-2026**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2024-2025:**
-  - Prof. Dr. Adil Güler
-- **2023-2024:**
-  - Prof. Dr. Adil Güler
-- **2022-2023:**
-  - Prof. Dr. Serhan Eker
-- **2021-2022:**
-  - Prof. Dr. Hülya Yılmaz
-- **2020-2021:**
-  - Prof. Dr. Hülya Yılmaz
+- **2024-2025**:
+  - **AG** — Prof. Dr. Adil Güler
+- **2023-2024**:
+  - **AG** — Prof. Dr. Adil Güler
+- **2022-2023**:
+  - **SE** — Prof. Dr. Serhan Eker
+- **2021-2022**:
+  - **HY** — Prof. Dr. Hülya Yılmaz
+- **2020-2021**:
+  - **HY** — Prof. Dr. Hülya Yılmaz
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Öğretim Üyesi Neşe Özdemir](../../README.md#‍-dr-öğretim-üyesi-neşe-özdemir)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ne%C5%9Fe%20%C3%96zdemir) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

@@ -27,17 +27,17 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2024-2025:**
+- **2024-2025**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2023-2024:**
+- **2023-2024**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2022-2023:**
+- **2022-2023**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2021-2022:**
+- **2021-2022**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
-- **2020-2021:**
+- **2020-2021**:
   - **ÖD** — Doç. Dr. Önder Demir
 
 ### 📘 Bilgisayar Programlama 1
@@ -62,23 +62,23 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **SK** — Arş. Gör. Semiha Koç (lab)
-- **2024-2025:**
+- **2024-2025**:
   - **BD** — Doç. Dr. Buket Doğan
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2023-2024:**
+- **2023-2024**:
   - **BD** — Doç. Dr. Buket Doğan
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2022-2023:**
+- **2022-2023**:
   - **BD** — Doç. Dr. Buket Doğan
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2021-2022:**
+- **2021-2022**:
   - **BD** — Doç. Dr. Buket Doğan
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2020-2021:**
+- **2020-2021**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ### 📘 Bilimsel Araştırma ve Sunum Teknikleri
@@ -104,17 +104,17 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2024-2025:**
+- **2024-2025**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2023-2024:**
+- **2023-2024**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2022-2023:**
+- **2022-2023**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2021-2022:**
+- **2021-2022**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2020-2021:**
+- **2020-2021**:
   - **BD** — Doç. Dr. Buket Doğan
 
 ### 📘 Fizik 2
@@ -140,17 +140,17 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2024-2025:**
-  - Prof. Dr. Adil Güler
-- **2023-2024:**
+- **2024-2025**:
+  - **AG** — Prof. Dr. Adil Güler
+- **2023-2024**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2022-2023:**
+- **2022-2023**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2021-2022:**
+- **2021-2022**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2020-2021:**
+- **2020-2021**:
   - **ÖA** — Doç. Dr. Ömer Akgün
 
 ### 📘 İngilizce 2
@@ -172,18 +172,18 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
-- **2024-2025:**
-  - Öğr. Gör. Sanem Soner
-- **2023-2024:**
-  - Öğr. Gör. Dr. İrem Konca
-- **2022-2023:**
-  - Öğr. Gör. Sanem Soner
-- **2021-2022:**
-  - Öğr. Gör. Abdullah Mert Pekel
-- **2020-2021:**
-  - Öğr. Gör. Abdullah Mert Pekel
+- **2025-2026**:
+  - **IRS** — Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
+- **2024-2025**:
+  - **SS** — Öğr. Gör. Sanem Soner
+- **2023-2024**:
+  - **İKon** — Öğr. Gör. Dr. İrem Konca
+- **2022-2023**:
+  - **SS** — Öğr. Gör. Sanem Soner
+- **2021-2022**:
+  - **AMP** — Öğr. Gör. Abdullah Mert Pekel
+- **2020-2021**:
+  - **AMP** — Öğr. Gör. Abdullah Mert Pekel
 
 ### 📘 İş Sağlığı ve Güvenliği 2
 
@@ -206,18 +206,18 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - Prof. Dr. İsmail Kıyak
-- **2024-2025:**
-  - Prof. Dr. İsmail Kıyak
-- **2023-2024:**
-  - Prof. Dr. İsmail Kıyak
-- **2022-2023:**
-  - Prof. Dr. İsmail Kıyak
-- **2021-2022:**
-  - Prof. Dr. İsmail Kıyak
-- **2020-2021:**
-  - Prof. Dr. İsmail Kıyak
+- **2025-2026**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2024-2025**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2023-2024**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2022-2023**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2021-2022**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2020-2021**:
+  - **İK** — Prof. Dr. İsmail Kıyak
 
 ### 📘 Matematik 2
 
@@ -241,18 +241,18 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2024-2025:**
+- **2024-2025**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2023-2024:**
-  - Doç. Dr. Nazlı Yazıcı Gözütok
-- **2022-2023:**
-  - Doç. Dr. Nazlı Yazıcı Gözütok
-- **2021-2022:**
-  - Doç. Dr. Nazlı Yazıcı Gözütok
-- **2020-2021:**
-  - Prof. Dr. Bahar Kırık Rácz
+- **2023-2024**:
+  - **NYG** — Doç. Dr. Nazlı Yazıcı Gözütok
+- **2022-2023**:
+  - **NYG** — Doç. Dr. Nazlı Yazıcı Gözütok
+- **2021-2022**:
+  - **NYG** — Doç. Dr. Nazlı Yazıcı Gözütok
+- **2020-2021**:
+  - **BKR** — Prof. Dr. Bahar Kırık Rácz
 
 ### 📘 Türkçe 2
 
@@ -273,18 +273,18 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - Öğr. Gör. Dr. Mehmet Kocakaplan
-- **2024-2025:**
-  - Öğr. Gör. Dr. Mehmet Kocakaplan
-- **2023-2024:**
-  - Öğr. Gör. Dr. Mehmet Vehbi Büker
-- **2022-2023:**
-  - Öğr. Gör. Dr. Yasemin Bulut
-- **2021-2022:**
-  - Öğr. Gör. Dr. Nurgül Yıldız
-- **2020-2021:**
-  - Öğr. Gör. Dr. Nurgül Yıldız
+- **2025-2026**:
+  - **MK** — Öğr. Gör. Dr. Mehmet Kocakaplan
+- **2024-2025**:
+  - **MK** — Öğr. Gör. Dr. Mehmet Kocakaplan
+- **2023-2024**:
+  - **MVB** — Öğr. Gör. Dr. Mehmet Vehbi Büker
+- **2022-2023**:
+  - **YBul** — Öğr. Gör. Dr. Yasemin Bulut
+- **2021-2022**:
+  - **NY** — Öğr. Gör. Dr. Nurgül Yıldız
+- **2020-2021**:
+  - **NY** — Öğr. Gör. Dr. Nurgül Yıldız
 
 ### 📘 Mühendislik Ekonomisi
 

@@ -17,20 +17,27 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
-  - Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
-- **2025-2026:**
-  - Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
-- **2024-2025:**
-  - Öğr. Gör. Fevziye Esin Şahin
-- **2023-2024:**
-  - Öğr. Gör. Dr. İrem Konca
-- **2022-2023:**
-  - Öğr. Gör. Aysu Öztürk
-- **2021-2022:**
-  - Öğr. Gör. Abdullah Mert Pekel
-- **2020-2021:**
-  - Öğr. Gör. Abdullah Mert Pekel
+- **2026-2027**:
+  - **IRS** — Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
+- **2025-2026**:
+  - **IRS** — Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
+- **2024-2025**:
+  - **FEŞ** — Öğr. Gör. Fevziye Esin Şahin
+- **2023-2024**:
+  - **İKon** — Öğr. Gör. Dr. İrem Konca
+- **2022-2023**:
+  - **AÖ** — Öğr. Gör. Aysu Öztürk
+- **2021-2022**:
+  - **AMP** — Öğr. Gör. Abdullah Mert Pekel
+- **2020-2021**:
+  - **AMP** — Öğr. Gör. Abdullah Mert Pekel
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu](../../README.md#‍-öğr-gör-dr-işıl-ruacan-silahtaroğlu)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20I%C5%9F%C4%B1l%20Ruacan%20Silahtaro%C4%9Flu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

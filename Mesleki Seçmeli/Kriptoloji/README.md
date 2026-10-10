@@ -14,12 +14,18 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2023-2024:**
+- **2023-2024**:
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-- **2022-2023:**
+- **2022-2023**:
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-- **2021-2022:**
+- **2021-2022**:
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2022-2023 ve 2023-2024 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Öğr. Gör. Dr. Gözde Karataş Baydoğmuş](../../README.md#‍-öğr-gör-dr-gözde-karataş-baydoğmuş)**
 
 ## 🤝 Katkıda Bulun
 

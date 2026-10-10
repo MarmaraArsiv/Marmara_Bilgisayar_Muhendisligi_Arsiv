@@ -14,16 +14,25 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2024-2025:**
+- **2024-2025**:
   - **SB** — Öğr. Gör. Sebahattin Babur
-- **2023-2024:**
+- **2023-2024**:
   - **SB** — Öğr. Gör. Sebahattin Babur
-- **2022-2023:**
+- **2022-2023**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2020-2021:**
+- **2020-2021**:
   - **BÇU** — Dr. Öğretim Üyesi Banu Çalış Uslu
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Şahin Uyaver](../../README.md#‍-prof-dr-şahin-uyaver)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20%C5%9Eahin%20Uyaver) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
+- **[Öğr. Gör. Sebahattin Babur](../../README.md#‍-öğr-gör-sebahattin-babur)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Sebahattin%20Babur) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

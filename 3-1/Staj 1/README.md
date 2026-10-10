@@ -16,8 +16,14 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2020-2021:**
+- **2020-2021**:
   - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2020-2021 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Ahmet Emin Kuzucuoğlu](../../README.md#‍-prof-dr-ahmet-emin-kuzucuoğlu)**
 
 ## 🤝 Katkıda Bulun
 

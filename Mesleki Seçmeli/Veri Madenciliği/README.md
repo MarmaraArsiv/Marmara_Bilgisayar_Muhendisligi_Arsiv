@@ -14,18 +14,25 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2024-2025:**
+- **2024-2025**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2023-2024:**
+- **2023-2024**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2022-2023:**
+- **2022-2023**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2021-2022:**
+- **2021-2022**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
-- **2020-2021:**
+- **2020-2021**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Doç. Dr. Ayşe Berna Altınel](../../README.md#‍-doç-dr-ayşe-berna-altınel)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Ay%C5%9Fe%20Berna%20Alt%C4%B1nel) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

@@ -16,8 +16,15 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
-  - Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu
+- **2026-2027**:
+  - **ACÇK** — Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu](../../README.md#‍-dr-öğretim-üyesi-ayşe-ceren-çalıkoğlu-koyuncu)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ay%C5%9Fe%20Ceren%20%C3%87al%C4%B1ko%C4%9Flu%20Koyuncu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

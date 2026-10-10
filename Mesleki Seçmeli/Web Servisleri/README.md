@@ -14,16 +14,23 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **AB** — Öğr. Gör. Ahmet Bozdağ
-- **2024-2025:**
+- **2024-2025**:
   - **AB** — Öğr. Gör. Ahmet Bozdağ
-- **2023-2024:**
+- **2023-2024**:
   - **OT** — Öğr. Gör. Onur Türk
-- **2022-2023:**
+- **2022-2023**:
   - **OT** — Öğr. Gör. Onur Türk
-- **2021-2022:**
+- **2021-2022**:
   - **AB** — Öğr. Gör. Ahmet Bozdağ
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Öğr. Gör. Ahmet Bozdağ](../../README.md#‍-öğr-gör-ahmet-bozdağ)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Ahmet%20Bozda%C4%9F) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

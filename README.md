@@ -181,7 +181,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** Prof. Dr. Yahya Bozkurt
+    - **2026-2027**: [YB](#‍-prof-dr-yahya-bozkurt)
   - 📂 [Ders Klasörü](./1-1/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201)
 
 
@@ -193,7 +193,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Modern%20Biyolojiye%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu
+    - **2026-2027**: [ACÇK](#‍-dr-öğretim-üyesi-ayşe-ceren-çalıkoğlu-koyuncu)
   - 📂 [Ders Klasörü](./1-1/Modern%20Biyolojiye%20Giri%C5%9F)
 
 
@@ -205,7 +205,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Algoritma%20ve%20Programlamaya%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [BD](#‍-doç-dr-buket-doğan), [ABA](#‍-doç-dr-ayşe-berna-altınel)
+    - **2026-2027**: [BD](#‍-doç-dr-buket-doğan), [ABA](#‍-doç-dr-ayşe-berna-altınel)
   - 📂 [Ders Klasörü](./1-1/Algoritma%20ve%20Programlamaya%20Giri%C5%9F)
 
 
@@ -217,7 +217,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [SÖ](#‍-prof-dr-serhat-özekes)
+    - **2026-2027**: [SÖ](#‍-prof-dr-serhat-özekes)
   - 📂 [Ders Klasörü](./1-1/Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F)
 
 
@@ -229,7 +229,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Fizik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [ŞU](#‍-prof-dr-şahin-uyaver)
+    - **2026-2027**: [ŞU](#‍-prof-dr-şahin-uyaver)
   - 📂 [Ders Klasörü](./1-1/Fizik%201)
 
 
@@ -241,7 +241,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0ngilizce%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
+    - **2026-2027**: [IRS](#‍-öğr-gör-dr-işıl-ruacan-silahtaroğlu)
   - 📂 [Ders Klasörü](./1-1/%C4%B0ngilizce%201)
 
 
@@ -257,7 +257,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
       - 👤 **_havadangelensayi_**: Mesleki açıdan pek bir şey ifade etmiyor, sadece almanız gereken bir ders. AYT Kimya’nın biraz daha detaylı işlenmiş hâli desek yanlış olmaz. ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
         - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Kimya) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** Prof. Dr. Canan Doğan
+    - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı): [CD](#‍-prof-dr-canan-doğan)
   - 📂 [Ders Klasörü](./1-1/Kimya)
 
 
@@ -269,7 +269,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Lineer%20Cebir) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
+    - **2026-2027**: [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./1-1/Lineer%20Cebir)
 
 
@@ -281,7 +281,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Matematik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
+    - **2026-2027**: [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./1-1/Matematik%201)
 
 
@@ -293,7 +293,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=T%C3%BCrk%C3%A7e%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** Öğr. Gör. Dr. Mehmet Kocakaplan
+    - **2026-2027**: [MK](#‍-öğr-gör-dr-mehmet-kocakaplan)
   - 📂 [Ders Klasörü](./1-1/T%C3%BCrk%C3%A7e%201)
 
 ### 🗓 1. Yıl - Bahar
@@ -317,7 +317,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Donan%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ABul](#‍-prof-dr-ali-buldu)
+    - **2025-2026**: [ABul](#‍-prof-dr-ali-buldu)
   - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Donan%C4%B1m%C4%B1)
 
 
@@ -329,7 +329,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Programlama%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ABaş](#‍-dr-öğretim-üyesi-anıl-baş), [ABA](#‍-doç-dr-ayşe-berna-altınel), [SK](#‍-arş-gör-semiha-koç) (lab)
+    - **2025-2026**: [ABaş](#‍-dr-öğretim-üyesi-anıl-baş), [ABA](#‍-doç-dr-ayşe-berna-altınel), [SK](#‍-arş-gör-semiha-koç) (lab)
   - 📂 [Ders Klasörü](./1-2/Bilgisayar%20Programlama%201)
 
 
@@ -342,7 +342,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [BD](#‍-doç-dr-buket-doğan)
+    - **2025-2026**: [BD](#‍-doç-dr-buket-doğan)
   - 📂 [Ders Klasörü](./1-2/Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri)
 
 
@@ -354,7 +354,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Fizik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ŞU](#‍-prof-dr-şahin-uyaver)
+    - **2025-2026**: [ŞU](#‍-prof-dr-şahin-uyaver)
   - 📂 [Ders Klasörü](./1-2/Fizik%202)
 
 
@@ -366,7 +366,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0ngilizce%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu
+    - **2025-2026**: [IRS](#‍-öğr-gör-dr-işıl-ruacan-silahtaroğlu)
   - 📂 [Ders Klasörü](./1-2/%C4%B0ngilizce%202)
 
 
@@ -379,7 +379,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** Prof. Dr. İsmail Kıyak
+    - **2025-2026**: [İK](#‍-prof-dr-i̇smail-kıyak)
   - 📂 [Ders Klasörü](./1-2/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202)
 
 
@@ -391,7 +391,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Matematik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
+    - **2025-2026**: [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./1-2/Matematik%202)
 
 
@@ -403,7 +403,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=T%C3%BCrk%C3%A7e%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** Öğr. Gör. Dr. Mehmet Kocakaplan
+    - **2025-2026**: [MK](#‍-öğr-gör-dr-mehmet-kocakaplan)
   - 📂 [Ders Klasörü](./1-2/T%C3%BCrk%C3%A7e%202)
 
 ### 🗓 2. Yıl - Güz
@@ -437,7 +437,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mant%C4%B1k%20Devreleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş), [ABul](#‍-prof-dr-ali-buldu)
+    - **2026-2027**: [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş), [ABul](#‍-prof-dr-ali-buldu)
   - 📂 [Ders Klasörü](./2-1/Mant%C4%B1k%20Devreleri)
 
 
@@ -449,7 +449,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Nesne%20Y%C3%B6nelimli%20Programlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [KY](#‍-prof-dr-kazım-yıldız), [MP](#‍-arş-gör-dr-merve-pınar)
+    - **2026-2027**: [KY](#‍-prof-dr-kazım-yıldız), [MP](#‍-arş-gör-dr-merve-pınar)
   - 📂 [Ders Klasörü](./2-1/Nesne%20Y%C3%B6nelimli%20Programlama)
 
 
@@ -462,7 +462,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Programlama%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [ABA](#‍-doç-dr-ayşe-berna-altınel), [ED](#‍-dr-öğretim-üyesi-emrah-dikbıyık)
+    - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı): [ABA](#‍-doç-dr-ayşe-berna-altınel), [ED](#‍-dr-öğretim-üyesi-emrah-dikbıyık)
   - 📂 [Ders Klasörü](./2-1/Bilgisayar%20Programlama%202)
 
 
@@ -475,7 +475,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [ABal](#‍-arş-gör-dr-abdullah-bal)
+    - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı): [ABal](#‍-arş-gör-dr-abdullah-bal)
   - 📂 [Ders Klasörü](./2-1/%C4%B0nsan-Bilgisayar%20Etkile%C5%9Fimi%20ve%20G%C3%B6rsellik)
 
 
@@ -487,7 +487,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Ayr%C4%B1k%20Matematik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
+    - **2026-2027**: [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
   - 📂 [Ders Klasörü](./2-1/Ayr%C4%B1k%20Matematik)
 
 
@@ -499,7 +499,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Diferansiyel%20Denklemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
+    - **2026-2027**: [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./2-1/Diferansiyel%20Denklemler)
 
 ### 🗓 2. Yıl - Bahar
@@ -523,7 +523,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20A%C4%9Flar%C4%B1na%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [EEÜ](#‍-dr-öğretim-üyesi-eyüp-emre-ülkü)
+    - **2025-2026**: [EEÜ](#‍-dr-öğretim-üyesi-eyüp-emre-ülkü)
   - 📂 [Ders Klasörü](./2-2/Bilgisayar%20A%C4%9Flar%C4%B1na%20Giri%C5%9F)
 
 
@@ -536,7 +536,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Elektronik%20Devrelere%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
+    - **2025-2026**: [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
   - 📂 [Ders Klasörü](./2-2/Elektronik%20Devrelere%20Giri%C5%9F)
 
 
@@ -548,7 +548,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mikroi%C5%9Flemciler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [SA](#‍-dr-öğretim-üyesi-serkan-aydın)
+    - **2025-2026**: [SA](#‍-dr-öğretim-üyesi-serkan-aydın)
   - 📂 [Ders Klasörü](./2-2/Mikroi%C5%9Flemciler)
 
 
@@ -560,7 +560,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Say%C4%B1sal%20Analiz) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
+    - **2025-2026**: [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./2-2/Say%C4%B1sal%20Analiz)
 
 
@@ -572,7 +572,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş), [ED](#‍-dr-öğretim-üyesi-emrah-dikbıyık)
+    - **2025-2026**: [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş), [ED](#‍-dr-öğretim-üyesi-emrah-dikbıyık)
   - 📂 [Ders Klasörü](./2-2/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar)
 
 
@@ -585,7 +585,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=M%C3%BChendisler%20i%C3%A7in%20%C4%B0statistik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
+    - **2025-2026**: [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir)
   - 📂 [Ders Klasörü](./2-2/M%C3%BChendisler%20i%C3%A7in%20%C4%B0statistik)
 
 ### 🗓 3. Yıl - Güz
@@ -610,7 +610,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Staj%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2020-2021:** [AEK](#‍-prof-dr-ahmet-emin-kuzucuoğlu)
+    - **2020-2021**: [AEK](#‍-prof-dr-ahmet-emin-kuzucuoğlu)
   - 📂 [Ders Klasörü](./3-1/Staj%201)
 
 
@@ -622,7 +622,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [BD](#‍-doç-dr-buket-doğan), [BB](#‍-arş-gör-dr-büşra-büyüktanır)
+    - **2026-2027**: [BD](#‍-doç-dr-buket-doğan), [BB](#‍-arş-gör-dr-büşra-büyüktanır)
   - 📂 [Ders Klasörü](./3-1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri)
 
 
@@ -634,7 +634,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0%C5%9Fletim%20Sistemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş)
+    - **2026-2027**: [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş)
   - 📂 [Ders Klasörü](./3-1/%C4%B0%C5%9Fletim%20Sistemleri)
 
 
@@ -647,7 +647,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mikrodenetleyiciler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
+    - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı): [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
   - 📂 [Ders Klasörü](./3-1/Mikrodenetleyiciler)
 
 
@@ -660,7 +660,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Sinyaller%20ve%20Sistemlere%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [ÖA](#‍-doç-dr-ömer-akgün)
+    - **2026-2027**: [ÖA](#‍-doç-dr-ömer-akgün)
   - 📂 [Ders Klasörü](./3-1/Sinyaller%20ve%20Sistemlere%20Giri%C5%9F)
 
 ### 🗓 3. Yıl - Bahar
@@ -696,7 +696,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Organizasyonu%20ve%20Mimarisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş)
+    - **2025-2026**: [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş)
   - 📂 [Ders Klasörü](./3-2/Bilgisayar%20Organizasyonu%20ve%20Mimarisi)
 
 
@@ -709,7 +709,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Web%20Programlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ABaş](#‍-dr-öğretim-üyesi-anıl-baş), [ED](#‍-dr-öğretim-üyesi-emrah-dikbıyık)
+    - **2025-2026**: [ABaş](#‍-dr-öğretim-üyesi-anıl-baş), [ED](#‍-dr-öğretim-üyesi-emrah-dikbıyık)
   - 📂 [Ders Klasörü](./3-2/Web%20Programlama)
 
 
@@ -721,7 +721,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Sistem%20Programlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [KY](#‍-prof-dr-kazım-yıldız)
+    - **2025-2026**: [KY](#‍-prof-dr-kazım-yıldız)
   - 📂 [Ders Klasörü](./3-2/Sistem%20Programlama)
 
 
@@ -733,7 +733,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [BD](#‍-doç-dr-buket-doğan)
+    - **2025-2026**: [BD](#‍-doç-dr-buket-doğan)
   - 📂 [Ders Klasörü](./3-2/Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi)
 
 ### 🗓 4. Yıl - Güz
@@ -778,7 +778,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [SÖ](#‍-prof-dr-serhat-özekes), [ABA](#‍-doç-dr-ayşe-berna-altınel), [ÖD](#‍-doç-dr-önder-demir), [ŞU](#‍-prof-dr-şahin-uyaver), [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş), [KY](#‍-prof-dr-kazım-yıldız), [BD](#‍-doç-dr-buket-doğan)
+    - **2026-2027**: [SÖ](#‍-prof-dr-serhat-özekes), [ABA](#‍-doç-dr-ayşe-berna-altınel), [ÖD](#‍-doç-dr-önder-demir), [ŞU](#‍-prof-dr-şahin-uyaver), [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş), [KY](#‍-prof-dr-kazım-yıldız), [BD](#‍-doç-dr-buket-doğan)
   - 📂 [Ders Klasörü](./4-1/%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi)
 
 
@@ -790,7 +790,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** Dr. Öğretim Üyesi Oya Ayhan Girit
+    - **2026-2027**: [OAG](#‍-dr-öğretim-üyesi-oya-ayhan-girit)
   - 📂 [Ders Klasörü](./4-1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%201)
 
 ### 🗓 4. Yıl - Bahar
@@ -815,7 +815,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Sistem%20ve%20Sunucu%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [MŞ](#‍-dr-mustafa-şahin)
+    - **2025-2026**: [MŞ](#‍-dr-mustafa-şahin)
   - 📂 [Ders Klasörü](./4-2/Sistem%20ve%20Sunucu%20Y%C3%B6netimi)
 
 
@@ -828,7 +828,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bitirme%20Projesi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ABul](#‍-prof-dr-ali-buldu), [ABaş](#‍-dr-öğretim-üyesi-anıl-baş), [EEÜ](#‍-dr-öğretim-üyesi-eyüp-emre-ülkü), [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir), [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan), [SÖ](#‍-prof-dr-serhat-özekes), [ŞU](#‍-prof-dr-şahin-uyaver), [ABA](#‍-doç-dr-ayşe-berna-altınel), [BD](#‍-doç-dr-buket-doğan), [KY](#‍-prof-dr-kazım-yıldız), [ÖD](#‍-doç-dr-önder-demir), [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş), [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş)
+    - **2025-2026**: [ABul](#‍-prof-dr-ali-buldu), [ABaş](#‍-dr-öğretim-üyesi-anıl-baş), [EEÜ](#‍-dr-öğretim-üyesi-eyüp-emre-ülkü), [NÖ](#‍-dr-öğretim-üyesi-neşe-özdemir), [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan), [SÖ](#‍-prof-dr-serhat-özekes), [ŞU](#‍-prof-dr-şahin-uyaver), [ABA](#‍-doç-dr-ayşe-berna-altınel), [BD](#‍-doç-dr-buket-doğan), [KY](#‍-prof-dr-kazım-yıldız), [ÖD](#‍-doç-dr-önder-demir), [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş), [AS](#‍-dr-öğretim-üyesi-ali-sarıkaş)
   - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi)
 
 
@@ -840,7 +840,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** Dr. Öğretim Üyesi Oya Ayhan Girit
+    - **2025-2026**: [OAG](#‍-dr-öğretim-üyesi-oya-ayhan-girit)
   - 📂 [Ders Klasörü](./4-2/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%202)
 
 
@@ -853,7 +853,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Teknik%20%C4%B0ngilizce) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [SÖ](#‍-prof-dr-serhat-özekes)
+    - **2025-2026**: [SÖ](#‍-prof-dr-serhat-özekes)
   - 📂 [Ders Klasörü](./4-2/Teknik%20%C4%B0ngilizce)
 </details>
 
@@ -873,7 +873,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Algoritma%20Analizi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [ÖD](#‍-doç-dr-önder-demir)
+    - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı): [ÖD](#‍-doç-dr-önder-demir)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Algoritma%20Analizi)
 
 #### 📘 Açık Kaynak Kodlu Yazılımlar 
@@ -884,7 +884,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=A%C3%A7%C4%B1k%20Kaynak%20Kodlu%20Yaz%C4%B1l%C4%B1mlar) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [HÖ](#‍-öğr-gör-halil-özkan)
+    - **2025-2026**: [HÖ](#‍-öğr-gör-halil-özkan)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/A%C3%A7%C4%B1k%20Kaynak%20Kodlu%20Yaz%C4%B1l%C4%B1mlar)
 
 #### 📘 Bilgisayar Ağ Protokolleri 
@@ -895,7 +895,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20A%C4%9F%20Protokolleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [OCA](#‍-öğr-gör-osman-cihan-akar)
+    - **2026-2027**: [OCA](#‍-öğr-gör-osman-cihan-akar)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20A%C4%9F%20Protokolleri)
 
 #### 📘 Bilgisayar Grafik 
@@ -906,7 +906,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20Grafik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [AHD](#‍-öğr-gör-ata-hürdoğan-demiray)
+    - **2026-2027**: [AHD](#‍-öğr-gör-ata-hürdoğan-demiray)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20Grafik)
 
 #### 📘 Bilgisayar Güvenliği 
@@ -917,7 +917,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilgisayar%20G%C3%BCvenli%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [Bİ](#‍-öğr-gör-barış-i̇nceişçi)
+    - **2025-2026**: [Bİ](#‍-öğr-gör-barış-i̇nceişçi)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20G%C3%BCvenli%C4%9Fi)
 
 #### 📘 Biçimsel Diller ve Otomata Teorisi 
@@ -928,7 +928,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bi%C3%A7imsel%20Diller%20ve%20Otomata%20Teorisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş)
+    - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı): [AA](#‍-dr-öğretim-üyesi-abdulsamet-aktaş)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bi%C3%A7imsel%20Diller%20ve%20Otomata%20Teorisi)
 
 #### 📘 Blockchain Programlamaya Giriş 
@@ -975,7 +975,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=E-Ticarete%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2024-2025:** [SDY](#‍-dr-sema-demir-yaylacı)
+    - **2024-2025**: [SDY](#‍-dr-sema-demir-yaylacı)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/E-Ticarete%20Giri%C5%9F)
 
 #### 📘 Eğitim Sistemleri Tasarımı 
@@ -995,7 +995,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=G%C3%B6m%C3%BCl%C3%BC%20Sistemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [SB](#‍-öğr-gör-sebahattin-babur)
+    - **2025-2026**: [SB](#‍-öğr-gör-sebahattin-babur)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/G%C3%B6m%C3%BCl%C3%BC%20Sistemler)
 
 #### 📘 Görüntü İşlemenin Temelleri 
@@ -1006,7 +1006,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Flemenin%20Temelleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [SÖ](#‍-prof-dr-serhat-özekes)
+    - **2025-2026**: [SÖ](#‍-prof-dr-serhat-özekes)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Flemenin%20Temelleri)
 
 #### 📘 Güncel Yapay Zeka Yaklaşımları 
@@ -1026,7 +1026,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Kablosuz%20A%C4%9Flar) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [OCA](#‍-öğr-gör-osman-cihan-akar)
+    - **2025-2026**: [OCA](#‍-öğr-gör-osman-cihan-akar)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kablosuz%20A%C4%9Flar)
 
 #### 📘 Kablosuz ve Mobil Ağlar 
@@ -1046,7 +1046,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Kriptoloji) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2023-2024:** [GKB](#‍-öğr-gör-dr-gözde-karataş-baydoğmuş)
+    - **2023-2024**: [GKB](#‍-öğr-gör-dr-gözde-karataş-baydoğmuş)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kriptoloji)
 
 #### 📘 Linux Kabuk Programlama 
@@ -1057,7 +1057,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Linux%20Kabuk%20Programlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [ŞU](#‍-prof-dr-şahin-uyaver)
+    - **2026-2027**: [ŞU](#‍-prof-dr-şahin-uyaver)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Linux%20Kabuk%20Programlama)
 
 #### 📘 Makine Öğrenimine Giriş 
@@ -1086,7 +1086,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Mobil%20Programlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
+    - **2025-2026**: [Tİ](#‍-dr-öğretim-üyesi-timur-i̇nan)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Mobil%20Programlama)
 
 #### 📘 Mühendislik Matematiği ve Uygulamaları 
@@ -1133,7 +1133,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Oyun%20Yaz%C4%B1l%C4%B1m%C4%B1%20Geli%C5%9Ftirme) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ABal](#‍-arş-gör-dr-abdullah-bal)
+    - **2025-2026**: [ABal](#‍-arş-gör-dr-abdullah-bal)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Oyun%20Yaz%C4%B1l%C4%B1m%C4%B1%20Geli%C5%9Ftirme)
 
 #### 📘 Paralel Hesaplama 
@@ -1162,7 +1162,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Say%C4%B1sal%20%C4%B0%C5%9Faret%20%C4%B0%C5%9Fleme) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ÖA](#‍-doç-dr-ömer-akgün)
+    - **2025-2026**: [ÖA](#‍-doç-dr-ömer-akgün)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Say%C4%B1sal%20%C4%B0%C5%9Faret%20%C4%B0%C5%9Fleme)
 
 #### 📘 Simulasyon ve Modelleme 
@@ -1173,7 +1173,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Simulasyon%20ve%20Modelleme) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ŞU](#‍-prof-dr-şahin-uyaver)
+    - **2025-2026**: [ŞU](#‍-prof-dr-şahin-uyaver)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Simulasyon%20ve%20Modelleme)
 
 #### 📘 Sosyal Ağlarda Uygulamalı Metin Analizi 
@@ -1202,7 +1202,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Veri%20Madencili%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [ABA](#‍-doç-dr-ayşe-berna-altınel)
+    - **2025-2026**: [ABA](#‍-doç-dr-ayşe-berna-altınel)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Veri%20Madencili%C4%9Fi)
 
 #### 📘 Web Servisleri 
@@ -1213,7 +1213,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Web%20Servisleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [AB](#‍-öğr-gör-ahmet-bozdağ)
+    - **2025-2026**: [AB](#‍-öğr-gör-ahmet-bozdağ)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Web%20Servisleri)
 
 #### 📘 Yapay Sinir Ağları 
@@ -1224,7 +1224,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Yapay%20Sinir%20A%C4%9Flar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2026-2027:** [SÖ](#‍-prof-dr-serhat-özekes)
+    - **2026-2027**: [SÖ](#‍-prof-dr-serhat-özekes)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yapay%20Sinir%20A%C4%9Flar%C4%B1)
 
 #### 📘 Yapay Zekâya Giriş 
@@ -1235,7 +1235,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Yapay%20Zek%C3%A2ya%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** [KY](#‍-prof-dr-kazım-yıldız)
+    - **2025-2026**: [KY](#‍-prof-dr-kazım-yıldız)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yapay%20Zek%C3%A2ya%20Giri%C5%9F)
 
 #### 📘 Yazılım Projelerinin Yönetimi 
@@ -1246,7 +1246,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Yaz%C4%B1l%C4%B1m%20Projelerinin%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2021-2022:** [HÖ](#‍-öğr-gör-halil-özkan)
+    - **2021-2022**: [HÖ](#‍-öğr-gör-halil-özkan)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yaz%C4%B1l%C4%B1m%20Projelerinin%20Y%C3%B6netimi)
 
 #### 📘 İnsan-Bilgisayar Etkileşimi ve Görsellik 
@@ -1268,7 +1268,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Bilim%20Tarihi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2024-2025:** Dr. Öğretim Üyesi Emre Akın
+    - **2024-2025**: [EA](#‍-dr-öğretim-üyesi-emre-akın)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Bilim%20Tarihi)
 
 #### 📘 Fizibilite Hazırlama ve Uygulamaları 
@@ -1288,7 +1288,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Giri%C5%9Fimcilik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** Öğr. Gör. Neslihan Bayraktar
+    - **2025-2026**: [NB](#‍-öğr-gör-neslihan-bayraktar)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Giri%C5%9Fimcilik)
 
 #### 📘 Girişimcilik ve İnovasyon 
@@ -1371,7 +1371,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 💬 **Öğrenci Görüşleri:**
       - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSdZ8qteiUcKRU6hkYA33RnwXt5C2PIgAxK6ZMsE9PIr9xa7-g/viewform?usp=pp_url&entry.874814544=Teknik%20Sat%C4%B1%C5%9F%20ve%20Pazarlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
-    - **2025-2026:** Öğr. Gör. Dr. Nur Demirbaş Hergüner
+    - **2025-2026**: [NDH](#‍-öğr-gör-dr-nur-demirbaş-hergüner)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Teknik%20Sat%C4%B1%C5%9F%20ve%20Pazarlama)
 
 #### 📘 Teknik İletişim 
@@ -1851,10 +1851,117 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 
+### Diğer Bölümlerden Ders Veren Hocalar
+
+
+Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) veren, başka bölümlerden gelen hocalar.
+
+#### 🧑‍🏫 Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ay%C5%9Fe%20Ceren%20%C3%87al%C4%B1ko%C4%9Flu%20Koyuncu) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Modern Biyolojiye Giriş](#-modern-biyolojiye-giriş) (2026-2027)
+
+#### 🧑‍🏫 Prof. Dr. Canan Doğan 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Canan%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Kimya](#-kimya) (2026-2027)
+
+#### 🧑‍🏫 Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20I%C5%9F%C4%B1l%20Ruacan%20Silahtaro%C4%9Flu) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İngilizce 1](#-i̇ngilizce-1) (2025-2026 → 2026-2027)
+  - 📖 [İngilizce 2](#-i̇ngilizce-2) (2025-2026)
+
+#### 🧑‍🏫 Prof. Dr. İsmail Kıyak 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20%C4%B0smail%20K%C4%B1yak) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İş Sağlığı ve Güvenliği 2](#-i̇ş-sağlığı-ve-güvenliği-2) (2020-2021 → 2025-2026)
+
+#### 🧑‍🏫 Öğr. Gör. Dr. Mehmet Kocakaplan 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Mehmet%20Kocakaplan) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Türkçe 1](#-türkçe-1) (2024-2025 → 2026-2027)
+  - 📖 [Türkçe 2](#-türkçe-2) (2024-2025 → 2025-2026)
+
+#### 🧑‍🏫 Öğr. Gör. Neslihan Bayraktar 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Neslihan%20Bayraktar) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Girişimcilik](#-girişimcilik) (2025-2026)
+
+#### 🧑‍🏫 Öğr. Gör. Dr. Nur Demirbaş Hergüner 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Nur%20Demirba%C5%9F%20Herg%C3%BCner) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Teknik Satış ve Pazarlama](#-teknik-satış-ve-pazarlama) (2022-2023 → 2025-2026)
+
+#### 🧑‍🏫 Dr. Öğretim Üyesi Oya Ayhan Girit 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Oya%20Ayhan%20Girit) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Atatürk İlkeleri ve İnkılap Tarihi 1](#-atatürk-i̇lkeleri-ve-i̇nkılap-tarihi-1) (2021-2022 → 2026-2027)
+  - 📖 [Atatürk İlkeleri ve İnkılap Tarihi 2](#-atatürk-i̇lkeleri-ve-i̇nkılap-tarihi-2) (2021-2022 → 2025-2026)
+
+#### 🧑‍🏫 Prof. Dr. Yahya Bozkurt 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Yahya%20Bozkurt) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İş Sağlığı ve Güvenliği 1](#-i̇ş-sağlığı-ve-güvenliği-1) (2026-2027)
+
+#### 🧑‍🏫 Dr. Öğretim Üyesi Zeynel Şahin 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Zeynel%20%C5%9Eahin) anonim şekilde görüşlerinizi belirtebilirsiniz.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Kimya](#-kimya) (2023-2024 → 2025-2026)
+
 ### Önceki Yıllarda Ders Veren Hocalar
 
 
 Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hocalar.
+
+#### 🧑‍🏫 Öğr. Gör. Abdullah Mert Pekel 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İngilizce 1](#-i̇ngilizce-1) (2020-2021 → 2021-2022)
+  - 📖 [İngilizce 2](#-i̇ngilizce-2) (2020-2021 → 2021-2022)
+
+#### 🧑‍🏫 Prof. Dr. Adil Güler 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Fizik 1](#-fizik-1) (2024-2025)
+  - 📖 [Lineer Cebir](#-lineer-cebir) (2023-2024 → 2024-2025)
+  - 📖 [Fizik 2](#-fizik-2) (2024-2025)
 
 #### 🧑‍🏫 Prof. Dr. Ahmet Emin Kuzucuoğlu 
 - 🚪 **Ofis:** 
@@ -1872,6 +1979,22 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 📚 **Verdiği Dersler:**
   - 📖 [Elektronik Devrelere Giriş](#-elektronik-devrelere-giriş) (2022-2023 → 2024-2025)
 
+#### 🧑‍🏫 Öğr. Gör. Aysu Öztürk 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İngilizce 1](#-i̇ngilizce-1) (2022-2023)
+
+#### 🧑‍🏫 Prof. Ayşe Neşe Dernek 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2020-2021)
+
 #### 🧑‍🏫 Dr. Öğretim Üyesi Ayşe Yayla 
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
@@ -1881,6 +2004,15 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [Mantık Devreleri](#-mantık-devreleri) (2021-2022)
   - 📖 [Gömülü Sistemler](#-gömülü-sistemler) (2021-2022)
 
+#### 🧑‍🏫 Prof. Dr. Bahar Kırık Rácz 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Matematik 1](#-matematik-1) (2020-2021 → 2021-2022)
+  - 📖 [Matematik 2](#-matematik-2) (2020-2021)
+
 #### 🧑‍🏫 Dr. Öğretim Üyesi Banu Çalış Uslu 
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
@@ -1888,6 +2020,38 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Simulasyon ve Modelleme](#-simulasyon-ve-modelleme) (2020-2021)
+
+#### 🧑‍🏫 Doç. Dr. Burhan Tiryakioğlu 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2023-2024)
+
+#### 🧑‍🏫 Arş. Gör. Dr. Busenur Kızılaslan 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Mühendisler için İstatistik](#-mühendisler-için-i̇statistik) (2020-2021)
+
+#### 🧑‍🏫 Prof. Dr. Dursun Üstündağ 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Sayısal Analiz](#-sayısal-analiz) (2020-2021 → 2021-2022)
+
+#### 🧑‍🏫 Dr. Öğretim Üyesi Emre Akın 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Bilim Tarihi](#-bilim-tarihi) (2022-2023 → 2024-2025)
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Esra Çalık Bayazıt 
 - 🚪 **Ofis:** 
@@ -1897,6 +2061,14 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 📚 **Verdiği Dersler:**
   - 📖 [Veritabanı Yönetim Sistemleri](#-veritabanı-yönetim-sistemleri) (2023-2024 → 2024-2025)
   - 📖 [Sistem ve Sunucu Yönetimi](#-sistem-ve-sunucu-yönetimi) (2022-2023)
+
+#### 🧑‍🏫 Öğr. Gör. Fevziye Esin Şahin 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İngilizce 1](#-i̇ngilizce-1) (2024-2025)
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Gökhan Akın 
 - 🚪 **Ofis:** 
@@ -1920,6 +2092,14 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2021-2022 → 2023-2024)
   - 📖 [Kriptoloji](#-kriptoloji) (2021-2022 → 2023-2024)
 
+#### 🧑‍🏫 Dr. Öğretim Üyesi Halil İbrahim Çelik 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2021-2022)
+
 #### 🧑‍🏫 Dr. Öğretim Üyesi Hasan Hüseyin Çelik 
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
@@ -1927,6 +2107,56 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mikrodenetleyiciler](#-mikrodenetleyiciler) (2020-2021 → 2023-2024)
+
+#### 🧑‍🏫 Dr. Hulusi Ersoy 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Bilim Tarihi](#-bilim-tarihi) (2021-2022)
+
+#### 🧑‍🏫 Prof. Dr. Hülya Yılmaz 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Lineer Cebir](#-lineer-cebir) (2020-2021 → 2021-2022)
+
+#### 🧑‍🏫 Öğr. Gör. Dr. İrem Konca 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İngilizce 1](#-i̇ngilizce-1) (2023-2024)
+  - 📖 [İngilizce 2](#-i̇ngilizce-2) (2023-2024)
+
+#### 🧑‍🏫 Doç. Dr. Mehmet Fatih Karaaslan 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Sayısal Analiz](#-sayısal-analiz) (2022-2023)
+
+#### 🧑‍🏫 Prof. Dr. Mehmet Sayıp Eroğlu 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Kimya](#-kimya) (2022-2023)
+
+#### 🧑‍🏫 Öğr. Gör. Dr. Mehmet Vehbi Büker 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Türkçe 1](#-türkçe-1) (2023-2024)
+  - 📖 [Türkçe 2](#-türkçe-2) (2023-2024)
 
 #### 🧑‍🏫 Doç. Dr. Mustafa Cem Kasapbaşı 
 - 🚪 **Ofis:** 
@@ -1936,6 +2166,25 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 📚 **Verdiği Dersler:**
   - 📖 [Biçimsel Diller ve Otomata Teorisi](#-biçimsel-diller-ve-otomata-teorisi) (2020-2021)
 
+#### 🧑‍🏫 Doç. Dr. Nazlı Yazıcı Gözütok 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Matematik 1](#-matematik-1) (2022-2023 → 2023-2024)
+  - 📖 [Ayrık Matematik](#-ayrık-matematik) (2022-2023 → 2023-2024)
+  - 📖 [Matematik 2](#-matematik-2) (2021-2022 → 2023-2024)
+
+#### 🧑‍🏫 Öğr. Gör. Dr. Nurgül Yıldız 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Türkçe 1](#-türkçe-1) (2020-2021 → 2021-2022)
+  - 📖 [Türkçe 2](#-türkçe-2) (2020-2021 → 2021-2022)
+
 #### 🧑‍🏫 Öğr. Gör. Onur Türk 
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
@@ -1944,6 +2193,14 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 📚 **Verdiği Dersler:**
   - 📖 [Web Servisleri](#-web-servisleri) (2022-2023 → 2023-2024)
 
+#### 🧑‍🏫 Prof. Dr. Özge Cağcağ Yolcu 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Mühendisler için İstatistik](#-mühendisler-için-i̇statistik) (2021-2022 → 2024-2025)
+
 #### 🧑‍🏫 Dr. Öğretim Üyesi Pınar Özkan Bakbak 
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
@@ -1951,6 +2208,22 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [Elektronik Devrelere Giriş](#-elektronik-devrelere-giriş) (2020-2021)
+
+#### 🧑‍🏫 Doç. Dr. Sabahattin Deniz 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Kimya](#-kimya) (2020-2021 → 2021-2022)
+
+#### 🧑‍🏫 Öğr. Gör. Sanem Soner 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [İngilizce 2](#-i̇ngilizce-2) (2022-2023, 2024-2025)
 
 #### 🧑‍🏫 Dr. Öğretim Üyesi Savaş Öztürk 
 - 🚪 **Ofis:** 
@@ -1975,6 +2248,23 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
   - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
 - 📚 **Verdiği Dersler:**
   - 📖 [E-Ticarete Giriş](#-e-ticarete-giriş) (2023-2024 → 2024-2025)
+
+#### 🧑‍🏫 Prof. Dr. Serhan Eker 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Lineer Cebir](#-lineer-cebir) (2022-2023)
+  - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2022-2023)
+
+#### 🧑‍🏫 Doç. Dr. Suat Koç 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Ayrık Matematik](#-ayrık-matematik) (2020-2021 → 2021-2022)
 
 #### 🧑‍🏫 Öğr. Gör. Dr. Uğur Çekmez 
 - 🚪 **Ofis:** 
@@ -2009,6 +2299,15 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Organizasyonu ve Mimarisi](#-bilgisayar-organizasyonu-ve-mimarisi) (2020-2021 → 2021-2022)
 
+#### 🧑‍🏫 Öğr. Gör. Dr. Yasemin Bulut 
+- 🚪 **Ofis:** 
+- 🔗 **Araştırma Sayfası:** 
+- 💬 **Öğrenci Görüşleri:**
+  - ℹ️ Son iki akademik yılda bölümde dersi görünmediği için yorum formunda yer almıyor.
+- 📚 **Verdiği Dersler:**
+  - 📖 [Türkçe 1](#-türkçe-1) (2022-2023)
+  - 📖 [Türkçe 2](#-türkçe-2) (2022-2023)
+
 </details>
 
 <details>
@@ -2035,42 +2334,74 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 <p align='center'>🔹 <b>ABal</b> &emsp; Arş. Gör. Dr. Abdullah Bal 🔹</p>
 <p align='center'>🔹 <b>ABaş</b> &emsp; Dr. Öğretim Üyesi Anıl Baş 🔹</p>
 <p align='center'>🔹 <b>ABul</b> &emsp; Prof. Dr. Ali Buldu 🔹</p>
+<p align='center'>🔹 <b>ACÇK</b> &emsp; Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu 🔹</p>
 <p align='center'>🔹 <b>AEK</b> &emsp; Prof. Dr. Ahmet Emin Kuzucuoğlu 🔹</p>
+<p align='center'>🔹 <b>AG</b> &emsp; Prof. Dr. Adil Güler 🔹</p>
 <p align='center'>🔹 <b>AHD</b> &emsp; Öğr. Gör. Ata Hürdoğan Demiray 🔹</p>
+<p align='center'>🔹 <b>AMP</b> &emsp; Öğr. Gör. Abdullah Mert Pekel 🔹</p>
 <p align='center'>🔹 <b>ANA</b> &emsp; Doç. Dr. Alper Nabi Akpolat 🔹</p>
+<p align='center'>🔹 <b>AND</b> &emsp; Prof. Ayşe Neşe Dernek 🔹</p>
+<p align='center'>🔹 <b>AÖ</b> &emsp; Öğr. Gör. Aysu Öztürk 🔹</p>
 <p align='center'>🔹 <b>AS</b> &emsp; Dr. Öğretim Üyesi Ali Sarıkaş 🔹</p>
 <p align='center'>🔹 <b>AY</b> &emsp; Dr. Öğretim Üyesi Ayşe Yayla 🔹</p>
 <p align='center'>🔹 <b>BB</b> &emsp; Arş. Gör. Dr. Büşra Büyüktanır 🔹</p>
 <p align='center'>🔹 <b>BÇU</b> &emsp; Dr. Öğretim Üyesi Banu Çalış Uslu 🔹</p>
 <p align='center'>🔹 <b>BD</b> &emsp; Doç. Dr. Buket Doğan 🔹</p>
 <p align='center'>🔹 <b>Bİ</b> &emsp; Öğr. Gör. Barış İnceişçi 🔹</p>
+<p align='center'>🔹 <b>BK</b> &emsp; Arş. Gör. Dr. Busenur Kızılaslan 🔹</p>
+<p align='center'>🔹 <b>BKR</b> &emsp; Prof. Dr. Bahar Kırık Rácz 🔹</p>
+<p align='center'>🔹 <b>BT</b> &emsp; Doç. Dr. Burhan Tiryakioğlu 🔹</p>
+<p align='center'>🔹 <b>CD</b> &emsp; Prof. Dr. Canan Doğan 🔹</p>
 <p align='center'>🔹 <b>DM</b> &emsp; Arş. Gör. Damla Mengüş 🔹</p>
+<p align='center'>🔹 <b>DÜ</b> &emsp; Prof. Dr. Dursun Üstündağ 🔹</p>
+<p align='center'>🔹 <b>EA</b> &emsp; Dr. Öğretim Üyesi Emre Akın 🔹</p>
 <p align='center'>🔹 <b>EÇB</b> &emsp; Öğr. Gör. Dr. Esra Çalık Bayazıt 🔹</p>
 <p align='center'>🔹 <b>ED</b> &emsp; Dr. Öğretim Üyesi Emrah Dikbıyık 🔹</p>
 <p align='center'>🔹 <b>EEÜ</b> &emsp; Dr. Öğretim Üyesi Eyüp Emre Ülkü 🔹</p>
+<p align='center'>🔹 <b>FEŞ</b> &emsp; Öğr. Gör. Fevziye Esin Şahin 🔹</p>
 <p align='center'>🔹 <b>GA</b> &emsp; Öğr. Gör. Dr. Gökhan Akın 🔹</p>
 <p align='center'>🔹 <b>GKB</b> &emsp; Öğr. Gör. Dr. Gözde Karataş Baydoğmuş 🔹</p>
+<p align='center'>🔹 <b>HE</b> &emsp; Dr. Hulusi Ersoy 🔹</p>
 <p align='center'>🔹 <b>HHÇ</b> &emsp; Dr. Öğretim Üyesi Hasan Hüseyin Çelik 🔹</p>
+<p align='center'>🔹 <b>HİÇ</b> &emsp; Dr. Öğretim Üyesi Halil İbrahim Çelik 🔹</p>
 <p align='center'>🔹 <b>HÖ</b> &emsp; Öğr. Gör. Halil Özkan 🔹</p>
+<p align='center'>🔹 <b>HY</b> &emsp; Prof. Dr. Hülya Yılmaz 🔹</p>
+<p align='center'>🔹 <b>IRS</b> &emsp; Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu 🔹</p>
+<p align='center'>🔹 <b>İK</b> &emsp; Prof. Dr. İsmail Kıyak 🔹</p>
+<p align='center'>🔹 <b>İKon</b> &emsp; Öğr. Gör. Dr. İrem Konca 🔹</p>
 <p align='center'>🔹 <b>KY</b> &emsp; Prof. Dr. Kazım Yıldız 🔹</p>
 <p align='center'>🔹 <b>LÖ</b> &emsp; Doç. Dr. Lutfi Özdemir 🔹</p>
 <p align='center'>🔹 <b>MCK</b> &emsp; Doç. Dr. Mustafa Cem Kasapbaşı 🔹</p>
+<p align='center'>🔹 <b>MFK</b> &emsp; Doç. Dr. Mehmet Fatih Karaaslan 🔹</p>
 <p align='center'>🔹 <b>MHİ</b> &emsp; Arş. Gör. Merve Hazan İşcan 🔹</p>
+<p align='center'>🔹 <b>MK</b> &emsp; Öğr. Gör. Dr. Mehmet Kocakaplan 🔹</p>
 <p align='center'>🔹 <b>MP</b> &emsp; Arş. Gör. Dr. Merve Pınar 🔹</p>
+<p align='center'>🔹 <b>MSE</b> &emsp; Prof. Dr. Mehmet Sayıp Eroğlu 🔹</p>
 <p align='center'>🔹 <b>MŞ</b> &emsp; Dr. Mustafa Şahin 🔹</p>
+<p align='center'>🔹 <b>MVB</b> &emsp; Öğr. Gör. Dr. Mehmet Vehbi Büker 🔹</p>
+<p align='center'>🔹 <b>NB</b> &emsp; Öğr. Gör. Neslihan Bayraktar 🔹</p>
+<p align='center'>🔹 <b>NDH</b> &emsp; Öğr. Gör. Dr. Nur Demirbaş Hergüner 🔹</p>
 <p align='center'>🔹 <b>NK</b> &emsp; Arş. Gör. Nursaç Kurt 🔹</p>
 <p align='center'>🔹 <b>NÖ</b> &emsp; Dr. Öğretim Üyesi Neşe Özdemir 🔹</p>
+<p align='center'>🔹 <b>NY</b> &emsp; Öğr. Gör. Dr. Nurgül Yıldız 🔹</p>
+<p align='center'>🔹 <b>NYG</b> &emsp; Doç. Dr. Nazlı Yazıcı Gözütok 🔹</p>
+<p align='center'>🔹 <b>OAG</b> &emsp; Dr. Öğretim Üyesi Oya Ayhan Girit 🔹</p>
 <p align='center'>🔹 <b>OCA</b> &emsp; Öğr. Gör. Osman Cihan Akar 🔹</p>
 <p align='center'>🔹 <b>OT</b> &emsp; Öğr. Gör. Onur Türk 🔹</p>
 <p align='center'>🔹 <b>ÖA</b> &emsp; Doç. Dr. Ömer Akgün 🔹</p>
+<p align='center'>🔹 <b>ÖCY</b> &emsp; Prof. Dr. Özge Cağcağ Yolcu 🔹</p>
 <p align='center'>🔹 <b>ÖD</b> &emsp; Doç. Dr. Önder Demir 🔹</p>
 <p align='center'>🔹 <b>PÖB</b> &emsp; Dr. Öğretim Üyesi Pınar Özkan Bakbak 🔹</p>
 <p align='center'>🔹 <b>SA</b> &emsp; Dr. Öğretim Üyesi Serkan Aydın 🔹</p>
 <p align='center'>🔹 <b>SB</b> &emsp; Öğr. Gör. Sebahattin Babur 🔹</p>
+<p align='center'>🔹 <b>SD</b> &emsp; Doç. Dr. Sabahattin Deniz 🔹</p>
 <p align='center'>🔹 <b>SDY</b> &emsp; Dr. Sema Demir Yaylacı 🔹</p>
+<p align='center'>🔹 <b>SE</b> &emsp; Prof. Dr. Serhan Eker 🔹</p>
 <p align='center'>🔹 <b>SK</b> &emsp; Arş. Gör. Semiha Koç 🔹</p>
+<p align='center'>🔹 <b>SKoç</b> &emsp; Doç. Dr. Suat Koç 🔹</p>
 <p align='center'>🔹 <b>SÖ</b> &emsp; Prof. Dr. Serhat Özekes 🔹</p>
 <p align='center'>🔹 <b>SÖzt</b> &emsp; Dr. Öğretim Üyesi Savaş Öztürk 🔹</p>
+<p align='center'>🔹 <b>SS</b> &emsp; Öğr. Gör. Sanem Soner 🔹</p>
 <p align='center'>🔹 <b>SŞ</b> &emsp; Dr. Selman Şişman 🔹</p>
 <p align='center'>🔹 <b>ŞKŞ</b> &emsp; Arş. Gör. Şeyda Karcı Şen 🔹</p>
 <p align='center'>🔹 <b>ŞU</b> &emsp; Prof. Dr. Şahin Uyaver 🔹</p>
@@ -2079,7 +2410,10 @@ Son iki akademik yılda (2025-2026, 2026-2027) bölümde dersi görünmeyen hoca
 <p align='center'>🔹 <b>UÇ</b> &emsp; Öğr. Gör. Dr. Uğur Çekmez 🔹</p>
 <p align='center'>🔹 <b>UK</b> &emsp; Dr. Öğretim Üyesi Uğur Kesen 🔹</p>
 <p align='center'>🔹 <b>VT</b> &emsp; Prof. Dr. Vedat Topuz 🔹</p>
+<p align='center'>🔹 <b>YB</b> &emsp; Prof. Dr. Yahya Bozkurt 🔹</p>
+<p align='center'>🔹 <b>YBul</b> &emsp; Öğr. Gör. Dr. Yasemin Bulut 🔹</p>
 <p align='center'>🔹 <b>ZAŞ</b> &emsp; Arş. Gör. Ziya Anıl Şen 🔹</p>
+<p align='center'>🔹 <b>ZŞ</b> &emsp; Dr. Öğretim Üyesi Zeynel Şahin 🔹</p>
 </details>
 
 <details>

@@ -17,20 +17,27 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2025-2026:**
+- **2025-2026**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2024-2025:**
+- **2024-2025**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2023-2024:**
+- **2023-2024**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2022-2023:**
+- **2022-2023**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2021-2022:**
+- **2021-2022**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2020-2021:**
+- **2020-2021**:
   - **ÖA** — Doç. Dr. Ömer Akgün
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Doç. Dr. Ömer Akgün](../../README.md#‍-doç-dr-ömer-akgün)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20%C3%96mer%20Akg%C3%BCn) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

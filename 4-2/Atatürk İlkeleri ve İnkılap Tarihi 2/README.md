@@ -16,16 +16,23 @@
 - 📄 [Slaytlar ve Notlar](./slaytlar_notlar/)
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2024-2025:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2023-2024:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2022-2023:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2021-2022:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2025-2026**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2024-2025**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2023-2024**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2022-2023**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2021-2022**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Öğretim Üyesi Oya Ayhan Girit](../../README.md#‍-dr-öğretim-üyesi-oya-ayhan-girit)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Oya%20Ayhan%20Girit) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

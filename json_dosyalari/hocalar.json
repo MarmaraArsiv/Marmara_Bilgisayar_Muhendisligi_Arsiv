@@ -597,6 +597,370 @@
                 "Gömülü Sistemler",
                 "Simulasyon ve Modelleme"
             ]
+        },
+        {
+            "ad": "Arş. Gör. Dr. Busenur Kızılaslan",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Mühendisler için İstatistik"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Burhan Tiryakioğlu",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Diferansiyel Denklemler"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Mehmet Fatih Karaaslan",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Sayısal Analiz"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Nazlı Yazıcı Gözütok",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Matematik 1",
+                "Ayrık Matematik",
+                "Matematik 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Sabahattin Deniz",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Kimya"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Suat Koç",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Ayrık Matematik"
+            ]
+        },
+        {
+            "ad": "Dr. Hulusi Ersoy",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Bilim Tarihi"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ayşe Ceren Çalıkoğlu Koyuncu",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Modern Biyolojiye Giriş"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Emre Akın",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Bilim Tarihi"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Halil İbrahim Çelik",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Diferansiyel Denklemler"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Oya Ayhan Girit",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Atatürk İlkeleri ve İnkılap Tarihi 1",
+                "Atatürk İlkeleri ve İnkılap Tarihi 2"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Zeynel Şahin",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Kimya"
+            ]
+        },
+        {
+            "ad": "Prof. Ayşe Neşe Dernek",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Diferansiyel Denklemler"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Adil Güler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Fizik 1",
+                "Lineer Cebir",
+                "Fizik 2"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Bahar Kırık Rácz",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Matematik 1",
+                "Matematik 2"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Canan Doğan",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Kimya"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Dursun Üstündağ",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Sayısal Analiz"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Hülya Yılmaz",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Lineer Cebir"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Mehmet Sayıp Eroğlu",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Kimya"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Serhan Eker",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Lineer Cebir",
+                "Diferansiyel Denklemler"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Yahya Bozkurt",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği 1"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Özge Cağcağ Yolcu",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Mühendisler için İstatistik"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. İsmail Kıyak",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Abdullah Mert Pekel",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Aysu Öztürk",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "İngilizce 1"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Türkçe 1",
+                "Türkçe 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Mehmet Vehbi Büker",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Türkçe 1",
+                "Türkçe 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Nur Demirbaş Hergüner",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Teknik Satış ve Pazarlama"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Nurgül Yıldız",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Türkçe 1",
+                "Türkçe 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Yasemin Bulut",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Türkçe 1",
+                "Türkçe 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. İrem Konca",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Fevziye Esin Şahin",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "İngilizce 1"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Neslihan Bayraktar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "Girişimcilik"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Sanem Soner",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "İngilizce 2"
+            ]
         }
     ]
 }

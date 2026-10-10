@@ -98,7 +98,12 @@
             "donem": "Güz",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Prof. Dr. Canan Doğan",
+                    "kisaltma": "CD"
+                }
+            ],
             "derse_dair_oneriler": [
                 {
                     "oneri_sahibi": "Arşiv Notu",
@@ -184,7 +189,12 @@
             "donem": "Güz",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan",
+                    "kisaltma": "MK"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [],
             "ogrenci_gorusleri": [],
@@ -202,7 +212,12 @@
             "donem": "Güz",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu",
+                    "kisaltma": "IRS"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [],
             "ogrenci_gorusleri": [],
@@ -336,7 +351,12 @@
             "donem": "Bahar",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Prof. Dr. İsmail Kıyak",
+                    "kisaltma": "İK"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [
                 "[📸 Tahtanın Fotoğrafları (haftalık ders anlatımı)](./tahta_notlar%C4%B1/)"
@@ -383,7 +403,12 @@
             "donem": "Bahar",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan",
+                    "kisaltma": "MK"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [],
             "ogrenci_gorusleri": [],
@@ -401,7 +426,12 @@
             "donem": "Bahar",
             "tip": "Zorunlu",
             "guncel_mi": true,
-            "dersi_veren_hocalar": [],
+            "dersi_veren_hocalar": [
+                {
+                    "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu",
+                    "kisaltma": "IRS"
+                }
+            ],
             "derse_dair_oneriler": [],
             "faydali_olabilecek_kaynaklar": [],
             "ogrenci_gorusleri": [],

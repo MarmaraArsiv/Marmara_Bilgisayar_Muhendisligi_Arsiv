@@ -14,10 +14,16 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2024-2025:**
+- **2024-2025**:
   - **SDY** — Dr. Sema Demir Yaylacı
-- **2023-2024:**
+- **2023-2024**:
   - **SDY** — Dr. Sema Demir Yaylacı
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2023-2024 ve 2024-2025 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Sema Demir Yaylacı](../../README.md#‍-dr-sema-demir-yaylacı)**
 
 ## 🤝 Katkıda Bulun
 

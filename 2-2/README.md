@@ -23,17 +23,17 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2024-2025:**
+- **2024-2025**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2023-2024:**
+- **2023-2024**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2022-2023:**
+- **2022-2023**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2021-2022:**
+- **2021-2022**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2020-2021:**
+- **2020-2021**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ### 📘 Elektronik Devrelere Giriş
@@ -57,17 +57,17 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
-- **2024-2025:**
+- **2024-2025**:
   - **ANA** — Doç. Dr. Alper Nabi Akpolat
-- **2023-2024:**
+- **2023-2024**:
   - **ANA** — Doç. Dr. Alper Nabi Akpolat
-- **2022-2023:**
+- **2022-2023**:
   - **ANA** — Doç. Dr. Alper Nabi Akpolat
-- **2021-2022:**
+- **2021-2022**:
   - **SA** — Dr. Öğretim Üyesi Serkan Aydın
-- **2020-2021:**
+- **2020-2021**:
   - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
 
 ### 📘 Mikroişlemciler
@@ -90,17 +90,17 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **SA** — Dr. Öğretim Üyesi Serkan Aydın
-- **2024-2025:**
+- **2024-2025**:
   - **SA** — Dr. Öğretim Üyesi Serkan Aydın
-- **2023-2024:**
+- **2023-2024**:
   - **SA** — Dr. Öğretim Üyesi Serkan Aydın
-- **2022-2023:**
+- **2022-2023**:
   - **SA** — Dr. Öğretim Üyesi Serkan Aydın
-- **2021-2022:**
+- **2021-2022**:
   - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
-- **2020-2021:**
+- **2020-2021**:
   - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
 
 ### 📘 Sayısal Analiz
@@ -123,18 +123,18 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2024-2025:**
+- **2024-2025**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2023-2024:**
+- **2023-2024**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2022-2023:**
-  - Doç. Dr. Mehmet Fatih Karaaslan
-- **2021-2022:**
-  - Prof. Dr. Dursun Üstündağ
-- **2020-2021:**
-  - Prof. Dr. Dursun Üstündağ
+- **2022-2023**:
+  - **MFK** — Doç. Dr. Mehmet Fatih Karaaslan
+- **2021-2022**:
+  - **DÜ** — Prof. Dr. Dursun Üstündağ
+- **2020-2021**:
+  - **DÜ** — Prof. Dr. Dursun Üstündağ
 
 ### 📘 Veri Yapıları ve Algoritmalar
 
@@ -156,21 +156,21 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **AA** — Dr. Öğretim Üyesi Abdulsamet Aktaş
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
-- **2024-2025:**
+- **2024-2025**:
   - **ÖD** — Doç. Dr. Önder Demir
-- **2023-2024:**
+- **2023-2024**:
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **ÖD** — Doç. Dr. Önder Demir
-- **2022-2023:**
+- **2022-2023**:
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2021-2022:**
+- **2021-2022**:
   - **KY** — Prof. Dr. Kazım Yıldız
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2020-2021:**
+- **2020-2021**:
   - **KY** — Prof. Dr. Kazım Yıldız
 
 ### 📘 Mühendisler için İstatistik
@@ -192,18 +192,18 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2024-2025:**
-  - Prof. Dr. Özge Cağcağ Yolcu
-- **2023-2024:**
-  - Prof. Dr. Özge Cağcağ Yolcu
-- **2022-2023:**
-  - Prof. Dr. Özge Cağcağ Yolcu
-- **2021-2022:**
-  - Prof. Dr. Özge Cağcağ Yolcu
-- **2020-2021:**
-  - Arş. Gör. Dr. Busenur Kızılaslan
+- **2024-2025**:
+  - **ÖCY** — Prof. Dr. Özge Cağcağ Yolcu
+- **2023-2024**:
+  - **ÖCY** — Prof. Dr. Özge Cağcağ Yolcu
+- **2022-2023**:
+  - **ÖCY** — Prof. Dr. Özge Cağcağ Yolcu
+- **2021-2022**:
+  - **ÖCY** — Prof. Dr. Özge Cağcağ Yolcu
+- **2020-2021**:
+  - **BK** — Arş. Gör. Dr. Busenur Kızılaslan
 
 ### 📘 Teknik İngilizce 2
 

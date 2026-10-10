@@ -28,20 +28,29 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
-  - Prof. Dr. Canan Doğan
-- **2025-2026:**
-  - Dr. Öğretim Üyesi Zeynel Şahin
-- **2024-2025:**
-  - Dr. Öğretim Üyesi Zeynel Şahin
-- **2023-2024:**
-  - Dr. Öğretim Üyesi Zeynel Şahin
-- **2022-2023:**
-  - Prof. Dr. Mehmet Sayıp Eroğlu
-- **2021-2022:**
-  - Doç. Dr. Sabahattin Deniz
-- **2020-2021:**
-  - Doç. Dr. Sabahattin Deniz
+- **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
+  - **CD** — Prof. Dr. Canan Doğan
+- **2025-2026**:
+  - **ZŞ** — Dr. Öğretim Üyesi Zeynel Şahin
+- **2024-2025**:
+  - **ZŞ** — Dr. Öğretim Üyesi Zeynel Şahin
+- **2023-2024**:
+  - **ZŞ** — Dr. Öğretim Üyesi Zeynel Şahin
+- **2022-2023**:
+  - **MSE** — Prof. Dr. Mehmet Sayıp Eroğlu
+- **2021-2022**:
+  - **SD** — Doç. Dr. Sabahattin Deniz
+- **2020-2021**:
+  - **SD** — Doç. Dr. Sabahattin Deniz
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Canan Doğan](../../README.md#‍-prof-dr-canan-doğan)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Canan%20Do%C4%9Fan) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
+- **[Dr. Öğretim Üyesi Zeynel Şahin](../../README.md#‍-dr-öğretim-üyesi-zeynel-şahin)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Zeynel%20%C5%9Eahin) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

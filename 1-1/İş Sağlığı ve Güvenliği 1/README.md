@@ -16,8 +16,15 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
-  - Prof. Dr. Yahya Bozkurt
+- **2026-2027**:
+  - **YB** — Prof. Dr. Yahya Bozkurt
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Yahya Bozkurt](../../README.md#‍-prof-dr-yahya-bozkurt)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Yahya%20Bozkurt) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

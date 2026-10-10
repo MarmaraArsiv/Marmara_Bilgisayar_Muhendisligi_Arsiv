@@ -19,18 +19,25 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - Prof. Dr. İsmail Kıyak
-- **2024-2025:**
-  - Prof. Dr. İsmail Kıyak
-- **2023-2024:**
-  - Prof. Dr. İsmail Kıyak
-- **2022-2023:**
-  - Prof. Dr. İsmail Kıyak
-- **2021-2022:**
-  - Prof. Dr. İsmail Kıyak
-- **2020-2021:**
-  - Prof. Dr. İsmail Kıyak
+- **2025-2026**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2024-2025**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2023-2024**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2022-2023**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2021-2022**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+- **2020-2021**:
+  - **İK** — Prof. Dr. İsmail Kıyak
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. İsmail Kıyak](../../README.md#‍-prof-dr-i̇smail-kıyak)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20%C4%B0smail%20K%C4%B1yak) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

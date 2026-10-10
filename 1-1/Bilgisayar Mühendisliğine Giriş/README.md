@@ -20,21 +20,30 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2025-2026:**
+- **2025-2026**:
   - **SÖ** — Prof. Dr. Serhat Özekes
   - **SK** — Arş. Gör. Semiha Koç (atölye)
-- **2024-2025:**
+- **2024-2025**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2023-2024:**
+- **2023-2024**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2022-2023:**
+- **2022-2023**:
   - **ÖD** — Doç. Dr. Önder Demir
-- **2021-2022:**
+- **2021-2022**:
   - **ÖD** — Doç. Dr. Önder Demir
-- **2020-2021:**
+- **2020-2021**:
   - **ÖD** — Doç. Dr. Önder Demir
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Serhat Özekes](../../README.md#‍-prof-dr-serhat-özekes)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Serhat%20%C3%96zekes) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
+- **[Arş. Gör. Semiha Koç](../../README.md#‍-arş-gör-semiha-koç)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Semiha%20Ko%C3%A7) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

@@ -15,14 +15,21 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **KY** — Prof. Dr. Kazım Yıldız
-- **2024-2025:**
+- **2024-2025**:
   - **KY** — Prof. Dr. Kazım Yıldız
-- **2023-2024:**
+- **2023-2024**:
   - **KY** — Prof. Dr. Kazım Yıldız
-- **2022-2023:**
+- **2022-2023**:
   - **UÇ** — Öğr. Gör. Dr. Uğur Çekmez
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Kazım Yıldız](../../README.md#‍-prof-dr-kazım-yıldız)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Kaz%C4%B1m%20Y%C4%B1ld%C4%B1z) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

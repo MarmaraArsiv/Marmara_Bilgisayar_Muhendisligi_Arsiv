@@ -14,20 +14,27 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2025-2026:**
+- **2025-2026**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2024-2025:**
+- **2024-2025**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2023-2024:**
+- **2023-2024**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2022-2023:**
+- **2022-2023**:
   - **UÇ** — Öğr. Gör. Dr. Uğur Çekmez
-- **2021-2022:**
+- **2021-2022**:
   - **KY** — Prof. Dr. Kazım Yıldız
-- **2020-2021:**
+- **2020-2021**:
   - **KY** — Prof. Dr. Kazım Yıldız
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Serhat Özekes](../../README.md#‍-prof-dr-serhat-özekes)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Serhat%20%C3%96zekes) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

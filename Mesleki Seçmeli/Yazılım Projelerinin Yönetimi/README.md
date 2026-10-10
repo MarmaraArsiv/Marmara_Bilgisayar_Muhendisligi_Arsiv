@@ -14,8 +14,15 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2021-2022:**
+- **2021-2022**:
   - **HÖ** — Öğr. Gör. Halil Özkan
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2021-2022 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Öğr. Gör. Halil Özkan](../../README.md#‍-öğr-gör-halil-özkan)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Halil%20%C3%96zkan) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

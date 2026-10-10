@@ -21,18 +21,25 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2024-2025:**
+- **2024-2025**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2023-2024:**
+- **2023-2024**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2022-2023:**
+- **2022-2023**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2021-2022:**
+- **2021-2022**:
   - **BD** — Doç. Dr. Buket Doğan
-- **2020-2021:**
+- **2020-2021**:
   - **BD** — Doç. Dr. Buket Doğan
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Doç. Dr. Buket Doğan](../../README.md#‍-doç-dr-buket-doğan)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Buket%20Do%C4%9Fan) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

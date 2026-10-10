@@ -19,18 +19,26 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
-- **2024-2025:**
+- **2024-2025**:
   - **ANA** — Doç. Dr. Alper Nabi Akpolat
-- **2023-2024:**
+- **2023-2024**:
   - **ANA** — Doç. Dr. Alper Nabi Akpolat
-- **2022-2023:**
+- **2022-2023**:
   - **ANA** — Doç. Dr. Alper Nabi Akpolat
-- **2021-2022:**
+- **2021-2022**:
   - **SA** — Dr. Öğretim Üyesi Serkan Aydın
-- **2020-2021:**
+- **2020-2021**:
   - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Öğretim Üyesi Timur İnan](../../README.md#‍-dr-öğretim-üyesi-timur-i̇nan)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Timur%20%C4%B0nan) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
+- **[Doç. Dr. Alper Nabi Akpolat](../../README.md#‍-doç-dr-alper-nabi-akpolat)**
 
 ## 🤝 Katkıda Bulun
 

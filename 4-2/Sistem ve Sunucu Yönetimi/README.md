@@ -16,16 +16,23 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **MŞ** — Dr. Mustafa Şahin
-- **2024-2025:**
+- **2024-2025**:
   - **MŞ** — Dr. Mustafa Şahin
-- **2023-2024:**
+- **2023-2024**:
   - **MŞ** — Dr. Mustafa Şahin
-- **2022-2023:**
+- **2022-2023**:
   - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
-- **2021-2022:**
+- **2021-2022**:
   - **GA** — Öğr. Gör. Dr. Gökhan Akın
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Mustafa Şahin](../../README.md#‍-dr-mustafa-şahin)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20Mustafa%20%C5%9Eahin) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

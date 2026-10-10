@@ -15,14 +15,21 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **OCA** — Öğr. Gör. Osman Cihan Akar
-- **2024-2025:**
+- **2024-2025**:
   - **OCA** — Öğr. Gör. Osman Cihan Akar
-- **2023-2024:**
+- **2023-2024**:
   - **OCA** — Öğr. Gör. Osman Cihan Akar
-- **2022-2023:**
+- **2022-2023**:
   - **OCA** — Öğr. Gör. Osman Cihan Akar
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Öğr. Gör. Osman Cihan Akar](../../README.md#‍-öğr-gör-osman-cihan-akar)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Osman%20Cihan%20Akar) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

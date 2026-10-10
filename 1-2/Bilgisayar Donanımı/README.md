@@ -19,18 +19,25 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2024-2025:**
+- **2024-2025**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2023-2024:**
+- **2023-2024**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2022-2023:**
+- **2022-2023**:
   - **ABul** — Prof. Dr. Ali Buldu
-- **2021-2022:**
+- **2021-2022**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
-- **2020-2021:**
+- **2020-2021**:
   - **ÖD** — Doç. Dr. Önder Demir
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Ali Buldu](../../README.md#‍-prof-dr-ali-buldu)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Ali%20Buldu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

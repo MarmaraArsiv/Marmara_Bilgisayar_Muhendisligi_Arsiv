@@ -14,14 +14,21 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - Öğr. Gör. Dr. Nur Demirbaş Hergüner
-- **2024-2025:**
-  - Öğr. Gör. Dr. Nur Demirbaş Hergüner
-- **2023-2024:**
-  - Öğr. Gör. Dr. Nur Demirbaş Hergüner
-- **2022-2023:**
-  - Öğr. Gör. Dr. Nur Demirbaş Hergüner
+- **2025-2026**:
+  - **NDH** — Öğr. Gör. Dr. Nur Demirbaş Hergüner
+- **2024-2025**:
+  - **NDH** — Öğr. Gör. Dr. Nur Demirbaş Hergüner
+- **2023-2024**:
+  - **NDH** — Öğr. Gör. Dr. Nur Demirbaş Hergüner
+- **2022-2023**:
+  - **NDH** — Öğr. Gör. Dr. Nur Demirbaş Hergüner
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Öğr. Gör. Dr. Nur Demirbaş Hergüner](../../README.md#‍-öğr-gör-dr-nur-demirbaş-hergüner)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Nur%20Demirba%C5%9F%20Herg%C3%BCner) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

@@ -22,6 +22,7 @@ import re
 import subprocess
 import sys
 import urllib.parse
+import unicodedata
 import urllib.request
 
 KONF = "json_dosyalari/konfigurasyon.json"
@@ -164,6 +165,57 @@ def gorus_satirlari(yorumlar, link, sinir=None, devam_notu=""):
     return satirlar
 
 
+def github_slug(baslik):
+    """GitHub'ın başlık bağlantısı (Unicode küçültme; emoji içindeki U+200D korunur)."""
+    out = []
+    for c in baslik.strip().lower():
+        if c == " ":
+            out.append("-")
+        elif c in "-_" or c == "\u200d" or unicodedata.category(c)[0] in "LNM":
+            out.append(c)
+    return "#" + "".join(out)
+
+
+HOCA_BOLUMU = "## 💬 Bu Dersi Veren Hocalar Hakkında"
+SON_YIL = 2  # ders sayfasında hocaları gösterilen son akademik yıl sayısı
+HOCA_ADI = re.compile(r"^  - (?:\*\*[^*]+\*\* — )?(.+?)(?: \([^)]*\))?$")
+
+
+def hoca_bolumu(metin, veri, f, hocalar, kart_emoji):
+    """Ders sayfasına, dersi en son veren hocaların yorumlarını ve yorum linklerini ekler."""
+    metin = re.sub(re.escape(HOCA_BOLUMU) + r"\n.*?(?=^## |\Z)", "", metin, flags=re.S | re.M)
+    m = re.search(r"^## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:\n((?:[- ] .*\n)+)", metin, flags=re.M)
+    if not m:
+        return metin
+    yillar = re.findall(r"^- \*\*(\d{4}-\d{4})\*\*[^\n]*\n((?:  - .*\n)+)", m.group(1), flags=re.M)[:SON_YIL]
+    if not yillar:
+        return metin
+    satirlar = list(dict.fromkeys(s for _, blok in yillar for s in blok.splitlines()))
+    aralik = yillar[0][0] if len(yillar) == 1 else f"{yillar[-1][0]} ve {yillar[0][0]}"
+    govde = [HOCA_BOLUMU, "", f"Dersi {aralik} akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.", ""]
+    gorulen = set()
+    for satir in satirlar:
+        ad = HOCA_ADI.match(satir).group(1).strip()
+        if ad in gorulen:
+            continue
+        gorulen.add(ad)
+        kart = f"../../README.md{github_slug(kart_emoji[ad] + ' ' + ad)}" if ad in kart_emoji else None
+        govde.append(f"- **[{ad}]({kart})**" if kart else f"- **{ad}**")
+        if hocalar.get(ad):  # aktif -> formda var
+            link = url(f["hoca_yorumlama"], "hoca_alani", ad)
+            yorumlar = veri[2].get(ad, [])
+            for isim, yorum, tarih in yorumlar[:OZETTE_YORUM]:
+                govde.append(f"    - 👤 **_{isim}_**: {yorum}" + (f" ℹ️ Yorum **{tarih}** tarihinde yapılmıştır." if tarih else ""))
+            if len(yorumlar) > OZETTE_YORUM:
+                govde.append(f"    - ℹ️ Diğer {len(yorumlar) - OZETTE_YORUM} yoruma [hocanın kartından]({kart}) erişebilirsiniz.")
+            onek = "" if yorumlar else "Henüz yorum yok. "
+            govde.append(f"    - ✍️ {onek}Siz de [linkten]({link}) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.")
+    govde.append("")
+    blok = "\n".join(govde) + "\n"
+    i = metin.find("## 🤝 Katkıda Bulun")
+    return metin[:i] + blok + metin[i:] if i >= 0 else metin.rstrip("\n") + "\n\n" + blok
+
+
 def ders_blogu(metin, ders, veri, f, ozet):
     oylar, ders_yorum, _ = veri
     metin, _ = blok_degistir(metin, YILDIZ, yildiz_satirlari(ders, oylar, f))
@@ -222,6 +274,8 @@ def main():
         sys.exit(0)
     hocalar = {h["ad"]: h.get("hoca_aktif_gorevde_mi", True) is not False
                for h in json.load(open("json_dosyalari/hocalar.json", encoding="utf-8"))["hocalar"]}
+    kok = open("README.md", encoding="utf-8").read()
+    kart_emoji = {ad.strip(): e for e, ad in re.findall(r"^#### (\S+) (.+?) $", kok, flags=re.M) if e != "📘"}
     dosyalar = subprocess.run(["git", "-c", "core.quotepath=off", "ls-files", "*README.md"],
                               capture_output=True, text=True, check=True).stdout.split("\n")
     degisen = 0
@@ -229,7 +283,7 @@ def main():
         t = open(yol, encoding="utf-8").read()
         parca = yol.split("/")
         if len(parca) == 3 and parca[0] in DONEMLER + HAVUZLAR:  # ders sayfası: tüm yorumlar
-            yeni = ders_blogu(t, parca[1], veri, f, ozet=False)
+            yeni = hoca_bolumu(ders_blogu(t, parca[1], veri, f, ozet=False), veri, f, hocalar, kart_emoji)
         elif len(parca) == 2 and parca[0] in DONEMLER:  # dönem sayfası: "### 📘 Ders" blokları
             yeni = "".join(ders_blogu(b, m.group(1).strip(), veri, f, ozet=True) if m else b
                            for m, b in bloklara_bol(t, r"^### 📘 (.+?)\s*$"))

@@ -14,10 +14,18 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ABal** — Arş. Gör. Dr. Abdullah Bal
-- **2024-2025:**
+- **2024-2025**:
   - **SÖzt** — Dr. Öğretim Üyesi Savaş Öztürk
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Arş. Gör. Dr. Abdullah Bal](../../README.md#‍-arş-gör-dr-abdullah-bal)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20Abdullah%20Bal) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
+- **[Dr. Öğretim Üyesi Savaş Öztürk](../../README.md#‍-dr-öğretim-üyesi-savaş-öztürk)**
 
 ## 🤝 Katkıda Bulun
 

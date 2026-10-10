@@ -14,14 +14,20 @@
 - ℹ️ Henüz bu derse ait bir doküman yok.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2024-2025:**
-  - Dr. Öğretim Üyesi Emre Akın
-- **2023-2024:**
-  - Dr. Öğretim Üyesi Emre Akın
-- **2022-2023:**
-  - Dr. Öğretim Üyesi Emre Akın
-- **2021-2022:**
-  - Dr. Hulusi Ersoy
+- **2024-2025**:
+  - **EA** — Dr. Öğretim Üyesi Emre Akın
+- **2023-2024**:
+  - **EA** — Dr. Öğretim Üyesi Emre Akın
+- **2022-2023**:
+  - **EA** — Dr. Öğretim Üyesi Emre Akın
+- **2021-2022**:
+  - **HE** — Dr. Hulusi Ersoy
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2023-2024 ve 2024-2025 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Öğretim Üyesi Emre Akın](../../README.md#‍-dr-öğretim-üyesi-emre-akın)**
 
 ## 🤝 Katkıda Bulun
 

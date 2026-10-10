@@ -22,15 +22,15 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **MŞ** — Dr. Mustafa Şahin
-- **2024-2025:**
+- **2024-2025**:
   - **MŞ** — Dr. Mustafa Şahin
-- **2023-2024:**
+- **2023-2024**:
   - **MŞ** — Dr. Mustafa Şahin
-- **2022-2023:**
+- **2022-2023**:
   - **EÇB** — Öğr. Gör. Dr. Esra Çalık Bayazıt
-- **2021-2022:**
+- **2021-2022**:
   - **GA** — Öğr. Gör. Dr. Gökhan Akın
 
 ### 📘 Bitirme Projesi
@@ -52,7 +52,7 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **ABul** — Prof. Dr. Ali Buldu
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
@@ -66,7 +66,7 @@
   - **ÖD** — Doç. Dr. Önder Demir
   - **AA** — Dr. Öğretim Üyesi Abdulsamet Aktaş
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
-- **2024-2025:**
+- **2024-2025**:
   - **ÖD** — Doç. Dr. Önder Demir
   - **SÖ** — Prof. Dr. Serhat Özekes
   - **BD** — Doç. Dr. Buket Doğan
@@ -76,7 +76,7 @@
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
   - **ABul** — Prof. Dr. Ali Buldu
-- **2023-2024:**
+- **2023-2024**:
   - **SÖ** — Prof. Dr. Serhat Özekes
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
   - **ABul** — Prof. Dr. Ali Buldu
@@ -87,7 +87,7 @@
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-- **2022-2023:**
+- **2022-2023**:
   - **ÖD** — Doç. Dr. Önder Demir
   - **ABul** — Prof. Dr. Ali Buldu
   - **BD** — Doç. Dr. Buket Doğan
@@ -97,7 +97,7 @@
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
-- **2021-2022:**
+- **2021-2022**:
   - **ÖD** — Doç. Dr. Önder Demir
   - **BD** — Doç. Dr. Buket Doğan
   - **KY** — Prof. Dr. Kazım Yıldız
@@ -125,16 +125,16 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2024-2025:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2023-2024:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2022-2023:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
-- **2021-2022:**
-  - Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2025-2026**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2024-2025**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2023-2024**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2022-2023**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
+- **2021-2022**:
+  - **OAG** — Dr. Öğretim Üyesi Oya Ayhan Girit
 
 ### 📘 Teknik İngilizce
 
@@ -155,15 +155,15 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2025-2026:**
+- **2025-2026**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2024-2025:**
+- **2024-2025**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2023-2024:**
+- **2023-2024**:
   - **SÖ** — Prof. Dr. Serhat Özekes
-- **2022-2023:**
+- **2022-2023**:
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
-- **2021-2022:**
+- **2021-2022**:
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 
 ### 📘 Bitirme Projesi 2

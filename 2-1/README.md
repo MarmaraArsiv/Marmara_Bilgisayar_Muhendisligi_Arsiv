@@ -24,24 +24,24 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
   - **ABul** — Prof. Dr. Ali Buldu
-- **2025-2026:**
+- **2025-2026**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
   - **ABul** — Prof. Dr. Ali Buldu
-- **2024-2025:**
+- **2024-2025**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
   - **ABul** — Prof. Dr. Ali Buldu
-- **2023-2024:**
+- **2023-2024**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
   - **ABul** — Prof. Dr. Ali Buldu
-- **2022-2023:**
+- **2022-2023**:
   - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
   - **ABul** — Prof. Dr. Ali Buldu
-- **2021-2022:**
+- **2021-2022**:
   - **AY** — Dr. Öğretim Üyesi Ayşe Yayla
-- **2020-2021:**
+- **2020-2021**:
   - **UK** — Dr. Öğretim Üyesi Uğur Kesen
 
 ### 📘 Nesne Yönelimli Programlama
@@ -64,25 +64,25 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **KY** — Prof. Dr. Kazım Yıldız
   - **MP** — Arş. Gör. Dr. Merve Pınar
-- **2025-2026:**
+- **2025-2026**:
   - **KY** — Prof. Dr. Kazım Yıldız
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2024-2025:**
+- **2024-2025**:
   - **KY** — Prof. Dr. Kazım Yıldız
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2023-2024:**
+- **2023-2024**:
   - **KY** — Prof. Dr. Kazım Yıldız
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2022-2023:**
+- **2022-2023**:
   - **KY** — Prof. Dr. Kazım Yıldız
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
-- **2021-2022:**
+- **2021-2022**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
   - **KY** — Prof. Dr. Kazım Yıldız
-- **2020-2021:**
+- **2020-2021**:
   - **EEÜ** — Dr. Öğretim Üyesi Eyüp Emre Ülkü
 
 ### 📘 Bilgisayar Programlama 2
@@ -104,24 +104,24 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
-- **2025-2026:**
+- **2025-2026**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **ED** — Dr. Öğretim Üyesi Emrah Dikbıyık
-- **2024-2025:**
+- **2024-2025**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-- **2023-2024:**
+- **2023-2024**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-- **2022-2023:**
+- **2022-2023**:
   - **ABA** — Doç. Dr. Ayşe Berna Altınel
   - **GKB** — Öğr. Gör. Dr. Gözde Karataş Baydoğmuş
-- **2021-2022:**
+- **2021-2022**:
   - **KY** — Prof. Dr. Kazım Yıldız
-- **2020-2021:**
+- **2020-2021**:
   - **KY** — Prof. Dr. Kazım Yıldız
 
 ### 📘 İnsan-Bilgisayar Etkileşimi ve Görsellik
@@ -143,19 +143,19 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):
   - **ABal** — Arş. Gör. Dr. Abdullah Bal
-- **2025-2026:**
+- **2025-2026**:
   - **LÖ** — Doç. Dr. Lutfi Özdemir
-- **2024-2025:**
+- **2024-2025**:
   - **LÖ** — Doç. Dr. Lutfi Özdemir
-- **2023-2024:**
+- **2023-2024**:
   - **LÖ** — Doç. Dr. Lutfi Özdemir
-- **2022-2023:**
+- **2022-2023**:
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
-- **2021-2022:**
+- **2021-2022**:
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
-- **2020-2021:**
+- **2020-2021**:
   - **ABaş** — Dr. Öğretim Üyesi Anıl Baş
 
 ### 📘 Ayrık Matematik
@@ -176,20 +176,20 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
-- **2025-2026:**
+- **2025-2026**:
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
-- **2024-2025:**
+- **2024-2025**:
   - **Tİ** — Dr. Öğretim Üyesi Timur İnan
-- **2023-2024:**
-  - Doç. Dr. Nazlı Yazıcı Gözütok
-- **2022-2023:**
-  - Doç. Dr. Nazlı Yazıcı Gözütok
-- **2021-2022:**
-  - Doç. Dr. Suat Koç
-- **2020-2021:**
-  - Doç. Dr. Suat Koç
+- **2023-2024**:
+  - **NYG** — Doç. Dr. Nazlı Yazıcı Gözütok
+- **2022-2023**:
+  - **NYG** — Doç. Dr. Nazlı Yazıcı Gözütok
+- **2021-2022**:
+  - **SKoç** — Doç. Dr. Suat Koç
+- **2020-2021**:
+  - **SKoç** — Doç. Dr. Suat Koç
 
 ### 📘 Diferansiyel Denklemler
 
@@ -209,20 +209,20 @@
 - ℹ️ Henüz bu derse ait bir doküman yok. Elinde varsa [📖 katkıda bulunma rehberine](../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2025-2026:**
+- **2025-2026**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2024-2025:**
+- **2024-2025**:
   - **NÖ** — Dr. Öğretim Üyesi Neşe Özdemir
-- **2023-2024:**
-  - Doç. Dr. Burhan Tiryakioğlu
-- **2022-2023:**
-  - Prof. Dr. Serhan Eker
-- **2021-2022:**
-  - Dr. Öğretim Üyesi Halil İbrahim Çelik
-- **2020-2021:**
-  - Prof. Ayşe Neşe Dernek
+- **2023-2024**:
+  - **BT** — Doç. Dr. Burhan Tiryakioğlu
+- **2022-2023**:
+  - **SE** — Prof. Dr. Serhan Eker
+- **2021-2022**:
+  - **HİÇ** — Dr. Öğretim Üyesi Halil İbrahim Çelik
+- **2020-2021**:
+  - **AND** — Prof. Ayşe Neşe Dernek
 
 ### 📘 Olasılık ve İstatistik
 

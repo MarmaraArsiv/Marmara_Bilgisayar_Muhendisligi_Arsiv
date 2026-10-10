@@ -20,20 +20,27 @@
   - ℹ️ Kaynaklar öğrenciler tarafından oluşturulmuştur. Bundan dolayı içeriklerin doğruluğu garanti edilemez.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
-- **2026-2027:**
+- **2026-2027**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2025-2026:**
+- **2025-2026**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2024-2025:**
-  - Prof. Dr. Adil Güler
-- **2023-2024:**
+- **2024-2025**:
+  - **AG** — Prof. Dr. Adil Güler
+- **2023-2024**:
   - **ŞU** — Prof. Dr. Şahin Uyaver
-- **2022-2023:**
+- **2022-2023**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2021-2022:**
+- **2021-2022**:
   - **ÖA** — Doç. Dr. Ömer Akgün
-- **2020-2021:**
+- **2020-2021**:
   - **ÖA** — Doç. Dr. Ömer Akgün
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Şahin Uyaver](../../README.md#‍-prof-dr-şahin-uyaver)**
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20%C5%9Eahin%20Uyaver) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 
