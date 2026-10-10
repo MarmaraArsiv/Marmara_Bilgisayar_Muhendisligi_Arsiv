@@ -44,7 +44,7 @@ README_YOLU = "README.md"
 # --------------------------------------------------------------------------
 
 API = "https://api.github.com"
-REPO = os.environ.get("GITHUB_REPOSITORY", "MarmaraArsiv/Marmara_Bilgisayar_Muhendisligi_Arsiv")
+REPO = os.environ.get("GITHUB_REPOSITORY", "MarmaraArsiv/tek_bilgisayar")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 

@@ -41,8 +41,8 @@ Elinde bir ders notu, slayt, çıkmış soru, ödev çözümü ya da faydalı bi
 
 ```bash
 # 1. Repoyu fork'la, sonra kendi kopyanı klonla
-git clone git@github.com:<kullanıcı-adın>/Marmara_Bilgisayar_Muhendisligi_Arsiv.git
-cd Marmara_Bilgisayar_Muhendisligi_Arsiv
+git clone git@github.com:<kullanıcı-adın>/tek_bilgisayar.git
+cd tek_bilgisayar
 
 # 2. Yeni bir dal aç
 git checkout -b nesne-yonelimli-cikmislar
@@ -62,7 +62,7 @@ Ardından GitHub'da **Compare & pull request** butonuna bas.
 - **Doğru klasör:** Dosyayı dersin bulunduğu dönem klasörüne koy (`1-1` = 1. sınıf güz, `1-2` = 1. sınıf bahar …). Seçmeli dersler `Mesleki Seçmeli/`, `Üniversite Seçmeli/` ve `Fakülte Teknik Seçmeli/` altında.
 - **Adlandırma:** Alt klasör ve dosya adları küçük harfle ve `_` ile yazılır: `çıkmış_sorular/`, `slaytlar_notlar/`, `ödev_1.pdf`. Ayrıntılar [STANDARTLAR.md](STANDARTLAR.md) dosyasında.
 - **Kişisel bilgi yükleme:** Öğrenci numarası, ad-soyad listesi, telefon gibi başkalarına ait bilgileri yükleme; varsa karart.
-- **README'leri elle düzeltme:** README'ler otomatik üretiliyor. Bir hata görürsen [issue açman](https://github.com/MarmaraArsiv/Marmara_Bilgisayar_Muhendisligi_Arsiv/issues) yeterli.
+- **README'leri elle düzeltme:** README'ler otomatik üretiliyor. Bir hata görürsen [issue açman](https://github.com/MarmaraArsiv/tek_bilgisayar/issues) yeterli.
 - **Nazik ol:** Hoca ve ders yorumlarında hakaret içeren içerik kabul edilmez.
 
 Katkın için şimdiden teşekkürler! 💙
