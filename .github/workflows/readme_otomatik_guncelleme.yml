@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 6 * * 1"  # her pazartesi 09:00 (TR)
+    - cron: "0 6 * * *"  # her gün 09:00 (TR): onaylanan form yorumları ve oylar işlenir
   workflow_dispatch:
 
 permissions:
@@ -36,7 +36,7 @@ jobs:
       - name: Doluluk durumunu üret
         run: python .github/scripts/readme_gorselleri.py
 
-      - name: Google Form linklerini doldur
+      - name: Form linkleri, oylar ve onaylı yorumlar
         run: python .github/scripts/form_linkleri.py
 
       - name: Değişiklik varsa commit et

@@ -1493,7 +1493,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-234
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/alibuldu](https://avesis.marmara.edu.tr/alibuldu)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Ali%20Buldu) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Ali%20Buldu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mantık Devreleri](#-mantık-devreleri) (2022-2023 → 2026-2027)
   - 📖 [Bilgisayar Donanımı](#-bilgisayar-donanımı) (2022-2023 → 2025-2026)
@@ -1504,7 +1504,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-107
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/kazim.yildiz](https://avesis.marmara.edu.tr/kazim.yildiz)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Kaz%C4%B1m%20Y%C4%B1ld%C4%B1z) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Kaz%C4%B1m%20Y%C4%B1ld%C4%B1z) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Nesne Yönelimli Programlama](#-nesne-yönelimli-programlama) (2021-2022 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2022-2023, 2024-2025, 2026-2027)
@@ -1519,7 +1519,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-233
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15070](https://avesis.marmara.edu.tr/15070)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Serhat%20%C3%96zekes) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20Serhat%20%C3%96zekes) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş) (2023-2024 → 2026-2027)
   - 📖 [Yapay Sinir Ağları](#-yapay-sinir-ağları) (2023-2024 → 2026-2027)
@@ -1532,7 +1532,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-225
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15193](https://avesis.marmara.edu.tr/15193)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20%C5%9Eahin%20Uyaver) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Prof.%20Dr.%20%C5%9Eahin%20Uyaver) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Linux Kabuk Programlama](#-linux-kabuk-programlama) (2025-2026 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2023-2024, 2025-2026 → 2026-2027)
@@ -1549,7 +1549,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-226
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/berna.altinel](https://avesis.marmara.edu.tr/berna.altinel)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Ay%C5%9Fe%20Berna%20Alt%C4%B1nel) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Ay%C5%9Fe%20Berna%20Alt%C4%B1nel) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2022-2023 → 2026-2027)
   - 📖 [Bilgisayar Programlama 2](#-bilgisayar-programlama-2) (2022-2023 → 2026-2027)
@@ -1562,7 +1562,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-106
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/buketb](https://avesis.marmara.edu.tr/buketb)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Buket%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Buket%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2020-2021 → 2026-2027)
   - 📖 [Veritabanı Yönetim Sistemleri](#-veritabanı-yönetim-sistemleri) (2020-2021 → 2026-2027)
@@ -1576,7 +1576,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Lutfi%20%C3%96zdemir) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20Lutfi%20%C3%96zdemir) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İnsan-Bilgisayar Etkileşimi ve Görsellik](#-i̇nsan-bilgisayar-etkileşimi-ve-görsellik) (2023-2024 → 2025-2026)
 
@@ -1584,7 +1584,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-225
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/oakgun](https://avesis.marmara.edu.tr/oakgun)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20%C3%96mer%20Akg%C3%BCn) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20%C3%96mer%20Akg%C3%BCn) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Sinyaller ve Sistemlere Giriş](#-sinyaller-ve-sistemlere-giriş) (2020-2021 → 2026-2027)
   - 📖 [Sayısal İşaret İşleme](#-sayısal-i̇şaret-i̇şleme) (2020-2021 → 2025-2026)
@@ -1595,7 +1595,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-105
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/odemir](https://avesis.marmara.edu.tr/odemir)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20%C3%96nder%20Demir) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Do%C3%A7.%20Dr.%20%C3%96nder%20Demir) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Algoritma Analizi](#-algoritma-analizi) (2020-2021 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2021-2022 → 2026-2027)
@@ -1613,7 +1613,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T2-104
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/abdulsamet.aktas](https://avesis.marmara.edu.tr/abdulsamet.aktas)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Abdulsamet%20Akta%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Abdulsamet%20Akta%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İşletim Sistemleri](#-i̇şletim-sistemleri) (2025-2026 → 2026-2027)
   - 📖 [Biçimsel Diller ve Otomata Teorisi](#-biçimsel-diller-ve-otomata-teorisi) (2025-2026 → 2026-2027)
@@ -1624,7 +1624,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T2-102
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/ali.sarikas](https://avesis.marmara.edu.tr/ali.sarikas)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ali%20Sar%C4%B1ka%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ali%20Sar%C4%B1ka%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mantık Devreleri](#-mantık-devreleri) (2022-2023 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2024-2025 → 2026-2027)
@@ -1637,7 +1637,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-111
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/anil.bas](https://avesis.marmara.edu.tr/anil.bas)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20An%C4%B1l%20Ba%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20An%C4%B1l%20Ba%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Programlama 1](#-bilgisayar-programlama-1) (2025-2026)
   - 📖 [Web Programlama](#-web-programlama) (2020-2021 → 2022-2023, 2025-2026)
@@ -1651,7 +1651,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/emrah.dikbiyik](https://avesis.marmara.edu.tr/emrah.dikbiyik)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Emrah%20Dikb%C4%B1y%C4%B1k) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Emrah%20Dikb%C4%B1y%C4%B1k) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Programlama 2](#-bilgisayar-programlama-2) (2025-2026 → 2026-2027)
   - 📖 [Veri Yapıları ve Algoritmalar](#-veri-yapıları-ve-algoritmalar) (2025-2026)
@@ -1661,7 +1661,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-110
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/emre.ulku](https://avesis.marmara.edu.tr/emre.ulku)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ey%C3%BCp%20Emre%20%C3%9Clk%C3%BC) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ey%C3%BCp%20Emre%20%C3%9Clk%C3%BC) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Nesne Yönelimli Programlama](#-nesne-yönelimli-programlama) (2020-2021 → 2025-2026)
   - 📖 [İşletim Sistemleri](#-i̇şletim-sistemleri) (2020-2021 → 2025-2026)
@@ -1676,7 +1676,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-224
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15631](https://avesis.marmara.edu.tr/15631)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ne%C5%9Fe%20%C3%96zdemir) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ne%C5%9Fe%20%C3%96zdemir) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Matematik 1](#-matematik-1) (2024-2025 → 2026-2027)
   - 📖 [Lineer Cebir](#-lineer-cebir) (2025-2026 → 2026-2027)
@@ -1690,7 +1690,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Serkan%20Ayd%C4%B1n) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Serkan%20Ayd%C4%B1n) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mikroişlemciler](#-mikroişlemciler) (2022-2023 → 2025-2026)
   - 📖 [Elektronik Devrelere Giriş](#-elektronik-devrelere-giriş) (2021-2022)
@@ -1699,7 +1699,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-223
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/timur.inan](https://avesis.marmara.edu.tr/timur.inan)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Timur%20%C4%B0nan) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Timur%20%C4%B0nan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mikrodenetleyiciler](#-mikrodenetleyiciler) (2024-2025 → 2026-2027)
   - 📖 [Ayrık Matematik](#-ayrık-matematik) (2024-2025 → 2026-2027)
@@ -1714,7 +1714,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Ahmet%20Bozda%C4%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Ahmet%20Bozda%C4%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Web Servisleri](#-web-servisleri) (2021-2022, 2024-2025 → 2025-2026)
 
@@ -1722,7 +1722,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Ata%20H%C3%BCrdo%C4%9Fan%20Demiray) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Ata%20H%C3%BCrdo%C4%9Fan%20Demiray) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Grafik](#-bilgisayar-grafik) (2024-2025 → 2026-2027)
 
@@ -1730,7 +1730,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Bar%C4%B1%C5%9F%20%C4%B0ncei%C5%9F%C3%A7i) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Bar%C4%B1%C5%9F%20%C4%B0ncei%C5%9F%C3%A7i) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Güvenliği](#-bilgisayar-güvenliği) (2024-2025 → 2025-2026)
 
@@ -1738,7 +1738,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Halil%20%C3%96zkan) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Halil%20%C3%96zkan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Açık Kaynak Kodlu Yazılımlar](#-açık-kaynak-kodlu-yazılımlar) (2020-2021 → 2025-2026)
   - 📖 [Yazılım Projelerinin Yönetimi](#-yazılım-projelerinin-yönetimi) (2021-2022)
@@ -1748,7 +1748,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20Mustafa%20%C5%9Eahin) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Dr.%20Mustafa%20%C5%9Eahin) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Sistem ve Sunucu Yönetimi](#-sistem-ve-sunucu-yönetimi) (2023-2024 → 2025-2026)
 
@@ -1756,7 +1756,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Osman%20Cihan%20Akar) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Osman%20Cihan%20Akar) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Ağ Protokolleri](#-bilgisayar-ağ-protokolleri) (2020-2021 → 2026-2027)
   - 📖 [Kablosuz Ağlar](#-kablosuz-ağlar) (2022-2023 → 2025-2026)
@@ -1765,7 +1765,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Sebahattin%20Babur) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=%C3%96%C4%9Fr.%20G%C3%B6r.%20Sebahattin%20Babur) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Gömülü Sistemler](#-gömülü-sistemler) (2025-2026)
   - 📖 [Simulasyon ve Modelleme](#-simulasyon-ve-modelleme) (2023-2024 → 2024-2025)
@@ -1777,7 +1777,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T2-118
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/abdullah.bal](https://avesis.marmara.edu.tr/abdullah.bal)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20Abdullah%20Bal) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20Abdullah%20Bal) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İnsan-Bilgisayar Etkileşimi ve Görsellik](#-i̇nsan-bilgisayar-etkileşimi-ve-görsellik) (2026-2027)
   - 📖 [Oyun Yazılımı Geliştirme](#-oyun-yazılımı-geliştirme) (2025-2026)
@@ -1786,7 +1786,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T2-103
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14523](https://avesis.marmara.edu.tr/14523)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20B%C3%BC%C5%9Fra%20B%C3%BCy%C3%BCktan%C4%B1r) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20B%C3%BC%C5%9Fra%20B%C3%BCy%C3%BCktan%C4%B1r) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Veritabanı Yönetim Sistemleri](#-veritabanı-yönetim-sistemleri) (2026-2027)
 
@@ -1794,7 +1794,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-118
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14920](https://avesis.marmara.edu.tr/14920)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Damla%20Meng%C3%BC%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Damla%20Meng%C3%BC%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 
@@ -1802,7 +1802,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-101
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14923](https://avesis.marmara.edu.tr/14923)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Merve%20Hazan%20%C4%B0%C5%9Fcan) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Merve%20Hazan%20%C4%B0%C5%9Fcan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 
@@ -1810,7 +1810,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T2-101
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14501](https://avesis.marmara.edu.tr/14501)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20Merve%20P%C4%B1nar) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20Merve%20P%C4%B1nar) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Nesne Yönelimli Programlama](#-nesne-yönelimli-programlama) (2026-2027)
 
@@ -1818,7 +1818,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T2-103
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15397](https://avesis.marmara.edu.tr/15397)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Nursa%C3%A7%20Kurt) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Nursa%C3%A7%20Kurt) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 
@@ -1826,7 +1826,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-101
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15469](https://avesis.marmara.edu.tr/15469)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Semiha%20Ko%C3%A7) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Semiha%20Ko%C3%A7) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Mühendisliğine Giriş](#-bilgisayar-mühendisliğine-giriş) (2025-2026)
   - 📖 [Algoritma ve Programlamaya Giriş](#-algoritma-ve-programlamaya-giriş) (2025-2026)
@@ -1836,7 +1836,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-118
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/14921](https://avesis.marmara.edu.tr/14921)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20%C5%9Eeyda%20Karc%C4%B1%20%C5%9Een) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20%C5%9Eeyda%20Karc%C4%B1%20%C5%9Een) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 
@@ -1844,7 +1844,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** T4-Z01
 - 🔗 **Araştırma Sayfası:** [https://avesis.marmara.edu.tr/15908](https://avesis.marmara.edu.tr/15908)
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Ziya%20An%C4%B1l%20%C5%9Een) anonim şekilde görüşlerinizi belirtebilirsiniz.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf6Txu1KWmryvpjWyisuoEw9ikBP24hA-aOIvzKoEhhvxScFQ/viewform?usp=pp_url&entry.689017401=Ar%C5%9F.%20G%C3%B6r.%20Ziya%20An%C4%B1l%20%C5%9Een) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 Ders bilgileri bulunamadı.
 
